@@ -1,0 +1,47 @@
+Table 4-1. Elements of the Project Charter and Project Scope Statement
+Project Charter
+Project Scope Statement
+• Project purpose
+• Measurable project objectives and related success criteria
+• High-level requirements
+• High-level project description, boundaries, and key
+deliverables
+• Overall project risk
+• Summary milestone schedule
+• Preapproved financial resources
+• Key stakeholder list
+• Project approval requirements (i.e., what constitutes
+success, who decides the project is successful, who
+approves the project)
+• Project exit criteria (i.e., what are the conditions to be met
+in order to close or cancel the project or phase)
+• Assigned project manager, responsibility, and authority level
+• Name and authority of the sponsor or other person(s)
+authorizing the project charter
+• Project scope description (progressively
+elaborated)
+• Project deliverables
+• Acceptance criteria
+• Project exclusions
+be reviewed early in the project to ensure that decisions are based on accurate information. The
+benefits of this review may include a sharper focus on the project's value proposition, reductions in
+costs, and less frequent schedule overruns that are caused by rework.
+The quality management plan may include but is not limited to the following components:
+• Quality standards that will be used by the project;
+• Quality objectives of the project;
+• Quality roles and responsibilities;
+• Project deliverables and processes subject to quality reviews;
+• Quality control and quality management activities planned for the project; and
+• Quality tools and methodologies to be employed, alongside detailed procedures for
+handling nonconformance and continuous improvement.
+Quality metrics. Quality metrics specifically describe project or product attributes and how the
+Manage Quality Assurance process will verify compliance with them. Some examples of quality
+metrics include percentage of tasks completed on time, cost performance measured by a cost
+performance index (CPI), failure rates, number of defects identified per day, total downtime per
+nonth, errors found per line of code, customer satisfaction scores, and percentage of requirements
+Quality reports. A quality report is a project document that includes quality management issues,
+recommendations for corrective actions, and a summary of findings from quality control activities.
+Section
+4 - Inputs and Outputs
+129
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

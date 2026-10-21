@@ -1,0 +1,40 @@
+t is useful to distinguish between agile methods designed for a single team versus those designed
+for larger-scale purposes. Some methods feature more breadth of coverage (how much of the projec
+or product life cycle the approach covers), whereas others feature more depth of coverage (how
+detailed or prescriptive the guidance is). Figure 4-7 provides examples of agile methods that may be
+considered.
+There is also a meaningful difference between larger-scale methods and larger-scale tool kits. A
+method is a systematic way of doing something, typically involving a series of steps or procedures
+designed to achieve a specific outcome. As such, methods provide structured approaches to
+problem-solving or task completion.
+Conversely, a tool kit is a collection of tools, techniques, and resources that can be used to support
+various methods or approaches. A tool kit provides flexibility and a range of options to choose from
+based on the context and specific needs of a project or task.
+PMI Disciplined Agile® (DA°) [3] is designed to be a tool kit.
+Adaptive approaches may be well suited for the following specific types of projects:
+• Design projects. Adaptive approaches are appropriate for design or new product
+development projects, where requirements are not fully defined up front and where partial
+deliveries and changes are expected during the project.
+SAFe®
+Lean
+DSDM
+Breadth of Life Cycle Coverage
+LeSS
+Scrum of
+Scrums
+Agile UP
+Crystal
+Methods
+XP
+LEGEND
+Scaled
+Approach
+Team Method
+Kanban
+FDD
+Scrum
+→
+Depth of Guidance Detail
+Figure 4-7. Agile Approaches Plotted by Breadth and Depth
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

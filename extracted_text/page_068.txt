@@ -1,0 +1,40 @@
+• Timely delivery, enhanced cost control, and attainment of the level of product quality
+associated with meeting or exceeding target objectives;
+• Reduced rework, scrap, customer complaints, and other types of waste;
+• Effective supply chain integration, increased productivity, and robust service delivery;
+• Higher project team morale and satisfaction;
+• Reduced negative impact on the environment, including avoiding the unnecessary
+consumption of natural resources and emissions due to rework activities, as well as the
+overhead of managing activities that may require travel; and
+• Better decision-making and continuous process improvement.
+3.5.2 Principle in Action
+To provide an example of the Embed Quality Into Processes and Deliverables principle in action,
+consider a company that is expanding its wholesale shipping services to support an unfamiliar
+regional market. A conventional approach would focus on meeting the governmental shipping
+specifications for each target market and ensuring compliance with regulatory requirements.
+In contrast, a quality-driven approach would investigate the expectations of the broader stakeholder
+system, including target distributors and retailers. This deeper analysis might reveal that high-value
+customers have stricter standards than regulatory bodies, which could influence packaging, delivery
+nes, or product handling. By addressing these higher standards, the company not only meets leg
+quirements but also exceeds customer expectations, leading to stronger market entry, enhanc
+customer satisfaction, and potentially greater market share.
+3.5.3 Connected Performance Domains
+The Embed Quality Into Processes and Deliverables principle is critical in all project management
+performance domains because it is essential to ensuring that project outcomes meet stakeholder
+leeds and expectations. This principle should be embedded in the project's design across people
+rocesses, and structure. Different industries, companies, and contexts have different approache
+any domain can lead to erosion of the end result and poor project outcomes. This quality-focused
+principle affects the performance domains in the following ways:
+• Governance. Embedding quality into governance processes improves transparency and
+accountability. Governance structures help ensure that quality standards are met and can
+enable decisions that prioritize quality in all project activities.
+• Scope. The connection between quality and the Scope performance domain is particularly
+strong, as scope management inherently involves quality management activities. Ensuring
+that project deliverables meet the requirements, necessary standards, and specifications is
+n important aspect of scope management. By embedding the right level of quality into th
+cope, the project team can ensure that all deliverables are not only completed within the
+defined boundaries, but also meet quality standards, which prevents rework and ensures
+stakeholder satisfaction.
+Section 3 - Project Management Principles
+45
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,68 @@
+A Guide to the Project Management Body of Knowledge
+(PMBOK® Guide)
+1 Introduction
+1.1 Structure of the PMBOK® Guide
+1.2 Relationship of the PMBOK® Guide and The Standard for Project Management
+1.3 Changes to the PMBOK® Guide
+2 Project Management Performance Domains.
+2.1 Governance Performance Domain
+2.1.1 Project Value Creation
+2.1.2 Project Governance Models
+2.1.3 Metrics and Mechanisms for Effective Project Governance
+2.1.4 Additional Considerations for Predictive Environments .
+2.1.5 Key Concepts
+2.1.6 Processes .
+2.1.7 Tailoring Considerations...
+2.1.8 Interactions With Other Domains
+2.1.9 Check Results.
+2.2 Scope Performance Domain
+2.2.1 Key Concepts
+2.2.2 Processes.
+2.2.3 Tailoring Considerations .
+2.2.4 Interactions With Other Domains
+2.2.5 Check Results..
+2.3 Schedule Performance Domain
+2.3.1 Key Concepts .
+2.3.2 Processes.
+2.3.3 Tailoring Considerations..
+2.3.4 Interactions With Other Domains
+2.3.5 Check Results ..
+2.4 Finance Performance Domain.
+2.4.1 Key Concepts
+2.4.2 Processes.
+2.4.3 Tailoring Considerations........
+2.4.4 Interactions With Other Domains
+2.4.5 Check Results.
+3
+3
+4
+5
+7
+10
+10
+11
+13
+13
+14
+15
+33
+35
+35
+35
+35
+39
+44
+45
+46
+48
+55
+57
+57
+58
+. 61
+.. 65
+. 66
+. 66
+xiv
+Table of Contents
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

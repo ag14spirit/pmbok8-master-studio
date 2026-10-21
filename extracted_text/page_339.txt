@@ -1,0 +1,40 @@
+While measurable outcomes like cost savings or efficiency gains are important, intangible benefits
+such as improved collaboration, enhanced transparency, and stakeholder confidence also
+significantly contribute to perceived value. Importantly, the perception of value is often shaped by
+the organization's project management maturity; more mature organizations tend to recognize and
+leverage PMO contributions more fully.
+To sustain relevance, PMOs should ensure that their objectives translate into visible, day-to-day
+ontributions that reflect what the business values most. This effort requires not only trackin
+lelivery performance, but also continuously aligning PMO activities with evolving business need;
+and ensuring that the PMO is seen not merely as a support function but as an essential enabler of
+enterprise success.
+X2.3 Importance of Customer Centricity for a PMO
+A customer-centric PMO focuses its services and operations on understanding and responding to
+business outcomes.
+Crucially, the concept of "customer" should be understood in its broadest sense. The PMO serves
+not only senior executives or external clients, but also internal stakeholders such as project
+anagers, project teams, and delivery units. These groups rely on the PMO for practical suppor
+mely guidance, and tools to help them succeed in delivering value. A truly customer-centric PM
+recognizes this diversity and adjusts its services accordingly. Communication with customers should
+be tailored toward the customer's needs and the value that the customer expects, and not only
+the processes and methodologies required to achieve the value. The range of services that will be
+provided is then tailored by the PMO, based on what is needed and valued by the customer. The
+technical aspects—the tools and methodologies—are the means of how to deliver value to satisfy the
+customer's needs.
+The success of the PMO depends on its ability to define a set of services that can bring added value
+to the customer and that will be positively perceived by the customer over time. The customer's
+perception and the identification of evolving customer needs are crucial elements of tailoring and
+also help to evolve the PMO over time. As business priorities shift, so should the PMO's offerings.
+context and priorities of the organization.
+X2.4 PMO Type, Model, and Structure
+The selection of a PMO type, model, and structure is a nuanced decision that requires careful
+consideration of the unique characteristics and needs of an organization. The wide range of
+available models can create a dilemma: determining which one is truly the "best" or "right" choice
+This thinking often leads to the misguided belief that a single model is ideal, making others seem
+obsolete or irrelevant. Such a traditional approach, which seeks a perfect PMO model as a solutior
+for organizational challenges, is fundamentally flawed because it encourages the adoption of a
+supposed "ideal" model and, if it fails, waits for the next model. This strategy overlooks a crucial
+234
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

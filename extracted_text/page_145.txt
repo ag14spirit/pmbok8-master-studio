@@ -1,0 +1,51 @@
+• Develop Scope Structure. The process of subdividing project deliverables and project work
+into smaller, more manageable components. In agile projects, this effort corresponds to the
+decomposition of the product backlog (product backlog breakdown), where work items can
+be broken down into epics, features, and user stories.
+• Monitor and Control Scope. The process of monitoring the status of the project anc
+roduct scope, managing changes to the scope baseline, measuring the quality of the
+deliverables, and ensuring fulfillment of the required standards.
+• Validate Scope. The process of formalizing acceptance of the completed project
+deliverables.
+2.2.2.1 Plan Scope Management
+The objective of this process is to create a scope management plan. This process defines how
+the project will be delivered by establishing all of the work required to complete the project
+2.2.2.2 Elicit and Analyze Requirements
+The objective of this process is to define and document the stakeholders' needs associated with the
+features and functions required in the product, service, or result to assure quality and value will be
+Plan Scope Management •
+Inputs
+Tools & Techniques
+•
+• Project charter
+• Project management plan
+• Project documents
+- Requirements
+documentation
+- Risk register
+- Stakeholder register
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+• Expert judgment
+• Data gathering
+- Interviews
+- Focus groups
+- Questionnaires and
+surveys
+• Data analysis
+• Test and inspection planning
+• Etc.
+Outputs
+• Project management plan
+updates
+- Scope management plan
+- Requirements
+management plan
+• Etc.
+/////
+Figure 2-14. Plan Scope Management Inputs, Tools and Techniques, and Outputs
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

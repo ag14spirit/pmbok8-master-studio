@@ -1,0 +1,82 @@
+Feedback, 170
+in communication models, 154
+governance and, 13
+Final product, service, or result transition, 120-121
+Final report, 121
+Finance performance domain, 58-67
+checking outcomes of, 66-67
+interactions with other domains, 36, 45, 57, 66,
+78,101
+key concepts in, 59-61
+Fixed-budget selection method, 249
+Fixed internal budgets, 122
+Fixed-price contract, 251
+and life cycles, 34, 55
+of PMO models, 235
+project charters and, 18
+of risk responses, 99
+of schedule, 47, 48, 55, 56
+Float (scheduling flexibility), 160-161
+free, 161, 194
+negative, 161, 196
+positive, 161
+total, 160, 161, 167, 194, 196
+Flowchart, 170-171
+Focus grease 10 11
+Force/direct (conflict resolution technique), 157
+budget, 119
+cost, 119
+predictive analytics and, 186
+evenue, 134
+schedule, 138-13
+Forming (team development phase), 211
+Functional requirements, 130
+Funding, 170
+in finance performance domain, 59
+limit reconciliation for, 171
+proposals for, 122
+requirements for, 126
+for risk management, 134
+strategy for, 122-123
+G
+Generative Al (GenAl), 237
+Genetic algorithms, 171
+Geographic distribution of facilities/resources, 120
+Gestures, 184
+Governance
+customizing, 33-34
+organizational, 33, 90, 120
+project, 10-13, 33-34
+Governance board, 12, 34
+Governance performance domain, 10-35
+Al use cases in, 240-241
+checking outcomes of, 35, 37
+components of, 13
+Focus Areas and, 9, 10-11
+interactions with other domains, 35, 36, 45, 57,
+66, 78
+key concepts in, 14-15
+metrics for effective, 13
+models of, 11-12
+overview of, 10
+and processes, 15-33
+scenarios of, 11
+tailoring, 10, 33-35
+Governmental grants, 122
+Government standards, 120
+Grants, 122
+Graphs
+for data representation, 163
+project dashboards, 190-191
+Green hat, 199
+Green human resource management, 171
+Ground rules, 171
+Group-based decision-making, 178-179, 184
+H
+Hard dependencies, 167
+Hard logic dependencies, 167
+Hawthorne effect, 28
+Herzberg, Frederick, 181
+282
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

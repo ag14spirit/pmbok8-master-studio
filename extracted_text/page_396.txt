@@ -1,0 +1,106 @@
+Scarce resources, 81, 90
+Schedule baseline, 47, 138
+Schedule baseline updates, 138
+Schedule compression, 196-197
+Schedule data, 138
+Scheduled training, 210
+Schedule forecasts, 48, 138-139
+Schedule management, 47
+Schedule management plan, 49, 139
+Schedule network analysis, 197, 215
+Schedule objectives, 121
+Schedule performance domain, 47-58
+Al use cases in, 242
+checking outcomes of, 57-58
+Focus Areas and, 9
+interactions with other domains, 36, 45, 57, 66
+101
+key concepts in, 47-48
+overview of, 47
+processes in, 48-55
+tailoring, 55-57
+Schedule performance index (SPI), 160, 209
+Schedule/scheduling
+Al used in, 242
+approaches and methods of, 57
+critical chain project management and, 159-160
+critical path method and, 160-161
+developing, 49-53
+estimates, 47, 52-53
+flexibility of, 47, 48, 55, 56
+monitoring and controlling, 53-55
+planning, 48,49
+in reserve analysis, 192
+Schedule variance (SV), 208
+Scope, 38
+decomposition of, 38, 140, 163-166
+defining, 41-42, 46
+developing structure of, 40, 42, 43
+monitoring and controlling, 40, 42-43, 143
+validating, 40, 44, 143
+Scope baseline, 38, 140, 169
+Scope creep, 46
+Scope management plan, 40, 141
+Scope performance domain, 35-46
+checking outcomes of, 46
+Focus Areas and, 9
+interactions with other domains, 36, 45-46, 57, 66,
+key concepts in, 35-39
+overview of, 35
+and processes, 39-44
+tailoring, 44-45
+Self-awareness, 177, 178
+Self-governance model, 12, 34
+Self-management, 177, 178
+Self-realization, 182
+Self-regulation, 177
+Senders, in communication models, 153-154
+Sensitivity
+cultural, 162
+of information, 156
+Sensitivity analysis, 197, 198
+Sequence, determining, 51
+Servant leadership, 197
+Service, final, 120-121
+Share (strategy), 157, 202, 203
+Shared ownership, 86, 92
+Shared understanding, 86
+ideward influence, 20
+imulation models, 197-198, 19
+Single-source procurement, 249
+Six Thinking Hats°, 198-199
+Skill matrix, 141
+Small group communication, 152
+Smart contracts, 252
+SMART criteria, 14
+Smooth/accommodate (conflict resolution
+technique), 157
+Social awareness, 177, 178
+Social computing communication, 152
+Social influences, 120
+Social skills, 178
+Soft logic dependencies, 167
+Software, 120, 205
+Solution requirements, 130
+Source selection
+analysis of, 249
+criteria for, 249-250
+Sourcing strategy, 14-15
+Sourcing strategy plan, 16, 19-21, 141
+Spiderwebs, 150
+Sponsor engagement, 68-69
+Sprint backlog, 149
+Sprint review, 199
+Stakeholder(s)
+analysis of, 199-200
+buy-in from, 56
+categorizing, 200-201
+change requested by, 30, 117
+communication with, 68, 69, 72, 73, 75, 145
+control limits used by, 158
+cost measurement by, 61
+in derable aced by 3,38, 6. 113
+examples of, 67, 68
+Index
+291
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

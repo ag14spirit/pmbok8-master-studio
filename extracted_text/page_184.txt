@@ -1,0 +1,43 @@
+2.6 Resources Performance Domain
+The Resources performance domain refers to how effectively and efficiently a project team plans
+for and utilizes its available resources. This performance domain encompasses both human
+resources (the project team itself) and physical or virtual resources (equipment, materials,
+upplies, facilities, infrastructure, software, testing environments, licenses, services, information, o
+locuments). The Resources performance domain also covers resource availability, utilization, and
+maintenance.
+2.6.1 Key Concepts
+The following key concepts support effective practices in the Resources performance domain. The
+or virtual resources to foster optimal project outcomes.
+• Project manager. The project manager, as a leader of the project team, is responsible
+for team formation and operation as an effective group. Project managers should invest
+suitable effort in acquiring, managing, motivating, and empowering the project team
+Additionally, project managers should be aware of different aspects that influence the team
+such as team environment, geographical locations of team members, communications
+among stakeholders, organizational change management, internal and external politics,
+cultural issues and organizational uniqueness, and other factors that may alter project
+performance. Proactively developing team skills and competencies while enhancing team
+satisfaction and motivation also falls under a project manager's responsibility, in addition to
+awareness of professional and ethical behavior.
+Resource manager. The resource manager is an individual with management authority
+over one or more resources. The project team may or may not have direct control over
+resource selection because of collective bargaining agreements, use of subcontractor
+personnel, a matrix environment, internal or external reporting relationships, or other
+reasons. The resources needed for a project can be internal or external to the project-
+performing organization. Internal resources are acquired (assigned) from functional or
+resource managers. External resources are obtained through partnerships, joint ventures,
+or procurement processes. For further details, see Appendix X4 on Procurement.
+Human resources (project team members). Human resources consist of individuals
+with assigned roles and responsibilities who work collectively to achieve a shared project
+goal within the project team. The involvement of all team members in project planning
+and decision-making is also beneficial. Project team members add their expertise to the
+process, strengthening their commitment to the project. Typically, project team members
+are guided by the top-down leadership of one or several individuals (see Section 5 on Tools
+and Techniques-centralized management and leadership). Project team members may
+also self-organize, and decision-making may be decentralized (see Section 5 on Tools and
+• Physical, material, or virtual resources. These resources refer to any resource that
+is not a person. These resources may include equipment, materials, supplies, facilities,
+infrastructure, software, testing environments, licenses, services, and anything else
+needed for successful and efficient project completion. Organizations should have
+Section 2 - Project Management Performance Domains
+79
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

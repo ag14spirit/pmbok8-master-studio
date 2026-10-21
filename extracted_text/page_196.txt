@@ -1,0 +1,31 @@
+• Emphasis on employee well-being. Employee burnout has been a major concern in
+recent years. Quiet quitting is when employees continually put in the minimum amount
+of effort to keep their jobs but do not go the extra mile for their employer. This lack of
+2.6.3.1 Examples
+The following are two examples of how these considerations might be applied:
+• Example 1. A project team working on a large, high-variability project with an adaptive
+approach may find that resource planning for physical, virtual, or human resources is less
+predictable, requiring flexible agreements and lean methods to control costs and meet
+schedule demands.
+• Example 2. A project with a newly formed virtual team may encounter collaboration issues.
+Thus, some suggestions that could be provided include:
+• Ensuring there are collaboration sites for working together;
+• Having a project team site to keep all relevant project and project team information
+available;
+• Using audio, video, and virtual conferencing capabilities for meetings;
+• Using technology to maintain ongoing contact, such as messaging and texting;
+• Scheduling time to get to know remote project team members;
+• Having at least one face-to-face meeting to establish relationships; and
+• Creating a team charter and defining ways of working.
+2.6.4 Interactions With Other Domains
+impact project costs, schedules, risks, scope, quality, and other project areas.
+The Estimate Resources process is closely coordinated with other processes, such as the Estimate
+Costs process, to help ensure a comprehensive approach to project planning and execution. This
+coordination is crucial as it helps to align the resource estimation with the project's overall budget
+and financial constraints. Doing so helps ensure that the project remains financially viable and that
+resources are utilized optimally without unnecessary expenditure.
+Project managers are responsible for leading the team to work together to focus on what is
+Section
+2 - Project Management Performance Domains
+91
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

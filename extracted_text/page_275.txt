@@ -1,0 +1,41 @@
+A project manager should invest in their personal emotional intelligence by improving inbound (e.g.,
+self-management and self-awareness) and outbound (e.g., relationship management) competencies
+Research suggests that project teams that succeed in developing team emotional intelligence or
+become an emotionally competent group are more effective. Additionally, there is usually a reduction
+in staff turnover. See also leadership.
+Estimation techniques. Estimating is a process of determining the time and resources needed
+to complete the project. Estimation techniques involve various methods for forecasting variables.
+Estimating techniques can be qualitative or quantitative. Qualitative estimating techniques involve
+estimates based on understanding processes, behaviors, and conditions that individuals or groups
+perceive. Qualitative estimating techniques can be used together with quantitative methods.
+Quantitative estimating techniques include numerical estimates of effort, duration, or cost. The most
+common estimation techniques include the following:
+• Expert judgment (see expert judgment),
+• Analogous estimating (see analogous estimating),
+• Bottom-up estimating (see bottom-up estimating).
+• Multipoint estimating (see multipoint estimating),
+• Parametric estimating (see parametric estimating), and
+• Relative size estimation (see relative size estimation).
+Expert judgment. Expert judgment is judgment provided based upon expertise in an application
+area, discipline, industry, etc., as appropriate for the activity being performed. Such expertise may be
+provided by any group or person with specialized education, knowledge, skill, experience, or training.
+Facilitation. Facilitation is the ability to effectively guide a group event to a successful decision,
+solution, or conclusion. A facilitator helps ensure the following:
+• There is effective participation,
+• Participants achieve a mutual understanding,
+• All contributions are considered,
+• Conclusions or results have full buy-in according to the decision process established for the
+project, and
+• Actions and agreements that are achieved are appropriately dealt with afterward.
+Feedback. Feedback is information about reactions to communications, a deliverable, or a situation.
+Feedback supports interactive communication among the project manager, project team, and all
+other project stakeholders. Examples include coaching, mentoring, and negotiating.
+Financing. Financing entails acquiring funding for projects. It is common for long-term infrastructure,
+industrial, and public services projects to seek external sources of funds. If a project is funded
+externally, the funding entity may have certain requirements that must be met.
+Flowchart. Flowcharts are visual representations that map out the sequence of steps and branching
+possibilities within a process. They are also known as process maps and are used to transform one
+or more inputs into one or more outputs. Flowcharts are instrumental in illustrating the activities,
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

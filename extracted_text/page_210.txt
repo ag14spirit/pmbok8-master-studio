@@ -1,0 +1,38 @@
+involve (a) the use of predictive approaches for the physical building construction and finishing and
+(b) an adaptive approach for understanding and establishing the computing capabilities required.
+Viewed from a project level, this combination of approaches represents a hybrid approach, but the
+construction team and the computing team may only experience a predictive or adaptive development
+approach.
+3.3.2 Processes
+Process tailoring involves determining which elements should be either:
+• Added, to address unique conditions or increase rigor;
+• Modified, to better fit project or team needs, including adjusting inputs, outputs, and tools
+and techniques;
+• Removed, to reduce unnecessary cost or effort;
+• Blended, to combine elements for added value; or
+• Aligned, to ensure consistency in definition and application.
+3.3.3 Engagement
+Tailoring engagement for the people involved in the project includes the following:
+• People. This effort involves assessing the skills and capabilities of the project leadership
+and team, ensuring they adapt to evolving project needs.
+• Empowerment. Empowerment involves choosing which responsibilities and forms of local
+decision-making should be deferred to the project team. The project environment and team
+member capabilities can lead to high levels of empowerment, while in other cases more
+supervision and directions may be required.
+• Integration. Tailoring considers how to create one project team from a diverse collection
+f contributors (contracted entities, channel partners, and other external entities, i
+ddition to staff from inside the sponsoring organization) to facilitate optimal project teal
+performance and the realization of project outcomes.
+3.4 The Tailoring Process
+Projects exist in environments that hugely influence how projects are executed and their resulting
+outcomes. Prior to tailoring, the project environment should be thoroughly analyzed and understood.
+alloring begins by selecting a development approach (e.g., predictive, adaptive, or hybrid, tailoring it
+for the organization and project, and finally, implementing its ongoing improvement. These steps are
+shown in Figure 3-1 and described in detail in Sections 3.4.1 through 3.4.4.
+3.4.1 Select Initial Development Approach
+This step determines the development approach that will be used for the project. Project teams apply
+their knowledge of the product, delivery cadence, and awareness of the available options to select
+the most appropriate development approach for the situation.
+Section 3 - Tailoring
+105
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

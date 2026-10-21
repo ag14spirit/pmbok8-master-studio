@@ -1,0 +1,35 @@
+Identify outstanding risks that should be accepted or transitioned to operations. The Close Project or
+Phase process also includes establishing procedures to investigate and document reasons that the
+project may have been terminated before completion. Engaging relevant stakeholders is crucial to
+ensure a comprehensive closure process.
+2.1.6.9.2 Adaptive Approaches
+In adaptative approaches, the Close Project or Phase process centers on wrapping up all activities related
+to the release or iteration, ensuring the prioritized items are completed and the value is delivered.
+Key activities for closing an adaptive project or iteration may include the following:
+• Completion of release or iteration. The following activities should be performed when
+completing a release or iteration in an adaptive project:
+• Confirm that prioritized backlog items are finished and that all acceptance criteria are met.
+• Ensure that all deliverables have been reviewed and accepted by stakeholders.
+• Conduct a final review to verify that all project tasks are completed and that no
+outstanding issues remain.
+• Knowledge transfer and retrospectives. The following knowledge transfer and
+retrospectives activities should be performed:
+• Facilitate knowledge-sharing sessions to transfer insights and information among the
+• Hold retrospectives to reflect on the iteration and/or release, identifying lessons
+learned and opportunities for improvement in future work.
+• Discuss outstanding risks that should be accepted or transitioned to subsequent
+iterations and/or releases, clients, and operations.
+2.1.7 Tailoring Considerations
+Project governance should be tailored to the context in which the project operates. Governance
+that brings value relies on deep knowledge of the industry and regulatory considerations, the
+organization, and the context for a particular project. Additionally, tailoring in this domain may occur
+based on predictive, adaptive, or hybrid approaches. In fact, agile projects may avoid traditional
+• Organizational governance. Governance should be understood from the perspective of
+other functions and projects within the larger organization. Governance requires the following:
+• Identifying the control boards, committees, and other stakeholders that are part of the
+project; and
+• Defining the project status reporting requirements.
+Section
+2 - Project Management Performance Domains
+33
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

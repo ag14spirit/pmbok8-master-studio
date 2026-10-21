@@ -1,0 +1,40 @@
+sources of overall project risk, for example PESTLE (political, economic, sociocultural, technological,
+legal, environmental), TECOP (technical, environmental, commercial, operational, political), or VUCA
+(volatility, uncertainty, complexity, ambiguity).
+Questionnaires and surveys. Questionnaires and surveys are written sets of questions designed to
+grecho st appropriate worth are audiences, when a ure suarents neided, we a respondenys.
+are geographically dispersed, and where statistical analysis could be appropriate.
+and motivating for everyone. Tailoring recognition to align with cultural preferences increases the
+effectiveness of reward systems and enhances employee satisfaction.
+People are motivated when they feel they are valued in the organization, and this value is
+demonstrated by the rewards given to them. Generally, money is viewed as a tangible aspect of any
+reward system, but intangible rewards could be equally or even more effective. Most project team
+members are motivated by an opportunity to grow, accomplish, be appreciated, and apply their
+professional skills to meet new challenges. A good strategy for project managers is to give the team
+recognition throughout the project life cycle rather than waiting until the project is complete.
+Regression analysis. Regression analysis is an analytical method where a series of input
+variables are examined in relation to their corresponding output results in order to develop a
+mathematical or statistical relationship. This technique analyzes the interrelationships between
+different project variables that contributed to project outcomes in order to improve performance
+on future projects.
+Reserve analysis. Reserve analysis is a method used to evaluate the amount of risk on the project
+and the amount of schedule and budget reserve to determine whether the reserve is sufficient for
+the remaining risk. Reserve analysis is used as an analytical technique to determine the essential
+features and relationships of components in the project management plan in order to establish a
+reserve for the schedule duration, budget, estimated cost, or funds for a project.
+Cost estimates may include contingency reserves (sometimes called contingency allowances) to
+account for cost uncertainty. Contingency reserves are the budget within the cost baseline that
+is allocated for identified risks. Contingency reserves are often viewed as the part of the budget
+intended to address the known-unknowns that can affect a project. For example, rework for some
+project deliverables could be anticipated, while the amount of this rework is unknown. Contingency
+reserves may be estimated to account for this unknown amount of rework. Contingency reserves can
+be provided at any level from the specific activity to the entire project. The contingency reserve may
+be a percentage of the estimated cost, a fixed number, or may be developed by using quantitative
+analysis methods. As more precise information about the project becomes available, the contingency
+reserve may be used, reduced, or eliminated. Contingency should be clearly identified in the
+cost documentation. Contingency reserves are part of the cost baseline and the overall funding
+Resource leveling. See resource optimization technique.
+192
+A Guidel
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,36 @@
+• Project success. The consensus view across intended beneficiaries, other stakeholders,
+and project participants that a project was perceived to have delivered value that was worth
+the effort and expense.
+• Project team. A set of individuals performing the work of the project to achieve its
+objectives.
+• Value. The excess of financial and nonfinancial benefits over investment that is gained from
+achieving the goals of a portfolio, program, or project. Different stakeholders perceive value
+in different ways, which can be explained quantitatively or qualitatively. Thus, organizations
+may prioritize the value of societal impact on groups of people and their communities and
+• Value delivery system. A collection of strategic business activities aimed at building,
+sustaining, and/or advancing an organization. Portfolios, programs, projects, products,
+and operations can all be part of an organization's system for value delivery. This systen
+enables organizations to align their work with their strategic objectives and achieve desires
+For other terms used in this standard, refer to the glossary and the PMI Lexicon of Project Management
+Terms [1].'
+1.3 Foundational Elements of Project Management
+This section outlines the essential elements required to understand and effectively engage in project
+management. The section explores key project management perspectives and relationships that are
+crucial for effective project delivery and organizational success, covering concepts such as the following:
+• How projects create value and drive organizational change;
+• The link between organizational governance and project governance during project
+initiation;
+• The differences between operations management and project management; and
+• The relationships among portfolio, program, and project management, as well as their
+connections to operations management.
+3y examining these foundational elements, project management practitioners can gain a
+comprehensive understanding of how projects fit into the broader organizational context and
+contribute to value delivery.
+1.3.1 Characteristics of a Project
+Organizations expect projects to deliver value in addition to outputs and artifacts. Project managers
+are expected to deliver project outcomes that create value for the organization and stakeholders
+within the organization's system for value delivery.
+' The numbers in brackets refer to the numbered list of references at the end of this standard.
+6
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

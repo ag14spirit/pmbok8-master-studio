@@ -1,0 +1,41 @@
+Colocation involves placing many or all of the most active project team members in the same physical
+location to enhance their ability to perform as a team. Colocation can be temporary, such as at
+strategically important times during the project, or can continue for the entire project. Colocation
+strategies may include a team meeting room, common places to post schedules, and other
+conveniences that enhance communication and a sense of community.
+Communication competence. Communication competence is a combination of tailored
+communication skills that considers factors such as clarity of purpose in key messages, effective
+relationships and information sharing, and leadership behaviors.
+Communication methods. A communication method is a systematic procedure, technique, or
+process used to transfer information among project stakeholders.
+There are several communication methods that are used to share information among project
+stakeholders. These methods are broadly classified as follows:
+• Interactive communication. Interactive communication occurs between two or more
+parties performing a multidirectional exchange of information in real time. Interactive
+communication employs communications artifacts such as meetings, phone calls, instant
+messaging, some forms of social media, and videoconferencing.
+• Push communication. Push communications are sent or distributed directly to specific
+recipients who need to receive the information. This method ensures that the information
+distributed but does not ensure that it reaches or is understood by the intende
+dience. Push communication artifacts include letters, memos, reports, emails. faxe
+voicemails, blogs, and press releases.
+Pull communication. Pull communications are used for large, complex information set
+r for large audiences, and reauire the recipients to access content at their own discretio
+subject to security procedures. These methods include web portals, intranet sites,
+eLearning courses, lessons learned databases, or knowledge repositories.
+Different approaches should be applied to meet the needs of the major forms of communication
+defined in the communications management plan:
+• Interpersonal communication. Interpersonal communication is information that is
+exchanged between individuals, typically face-to-face.
+• Small group communication. Small group communications occur within groups of three
+to six people.
+• Public communication. Public communication occurs when a single speaker, or group of
+speakers, addresses a larger audience.
+• Mass communication. Mass communication is an approach with minimal connection
+between the person or group sending the message and the large, sometimes anonymous,
+groups for whom the information is intended.
+• Networks and social computing communication. This type of communication approac
+upports emerging communication trends of many-to-many, which is often supported b
+social computing technology and the media.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

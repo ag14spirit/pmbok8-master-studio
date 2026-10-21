@@ -1,0 +1,36 @@
+3.4.2 Principle in Action
+To provide an example of the Focus on Value principle in action, consider a company that is
+3.4.3 Connected Performance Domains
+The Focus on Value principle interacts with and elevates the practice of all project management
+performance domains. By applying this principle, each domain can be managed more effectively,
+ensuring that the project maximizes value for the stakeholders. The relevant connections
+etween this principle and specific project management performance domains include the
+• Governance. A value-focused approach establishes frameworks and processes that help
+ensure decisions are made in alignment with the project's value objectives. Governance is
+"right-sized" to focus on value delivery, not bureaucracy.
+• Scope. A value-focused approach can help to define and control the project scope to
+ensure that all work contributes to the intended value. This approach involves continuous
+scope management to prevent scope creep and gold plating and to ensure that the project
+remains focused on delivering its key outcomes.
+Schedule. A focus on value helps to ensure that time is managed effectively to help the
+project to deliver the expected value by—or earlier than-the target date. This effort
+includes planning and controlling the project schedule to avoid delays that could diminish
+the project's value.
+Finance. The Focus on Value principle helps ensure that financial resources are allocate
+ficiently to maximize the project's value. This effort involves continuous assessment o
+financial performance against the business case to ensure that the project remains viable
+and delivers the expected financial benefits.
+Stakeholders. A value mindset can help when engaging with stakeholders to understan
+leir needs and expectations, ensuring that the project delivers value from the
+perspective. Effective stakeholder engagement helps align the project's outputs with the
+desired outcomes and enhances stakeholder satisfaction.
+Resources. Keeping a project's value proposition at the center of attention can hel
+form decisions around physical assets and project team talent. For example, financia
+constraints may not allow the hiring of specialized team members needed to achieve
+project goals. In that case, focusing on value can spark alternative solutions such as
+cross-training existing team members.
+Risk. Focusing on value helps ensure that the approach taken to address uncertainty in the
+project, whether responding to known or emergent threats or responding to opportunities,
+is pragmatic in the sense of effectiveness, efficiency, and transparency.
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

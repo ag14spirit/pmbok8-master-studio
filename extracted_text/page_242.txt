@@ -1,0 +1,39 @@
+isk register. A risk register is a repository in which outputs of risk management processes are recorder
+The risk register captures details of identified individual project risks. The results of the following
+processes are recorded in the risk register as these processes are conducted throughout the project:
+• Identify Risks,
+• Perform Risk Analysis,
+• Plan Risk Responses,
+• Implement Risk Responses, and
+Monitor Risks.
+The risk register may contain limited or extensive risk information depending on project variables
+such as size and complexity.
+When the Identify Risks process is performed, the content of the risk register may include but is not
+limited to the following:
+• List of identified risks. Each individual project risk is given a unique identifier in the risk
+register. Identified risks are described in as much detail as required to ensure unambiguous
+understanding. A structured risk statement may be used to distinguish risks from their
+cause(s) and their effects).
+• Potential risk owners. Where a potential risk owner has been identified during the Identify
+Risks process, the risk owner is recorded in the risk register. This information will be
+confirmed during the Perform Risk Analysis process.
+• List of potential risk responses. Where a potential risk response has been identified
+during the Identify Risks process, it is recorded in the risk register. This information will be
+confirmed during the Plan Risk Responses process.
+Additional data may be recorded for each identified risk, depending on the risk register format
+specified in the risk management plan. This may include the following:
+• Short risk title,
+Risk category,
+• Current risk status,
+• One or more causes,
+• One or more effects on objectives,
+• Risk triggers (events or conditions that indicate that a risk is about to occur).
+• WBS reference of affected activities, and
+• Timing information (when a risk was identified, when a risk might occur, when a risk may no
+longer be relevant, and the deadline for taking action).
+Risk register updates. The risk register updates refer to the process of revising the risk register to
+and should be performed regularly throughout the project life cycle.
+Section
+4 - Inputs and Outputs
+137
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,45 @@
+Effective storytelling enhances communication within the team and across the organization.
+Storytelling makes complex information more understandable and relatable, which can lead to
+better decision-making and problem-solving. Moreover, sharing success stories and overcoming
+challenges can inspire and motivate team members, fostering a positive and collaborative work
+environment.
+Strategies for opportunities. There are five alternative strategies that may be considered for
+dealing with opportunities, as follows:
+• Escalate. The escalate risk response strategy is appropriate when the project team or
+project sponsor agrees that an opportunity is outside the scope of the project or that the
+proposed response would exceed the project manager's authority. Escalated opportunities
+are managed at the portfolio level, program level, or other relevant part of the organization,
+•
+•
+•
+in the risk register for information.
+Exploit. The exploit strategy may be selected for high-priority opportunities where the
+organization wants to ensure that the opportunity is realized. This strategy seeks to capture
+the benefit associated with a particular opportunity by ensuring that it definitely happens,
+increasing the probability of occurrence to 100%. Examples of exploiting responses may
+include assigning an organization's most talented resources to the project to reduce the
+time to completion or using new technologies or technology upgrades to reduce cost and
+Share. Sharing involves transferring ownership of an opportunity to a third party so that
+it shares some of the benefit if the opportunity occurs. It is important to select the new
+owner of a shared opportunity carefully, so they are best able to capture the opportunity
+for the benefit of the project. Risk sharing often involves payment of a risk premium to the
+party taking on the opportunity. Examples of sharing actions include forming risk-sharing
+partnerships, teams, special-purpose companies, or joint ventures.
+Enhance. The enhance strategy is used to increase the probability and/or impact of an
+opportunity. Early enhancement action is often more effective than trying to improve the
+benefit after the opportunity has occurred. The probability of occurrence for an opportunity
+may be increased by focusing attention on its causes. Where it is not possible to increase
+probability, an enhancement response might increase the impact by targeting factors that
+drive the size of the potential benefit. Examples of enhancing opportunities include adding
+more resources to an activity to finish early.
+Accept. Accepting an opportunity acknowledges its existence but no proactive action is
+taken. This strategy may be appropriate for low-priority opportunities, and it may also be
+adopted where it is not possible or cost-effective to address an opportunity in any other
+way. Acceptance can be either active or passive. The most common active acceptance
+strategy is to establish a contingency reserve, including amounts of time, money, or
+resources to take advantage of the opportunity if it occurs. Passive acceptance involves no
+proactive action apart from periodic review of the opportunity to ensure that it does not
+change significantly.
+202
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

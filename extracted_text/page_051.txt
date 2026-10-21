@@ -1,0 +1,36 @@
+The project management team performs numerous functions and roles within its sphere of influence.
+The project management team is a reflection of the capabilities, value, and contributions of the
+project management profession. The functions and roles of the project management team in the
+various spheres of influence are shown in Figure 2-6.
+In many organizations, the title of "project manager" or "project management team" may not
+explicitly denote someone who is managing a project. The governance structure and context of each
+project often determine the assignment of project management responsibilities. For instance, in
+some scenarios, a functional manager, such as a finance or human resources manager, may oversee
+project activities, ensuring that they align with departmental goals and strategies. Also, the function
+and title for the role may be "project leader" or "project lead" instead of "project manager."
+In adaptive development approaches and agile project environments, it is common for a function
+such as "product owner" or "product manager" to handle some of the project management
+tasks. The titles and roles of "scrum master," "agile coach," "agile manager," "agile expert, "agile
+delivery manager," "team lead," "development team," or "project team" may also share some project
+management responsibilities that are usually performed by project managers. This adaptability
+reflects an organization's internal regulations and constraints, emphasizing that the essence of
+Regulatory Agencies
+Customers/Users/
+Business Partners/
+Sellers/Suppliers
+Functional Manager
+Operational Management
+Portfolio Manager
+Program Manager
+Project Management Office
+Sponsor
+Project
+Manager
+Project Management
+Team
+roject Tear
+Member
+Figure 2-6. Project Management Team Within Various Spheres of Influence
+28
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

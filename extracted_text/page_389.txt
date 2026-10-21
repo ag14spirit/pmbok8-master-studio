@@ -1,0 +1,90 @@
+Integrity, 89
+Intelligence
+cultural, 184
+emotional, 169-170, 177-178
+Interactive communication, 152
+Interactive communication model, 153-154
+Interest, of stakeholders, 199
+Internal budgets, 122
+Internal dependencies, 168
+Interpersonal communication, 152
+Interpersonal skills, 174-175, 177-178
+Interviews, 175
+Intrinsic motivation, 182
+Investment
+external, 122
+internal, 122
+Investment control, 13
+Ishikawa diagram. See Cause-and-effect diagram
+Issue, 93
+Issue log, 93, 123
+Iteration
+completion of, 33
+planning, 146,147
+Iteration backlog, 114
+Iteration burndown chart, 175
+J
+"Job shadowing," 184
+K
+Kanban board, 213
+Knowledge. See also Thinking
+explicit, 24
+of stakeholders, 200
+storytelling and, 201-202
+tacit, 24-25, 201
+transfer of, 33
+Knowledge management, 11, 16, 17, 24-26, 123,
+175-176
+Known-known (facts and requirements), 93
+Known-unknown (classic risk), 93
+L
+Lagging indicators, 14, 27
+Lags, 179-180
+Large language models (LLMs), 75, 237
+Law of diminishing returns, 53
+Laws/regulations, 120
+Leadership, 176-179. See also Project managers)
+activities of, 84, 175
+Al combined with, 69
+centralized, 150-151|
+distributed, 150
+Manage Project Execution process and, 21-22
+oversight by, 37
+servant, 197
+skills for, 176-179
+tailoring, 88-89
+Leading indicators, 14, 27
+Leads and lags, 179-180
+Lead the Team process, 81, 84-86
+Lean scheduling, 57
+Learning
+in after-action reviews, 146
+storytelling and, 201-202
+Least cost selection method, 249
+Legal rights, 199
+Lessons learned register, 123
+Lessons learned updates, 123
+Life cycle. See Project life cycle
+Line chart, 163
+Line graph, 163
+Listening, active, 145
+Litigation, 253
+Location-based scheduling (LBS), 57
+Logical relationships, 48, 51, 53, 127, 180, 185-18€
+Lump sum, 122
+M
+Machine learning (ML), 147, 186, 237, 252
+Majority decision, 163, 214
+Make-or-buy analysis and decisions, 66, 123, 180,
+246-247
+Manage Communications process, 70, 73, 75
+Management activities, 84, 175
+Management reserves, 60, 61
+Management risk, 135
+Manage Project Execution process, 11, 16, 21-23, 114
+Manage Project Knowledge process, 11, 16, 17,
+24-26, 123
+Manage Qualiy Assurance process, 16, 23-24, 128,
+284
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

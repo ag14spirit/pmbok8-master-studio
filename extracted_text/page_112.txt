@@ -1,0 +1,21 @@
+Section 2
+Project Management
+Performance Domains
+A project management performance domain is a group of related processes that are critical for the
+effective delivery of project value. These performance domains are interactive, interrelated, and
+interdependent areas of focus that work in unison to achieve the desired project results. There are
+seven project management performance domains presented in this guide, without specific weighting
+• Governance,
+• Scope,
+• Schedule,
+• Finance,
+•
+Stakeholders,
+•
+Resources, and
+• Risk.
+The project management performance domains work together as a cohesive whole. In this way, they
+operate as an integrated system, with each performance domain being interdependent with the
+others to enable successful delivery of the project and its intended outcomes.
+7
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

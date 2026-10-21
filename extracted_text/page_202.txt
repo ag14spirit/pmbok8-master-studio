@@ -1,0 +1,70 @@
+- Identify Risks
+Inputs
+• Project management plan
+- Requirements management
+plan
+- Schedule management
+plan
+- Financial management
+plan
+- Quality management plan
+- Resource management
+plan
+- Risk management plan
+- Scope baseline
+- Schedule baseline
+- Cost baseline
+•Project documents
+- Assumption log
+- Cost estimates
+- Duration estimates
+- Issue log
+- Lessons learned register
+- Requirements
+documentation
+- Resource requirements
+- Stakeholder register
+• Agreements
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Data gathering
+- Brainstorming
+- Checklists
+- Interviews
+• Data analysis
+- Root cause analysis
+- Assumption and constraint
+analysis
+- SWOT analysis
+- Document analysis
+• Interpersonal and team
+skills
+- Facilitation
+• Prompt lists
+• Meetings
+• Artificial intelligence
+• Etc.
+Outputs
+• Risk register
+• Risk report
+• Project document updates
+- Assumption log
+- Issue log
+- Lessons learned register
+• Etc.
+Figure 2-49. Identify Risks Inputs, Tools and Techniques, and Outputs
+project risks. This process also allocates resources or includes reserves (see the Finance performance
+domain in Section 2.4) and inserts activities into project documents and the project management
+plan as needed. The risk responses for threats and opportunities are listed in Section 5 on Tools
+and Techniques (see contingent response strategies, strategies for managing threats, strategies for
+managing opportunities, and strategies for managing overall project risk). This process should be
+performed throughout the project (see Figure 2-51).
+Section 2 - Project Management Performance Domains
+97
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

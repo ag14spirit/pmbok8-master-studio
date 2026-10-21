@@ -1,0 +1,83 @@
+Appendix X1: Contributors and Reviewers.
+X1.1 Contributors and Reviewers. .
+X1.2 PMI Team Members....
+Appendix X2: Project Management Offices.
+X2.1 Introduction .
+X2.2 The PMO Value Proposition.
+X2.3 Importance of Customer Centricity for a PMO
+X2.4 PMO Type, Model, and Structure .
+X2.5 PMO Maturity Models...
+X2.6 Learn More About PMOs .
+Appendix X3: Artificial Intelligence.
+X3.1 Artificial Intelligence in the Project Context
+X3.1.1 Strategies for Al Adoption
+X3.1.2 State of the Market......
+X3.2 Common Use Cases
+X3.3 Responsible Use and Ethical Concerns ..
+X3.4 Suggested Resources
+Appendix X4: Procurement .
+X4.1 Procurement Introduction
+X4.2 Procurement Overview
+X4.3 Make-or-Buy Analysis..
+X4.4 Procurement Strategy
+X4.5 Bid Process and Documents .
+X4.6 Source Selection Analysis. .
+X4.7 Source Selection Criteria
+X4.8 Contract Type..
+X4.8.1 Fundamental Contract Models..
+X4.8.2 Emerging Trends in Contract Management. .
+X4.9 Claims Administration
+X4.9.1 Relevance to Project Managers
+X4.9.2 Sensitivity of Legal Actions and Upholding Ethics Codes
+Appendix X5: Evolution of the PMBOK® Guide
+X5.1 Evidence-Based
+X5.2 Changes in the Eighth Edition
+X5.3 Sources for the Eighth Edition.
+X5.4 Refinement of Project Management Principles .
+References.
+Bibliography
+Glossary.
+Index.
+217
+217
+.. 231
+233
+. 233
+.. 233
+. 234
+. 234
+. 235
+.. 236
+237
+. 237
+.. 238
+. 239
+. 239
+. 239
+. 244
+245
+. 245
+.. 246
+. 246
+. 247
+.. 248
+.. 249
+. 249
+250
+. 251
+.. 252
+.. 252
+. 253
+. 254
+255
+. 255
+. 257
+. 257
+. 257
+. 261
+263
+. 265
+. 277
+xvi
+Table of Contents
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

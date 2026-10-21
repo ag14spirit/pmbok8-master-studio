@@ -1,0 +1,41 @@
+Possible communication artifacts and methods include but are not limited to the following:
+• Notice boards;
+• Newsletters, in-house magazines, and e-magazines;
+• Letters to staff or volunteers;
+• Press releases;
+• Annual reports;
+• Emails and intranets;
+• Web portals and other information repositories (for pull communication);
+• Phone conversations;
+• Presentations;
+• Team briefings or group meetings;
+• Focus groups;
+• Face-to-face formal or informal meetings among various stakeholders;
+• Consultation groups or staff forums; and
+• Social computing technology and media.
+Communication models. A communication model is a description, analogy, or schematic used to
+represent how the communication process will be performed for the project.
+Communication models can represent the communication process in its most basic linear form (sender
+and receiver), in a more interactive form that encompasses the additional element of feedback (sender
+receiver, and feedback), or in a more complex model that incorporates the human elements of the
+sender(s) or receivers) and attempts to show the complexity of any communication that involves people.
+• Sample basic sender/receiver communication model. This model describes
+communication as a process and consists of two parties, defined as the sender and
+receiver. This model is concerned with ensuring that the message is delivered rather than
+understood. The sequence of steps in a basic communication model is as follows:
+• Encode. The message is coded into symbols, such as text, sound, or some other
+medium, for transmission (sending).
+• Transmit message. The message is sent via a communication channel. The transmission
+of this message may be compromised by various physical factors such as unfamiliar
+technology or inadequate infrastructure. Noise and other factors may be present and
+contribute to loss of information in transmission and/or reception of the message.
+•
+Decode. The data received is translated by the receiver back into a form useful to
+the receiver.
+• Sample interactive communication model. This model also describes communication as a
+process consisting of two parties, the sender and receiver, but recognizes the need to ensure
+hat the message has been understood. In this model, noise includes any interference or
+barriers that might compromise the understanding of the message, such as the distractior
+Section 5 - Tools and Techniques
+153
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

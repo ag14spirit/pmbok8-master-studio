@@ -1,0 +1,52 @@
+• Develop Schedule. The process of analyzing sequences, durations, resource requirements
+and schedule constraints to create a schedule model for project execution and monitoring
+and controlling.
+Monitor and Control Schedule. The process of monitoring the status of the project t
+odate the project schedule, and managing changes to the schedule baseline or agreed
+upon schedule.
+2.3.2.1 Plan Schedule Management
+Plan Schedule Management is the process of establishing policies, procedures, and documentation
+for designing, developing, managing, performing, and maintaining the schedule. The key benefit of
+this process is that it provides guidance and direction on how the project schedule will be managed
+throughout the project (see Figure 2-21).
+The specific output of this process is the schedule management plan, including information on
+roject schedule development, release and iteration length, level of accuracy, units of measurement
+links to organizational procedures, project schedule maintenance, control thresholds, rules of
+performance measurement, and reporting formats.
+2.3.2.2 Develop Schedule
+Develop Schedule is the process of analyzing sequences, durations, resource requirements,
+and schedule constraints to create a schedule model for project execution and monitoring
+and controlling. Developing an acceptable proiect schedule is an iterative process. The
+schedule model is used to determine the planned start and finish dates for project activities
+and milestones based on the best available information. Schedule development may require
+the review and revision of duration estimates, resource estimates, and schedule reserves to
+establish an approved project schedule that can serve as a baseline to track progress (see
+Figure 2-22).
+Plan Schedule Management
+Inputs
+• Project charter
+• Project management plan
+- Scope management plan
+• Development approach
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+• Tools & Techniques
+• Expert judgment
+• Data analysis
+- Alternative analysis
+• Meetings
+• Etc.
+Outputs
+•
+• Project management plan
+updates
+- Schedule management
+plan
+• Etc.
+Figure 2-21. Plan Schedule Management Inputs, Tools and Techniques, and Outputs
+Section 2 - Project Management Performance Domains
+49
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

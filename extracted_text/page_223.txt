@@ -1,0 +1,37 @@
+• When and how often communication should occur (daily updates, weekly meetings, etc.); and
+• How the information will be delivered (emails, meetings, reports, etc.).
+As an output, the communications management plan is a dynamic document that evolves throughout
+he project life cycle. The communications management plan is regularly updated to reflect changes
+helps ens seph alpholes are remorse an stature, or the remains transparent The on track.
+Communications management plan updates. Communications management plan updates refer
+to thereocess of and status enhe ding the existing ces a critions manent her plans tree all
+stakeholders are kept informed and engaged throughout the project life cycle.
+Component. A component is a predetermined element of a portfolio, program, or project that is
+Variouslated o tets chereate of thestrategie oderives of trees of ir pro mama gr priet.
+configuration management plan. A component of the project management plan, the configuratior
+nanagement plan is a collection of procedures used to track project artifacts and monitor and contro
+changes to these artifacts. The plan describes how to identify and account for project artifacts under
+onfiguration control as well as how to record and report changes to them. The configuration managemen
+›lan describes how the information about the items of the project (and which items) will be recorded and
+updated so that the product, service, or result of the project remains consistent and/or operative.
+Cost baseline. The cost baseline is the approved version of the time-phased project budget,
+excluding any management reserves, which can be changed only through formal change control
+procedures and is used as a basis for comparison to actual results.
+Cost baseline updates. Cost baseline updates involve revising the approved budget to accommodate
+changes that impact on the project's financials. These updates are a critical aspect of cost control and
+help ensure that the project remains financially viable. Updates can occur during inputs and outputs.
+Inputs:
+• Approved project budget. The original cost baseline against which performance is
+measured.
+• Change requests. Formal proposals for changes that affect the project's scope, schedule,
+or cost.
+• Actual costs. The real expenses incurred during project execution.
+• Project management plan. The guiding document that includes the financial management
+plan.
+Outputs:
+• Revised cost baseline. An updated version of the cost baseline that reflects the approved
+changes.
+• Updated cost estimates. New cost projections based on changes to the project scope or
+resources.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

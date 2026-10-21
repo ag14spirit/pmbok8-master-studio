@@ -1,0 +1,41 @@
+Influencing. Because project managers often have little or no direct authority over team members
+in a matrix environment, their ability to influence stakeholders on a timely basis is critical to project
+success. Key influencing skills include the following:
+• Ability to be persuasive;
+• Clearly articulating points and positions;
+• High levels of active and effective listening skills;
+• Awareness of, and consideration for, the various perspectives in any situation; and
+• Gathering relevant information to address issues and reach agreements while maintaining
+mutual trust.
+Information management. Information management tools and techniques are used to create and
+connect people to information. These tools are effective for sharing simple, unambiguous, codified
+explicit knowledge. The tools include but are not limited to the following:
+• Methods for codifying explicit knowledge (e.g., for producing lessons-to-be-learned entries
+for the lessons learned register);
+• Lessons learned register;
+• Library services;
+• Information gathering (e.g., web searches and reading published articles); and
+• Project management information system (PMIS), which often includes document
+management systems.
+Tools and techniques that connect people to information can be enhanced by adding an element of
+interaction (e.g., including a "contact me" function so users can get in touch with the originators of the
+lessons and ask for advice specific to their project and context).
+Interaction and support also help people to find relevant information. Asking for help is generally
+quicker and easier than trying to identify search terms. Search terms are often difficult to select
+because people may not know which keywords or phrases to use to access the information they
+Knowledge and information management tools and techniques should be connected to project
+rocesses and process owners. Communities of practice and subject matter experts, for example
+nay generate insights that lead to improved control processes (having an internal sponsor car
+ensure improvements are implemented). Lessons learned entries may be analyzed to identify
+common issues that can be addressed by changes to project procedures.
+Information radiators. An information radiator is a visible, physical display that provides
+information to the rest of the organization, enabling timely knowledge sharing. Information
+radiators may also be known as big visible charts. Information radiators are posted in a place
+where people can see the information easily, rather than having information in a scheduling
+or reporting tool. The information radiators should be easy to update and should be updated
+frequently. They are often "low tech and high touch" in that they are manually maintained rather
+than electronically generated. Figure 5-9 shows an information radiator associated with work
+completed, work remaining, and risks.
+Section 5 - Tools and Techniques
+173
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

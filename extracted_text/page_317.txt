@@ -1,0 +1,42 @@
+/irtual collaboration tools. Virtual collaboration tools are software applications and platform
+esigned to facilitate communication, coordination, and collaboration among project team member
+who may be geographically dispersed.
+• Example: Cloud-based collaboration platforms. Cloud-based collaboration platforms or
+tools allow multiple project team members and other stakeholders to access, review, and
+edit various documents and information in real time as they are stored in the cloud.
+Virtual reality (VR). Virtual reality is a computer modeling and simulation technique that allows
+project team members or other stakeholders to interact within an artificial, three-dimensional
+environment by using headsets, glasses, or other means of technology.
+Virtual teams. Virtual teams are groups of people with a shared goal who fulfill their roles with
+little or no time spent meeting face to face. The use of virtual teams creates new possibilities when
+acquiring project team members. The availability of communication technologies such as email, audio
+conferencing, social media, web-based meetings, and videoconferencing has made virtual teams
+more feasible. The virtual team model makes it possible to do the following:
+• Form teams of people from the same organization who live in widespread geographic areas;
+• Add special expertise to a project team even though the expert is not in the same
+geographic area;
+• Incorporate employees who work from home offices;
+• Form teams of people who work different shifts, hours, or days;
+• Include people with mobility limitations or disabilities;
+• Move forward with projects that would have been held or canceled due to travel expenses;
+and
+• Save the expense of offices and the physical equipment needed for employees.
+The use of virtual teams can bring benefits such as the use of more skilled resources, reduced costs,
+less travel and relocation expenses, and the proximity of team members to suppliers, customers,
+or other key stakeholders. Virtual teams can use technology to create an online team environment
+where the team can store files, use conversation threads to discuss issues, and keep a team calendar.
+Communication planning becomes increasingly important in a virtual team environment. Additional
+time may be needed to set clear expectations, facilitate communications, develop protocols for
+resolving conflicts, include people in decision-making, understand cultural differences, and share
+Visual controls. In lean environments, information radiators are known as visual controls. Visual
+controls illustrate processes to easily compare actual against expected performance. Visual controls
+show a process using visual cues. Visual controls can be present for all levels of information from
+business value delivered to tasks that have started. They should be highly visible for anyone to see.
+Some examples include the following:
+• Task boards. A task board is a visual representation of the planned work that allows
+everyone to see the status of the tasks. A task board can show work that is ready to be started
+(to do), work in progress, and work that is completed (see Figure 5-25). A task board allows
+anyone to see, at a glance, the status of a particular task or the number of tasks in each stage
+212
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

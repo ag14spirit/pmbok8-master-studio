@@ -1,0 +1,46 @@
+Other factors to consider when estimating duration may include:
+• Law of diminishing returns. When one factor (e.g., a resource) used to determine the
+ffort required to produce a unit of work is increased while all other factors remair
+ixed, a point will eventually be reached at which additions of that one factor start t
+yield progressively smaller or diminishing increases in output.
+• Number of resources. Increasing the number of resources to twice the original number o
+esources does not always reduce the time by half, as it may increase duration due to extri
+isk. At some point, adding too many resources to the activity may increase duration due
+o knowledge transfer, learning curves, additional coordination, and other factors involved
+• Advances in technology. Technology advances may also play an important role
+in determining duration estimates. For example, an increase in the output of a
+manufacturing plant may be achieved by procuring the latest advances in technology.
+which may impact duration and resource needs.
+• Documentation. All data and assumptions that support duration estimating are
+documented for each activity duration estimate.
+• Level of decomposition. The estimate can be made at distinct levels, at the level of the
+control account, or at the work package or activity level.
+• Cognitive bias. Biases such as planning fallacy and end-of-story illusion, and other
+phenomena like Hofstadter's law or even the motivation of team members, may also
+impact the accuracy of the scheduling process.
+• Step 4: Adjust. This step entails reviewing the draft schedule, based on the sequence, estimates,
+and resources accumulated in the previous steps. If the draft schedule is unacceptable, various
+techniques can be applied to adjust those components to find alternative schedule options.
+• Once finalized, the schedule contains a series of unique activities that have varying
+durations and are linked by defined logical relationships. The schedule provides the
+project team with information about what work should be done, and in what sequence
+the project deliverables should be accomplished.
+• After the start and end dates of the activities have been set, it is common for the
+project team members assigned to the activities to review their assignments. The team
+members should confirm that the start and end dates do not conflict with resource
+calendars or assigned activities in other projects or tasks and are therefore still valid. The
+schedule is then analyzed to identify conflicts with logical relationships and to determine
+if resource leveling is required before the schedule is approved and used as a baseline.
+With a draft schedule, it is easier and more accurate to estimate the labor and physical
+resources required to complete the project objectives. Those resource estimates may
+influence the decision as to whether the draft schedule is or is not acceptable, and thus
+may require further adjustment and revision.
+2.3.2.3 Monitor and Control Schedule
+Monitor and Control Schedule is the process of monitoring the status of the project to update
+the project schedule and managing changes to the agreed-upon schedule. Updating the schedule
+requires knowing the actual or forecasted performance to date. The key benefit of this process is
+maintaining a realistic schedule throughout the duration of the project (see Figure 2-24).
+Section
+2 - Project Management Performance Domains
+53
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

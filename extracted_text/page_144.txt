@@ -1,0 +1,44 @@
+for managing scope by focusing on value-driven outcomes, enabling continuous
+prioritization, and maintaining alignment with stakeholder expectations.
+Definition of done (DoD). The DoD is a checklist of all the criteria required to be met:
+at a deliverable can be considered ready for customer use. In projects using an adapti
+approach, a DoD is a shared understanding of the specific criteria that should be met
+before a piece of work (e.g., a user story, feature, or increment) is considered complete and
+ready for release to the next stage or the customer.
+2.2.2 Processes
+The Scope performance domain encompasses the processes necessary to define, develop, monitor,
+control, and verify the scope of a project, ensuring alignment with stakeholder expectations and
+project objectives. The following processes are included in this performance domain (see Figure 2-13):
+• Plan Scope Management. The process of creating a scope management plan that
+documents how the project and product scope will be defined, validated, and controlled.
+• Elicit and Analyze Requirements. The process of determining, documenting, and
+managing stakeholder needs and requirements to meet project objectives.
+• Define Scope. The process of developing a detailed or high-level description of the
+project and product. In agile projects, the scope is typically considered at a high level,
+often represented by the product roadmap with its releases. This process also identifies
+the quality requirements and standards for the deliverables-and how to demonstrate
+Initiating
+Planning
+Closing
+Plan
+Scope
+Management
+Elicit and
+Analyze
+Requirements
+Define
+Scope
+Develop
+Scope
+Structure
+Executing
+Monitoring and Controlling
+Monitor and
+Contro
+Scope
+Validate
+Scope
+Figure 2-13. Scope Performance Domain Processes Overview
+Section 2 - Project Management Performance Domains
+39
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

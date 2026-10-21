@@ -1,0 +1,32 @@
+he strategic link that the sponsor, customer, or product owner provides both empower
+nd enables the project team to optimize its performance by maintaining alignment with the
+organization's strategy. Thus, their presence and, more importantly, the degree of their involvement,
+increases the likelihood of achieving the desired project outcome, while their absence might
+adversely impact the project.
+Further details about project teams, functions, roles, responsibilities, and characteristics are
+elaborated in Section 2.5 (Stakeholders performance domain) in A Guide to the Project Management
+Body of Knowledge (PMBOK® Guide) [2].
+2.5.3 Project Team
+The project team is a set of individuals who are performing the project's work and are directly
+benefit from centralized coordination under the leadership and guidance of a project management
+team, project manager, or a hybrid governance model. Regardless of how coordination takes place,
+supportive leadership models and meaningful continuous engagement among project teams and
+other stakeholders are key to a successful project.
+Section 2.6 (Resources performance domain) in A Guide to the Project Management Body of Knowledge
+(PMBOK® Guide) [2] provides further details about project teams, functions, roles, responsibilities, and
+characteristics of the project team.
+2.5.4 End Users and Other Key Stakeholders
+To effectively serve a project's target beneficiaries, project management teams and project teams
+should, when possible, engage in continuous dialogue with end users, influencers, customers,
+regulators, and other key stakeholders. The goals of doing so are to capture and integrate their
+feedback throughout the project life cycle, ensure mutual alignment, and build credibility across the
+project ecosystem. This engagement involves iterative verification and validation processes to help
+ensure that the project remains aligned with the end users' evolving needs. By prioritizing end-user
+satisfaction, project management teams can minimize the risks associated with delivering a product
+or service that does not meet the expected utility. Thus, the integration of end-user feedback refines
+the project outcome as well as secures its relevance and success by confirming that the deliverables
+concretely address the needs and expectations of those who will ultimately use them. This strategy
+helps ensure that the project delivers substantial value, achieving its primary goal of satisfying the
+end users.
+Section 2 - A System for Value Delivery
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

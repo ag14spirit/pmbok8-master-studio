@@ -1,0 +1,45 @@
+Project dashboards. A project dashboard is a set of charts and graphs showing progress or
+performance against important measures of the project. A common way of showing large quantities
+of information on metrics is a dashboard. Dashboards generally collect information electronically and
+generate charts that depict status. Often, dashboards offer high-level summaries of data and allow
+drill-down analysis into contributing data. Figure 5-16 and Figure 5-17 each provide examples of a
+dashboard.
+Dashboards often include information displayed as stoplight charts (also known as red-amber-greer
+RAG] charts), bar charts, pie charts, and control charts. A text explanation can be used for any
+measures that are outside the established thresholds.
+Organization Project Name
+Project Name and
+High-Level
+Description
+Exec Sponsor:
+Start Date:
+Status:
+Key Activities
+Activity #1
+Project Manager:
+Schedule
+End Date:
+Resources
+Report Period:
+Recent Accomplishments
+Budget
+Upcoming Key Deliverables
+Status
+Concern
+Activity #2
+On Track
+Activity #3
+Issue
+On Track
+Complete
+Concern
+Issue
+On Hold
+Canceled
+Not Started
+Current Key Risks - Threats and opportunities;
+Mitigation
+Current Key Issues - Description
+Figure 5-16. Project Dashboard Example 1
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

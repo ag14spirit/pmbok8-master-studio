@@ -1,0 +1,36 @@
+Ethical guidelines in the performing organization, as well as Al policies, could represent a solid basis
+for building an organizational culture and establishing a common understanding of how Al should be
+used within the organization.
+Project professionals should foster a culture of awareness and ethical use of Al, as well as contribute
+to increasing responsibility within the team for making ethical decisions related to Al adoption.
+X3.4 Suggested Resources
+• PMI Infinity™_An Al tool for project professionals from PMi: https://www.pmi.org/infinity
+• PMI Learning course-"Generative Al Overview for Project Managers": https://www.pm
+rg/shop/us/p-/elearning/generative-ai-overview-for-project-managers/el083
+• PMI Learning course-"Data Landscape of GenAl for Project Managers": https://www.pm
+rg/shop/us/p-/elearning/data-landscape-of-genai-for-project-managers/el106
+• PMI Learning course-"Talking to Al: Prompt Engineering for Project Managers":
+https://www.pmi.org/shop/p-/elearning/talking-to-ai-prompt-engineering-for-project-
+managers/el128
+• PMI Learning course-"Cognitive Project Management in AI (CPMAI) V7": https://www.
+pmi.org/shop/us/p-/digital-product/cognitive-project-management-in-ai-(cpmai)-v7.-
+training-, -a-,-certification/cpmai-b-01
+• PMI Learning course-"Practical Application of Generative Al for Project Managers":
+https://www.pmi.org/shop/us/p-/elearning/practical-application-of-generative-ai-for-project-
+managers/el173
+• PMI Learning course-"Al in Infrastructure and Construction Projects": https://www.pmi.
+org/shop/us/p-/elearning/ai-in-infrastructure-and-construction-projects/el174
+• PMI Thought Leadership report-Shaping the Future of Project Management With Al:
+https://www.pmi.org/learning/thought-leadership/ai-impact/shaping-the-future-of-project-
+management-with-ai
+• PMI Thought Leadership report—Talking to the Machine: Prompt Engineering Essentials for
+Project Professionals: https://www.pmi.org/learning/thought-leadership/prompt-engineering
+• PMI guide-Al Essentials for Project Professionals: https://www.pmi.org/standards/ai-
+essentials-for-project-professionals
+• PMI guide-Leading Al Transformation: Organizational Strategies for Project Professionals:
+https://www.pmi.org/standards/leading-ai-transformation-organizational-strategies-for-
+project-professionals
+*The links to courses and content referenced in this publication were accurate at the time of publication.
+Please visit PMI.org for the most current versions and newly available content.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

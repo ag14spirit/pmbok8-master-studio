@@ -1,0 +1,39 @@
+the value of the project investment. To that end, each performance domain concludes with
+guidance on maintaining a focus on that value. For any process output, there should be a
+corresponding, higher-order outcome in mind. A project schedule itself does not add value;
+its true importance lies in fostering stakeholder alignment around the overall timeline for
+delivering project value.
+2.1 Governance Performance Domain
+Project governance is applicable across all project management approaches, including predictive,
+adaptive, and hybrid, with variations based on industry, organizational context, and project specifics
+Sovernance consists of the framework, functions, and processes that guide project management
+decisions and activities to optimize the project's value delivery. This governance framework is holistic
+and integrative, considering all other performance domains.
+Project governance is shaped by the performing organization's governance model as well as
+ocesses, documents, and project management activities as an integrated system for value deliver
+nese activities often leverage technology and data-driven tools, enabling real-time tracking, analys
+and reporting to support informed decision-making.
+Governance can be tailored to different approaches: lightweight for adaptive methods; moderate
+r combined for hybrid projects; and comprehensive for large, predictive portfolios, program
+nd projects. To help ensure continuous improvement, feedback loops are incorporated into th
+governance framework, allowing for periodic reviews, lessons learned, and iterative adjustments to
+governance practices.
+2.1.1 Project Value Creation
+The fundamental objective of any project is to create positive value that justifies the investment and
+effort undertaken. Effective governance involves oversight and corrections to help steer a project
+toward its broader goals.
+The Standard for Project Management [1] defines five Focus Areas for the success of any project. The
+relationship of the Governance performance domain to those Focus Areas is as follows:
+• Initiating. Successful projects begin with a clear description of the desired end state.
+clearly articulated business case enables stakeholder alignment on priorities and
+onstraints, and provides team members with a broader context that informs their wor
+This alignment can be implemented as part of the Initiate Project or Phase process, via
+informal governance discussions, and/or other approaches.
+•
+Planning. Every part of project planning should be performed with the project's targe
+goals in mind. Explicit deliverables and activities should be identified to enable those goal
+This alignment is illustrated in the Integrate and Align Project Plans process.
+10
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

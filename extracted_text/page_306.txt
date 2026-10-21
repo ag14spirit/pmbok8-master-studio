@@ -1,0 +1,46 @@
+of the project (influence), or ability to cause changes to the project's planning or execution.
+These classification models are useful for small projects or projects with simple relationships
+between stakeholders and the project, or within the stakeholder community itself.
+• Stakeholder cube. This is a refinement of the grid models previously explained. This model
+combines the grid elements into a three-dimensional model that can be useful to project
+managers and teams in identifying and engaging their stakeholder community. It provides a
+model with multiple dimensions that improves the depiction of the stakeholder community
+as a multidimensional entity and assists with the development of communication strategies.
+Salience model. The salience model describes classes of stakeholders based on
+assessments of their power (level of authority or ability to influence the outcomes of the
+project), urgency (need for immediate attention, either time-constrained or relating to the
+stakeholders' high stakes in the outcome), and legitimacy (their involvement is appropriate).
+There is an adaptation of the salience model that substitutes proximity (stakeholders' direct
+involvement in the project activities, such as their physical proximity to the worksite, or
+their direct contribution to project deliverables) for legitimacy (applying to the team and
+measuring their level of involvement with the work of the project). The salience model
+is useful for large, complex communities of stakeholders or where there are complex
+networks of relationships within the community. It is also useful in determining the relative
+• Directions of influence. This technique classifies stakeholders according to their influence
+on the work of the project or the project team itself. Stakeholders can be classified in the
+following ways:
+• Upward (senior management of the performing organization or customer organization,
+sponsor, and steering committee);
+• Downward (the team or specialists contributing knowledge or skills in a temporary
+capacity);
+• Outward (stakeholder groups and their representatives outside the project team, suc
+is suppliers, government departments, the public, end users, and regulators); o
+• Sideward (the peers of the project manager, such as other project managers or middle
+managers who are in competition for scarce project resources or who collaborate with
+the project manager in sharing resources or information).
+• Prioritization. Prioritizing stakeholders may be necessary for projects with a large number
+of stakeholders, where the membership of the stakeholder community is changing
+frequently, or when the relationships between stakeholders and the project team or within
+the stakeholder community are complex.
+Storytelling. Storytelling in project management is a powerful tool for conveying lessons learned,
+ood practices, and project outcomes through narratives. Unlike traditional reports or dati
+resentations, storvtelling engages the audience by making the information more relatable an
+memorable.
+Stories are particularly effective for transferring tacit knowledge, which is often difficult to articulate
+through formal documentation. By illustrating real-life scenarios and solutions, storytelling helps
+team members understand complex concepts and apply them in their work. Additionally, storytelling
+can shape organizational culture by highlighting values, successes, and learning moments, thereby
+reinforcing desired behaviors and practices.
+Section 5 - Tools and Techniques
+201
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

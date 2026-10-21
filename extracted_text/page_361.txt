@@ -1,0 +1,40 @@
+Table X5-1. Evolutionary Changes of the PMBOK® Guide
+PMBOK®
+Guide Edition
+1996
+Key Evolutionary Changes
+knowledge for project management.
+Third 2004)
+Sixth (2017)
+Seventh (2021)
+consensus that practices have value and usefulness.
+• Defined project management as "the application of knowledge, skills, tools, and
+echniques to project activities in order to meet or exceed stakeholder needs and
+expectations from a project."
+• Specific decision to shift to a process-based standard driven by a desire to show
+interactions among Knowledge Areas; create a robust and flexible structure; and
+recognize that International Organization for Standardization (ISO) and other
+standards organizations were establishing process-based standards.
+• First edition to incorporate the American National Standards Institute (ANSI) "ANSI
+standard" logo on the cover.
+• First edition to formally designate The Standard for Project Management of a Project
+separate and distinct from the Project Management Framework and Body of Knowledge.
+• Included material "generally recognized as good practice on most projects most of
+• Defined project management as "the application of knowledge, skills, tools, and
+techniques to project activities to meet the project requirements.
+• First edition to make a distinct separation between the ANSI standard and the guide.
+• First time "agile" content is incorporated into the text, not just referenced in examples.
+• Expansion of Knowledge Area front material, including key concepts, trends and
+emerging practices, tailoring considerations, and considerations for agile/adaptive
+environments.
+• First edition in which project management is characterized as a "system for value
+delivery," with an attendant shift in focus toward a more holistic, value-oriented
+mindset, and less emphasis on project management mechanics.
+• First edition in which project management principles were elaborated.
+• Agile thinking and methods became more fully integrated compared to the sixth edition.
+• Shift from a process-based guide to a principles-based ANSI standard.
+• Shift from Knowledge Areas focused on processes to performance domains focused
+on results.
+256
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

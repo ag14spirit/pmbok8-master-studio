@@ -1,0 +1,80 @@
+- Monitor Stakeholder Engagement =
+Inputs
+• Project management plan
+- Resource management
+plan
+- Communications
+management plan
+- Stakeholder engagement
+plan
+• Project documents
+- Issue log
+- Lessons learned register
+- Project communications
+- Risk register
+- Stakeholder register
+• Work performance data
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+•
+• Data analysis
+- Alternative analysis
+- Root cause analysis
+- Stakeholder analysis
+• Decision-making
+- Multicriteria decision
+analysis
+- Voting
+• Data representation
+- Stakeholder engagement
+assessment matrix
+• Communication skills
+- Feedback
+- Presentations
+• Interpersonal and team
+skills
+- Active listening
+- Cultural awareness
+- Leadership
+- Networking
+- Political awareness
+• Meetings
+• Etc.
+• Outputs
+• Work performance
+information
+• Change requests
+• Project management plan
+updates
+- Resource management
+plan
+- Communications
+management plan
+- Stakeholder engagement
+plan
+• Project document updates
+- Issue log
+- Lessons learned register
+- Risk register
+- Stakeholder register
+• Etc.
+Figure 2-38. Monitor Stakeholder Engagement Inputs, Tools and Techniques, and Outputs
+2.5.3.1 Examples
+The following are three examples of how these considerations might be applied:
+• Example 1. Agile projects require continuous feedback on features and user stories to
+ensure product alignment with stakeholder needs. To facilitate this, teams often employ
+daily coordination meetings and utilize dedicated communication platforms for real-time
+collaboration and information sharing. This approach fosters rapid adjustments, increased
+stakeholder engagement, and accelerated time to market.
+Example 2. A project in the manufacturing industry involves implementing a large-scale
+enterprise resource planning (ERP) system. Thus, formal project updates are disseminated
+via biweekly email newsletters and monthly town hall meetings to ensure alignment across
+hierarchical levels.
+76
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMIl Member benefit, not for distribution, sale, or reproduction.

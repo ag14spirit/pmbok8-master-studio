@@ -1,0 +1,71 @@
+6
+11
+B
+10
+15
+5
+Start
+1
+5
+5
+10
+0
+15
+15
+Note: This example uses the accepted convention of the project
+starting on Day 1 for calculating start and finish dates. There are
+other accepted conventions that may be used.
+Path A-B-D - 25
+16
+15
+D
+30
+Finish
+16
+0
+30
+Path A-C-D - 30
+(Critical Path)
+KEY
+Activity
+Node
+Early
+Start
+Duration
+Earty
+Finish
+Late
+Start
+Total
+Float
+Late
+Finish
+Critical Path Link
+Noncritical Path Link
+→
+→
+Figure 5-4. Example of Critical Path Method
+The critical path method is also used to calculate the total and free float, or scheduling flexibility,
+for all logical paths in the network. On any network path, total float refers to the amount of time ar
+activity can be delayed without delaying the project finish date or violating a constraint. Free float is
+the time an activity can be delayed without affecting the early start of its successor; for example, the
+free float for Activity B in Figure 5-4 is 5 days.
+While the critical path is usually characterized by zero total float, positive float may occur if a
+constraint is placed later than the calculated early finish (from the forward pass). Conversely,
+negative float occurs when constraints force dates earlier than logic and duration allow. Negative
+float analysis can be used to explore acceleration strategies.
+Some schedule networks may have multiple near-critical paths, and many software tools allow users
+to define how criticality is measured. Adjustments to activity durations, logical relationships, leads
+and lags, or constraints may be necessary to bring float values to zero or positive levels.
+Critical thinking. Critical thinking is the ability to objectively question, analyze, interpret, evaluate,
+nd judge information to make reasonable decisions. Throughout the various project managemen
+erformance domains, there is a need to recognize bias, identify the root cause of problems, an
+consider challenging issues such as ambiguity and complexity. Critical thinking helps to accomplish
+these activities. Critical thinking includes disciplined, rational, logical, and evidence-based thinking.
+This approach requires an open mind and the ability to analyze objectively. Critical thinking,
+especially when applied to discovery, can include conceptual imagination, insight, and intuition
+t can also include reflective thinking and metacognition (thinking about thinking and being aware of
+one's awareness).
+Section 5 - Tools and Techniques
+161
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

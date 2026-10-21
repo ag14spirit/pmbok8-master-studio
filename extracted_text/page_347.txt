@@ -1,0 +1,57 @@
+Table X3-1. (Continued)
+Project Management
+Performance Domain
+Risk
+Al Strategy
+Assistance
+Risk
+Augmentation
+Stakeholders
+Augmentation
+Stakeholders
+Augmentation
+Schedule
+Assistance
+Schedule
+Assistance
+Schedule
+Assistance
+Use Case
+Risk impact analysis. Al can evaluate the impact of
+actual risks on project goals such as time, cost, and
+quality. By providing detailed impact assessments, Al
+helps project managers understand the gravity of risks
+and prioritize their responses accordingly.
+Risk-adjusted ROl analysis. At the portfolio, program,
+or project level, Al can use pattern recognition to augment
+existing ROl analysis in factoring in risk adjustments to
+expected ROl assessments.
+Stakeholder sentiment analysis. Al-powered
+natural language processing (NLP) tools can analyze
+communication data (e.g., emails, chats, meeting
+notes, social media) to determine stakeholder feelings.
+By ethically understanding stakeholders' emotions
+and concerns, project managers can address issues
+proactively and improve engagement.
+Personalized communication. Al can investigate
+stakeholders' preferences and past interactions in order
+to tailor communication strategies. For example, Al can
+determine the most effective communication channels
+and frequencies for each stakeholder, ensuring timely and
+relevant communication that enhances engagement and
+satisfaction.
+Dynamic scheduling. Al can optimize project schedules
+by considering project dependencies, resource availability,
+and milestone deadlines. Al can adjust schedules in
+response to internally and externally generated changes,
+ensuring optimal resource utilization.
+Schedule conflict resolution. Al can identify potential
+scheduling conflicts (at the portfolio, program, or project
+level) and propose solutions to resolve them, minimizing
+delays and resource bottlenecks.
+Schedule risk impact analysis. Al can apply pattern
+recognition to help assess schedule risks such as inherent
+risks associated with branching and merging paths.
+242
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

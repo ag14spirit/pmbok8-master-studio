@@ -1,0 +1,68 @@
+Manage Stakeholder Engagement —
+Inputs
+• Project management plan
+- Communications
+management plan
+- Risk management plan
+- Stakeholder engagement
+plan
+- Change management plan
+• Project documents
+- Change log
+- Issue log
+- Lessons learned register
+- Stakeholder register
+- Risk register
+- Status report
+- Project schedule
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+•
+• Expert judgment
+• Communication skills
+- Feedback
+• Interpersonal and team
+skills
+- Conflict management
+- Cultural awareness
+- Negotiation
+- Observation/conversation
+- Political awareness
+• Ground rules
+• Meetings
+• Etc.
+Outputs
+•Change requests
+•Project management plan
+updates
+- Communications
+management plan
+- Stakeholder engagement
+plan
+• Project document updates
+- Change log
+- Issue log
+- Lessons learned register
+- Stakeholder register
+• Etc.
+Figure 2-36. Manage Stakeholder Engagement Inputs, Tools and Techniques, and Outputs
+2.5.2.7 Monitor Communications
+Monitor Communications is the process of ensuring the information needs of the project and its
+stakeholders are met. The key benefit of this process is the optimal information flow as defined in the
+communications management plan and the stakeholder engagement plan. This process is performed
+throughout the project (see Figure 2-39).
+2.5.3 Tailoring Considerations
+Because each project is unique, activities and processes in the Stakeholders performance domain
+should be tailored. Considerations for tailoring include but are not limited to the following:
+• Organizational culture. Organizational culture is a key driver for tailoring stakeholder
+engagement. Flat organizations tend to rely on open communications and foster informal
+channels, whereas hierarchical organizations use more formal approaches. The entire
+communication and stakeholder engagement strategy should consider organizational
+culture in order to properly engage with stakeholders.
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

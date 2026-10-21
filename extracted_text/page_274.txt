@@ -1,0 +1,45 @@
+• Quality reports, test reports, performance reports, and variance analysis;
+• Regulatory documentation such as laws, codes, or ordinances, etc.;
+• Requests for proposal; and
+• Use cases.
+Earned value (EV) analysis. Earned value analysis compares the performance measurement
+baseline to the actual schedule and cost performance. Earned value management (EVM) integrates
+the scope baseline with the cost baseline and schedule baseline to form the performance
+measurement baseline. EVM develops and monitors three key dimensions for each work package
+and control account:
+• Planned value (PV). PV is the authorized budget assigned to scheduled work. It is the
+authorized budget planned for the work to be accomplished for an activity or work
+breakdown structure (WBS) component, not including management reserve. This budget
+is allocated by phase over the life of the project, but at a given point in time. PV defines
+the physical work that should have been accomplished. The total of the PV is sometimes
+referred to as the performance measurement baseline (PMB). The total PV for the project i
+also known as budget at completion (BAC).
+• Earned value (EV). EV is the measure of work performed expressed in terms of the budget
+authorized for that work. It is the budget associated with the authorized work that has been
+completed. The EV being measured should be related to the PMB, and the EV measured
+cannot be greater than the authorized PV budget for a component. The EV is often used
+to calculate the percent complete of a project. Progress measurement criteria should be
+eStablished for each WBS component to measure work in progress. Project managers
+nonitor EV, both incrementally to determine current status and cumulatively to determine
+the long-term performance trends.
+• Actual cost (AC). AC is the realized cost incurred for the work performed on an activity during
+a specific time period. The AC is the total cost incurred in accomplishing the work that the
+EV measured. The AC should correspond in definition to what was budgeted in the PV and
+measured in the EV (e.g., direct hours only, direct costs only, or all costs including indirect
+costs). The AC will have no upper limit; whatever is spent to achieve the EV will be measured.
+There are tools and techniques that can be applied to calculate the EVM for projects carried out with
+an adaptive approach (see The Standard for Earned Value Management, p. 91) [3].
+In adaptive approaches, effort can be expressed through story points. The result is a calculation of EV
+and PV for the different iterations that is based on the story points assigned to each user story. The
+PV is the amount of story points estimated for the user stories planned until a certain date, usually
+the end of the iteration, and EV represents the story points estimated for the user stories that are
+onsidered done at the end of the same iteration. The AC value is related to the costs for the tear
+vorking on the user stories during the iteration, usually derived from the working hour:
+Emotional intelligence. Emotional intelligence is the ability to identify, assess, and manage the
+ersonal emotions of oneself and other people, as well as the collective emotions of groups of
+people. A project team can use emotional intelligence to reduce tension and increase cooperation
+by identifying, assessing, and controlling the sentiments of project team members, anticipating their
+actions, acknowledging their concerns, and following up on their issues.
+Section 5 - Tools and Techniques
+169
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

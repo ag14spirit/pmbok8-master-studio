@@ -1,0 +1,35 @@
+department. An operational department, such as information technology or purchasing,
+can see all of its project responsibilities by looking at its portion of the OBS.
+• Resource breakdown structure. A resource breakdown structure is a hierarchical
+representation of resources by category and type. The resource breakdown structure is
+used for planning, managing, and controlling project work. Each descending (lower) level
+represents an increasingly detailed description of the resource until the information is small
+enough to be used in conjunction with the WBS to allow the work to be planned, monitored,
+and controlled.
+• Value breakdown structure (VBS). A VBS is a WBS with value estimates assigned to
+each element. The VBS can be useful in determining whether a given scope element is
+truly mandatory-that is, equal to the value of the entire project, as removing that scope
+element would erase the value of the project. When a VBS element is on the critical path, it
+can be useful to help assess whether a higher-value baseline may exist (e.g., when the value
+of accelerating or removing a given VBS element might exceed the cost of doing so).
+Historical information review. Reviewing historical information can assist in developing parametric
+estimates or analogous estimates. Historical information may include project characteristics
+(parameters) to develop mathematical models to predict total project costs. Such models may be
+simple (e.g., residential home construction is based on a certain cost per square foot of space)
+or complex (e.g., one model of software development costing uses multiple separate adjustmen
+Both the cost and accuracy of analogous and parametric models can vary widely. They are most likely
+to be reliable when:
+• Historical information used to develop the model is accurate;
+• Parameters used in the model are readily quantifiable; and
+Models are scalable, such that they work for large projects, small projects, and phases of a
+Individual and team assessments. Individual and team assessment tools give the project manager
+nd the project team insight into areas of strengths and weaknesses. These tools help project
+nanagers assess team members' preferences and aspirations, as well as how they process and
+organize information, make decisions, and interact with people. Various tools are available such as
+attitudinal surveys, specific assessments, structured interviews, ability tests, and focus groups. These
+tools can provide improved understanding, trust, commitment, and communication among team
+Influence diagrams. Influence diagrams are graphical representations of situations that can be
+represented in the influence diagram using ranges or probability distributions. The influence diagram
+is then evaluated using a simulation technique, such as Monte Carlo analysis, to indicate which
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

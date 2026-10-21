@@ -1,0 +1,82 @@
+Avoid (strategy), 203, 204
+Awareness
+cultural, 162
+political, 185
+self-awareness, 177,178
+social, 177, 178
+Budget at completion (BAC), 169, 206, 207
+Budget forecasts, 119
+Buffer protection Index (BPI), 160
+Burndown chart, 150, 174, 175, 213-214
+Burnup chart, 150, 174, 213-214
+Backlog, 38-39, 42, 114-115, 148-149
+Backlog management, 30, 148-149
+Backlog refinement, 149
+Backward pass, 160
+Bar chart, 163
+Bar graph, 163
+Baseline optimization, 241
+Basic sender/receiver communication model, 153
+Basis of estimates, 115
+Benchmarking, 149
+in cost-benefit analysis, 158
+exploit strategy and, 157, 202, 203
+enefits management plan, 115-11
+enefits owner, 11
+Bias
+in Al systems, 239
+cognitive, 53
+confirmation, 28
+transparency on, 89
+Bid process, in procurement, 248
+Black hat, 198
+Blue hat, 198
+Body language, 184
+Bottom-up approach, 165
+Bottom-up estimating, 149
+Brain-netting, 149
+Brainstorming, 149,240
+Brainstorming techniques, 149-150, 181
+in soure selecion analysis, 249
+Calendars
+project, 125
+resource, 132
+Capital expenditures (CapEx), 59-60
+Causation, 28
+Cause-and-effect diagram, 150
+Celebrating success, 90
+Centralized management and leadership, 150-151
+Change(s)
+adapting to, 30
+approved, 114
+assessing and implementing, 16, 17, 28-30, 117
+leading indicators and, 14
+predicting, 29-30
+Change control board (CCB), 30, 114, 116, 151
+Change control tools, 151
+Change log, 46, 114, 116, 119
+Change management activities, 151
+Change management plan, 116
+Change requests, 116-117
+approved, 30, 114
+deferred, 114
+elements of, 29
+evaluating, 174
+impact of, 28
+rejected, 114
+by stakeholders, 30, 117
+Charts, 162-163
+bar, 163
+burndown, 150, 174, 175, 213-214
+burnup. 150. 174. 213-214
+circle, 162
+control, 158
+heated 071-172
+line, 163
+pie, 162
+project dashboards, 190-191
+project organization, 134
+Chatbots, 241
+278
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

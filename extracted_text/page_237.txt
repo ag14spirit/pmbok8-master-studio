@@ -1,0 +1,52 @@
+Requirements Traceability Matrix
+Project Name:
+Cost Center:
+Project Description:
+ID
+Associate
+Requirements Description
+Business Needs,
+Opportunities,
+Goals, Objectives
+001
+002
+003
+004
+005
+1.0
+1.1
+1.2
+1.2.1
+2.0
+2.1
+2.1.1
+3.0
+3.1
+3.2
+4.0
+5.0
+Figure 4-3. Example of a Requirements Traceability Matrix
+Precites Deliversies Podus Deement Cases
+used in the requirements traceability matrix may include a unique identifier, a textual description
+of the requirement, the rationale for inclusion, the owner, source, priority, version, current status
+(e.g., active, canceled, deferred, added, approved, assigned, completed), and status date. Additional
+attributes to help ensure that the requirement has met stakeholder satisfaction may include stability,
+complexity, and acceptance criteria. Figure 4-3 provides an example of a requirements traceability
+matrix with its associated attributes.
+Resource breakdown structure. A resource breakdown structure is a hierarchical representation of
+resources by category and type. Examples of resource categories include but are not limited to labor,
+materials, equipment, and supplies. Resource types may include the skill level, grade level, required
+certifications, or other information as appropriate to the project. See Figure 4-4 for an example.
+Resource calendar. A resource calendar is a calendar that identifies the working days and
+shifts during which each specific resource is available. The calendar should include the start and
+end of normal business hours, weekends, and public holidays when each specific resource is
+available. Information on which resources (such as team resources, equipment, and materials) are
+potentially available during a planned activity period is used for estimating resource utilization.
+Resource calendars also specify when, and for how long, identified team and physical or virtual
+resources will be available during the project. This information may be at the activity or project
+level. This calendar may include consideration of attributes such as resource experience and/or
+skill level, as well as various geographical locations.
+Resource management plan. A resource management plan is a component of the project management
+plan that describes how project resources are acquired, allocated, monitored, and controlled. The plan
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

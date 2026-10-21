@@ -1,0 +1,103 @@
+Table 5-1. Earned Value Calculations Summary
+Earned Value Analysis
+Abbreviation
+Name
+PV
+Planned
+value
+Lexicon
+Definition
+The authorized
+budget assigned
+to scheduled
+work
+Equation
+Interpretation
+of Result
+EV
+Earned
+value
+AC
+Actual cost
+BAC
+Budget at
+completion
+cv
+Cost
+variance
+The measure of
+work performed
+expressed
+in terms of
+the budget
+authorized for
+that work
+The realized cost
+incurred for the
+work performed
+on an activity
+during a specific
+time period
+The sum of
+all budgets
+established for
+the work to be
+performed
+The amount of
+budget deficit
+or surplus at a
+given point in
+time, expressed
+as the difference
+between the
+earned value and
+the actual cost
+How It Is Used
+It is the value of the
+work planned to be
+completed to a point
+in time, usually the
+data date or project
+completion.
+It is the planned
+value of all the work
+completed (earned)
+to a point in time,
+usually the data date,
+without reference to
+actual costs.
+It is the actual
+cost of all the work
+completed to a point
+in time, usually the
+data date.
+It is the value of total
+planned work: the
+project cost baseline.
+EV = Sum
+of the
+planned
+value of
+completed
+work
+It is the difference
+between the value of
+work completed to a
+point in time, usually
+the data date, and
+the actual cost to the
+same point in time.
+CV =
+EV - AC
+Positive =
+Under
+planned cost
+Neutral = On
+planned cost
+Negative =
+Over planned
+cost
+(continued)
+Section 5 - Tools and Techniques
+207
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

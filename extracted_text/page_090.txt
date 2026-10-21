@@ -1,0 +1,34 @@
+Adaptive
+Adaptive
+Predictive Predictive Predictive
+Figure 4-11. A Largely Adaptive Approach With a Predictive Component
+Adaptive
+4.3 Considerations for a Development Approach Selection
+4.3.1 Deliverables
+There are many variables associated with project deliverables that can influence the choice of
+development approach. The following list outlines some of the variables to consider when selecting
+the development approach:
+• Degree of innovation. When new or complex technological and/or business model
+innovation is needed, an adaptive approach may be optimal.
+• Requirements certainty. When the requirements are well known and straightforward to
+define, a predictive approach may be optimal.
+• Degree of scope stability. This variable refers to the degree to which the project scope is
+stable throughout the project execution. In general, the less stable the scope is, the more
+optimal it will be to apply an adaptive approach.
+• Ease of change. If the nature of the deliverable makes it difficult or costly to manage and
+incorporate changes, then a predictive approach may be optimal.
+• Delivery options. The nature of the deliverables and whether they can be delivered in
+components or progressively elaborated can influence the development approach. More
+details can be found in Section 4.4 on delivery cadence.
+• Risk. Adaptive approaches may be helpful to manage risk and uncertainty.
+• Safety requirements. Products that have rigorous safety requirements often use a
+predictive approach as there is a need for significant up-front planning to ensure safety
+compliance.
+Feedback. If there is significant value likely to be realized from frequent feedback from the
+and users and stakeholders, an adaptive approach may be optimal.
+• Regulations. Environments that have significant regulatory oversight may use a predictive
+approach due to the required processes, documentation, and demonstration needs.
+Section 4 - Project Life Cycles
+67
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.
+^

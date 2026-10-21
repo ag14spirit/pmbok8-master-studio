@@ -1,0 +1,30 @@
+Appendix X5
+Evolution of the PMBOK® Guide
+Since its inception as the Project Management Body of Knowledge (PMBOK) in 1987, A Guide to
+the Project Management Body of Knowledge (PMBOK Guide) has evolved while recognizing that
+fundamental elements of project management endure. Its evolution has captured significant and
+substantive changes in the nature of the content. A sampling of some of those key changes is
+reflected in Table X5-1.
+X5.1 Evidence-Based
+In preparation for development work of the eighth edition, PMI actively engaged in a multiphased
+research effort, engaging with stakeholders on a global level. PMI also partnered with a third-party
+consulting firm to guide research and ensure the study was free from organizational bias.
+• Phase 1—Qualitative. This phase consisted of live, chat-based discussions over 2 days with
+a mix of project managers, including representatives from seven different countries. This
+phase enabled the discovery of themes and identified market needs for further validation.
+Participants were required to have familiarity with the seventh edition and at least one prior
+edition.
+Phase 2—Quantitative. In Phase 2, it was critical to validate and quantify hypotheses from
+Phase 1 on a global level. An online survey was sent to approximately 64,000 professionals
+who downloaded the seventh edition, with a response rate of just over 3,400 completions.
+Representation included a population across all PMI regions, a mix of early-, mid-, and late.
+career stages, with both Project Management Professional (PMP)° certification holders and
+Phase 3—Draft feedback. A team of 25 volunteers used the evidence from Phases 1 and 2
+to iterate toward a full draft. PMI broadcast that draft to the community and yielded nearly
+9,000 comments and suggestions. The feedback reinforced which elements were strong
+and which needed refinement.
+• Phase 4-ANSI review. The core development team leveraged the feedback to refine
+final draft, which was submitted to ANSI for formal review. That review resulted ir
+pproximately 3,900 additional practitioner comments, further validating the produc
+255
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

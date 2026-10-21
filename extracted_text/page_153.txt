@@ -1,0 +1,33 @@
+• Schedule flexibility. Flexibility is essential for adapting to changes, managing risks, and
+optimizing resource allocations. Flexibility enhances team morale, supports incremental
+delivery, and helps ensure higher-quality outcomes.
+• Schedule forecasts. Schedule forecasts are estimates or predictions of conditions and
+events in the project's future based on information and knowledge available at the time the
+schedule is calculated. The schedule forecast predicts a timeline based on current progress,
+performance trends, and other information pertaining to the project. Forecasts are updated
+and reissued based on work performance obtained as the project is executed.
+2.3.2 Processes
+The Schedule performance domain includes the processes required to manage the timely completion
+of the project. The following processes are included in the Schedule performance domain (see
+Figure 2-20):
+, Plan Schedule Management. The process of establishing policies, procedures, and
+locumentation for designing, developing, managing, performing, and maintaining th
+schedule.
+Initiating
+Planning
+Closing
+Plan
+Schedule
+Management
+Develo
+chedu
+Executing
+Monitoring and Controlling
+Monitor and
+Control
+Schedule
+Figure 2-20. Schedule Performance Domain Processes Overview
+48
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.
+^

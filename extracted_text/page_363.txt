@@ -1,0 +1,86 @@
+PMBOK® Guide-Seventh Edition
+The Standard for Project Management
+• Introduction
+• A System for Value Delivery
+• Project Management Principles
+- Stewardship
+- Tailoring
+- Team
+- Quality
+- Stakeholders
+- Complexity
+- Value
+- Risk
+- Systems Thinking
+- Adaptability and Resiliency
+- Leadership
+- Change
+A Guide to the Project Management
+Body of Knowledge
+• Project Performance Domains
+- Stakeholders
+- Planning
+- Team
+- Project Work
+- Development
+- Delivery
+Approach and
+- Measurement
+Life Cycle
+- Uncertainty
+• Tailoring
+• Models, Methods, and Artifacts
+• Appendices, Glossary, and Index
+Process Groups: A Practice Guide
+• Introduction
+• The Project Environment
+• Role of the Project Manager
+• Initiating Process Group
+• Planning Process Group
+• Executing Process Group
+• Monitoring and Controlling Process Group
+• Closing Process Group
+• Inputs and Outputs
+• Tools and Techniques
+PMBOK® Guide-Eighth Edition
+The Standard for Project Management
+• Introduction
+• A System for Value Delivery
+• Project Management Principles
+- Adopt a Holistic View
+- Focus on Value
+- Embed Quality Into Processes and Deliverables
+- Be an Accountable Leader
+- Integrate Sustainability Within All Project Areas
+- Build an Empowered Culture
+• Project Life Cycles
+A Guide to the Project Management
+Body of Knowledge
+• Introduction
+• Project Management Performance Domains
+- Governance
+- Stakeholders
+- Scope
+- Resources
+- Schedule
+- Risk
+- Finance
+• Tailoring
+• Inputs and Outputs
+• Tools and Techniques
+• Appendices, Glossary, and Index
+Figure X5-1. PMBOK° Guide-Eighth Edition Content Migration
+guidance on how the principles should be manifested in practice. This edition includes both
+the implications for each project management performance domain, as well as multiple
+concrete examples showing "principles in action" for each of the principles.
+Principles should be more focused. The inaugural listing of principles covered concepts
+also presented in other sections of the seventh edition. For example, stakeholders were
+emphasized in both a principle and a performance domain, and tailoring was presented
+as both a principle and a dedicated section of the guide. This eighth edition undertook a
+systematic review of project management principles to minimize overlap. Table X5-2 lists
+the rationalization of the project management principles from the seventh edition to the
+eighth edition.
+258
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

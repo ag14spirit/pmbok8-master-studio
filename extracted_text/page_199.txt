@@ -1,0 +1,44 @@
+• Risk appetite. Risk appetite is the degree of uncertainty an organization or individual is willing
+o accept in anticipation of a reward. Risk appetite is often quantified through a risk threshold
+• Risk threshold. The risk threshold is the measure of acceptable variation around an
+objective that reflects the risk appetite of the organization and stakeholders (internal and
+external) (e.g., a risk threshold of +5% around a cost objective reflects a lower risk appetite
+than a risk threshold of ‡10%).
+• Risk exposure. Risk exposure is an aggregate measure of the potential impact of all risks at
+any given point in time in a portfolio, program, or project.
+• Risk response. A risk response is an action, planned or implemented, to address particular
+threats and opportunities. Adequate and appropriate risk responses can minimize
+individual and overall project threats and maximize individual and overall opportunities.
+Types of risk response strategies include opportunity and threat acceptance or escalation,
+opportunity enhancement, opportunity exploiting, opportunity sharing, threat mitigation,
+threat avoidance, and threat transference.
+Project resilience. Resiliency consists of the ability to absorb impacts and recover quickly
+rom setbacks or failures. Projects are not immune to unexpected disruptions, effects of
+ah-impact and low-probability events (black swan events), or emergent risks, which ar
+sentially unknowable within the context of portfolio, program, and project manageme
+(unknown-unknowns). Incorporating resilience into project management is essential to
+equip projects with the ability to anticipate, respond to, and recover from unexpected
+continuity and minimize the impact of adverse events. Reserve analysis is often related to
+establishing project resilience (see Section 5 on Tools and Techniques).
+Ambiguity and uncertainty. Ambiguity is a state of being unclear, of not knowing what to
+expect or how to comprehend a situation. Ambiguity can arise from having many options
+or a lack of clarity on the optimal choice. Unclear or misleading events, emerging issues, or
+subjective situations can also lead to ambiguity. Uncertainty is the lack of understanding
+and awareness of issues, events, paths to follow, or solutions to pursue. Uncertainty
+deals with the probabilities of alternative actions, reactions, and outcomes. Uncertainty
+includes emerging factors that are completely outside of existing knowledge or experience.
+Ambiguous and uncertain situations do not always escalate into risks. As more information
+becomes available and subject matter experts get involved, these situations can often be
+resolved through a collaborative problem-solving process.
+2.7.2 Processes
+The Risk performance domain includes the processes required to conduct risk management
+planning, identification, analysis, response planning, response implementation, and risk reviews on
+a project. The objectives of this performance domain are to increase the probability and impact of
+positive risks while decreasing the probability and impact of negative risks. This approach accelerates
+project resilience, reduces uncertainty, and increases the chances of project success.
+The following processes are included in the Risk performance domain (see Figure 2-47):
+• Plan Risk Management. The process of outlining how to conduct risk activities early in the
+project, starting at project conception.
+94
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,64 @@
+Assess and Implement Changes
+Inputs
+• Project management plan
+- Change management plan
+- Configuration management
+plan
+- Scope baseline
+- Schedule baseline
+- Cost baseline
+• Project documents
+- Basis of estimates
+- Change log
+- Requirements traceability
+matrix
+- Risk report
+• Work performance reports
+• Change requests
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Change control tools
+• Data analysis
+- Alternative analysis
+- Cost-benefit analysis
+• Decision-making
+- Voting
+making
+- Multicriteria decision
+analysis
+• Meetings
+• Integrated change control
+• Backlog management
+• Etc.
+Outputs
+•
+• Approved change requests
+• Project management plan
+updates
+- Any component
+• Project document updates
+- Change log
+• Etc.
+Figure 2-10. Assess and Implement Changes Inputs, Tools and Techniques, and Outputs
+2.1.6.8.1 Predictive Approaches
+In predictive project approaches, changes are not formally controlled until baselines are established.
+change request.
+Although changes can be initiated verbally, they should be documented in writing and entered
+into the change or configuration management system. Change requests should typically include
+nformation on the estimated schedule and cost impacts before they can be approved. If a change
+request impacts a project baseline, integrated change control measures should follow a formal
+process to assess and implement those changes. Each documented change request should be
+approved, deferred, or rejected by a designated person, such as the project sponsor or project
+manager, as specified in the project management plan or organizational procedures.
+Figure 2-11 shows an example flow of how the Assess and Implement Changes process might be
+performed.
+Section
+2 - Project Management Performance Domains
+29
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,39 @@
+Table 2-4. Governance Interactions With Other Performance Domains
+Performance Domain
+Explanation
+Scope
+Schedule
+Finance
+Stakeholders
+Since project scope is where the project's core value lies, the Governance
+and Scope performance domains often comprise the most important domain
+interaction. The Scope-Governance approach can have extensive formal con-
+trols or be more informal, but such governance decisions are pivotal.
+Because most projects involve some form of investment-be it financial,
+strategic, or otherwise-and because the value proposition is often sensitive
+to time, the interaction between the Governance and Schedule performance
+domains can be critical.
+Well-applied governance may increase a project's speed and effectiveness,
+while poorly applied governance can slow it down or result in ineffective
+outcomes.
+All projects are investments, and the value proposition of any investment is
+sensitive to the amount being invested (i.e., cost). Consequently, the interac-
+tion between the Governance and Finance performance domains can impact
+projects with cost overruns or underruns.
+Nell-applied project governance can help ensure that all stakeholders ar
+engaged at the right time in order to achieve project success. Governanc
+considers the vantage points of all players to help ensure individuals are
+aware of what is happening in a project and can give input, provide advice, o
+erform work at the appropriate time
+Resources
+he interaction between the Governance and Resources performance domain
+equires attention in the context of the specific project, as well as how resou
+Risk
+All projects are investments with inherent risks, requiring effective interaction
+between the Governance and Risk performance domains. Risks, encompas-
+For example, risk mitigation efforts may incur additional expenditures, but
+they can be worthwhile if they enhance the overall project outcomes, such
+as improving safety, regulatory compliance, stakeholder confidence, or the
+risk-adjusted return on investment.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

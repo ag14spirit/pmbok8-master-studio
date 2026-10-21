@@ -1,0 +1,40 @@
+life cycles are independent of product life cycles, which can be part of the outcomes produced by a
+project. Projects may also generate outputs, which in turn enable outcomes that progressively realize
+the organization's strategy.
+The phases in a life cycle can be described by a variety of attributes. Attributes may be measurable
+and unique to a specific phase. Attributes may include but are not limited to name, number, duration,
+resource requirements, entrance criteria for a project to move into that phase, and exit criteria for a
+project to complete a phase. A phase gate may occur after the end of a phase, before the beginning
+of the next phase.
+Phase gates often include a review—sometimes known as stage gate, gate review, iteration review,
+or decision point review—to check that the desired outcomes or exit criteria for the phase have
+been achieved before proceeding to the next phase. Exit criteria may be tied to acceptance criteria
+for deliverables, contractual obligations, meeting specific performance targets, or other tangible
+measures. Factors such as resource availability, verification of the project's viability, and current
+alignment with organizational goals may determine the entry criteria. The project's performance and
+progress are compared to project and business documents that specify expectations. A decision (e.g.,
+go/no-go decision) is made as a result of this comparison to continue to the next phase, continue to
+the next phase with modification, end the project or phase, remain in the phase, repeat the phase or
+elements of it, or park the project temporarily to address another urgent business initiative.
+While phase gates are traditionally placed at the end of each phase to review the project's progress,
+they can also be placed at the start of each phase. These starting phase gates (pre-phase gates)
+can help ensure that the project is properly aligned, that sufficient resources and planning are ir
+place, and that potential risks are addressed before progressing further. This additional checkpoint
+enhances the control and success of the project.
+Organizations with multiple projects will often adopt a few standard project life cycles. Project
+managers and project teams may need to advise their management on the most appropriate life
+• Selecting the development approach or mix of approaches;
+• Identifying the types of processes and activities that should be performed; and
+• Adjusting the various attributes of an activity, phase, or process (e.g., name, duration,
+entrance criteria, and exit criteria).
+A generic project phase is generally impacted by a series of characteristics. Depending on the project
+life cycle, these may present a series of scenarios. These characteristics and their scenarios vary
+greatly but may include the following:
+• Cost and staffing. In many predictive project scenarios, levels of cost and staffing are low at
+the start, increase as the work is carried out, and drop rapidly as the project or phase ends.
+• Risk and uncertainty. Regardless of the project life cycle, these two elements are usually
+greatest at the start of the project or phase and decrease over the project's life cycle as
+decisions are reached and deliverables are accepted.
+58
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

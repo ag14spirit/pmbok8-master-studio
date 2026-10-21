@@ -1,0 +1,46 @@
+Reserves Managed Implicitly
+Reserves Managed Explicitly
+Management
+Reserve
+Management
+Reserve
+Contingency
+Reserve
+Contingency
+Reserve
+Work Cost
+Estimates
+Cost
+Baseline
+Initial
+Budget
+Work Cost
+Estimates
+Cost
+Baseline
+Initial
+Budget
+Total Amount
+Figure 2-25. Two Scenarios of Budget Buildup
+• Cost management. The primary source of project costs comes from the resources needed
+operating costs.
+• Cost measurement. Different stakeholders measure project costs in different ways and
+it different times. For example, the cost of an acquired item may be measured when th
+cquisition decision is made or committed, the order is placed, the item is delivered, or th
+actual cost is incurred or recorded for project accounting purposes. In many organizations,
+predicting and analyzing the prospective financial performance of the project's product is
+performed outside of the project. In others, such as a capital facilities project, project cost
+management should include this work.
+2.4.2 Processes
+he Finance performance domain includes the processes required to determine, manage, and
+ontrol the finances of the proiect. The following processes are included in the Finance performanc
+domain (see Figure 2-26):
+• Plan Financial Management. The process of defining how the project revenues and
+expenses will be estimated, budgeted, managed, monitored, and controlled, ensuring
+alignment with project objectives and organizational strategy.
+• Estimate Costs. The process of developing an approximation of the cost of resources
+needed to complete project work.
+Section
+2 - Project Management Performance Domains
+61
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

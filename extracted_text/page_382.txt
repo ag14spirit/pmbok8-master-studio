@@ -1,0 +1,81 @@
+Index
+A
+Academic research, 120
+Accept (strategy), 158, 202, 203, 204
+Acceptance criteria, 128
+Accepted deliverables, 35, 38, 46, 113
+Accountability
+of Al systems, 239
+in centralized management, 151
+daily coordination meetings creating sense of, 162
+Accuracy, levels of, 121, 139
+Achievement, motivation by, 182
+Acknowledging receipt of message, 154
+Acquire Resources process, 80, 82-84
+Active acceptance, 158, 202
+Active listening, 145
+Activities
+defining, 50-51
+determining sequence of, 51
+estimating effort and duration needed for, 52-53
+of leadership, 84, 175
+of management, 84, 175
+in project schedule network diagram, 127
+Activity attributes, 113
+Activity list, 114
+Actual cost (AC), 118, 169, 206, 207
+Actual duration, 48
+Adaptive life cycle, 34, 45, 55
+Adaptive teams, 34
+Adjourning (team development phase), 211
+Affiliation, motivation by, 182
+Affinity diagram, 145
+After-action reviews (AARS), 145-146
+Agile contracting, 252
+Agile release planning, 146, 147
+Agile teams, 34
+Agreements, 114, 183
+Alternative analysis, 146
+Alternative dispute resolution (ADR) methods, 253
+Ambiguity, 94
+Analogous estimating, 146-147
+Appraisal costs, 159
+Approved budget, 118
+Approved change(s), 114
+Approved change requests, 30, 114
+Approved project charter, 18
+Arbitration, 253
+Artificial intelligence (Al), 237-244
+in claims administration, 253
+common use cases, 239, 240-243
+in communication, 75,242
+in contract management, 252
+in decision-making, 69, 240
+ethical concerns of, 239-244
+in knowledge management, 24-26
+overview of, 147, 237
+in risk identification, 101, 241
+risks of, 26, 239-243
+in scheduling, 242
+strategies for adopting, 238-239
+Assess and Implement Changes process, 16, 17,
+28-30, 117
+Assistance, Al used in, 238-239, 240-242
+Assumption and constraint analysis, 147-148
+Assumption log, 114
+Attributes
+activity, 113
+of deliverables, 56, 108
+of dependencies, 166-168
+of products, 56, 108
+of project teams, 56, 108-109
+in requirements traceability matrix, 131-132
+Audits, 148
+Augmentation, 239, 240-242
+Augmented reality (AR), 148
+Authorization, 17
+Authorized budget, 169, 207
+Autocratic decision-making, 163
+Index
+277
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

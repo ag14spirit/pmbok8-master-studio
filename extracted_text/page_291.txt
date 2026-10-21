@@ -1,0 +1,34 @@
+Activity A
+Finish to Start (FS)
+•
+Activity B
+Start to Start (SS)
+Activity A
+Activity B
+Activity A
+Activity B
+Finish to Finish (FF)
++
+Start to Finish (SF)
+Activity A
+Activity B
+Figure 5-13. Precedence Diagramming Method Relationship Types
+In the precedence diagramming method, FS is the most commonly used type of precedence
+relationship. The SF relationship is very rarely used, but it is included here to present a complete list
+of the relationship types in the precedence diagramming method.
+Two activities can have two logical relationships at the same time (for example, SS and FF). Multiple
+relationships among the same activities are not recommended, so a decision has to be made to
+select the relationship with the highest impact. Closed loops are also not recommended in logical
+relationships.
+mitigation strategies based on historical data.
+resentations. A presentation is the formal delivery of information and/or documentation. Clear an
+effective presentations of project information to relevant stakeholders can include but are not limite
+to the following:
+Progress reports and information updates to stakeholders;
+Background information to support decision-making;
+General information about the project and its objectives, for the purposes of raising the
+profile of the work of the project and the team; and
+186
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

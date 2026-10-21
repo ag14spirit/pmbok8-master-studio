@@ -1,0 +1,33 @@
+The project charter forms a partnership between the performing and requesting organizations. The
+approved business case, or similar item, justifies the reason behind initiating the project and the
+expected value.
+For cross-corporate projects with two or more organizations involved, contracts are used to establish
+formally initiates the project, identifying and assigning a project manager as early as possible, ideally
+during the development of the charter and always before planning begins. The project charter can be
+developed by the sponsor or the project manager in collaboration with the initiating entity, allowing
+the project manager to gain a better understanding of the project's purpose, objectives, and expected
+benefits. This understanding facilitates efficient resource allocation to project activities. The project
+charter grants the project manager the authority to support the project.
+In adaptive approaches, project charters are often designed to be more flexible, ranging from
+minimally impactful worksheets or concise vision statements to moderately detailed documents.
+•
+Why is the project being undertaken?
+• Who will be engaged?
+• What is this project about?
+• Where will it occur?
+• When will it start and end?
+• How will it be carried out?
+• Who is the customer?
+By emphasizing clarity and flexibility, adaptive project charters can ensure alignment among
+stakeholders while maintaining the ability to adapt to changes throughout the project's life cycle.
+2.1.6.2 Integrate and Align Project Plans
+this process is the creation of a thorough document outlining the basis for the various aspects of all
+project activities and how they will be executed. This process is typically conducted once or at specific
+intervals during the project.
+adaptable enough to respond to the dynamic project environment-ideally, by following a progressive
+elaboration approach—ensuring that more accurate information is available as the project progresses.
+The output of this process should be documented and communicated to key project stakeholders.
+18
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,23 @@
+Section 4
+Inputs and Outputs
+All of the inputs and outputs in this section appear in alphabetical order; therefore, no section
+numbers are assigned.
+Accepted deliverables. Accepted deliverables are the products, services, and capabilities that are
+created through a project and are validated by an appointed individual or a group of individuals
+against established criteria. When such criteria are met, the deliverables are approved and accepted.
+The authorized stakeholder who approves the deliverables should get involved early on in the
+process and provide feedback regarding the quality of the deliverables so that the team can assess
+quality and performance and recommend any necessary changes.
+Activity attributes. Activity attributes are multiple attributes associated with each schedule activity
+that can be included within the activity list. Activity attributes extend the description of the activity by
+identifying multiple components associated with each activity.
+The components for each activity evolve over time. During the initial stages of the project, they
+include the unique activity identifier (ID), work breakdown structure (WBS) ID, deliverables ID, and
+activity label or name. When completed, they may include activity descriptions, predecessor activities,
+successor activities, logical relationships, leads and lags, resource requirements, imposed dates,
+constraints, and assumptions. Activity attributes can be used to identify the place where the work
+should be performed, the project calendar the activity is assigned to, and the type of effort involved.
+Activity attributes are used for schedule development and for selecting, ordering, and sorting the
+planned schedule activities in various ways within reports.
+113
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

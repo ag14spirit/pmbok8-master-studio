@@ -1,0 +1,42 @@
+of assumptions. Constraints may give rise to opportunities through removing or relaxing a limiting
+factor that affects the execution of a project or process.
+Audits. An audit is a structured, independent process used to determine if project activities comply
+with organizational and project policies, processes, and procedures.
+• Procurement audit. A procurement audit is a structured review of the procurement
+process, which includes the review of contracts and contracting processes for
+adjustments to the project, when necessary.
+• Quality audit. A quality audit is usually conducted by a team external to the project, suci
+s the organization's internal audit department, project management office (PMO), o
+an auditor external to the organization. Quality audit objectives may include but are not
+limited to the following:
+• Identifying all good practices being implemented;
+• Identifying all nonconformities, gaps, and shortcomings;
+• Sharing good practices introduced or implemented in similar projects in the
+organization and/or industry;
+• Proactively offering assistance in a positive manner to improve the implementation of
+processes to help raise team productivity;
+• Highlighting contributions of each audit in the lessons learned repository of the
+organization;
+• Subsequent efforts to correct any deficiencies should result in a reduced cost of quality
+and an increase in sponsor or customer acceptance of the project's product;
+• Quality audits may be scheduled or random, and may be conducted by internal or
+external auditors; and
+• Quality audits can confirm the implementation of approved change requests including
+updates, corrective actions, defect repairs, and preventive actions.
+• Risk audit. A risk audit is a type of audit that may be used to consider the effectiveness of th
+isk management process. The proiect manager is responsible for ensuring that risk audit.
+are performed at an appropriate frequency, as defined in the project's risk management plan.
+Risk audits may be included during routine project review meetings, may form part of a risk
+review meeting, or the team may choose to hold separate risk audit meetings. The format for
+the risk audit and its objectives should be clearly defined before the audit is conducted.
+Augmented reality (AR). Augmented reality is the use of technology to simulate and enhance the
+actual, physical reality and environment through the overlay of digital information. This technique
+connects the real and digital worlds through technologies and devices such as smartphones or headsets.
+Autocratic decision-making. See decision-making.
+Backlog management. Backlog management is primarily used in adaptive approaches to maintain
+he list of backlog items to be worked on during a project and refers to the process by which the
+wner of the backlog, commonly a product owner, assists in keeping the backlog up to date. To avoi
+148
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

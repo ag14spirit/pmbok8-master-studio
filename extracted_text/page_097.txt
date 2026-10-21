@@ -1,0 +1,33 @@
+Planning
+Executing
+Executing
+Level of
+Activity
+/Iteration
+Planning
+Monitoring &
+Controlling
+'Iteration:
+2
+Monitoring &
+Controlling
+Planning
+Executing
+Iteration",
+Initiating
+Monitoring & 1
+Controlling
+closing y
+Time
+Figure 4-14. Example of Focus Area Interactions Within a Project or Phase Using an
+Adaptive Approach
+Figure 4-14 illustrates an example of how Focus Areas can interact during a project or phase using
+a primarily adaptive approach. In adaptive development, the Focus Areas-Initiating, Planning,
+Executing, Monitoring and Controlling, and Closing-are not strictly linear, sequential, or performed
+all at once. Instead, they interact within short iterations in a flexible and often overlapping manner.
+Each Focus Area is revisited regularly throughout the project, allowing for continuous refinement and
+adjustment based on real-time data, feedback, and evolving project needs. This iterative approach
+enables greater responsiveness to change and helps ensure that the project remains aligned with
+stakeholder expectations and goals.
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

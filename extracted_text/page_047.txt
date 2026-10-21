@@ -1,0 +1,41 @@
+• Project management within a product life cycle. This approach oversees the
+development and maturity of product capabilities as an ongoing business activity. Portfolio
+governance charters individual projects as needed to perform enhancements and
+improvements or to produce other unique outcomes.
+•
+Product management within a portfolio. This approach integrates product
+management within the structure of a portfolio, where the entire product life cycle is
+managed within the boundaries of a single portfolio. Portfolio management helps ensure
+that product-related investments align with business strategy, prioritize high-value
+initiatives, and allocate resources efficiently across multiple product lines or business
+units.
+Product management within a program or project. This approach applies to the
+or capability support activities may fall within the scope of the program, they typically are
+operational in nature and are not usually run as programs or projects.
+• Product management across programs and projects. A product life cycle often spans
+multiple programs and projects, and thus calls for effective management across those
+programs and projects.
+While product management is a separate discipline with its own body of knowledge, it represents
+a key integration point within the program management and project management disciplines.
+Collaboration among these disciplines is essential for delivering cohesive and impactful outcomes.
+Product management provides the vision and strategy for the product, while program and project
+management ensure that this vision is brought to life by managing execution, dependencies, and
+resources.
+Programs and projects with deliverables that include products use a tailored and integrated
+approach that incorporates all of the relevant bodies of knowledge and their related practices,
+methods, and artifacts. Programs and projects support product management by structuring and
+uiding the development process, managing risks, and maintaining alignment with organizationa
+objectives. This collaboration helps ensure that the product is delivered efficiently and effectively
+with minimal delays and cost overruns, ultimately driving organizational success and customer
+satisfaction.
+Supporting roles, such as product owner and business analyst, can further bridge the gap between
+project and product management. The product owner should ensure that the development team
+is focused on delivering valuable features by maintaining and prioritizing the product backlog. The
+business analyst should gather and document requirements, ensuring that both the project scope
+and product functionality align with business needs. These roles help to create a seamless flow of
+communication and understanding among product, project, and development teams, ensuring
+alignment at every stage of the product life cycle.
+2.4 Functions Associated With Projects
+24
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

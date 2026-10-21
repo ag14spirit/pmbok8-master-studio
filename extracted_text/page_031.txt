@@ -1,0 +1,32 @@
+Organization
+Business
+Value
+000
+Future State
+Current State
+PROTES
+Project Activities
+• Activity A
+• Activity B
+• Activity C
+• Etc.
+• Time
+Figure 1-1. Impact of Projects on Organizational States
+custom policies that are formed by the organization's unique context. This context can influence the
+governance of portfolios, programs, and projects in several ways, including the following:
+• Enforcing legal, regulatory, and compliance requirements;
+• Defining ethical, social, and environmental responsibilities;
+• Specifying operational, legal, financial, and risk policies;
+• Promoting the alignment of portfolios, programs, and projects with strategic objectives at
+different hierarchical levels;
+• Ensuring that initiatives contribute to the organizational mission and vision: and
+• Facilitating decision-making that maximizes delivered value connected to the system for
+value delivery.
+Project governance is the adaptable framework that guides project management activities to
+create value through a unique product, service, or result aligned with organizational, strategic, and
+operational goals. Governance provides structure, systems and processes, roles, responsibilities,
+and decision-making models, such as RACI (responsible, accountable, consulted, informed) matrices
+or governance boards, to manage projects effectively. Governance frameworks can also ensure
+alignment with stakeholder expectations by defining accountability and communication protocols
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

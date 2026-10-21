@@ -1,0 +1,28 @@
+Work performance information. Work performance information includes the work performance
+data collected from controlling processes, analyzed in comparison with project management plan
+components, project documents, and other work performance details. This comparison helps to
+indicate how the project is performing.
+Specific work performance metrics for scope, schedule, budget, and quality are defined at the start
+of the project as part of the project management plan. Performance data is then collected during the
+project and compared to the plan and other variables to provide a context for work performance.
+For example, work performance data on cost may include funds that have been expended.
+However, to be useful, that data should be compared to the budget, the work that was performed,
+the resources used to accomplish the work, and the funding schedule. This additional information
+provides the context to determine if the project is on budget or if there is a variance. This informatior
+Iso indicates the degree of variance from the plan, and by comparing it to the variance thresholds ir
+he project management plan it can indicate if preventive or corrective action is required. Interpreting
+work performance data and additional information provides a sound foundation for making project
+decisions.
+Work performance reports. Work performance reports are the physical or electronic
+representations of work performance information compiled in project documents, which are
+intended to generate decisions, actions, or awareness. The reports are circulated to project
+stakeholders through the communication processes as defined in the project's communications
+management plan.
+Examples of work performance reports include status reports and progress reports. Work
+performance reports may contain status of configuration items, earned value (EV) graphs and
+formation, trend lines and forecasts, iteration burndown charts, defect histograms, contrac
+erformance information, and risk summaries. The reports can be presented as dashboards, heat
+reports, stoplight charts, or other representations useful for promoting awareness and generating
+decisions and actions.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

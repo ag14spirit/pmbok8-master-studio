@@ -1,0 +1,40 @@
+the project. The OPAs also include the organization's lessons learned from previous projects and
+historical information, as well as lessons from previous work carried out. The OPAs are inputs to
+many project management processes and may include completed schedules, risk data, and earned
+value data. Since OPAs are internal to the organization, the project team members may be able to
+update and add to the OPAs as necessary throughout the project. They may be grouped into two
+• Policies, processes, and procedures. Generally, these assets are not updated as part of
+the work required to achieve the outcomes of the project and are usually established by
+the project management office (PMO) or another function outside of the project (for more
+details about PMOs, see Appendix X2). These assets can be updated only by following the
+appropriate organizational policies. Some organizations encourage project teams to tailor
+templates, life cycles, and checklists for the project. In these cases, the project team should
+• Organizational knowledge repositories. These assets are updated throughout the project
+learned, periormance mers, and sues and detects are continually upate lesoughout
+the project.
+2.2.3 Policies, Processes, and Procedures
+The organization's policies, processes, and procedures for conducting project work include but are
+not limited to the following:
+• Tailoring guidelines and criteria for the organization's set of standard processes and
+procedures to satisfy the specific needs of the project;
+• Product and project life cycles as well as methods and procedures (e.g., project
+management methods, estimation metrics, process audits, improvement targets, checklists,
+and standardized process definitions for use in the organization);
+• Templates (e.g., project management plans, project documents, project registers, report
+formats, contract templates, risk categories, risk statement templates, risk register
+templates, probability and impact definitions, probability and impact matrices, and
+stakeholder register templates);
+• Preapproved supplier lists, contract templates (e.g., fixed-price, cost-reimbursable, and time
+and materials [T&M] contracts), and proposal evaluation criteria;
+• Progress monitoring processes and procedures to meet or exceed the project's value
+proposition, reoptimizing the project baseline when advantageous;
+• Change control procedures;
+• Traceability matrices;
+• Issue and defect management processes;
+• Resource availability control and assignment management policies;
+• Processes for prioritizing, approving, and issuing work authorizations;
+• Standardized guidelines, work instructions, and performance measurement procedures
+and guidelines;
+20
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

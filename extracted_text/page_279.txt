@@ -1,0 +1,103 @@
+Burndown Chart
+Burnup Chart
+Combined Burn Chart
+Shows how
+much work
+is yet to be
+completed
+Shows how
+much work
+has been
+completed
+Likelihood Impact Risk Rating
+Likely
+High
+High
+Reference
+1
+2
+3
+Risk Description
+The main supplier cannot
+deliver on time because o
+other commercial
+commitments
+The lead time for the
+leased line exceeds
+90 days
+Release of the new syster
+s delayed because use
+acceptance testing
+commences after the
+planned start
+There is insufficient
+capacity to create
+additional database
+instances for data
+migration and testing
+Date
+03/21
+03/21
+03/21
+04/18
+Unlikely
+Very
+likely
+Very
+unlikely
+Medium
+High
+Medium
+Medium
+High
+Low
+Response
+Include financial penalties
+in contract; build
+contingency into the
+schedule; monitor
+contractor performance
+Order leased line earlier
+than necessary; incur
+additional rental fees
+Employ temporary staf
+o free up resources fo
+testing; revise project
+schedule
+Prioritize projects;
+temporarily remove
+alternative development
+instance
+Shows how
+much work has
+been completed
+and how much
+remains
+Owner
+Annie
+Jim
+Mark
+Jim
+Risk Log
+Figure 5-9. Information Radiator
+In-progress postmortems. An in-progress postmortem is a structured process conducted at various
+tages of the project life cyde to analyze current performance, identiy list, these revieemare
+norovements. Unlike traditional postmortems held at the end of a
+conducted periodically to ensure continuous improvement and timely problem-solving.
+spections. An inspection is the examination of a work product to determine if it conforms ti
+ocumented standards. The results of inspections generally include measurements and may be conducte
+at any level. The results of a single activity can be inspected or the final product of the project can be
+inspected. Inspections may be called reviews, peer reviews, audits, or walkthroughs. In some application
+areas, these terms have narrow and specific meanings. Inspections also are used to verify defect repairs.
+ntegrated change control. Integrated change control helps ensure that changes to the project ar
+anaged in a coordinated and controlled manner. By evaluating change requests, conducting impad
+analyses, making informed decisions, and documenting and communicating changes, the project can
+maintain alignment with its objectives and constraints, ultimately contributing to project success.
+Interpersonal and team skills. Interpersonal skills that are used frequently in projects include
+emotional intelligence, decision-making, facilitation, and conflict management and resolution, among
+others. (See emotional intelligence; decision-making; conflict management.) As for team management,
+this effort entails applying knowledge, skills, tools, and techniques for management activities as well
+174
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

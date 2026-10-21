@@ -1,0 +1,45 @@
+The OPAs include any artifact, practice, or knowledge from any or all of the performing organizations
+involved in the project that can be used to execute or govern the project. The OPAs also include
+the organization's lessons learned from previous projects and historical information. Additionally,
+OPAs may include completed schedules, risk data, and earned value data. The OPAs are inputs to
+many project management processes. Since OPAs are internal to the organization, the project team
+members may be able to update and add to them as necessary throughout the project. A project's
+OPAs may be grouped into two categories:
+• Processes, documents, and templates. Generally, assets in this category are not updated
+as part of the project work. Processes, documents, and templates are usually established
+by the project management office (PMO) or another function outside of the project. These
+assets can be updated only by following the appropriate organizational policies associated
+with updating them. Some organizations encourage the team to tailor templates, life cycles,
+and checklists for the project. In these instances, the project management team should
+tailor those assets to meet the needs of the project.
+• Organizational knowledge repositories. Assets in this category are updated throughout
+le project with project information. For example, information on financial performance
+essons learned, performance metrics and issues, and defects are continually update
+throughout the project.
+Organizational process asset (OPA) updates. Any OPA can be updated as a result of a process.
+Updates include plans, processes, and knowledge repositories specific to and used by the performing
+organization.
+Outputs from other processes. Outputs from other processes are integrated to create the project
+management plan. Subsidiary plans and baselines that are outputs from other processes are inputs
+to this process. In addition, changes to these documents may necessitate updates to the project
+management plan.
+Performance measurement baseline (PMB). The performance measurement baseline includes the
+integrated scope, schedule, and cost baselines used for comparison to manage, measure, and control
+project execution.
+Physical or virtual resource assignments. The physical and virtual resource assignments document
+he materials, equipment, supplies, locations, and other physical resources, as well as digital tools
+emote team members, and virtual assets that will be utilized during the project. This documentatio
+describes the expected resource utilization and whether the resource is internal to the organization,
+outsourced, or remotely engaged. Physical and virtual resource assignments are dynamic and subject to
+change due to availability, project needs, organizational requirements, the environment, or other factors.
+Procurement documentation. Procurement documentation includes all of the documents used in
+signing, executing, and closing an agreement. Procurement documentation may include documents
+predating the project. This documentation contains the complete supporting records for administration of
+the procurement processes. Procurement documentation includes the statement of work (SOW), payment
+information, contractor work performance information, plans, drawings, and other correspondence.
+Procurement management plan. The procurement management plan is a component of the
+program or project management plan that describes how a team will acquire goods and services
+from outside of the performing organization.
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

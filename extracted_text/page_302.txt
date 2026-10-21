@@ -1,0 +1,38 @@
+the critical path. Crashing works only for activities on the critical path where additional
+resources will shorten the activitys duration. Crashing does not always produce a viable
+alternative and may result in increased risk and/or cost.
+one in sequence are perrormed in oar
+path. Such overlapping requires increased coordination efforts between the activities
+concerned, potentially resulting in greater quality risk. Fast tracking may also increase
+project costs.
+Schedule network analysis. Schedule network analysis is a technique used to identify early and late
+start dates, as well as early and late finish dates, for the uncompleted portions of project activities.
+the following:
+• Assessing the need to aggregate schedule reserves to reduce the probability of a schedule
+slip when multiple paths converge at a single point in time, or when multiple paths diverge
+from a single point in time, to reduce the probability of a schedule slip.
+• Reviewing the network to see if the critical path has high-risk activities or long-lead item:
+that would necessitate use of schedule reserves or the implementation of risk responses to
+reduce the risk on the critical path.
+Schedule network analysis is an iterative process that is employed until a viable schedule model is
+developed.
+Sensitivity analysis. Sensitivity analysis helps to determine which individual project risks or other
+variates in projecity tames ito variatens i element priet quactave this analyis corelates
+One typical display of sensitivity analysis is the tornado diagram, which presents the calculated
+correlation coefficient for each element of the quantitative risk analysis model that can influence
+the project outcome. This analysis can include individual project risks, project activities with high
+egrees of variability, or specific sources of ambiguity. Items are ordered by descending strengt
+f correlation, giving the typical tornado appearance. An example tornado diagram is shown
+Figure 5-21.
+ervant leadership. Servant leadership is the practice of leading the team by focusing o
+nderstanding and addressing the needs and development of team members in order to enab
+the highest possible team performance. Servant leadership is performed in service to the project's
+business/mission objective(s).
+Simulation. Simulation models the combined effects of individual project risks and other sources
+of uncertainty to evaluate their potential impact on achieving project objectives. The most common
+simulation technique is Monte Carlo analysis, in which risks and other sources of uncertainty are
+used to calculate possible schedule outcomes for the total project. Simulation involves calculating
+multiple work package durations with different sets of activity assumptions, constraints, risks, issues,
+Section 5 - Tools and Techniques
+197
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

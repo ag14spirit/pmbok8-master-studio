@@ -1,0 +1,67 @@
+Product vision drives
+product roadmap
+Product roadmap
+drives release plans
+Release 1
+Release 2
+Release 3
+Release Plan
+Release plan
+establishes
+the iterations
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration n
+Iteration plans
+schedule feature
+development
+Prioritized features
+delivered by user
+stories (estimated
+in story points)
+Tasks (estimated in
+hours) created to
+deliver user stories
+Iteration Plan
+Feature A
+(User Story 1)
+•
+Feature A
+(User Story 2)
+Task A
+Task B
+Task C
+Task D
+Feature B
+(User Story 3)
+5 Hours
+8 Hours
+4 Hours
+12 Hours
+Feature C
+(User Story 4)
+Feature D
+(User Story 5)
+Figure 5-1. Relationship Among Product Vision, Release Planning, and Iteration Planning
+most reliable when the previous activities are similar in fact and not just appearance, and when the
+project team members preparing the estimates have the needed expertise.
+Artificial intelligence (Al). Al is the programming of machines with patterns and processes similar to
+those observed in-and by-humans and human interactions.
+• Machine learning (ML). Machine learning is a part of Al, and its main goal is to develop
+software that can learn from past experiences, similar to what humans do. Common fields
+include recognizing speech and images; predicting weather, stock market behavior, and
+traffic; operating autonomous cars; filtering email spam; and providing a medical diagnosis.
+Natural language processing (NLP). The NLP technique's goal is to build software that
+can process natural language, like humans. In other words, people communicate with
+computers in their own natural language. Some NLP examples include chatbots, speech
+recognition, text extraction and summarization, and sentiment analysis.
+Assumption and constraint analysis. Every project is conceived and developed based on a set
+of assumptions and within a series of constraints. These assumptions and constraints are often
+already incorporated in the scope baseline and project estimates. Assumption and constraint
+analysis explores the validity of assumptions and constraints to determine which pose a risk to the
+project. Threats may be identified from the inaccuracy, instability, inconsistency, or incompleteness
+Section 5 - Tools and Techniques
+147
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

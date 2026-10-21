@@ -1,0 +1,49 @@
+Integrated Change Control
+Finance
+Scope
+Finance
+Schedule
+Resources
+Stakeholders
+Risk
+Change Request
+Corrective Action
+Preventive Action
+Defect Repair
+Update
+Scope
+Schedule
+Impact
+Analysis
+Risk
+Resources
+Decision
+Approved
+Rejected
+Deferred
+More Information
+Stakeholders
+Figure 2-11. Example Flow for Project Changes
+When applicable, a change control board (CCB) or project board may be involved. The CCB is a
+ormally established group responsible for reviewing, evaluating, approving, deferring, or rejectir
+anges-and for documenting and communicating these decisions. While awaiting the decisio
+of the CCB, project managers should continually execute planned tasks while also analyzing the
+impact and risks related to accepting or rejecting the proposed changes to minimize negative
+impacts.
+Approved change requests may require new or updated cost estimates, schedule adjustments,
+resource requirements, and risk assessments. These changes may also require updates to the
+project management plan and other project documents. Depending on the nature of the change,
+customer or sponsor approval may be required after CCB approval, unless the customer or sponsor
+is a CCB member.
+Changes are made to create improvements to the original plan and baseline, often based on
+changing conditions. The results of the changes should be monitored to ensure they yield the desired
+results.
+2.1.6.8.2 Adaptive Approaches
+In adaptive approaches, managing project changes typically involves backlog management
+rather than a formal change request process. Changes are continuously assessed and prioritized
+throughout the iterative development cycle. When a stakeholder proposes a change, it is recorded as
+a product backlog item and added to the backlog. Although these are not formally termed as change
+requests, an impact analysis is conducted to evaluate the change's effect and set its priority.
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

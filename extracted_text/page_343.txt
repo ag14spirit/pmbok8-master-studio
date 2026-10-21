@@ -1,0 +1,23 @@
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Generative Al
+GPT
+Figure X3-1. The Relationship Among the Technologies Needed to Make Generative Pretrained
+Transformers (GPTs) Work
+X3.1.1 Strategies for Al Adoption
+Al can support project management tasks in many ways. The more complex the task, the more
+human intervention is required to result in high-quality outcomes. In that sense, a good strategy
+is classifying tasks according to complexity and the need for human supervision. As a result of this
+classification, the opportunities to use Al fall into three categories:
+• Automation. Tasks that are low complexity and require little human intervention in their
+final output can be automated. Common examples are report generation, document
+analysis, and conference call summarization. Standard prompts can be created and
+reutilized across different projects and teams. A good source of those prompts can be
+found in the PMI Prompt Library as part of the PMI Infinity™ tool.
+Assistance. At the assistance level, the tools complement analysis and iteratively bui
+leas toward an expected output. The result of the first iterations should not be considere
+complete without further analysis and refinement. Some examples are the creation of a risk
+238
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

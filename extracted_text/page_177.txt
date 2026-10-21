@@ -1,0 +1,65 @@
+Plan Stakeholder Engagement —
+Inputs
+• Project charter
+• Project management plan
+- Resource management
+plan
+- Communications
+management plan
+- Risk management plan
+• Project documents
+- Assumption log
+- Change log
+- Issue log
+- Project schedule
+- Risk register
+- Stakeholder register
+• Agreements
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Data gathering
+- Benchmarking
+• Data analysis
+- Assumption and
+constraint analysis
+- Root cause analysis
+• Decision-making
+- Prioritization/ranking
+• Data representation
+- Mind mapping
+- Stakeholder engagement
+assessment matrix
+• Meetings
+• Etc.
+Outputs
+• Project management plan
+updates
+- Stakeholder engagement
+plan
+• Etc.
+Figure 2-34. Plan Stakeholder Engagement Inputs, Tools and Techniques, and Outputs
+2.5.2.3 Plan Communications Management
+The Plan Communications Management process involves the activities to plan how to communicate
+with the identified stakeholders, both inside and outside the team. Communication planning overlaps
+with stakeholder identification, analysis, prioritization, and engagement, and is closely aligned with
+the stakeholder engagement plan, assisting with consistency in communication strategies and
+alignment with stakeholder expectations. There may be different categories of information, such
+as internal or external, sensitive or public, and general or detailed. Analyzing the stakeholders,
+information needs, and categories of information provides the foundation for establishing the
+communication processes and plans for the project (see Figure 2-35).
+2.5.2.4 Manage Stakeholder Engagement
+Manage Stakeholder Engagement is the process of communicating and working with stakeholders,
+which includes collaborating with sponsors to meet their needs and expectations, addressing any
+issues, and fostering appropriate sponsor involvement. The key benefit of this process is that it allows
+the project manager to increase support and minimize resistance from stakeholders. This process is
+performed throughout the project (see Figure 2-36).
+72
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

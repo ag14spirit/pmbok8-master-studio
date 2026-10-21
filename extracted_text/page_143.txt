@@ -1,0 +1,49 @@
+• Project scope. Project scope encompasses the work performed to deliver a product,
+service, or result with the specified features and functions. The project scope helps ensure
+that the expected value is achieved. Scope encapsulates a project's expected value, so it is
+the most important component of any project's baseline. The delivery of any project's scope
+should generate expected value that is not only worth the time and resources invested, but
+also ideally maximized.
+• Requirement. A requirement is a condition or capability that is necessary to be present in a
+product, service, or result to satisfy a business need.
+• Scope baseline. In predictive environments, the scope baseline is the approved version
+of formal scope documents that can be changed using formal change control procedures
+and is used as the basis for comparison to actual results. The scope baseline forms part of
+the performance measurement baseline (PMB), which also includes the schedule baseline
+and the cost baseline. For adaptive approaches, the baseline is defined at the beginning of
+each iteration and aligned with the prioritized requirements, based on the value expected
+from the delivery. In adaptive environments, it is usually a product owner who dynamically
+approves changes and generates them in a more flexible environment, without a formal
+change control procedure.
+Work breakdown structure (WBS). In a project incorporating aspects of a predictive or
+ybrid approach, a WBS is a hierarchical decomposition of the total scope of work to be
+carried out by the project team to accomplish the project objectives and create the required
+deliverables. In projects using a predictive approach, the WBS, together with the project
+scope statement and the WBS dictionary, constitutes the scope baseline.
+Quality as a feature. Quality is an integral attribute of scope and can include both
+functional and nonfunctional requirements of the product, service, or result. For example,
+the scope of a bridge-construction project would include a bridge but should also
+incorporate some target thresholds for how sturdy, long-lasting, and easy to maintain
+that bridge should be. These quality features are the same as any consideration of scope,
+including which cost and schedule trade-offs might yield the highest possible expected
+lifetime value per unit of investment.
+Product scope. The product scope is a description of the features, functions, and
+characteristics of the product, service, or result the project is intended to deliver. It is what
+the end result should look like and what it should do. The focus is on the deliverables
+themselves, including their quality and performance specifications.
+• Value breakdown structure (VBS). A VBS is a hierarchical structure that connects the project
+scope and its intended value to the product scope that will generate that value. The top level
+of the VBS should include the major deliverables that have been discussed and generated
+among the stakeholders. The value that each deliverable is expected to add should be an
+input into each item as either a value-based number (e.g., dollars of revenue, students taught
+to read, or lives saved, depending on the project) or a percentage of the expected total value
+of the project (100% if the specific deliverable is mandatory). These value-added estimates
+can then be used to prioritize the deliverables and their work, as well as to estimate the drag
+cost of each critical path item. Each item at the top of the VBS can then be decomposed into
+st coterinent subrolerables, which tvies are decene sade ten in the Veeakdown
+Product backlog. The product backlog is a dynamic, prioritized list of work items and
+features. The product backlog provides teams in adaptive environments with a framework
+38
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

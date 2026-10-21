@@ -1,0 +1,43 @@
+Performance domains run concurrently throughout the project life cycle, regardless of how value
+is delivered (frequently, periodically, or at the end of the project). For example, project leaders are
+focused on stakeholders, schedules, and so forth, from the project's outset to its closure. These
+an easi of fores are not ace resed as site are rise reuse her related ner or The are
+always present.
+Each performance domain is presented with the following primary subsections:
+• Key Concepts-Performance domains encompass a broad discipline of methods and
+approaches. This broadness often creates a challenge regarding where project leaders
+should begin and what they should do next. Each of the performance domains begins wit
+treatise of the most important ideas, considerations, and concepts for its area. These
+concepts are often the first discussions for project management efforts and inform the
+decisions regarding when and how performance domain activities should be practiced
+• Processes-The project management activities in each performance domain can be
+described in various ways such as formal policies and informal procedures. Regardless of
+how teams and organizations define their project management activities, it is helpful to
+review the industry's common practices for a given domain.
+Accordingly, this guide presents 40 processes to describe the underlying mechanics of performance
+domain activities. Each process lists a sampling of inputs, tools and techniques, and outputs.
+Given the diversity of project management practice in today's industry, these processes and their
+associated lists are illustrative but not comprehensive. Instead, they offer a technical description of
+project management and are not intended as a prescriptive framework or methodology.
+Several artifacts and approaches are used in multiple processes. Therefore, this section focuses on
+how inputs, tools and techniques, and outputs are leveraged in the context of a given performance
+domain. Further technical details of those elements are captured in Section 4, Inputs and Outputs,
+and Section 5, Tools and Techniques.
+The performance domain processes are listed in Table 2-1, along with their relationships to the
+Project Management Focus Areas: Initiating, Planning, Executing, Monitoring and Controlling, and
+Closing.
+• Tailoring Considerations—Since all projects are executed in a unique environment,
+project management activities should be adjusted to fit the characteristics and environment
+of a given project. In addition to the formal guidance in the project tailoring section, each
+performance domain offers areas to review. Tailoring considerations should be applied
+to the corresponding project management activities to ensure alignment with the project
+objectives, even if those activities are defined per policies, practices, or procedures.
+• Interactions With Other Domains-While all seven performance domains are interrelated
+with one another, the specific connections among them are also important. Accordingly,
+each performance domain highlights overlaps, dependencies, or relationships that
+practitioners should consider.
+• Check Results- Project success requires a focus on value delivery, emphasizing
+mehensles cathes they are perpurs, poet mengemen alerting do notationde value
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

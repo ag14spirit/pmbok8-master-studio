@@ -1,0 +1,42 @@
+Focus on Value
+Continually evaluate and
+adjust project alignment
+to business objectives and
+intended benefits and
+value.
+• Value per unit of investment is the ultimate indicator of
+project success.
+* Value on realised true the project, at the end of
+* Valuand the an or that contitute to i, can be deined
+* Predict easter on our are that mes beatines.
+• Project teams evaluate progress and adapt to maximize the
+expected value.
+Figure 3-3. Focus on Value
+business case, and intended outcomes. If misalignment persists or the project is unlikely to deliver
+the intended value, it may be best to terminate the effort.
+A focus on value aims to maximize the return on project investments for the customer, performing
+organization, and/or other stakeholders. This effort involves delivering the required functionality and
+quality by optimizing workflows with acceptable risk exposure, using minimal necessary resources,
+and avoiding unnecessary rework and other types of waste. In adaptive projects without a fixed
+scope, the project team collaborates with the customer to determine which features are worth the
+investment in both time and money.
+The value contribution of project work can be short term or long term and may be intertwined with
+operational activities, making it challenging to isolate. When a project is part of a program, evaluating
+value at the program level is necessary to properly direct the project. The project value provides key data
+for portfolio management so that decisions can be made on which projects to select or continue based
+on their value contribution. A reliable evaluation of value should consider the entire context and life cycle
+of the project as well as its expected payback period, which may extend well beyond project closeout.
+3.4.1 Project Impact
+Shifting focus from deliverables to intended outcomes allows project teams to deliver on the project's
+vision or purpose, rather than merely creating a specific deliverable. While a deliverable may support
+the intended project outcome, it may not fully achieve the project's vision or purpose. For example,
+customers may want specific software because they believe it will resolve their business need for
+higher productivity. The software is the output of the project, but it does not enable productivity by
+itself. Adding a new deliverable, such as training in the use of the software, can enable a higher-value
+outcome. If the project's output fails to enable the desired productivity, then the value proposition of
+the project is undermined and may even become more harmful than helpful, given the investment in
+time and resources. Therefore, project teams, stakeholders, and in particular, team members, should
+understand both the deliverable and the intended outcome from the deliverable.
+Section 3 - Project Management Principles
+41
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

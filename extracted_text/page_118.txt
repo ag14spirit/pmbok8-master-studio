@@ -1,0 +1,39 @@
+2.1.3 Metrics and Mechanisms for Effective Project Governance
+regardless of whether the project governance model is structured or self-governing, or some
+combination of the two, effective governance typically requires these three core components
+• Target metrics for the project that are clearly aligned and demonstrate meaningful impact
+to the organization's strategic goals;
+Clear and effective signaling mechanisms or alarm systems for those metrics (typical
+ading indicators to give decision-makers and other stakeholders a sense as to wheth
+the current delivery performance is bringing teams closer to the strategic goal); and
+• Effective feedback mechanisms that allow decision-makers in governance and integratio
+nanagement to assess the success of their decisions, learn from the feedback, and improv
+their decision-making effectiveness.
+Examples of some key metrics for good project governance may include but are not limited to the
+following:
+• Indicators for how effective the project-prioritization decisions are, such as return on
+investment (ROl);
+• Indicators on whether better decisions are being made to maximize due date performance;
+and
+• Indicators on whether the current integrated project baseline is truly the one carrying the
+highest possible value proposition.
+Each of these example metrics serves as direct or proxy measures for how well projects are
+achieving their target outcomes, as opposed to input metrics such as utilization of project resources,
+compliance with a given set of standards, or percentage of team members completing a training class.
+2.1.4 Additional Considerations for Predictive Environments
+Predictive project environments may call for two additional governance components: escalation and
+investment control.
+• Escalation is often useful in hierarchical organizations where decision-making authority
+includes individuals outside of project team members, or in organizations in which higher-
+ranking individuals have greater ability to remove persistent obstacles or resolve conflicts
+to enhance a project's probability of success.
+tewardship of project investment funding, such as public corporations, governmen
+agencies, and certain financial entities (e.g., retirement funds). Investment contro
+frequently includes a thorough risk evaluation procedure to analyze the possible returns
+on investment and reduce potential risks. For example, many lender-financed construction
+projects have defined decision points in the design and build phases of the project to
+determine whether the next round of investment funding still makes good business sense
+for the lender and overall project.
+Section 2 - Project Management Performance Domains
+13
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

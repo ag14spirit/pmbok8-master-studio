@@ -1,0 +1,19 @@
+Structured
+Governance
+Figure 2-1. Structured Versus Self-Governed Projects
+Under a structured governance model, project governance is often composed of an executive project
+sponsor, project management office (PMO) leader, some type of governance board, and a project
+nanager who can provide project-level oversight while managing the integration of all performance
+domains for that project. Under a self-governance model, instead of a PMO leader, there may be a
+group of individual project managers that is collectively accountable for optimizing performance.
+ere are proven and effective self-governance models where project management responsibiliti
+e distributed among the team, rather than assigned to a single individual holding a formal proje
+management title.
+A key challenge in self-governance models is the potential for fragmented decision-making, where
+decision-makers may act in conflicting ways, resulting in a lack of direction or accountability. To
+models emphasize similar principles, as detailed in Section 2.1.3.
+In a structured governance model, which is often used on more predictive projects, one or
+more internal or external constituents governs project performance according to organizational
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

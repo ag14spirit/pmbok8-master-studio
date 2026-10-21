@@ -1,0 +1,26 @@
+consistent project management approach throughout the enterprise, ensuring that the PMO's efforts
+are aligned with broader organizational goals.
+The culture and mandate of a mature PMO should reflect and support the organization's culture,
+values, and strategic priorities. A well-developed PMO aligns its culture with that of the organization,
+facilitating smoother adoption of project management methodologies. Its mandate is to focus
+on delivering measurable value to the organization. By demonstrating a clear link between PMO
+-tivities and tangible business outcomes, the PMO gains recognition and support from ke
+akeholders. This recognition reinforces the PMO's role as a strategic asset, driving continuou
+improvement and maturity in project management practices across the organization.
+X2.6 Learn More About PMOs
+The following PMI standards and practice guides provide additional information about the role
+of a PMO from different perspectives. These resources may offer additional insights and useful
+information.
+• Project Management Institute (PMI). (2025) Project Management Offices: A Practice Guide. PMI.
+• Project Management Institute (PMI). (2024). The Standard for Program Management—
+Fifth edition. PMI.
+• Project Management Institute (PMI). (2018). The Standard for Organizational Project
+Management. PMI.
+• Project Management Institute (PMI). (2017). The Standard for Portfolio Management—
+Fourth edition. PMI.
+• Project Management Institute (PMI). (2017). The PMI Guide for Business Analysis. PMI.
+• Project Management Institute (PMI). (2017). Agile Practice Guide. PMI.
+• Project Management Institute (PMI). (2015). Governance of Portfolios, Programs, and Projects:
+A Practice Guide. PMI.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

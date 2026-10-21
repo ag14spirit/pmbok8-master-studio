@@ -1,0 +1,32 @@
+oordinating a collective work effort is extremely important to the success of any project. Ther
+re different types of coordination suitable for different contexts. Some projects benefit fror
+organized project teams for portions of the work.
+2.4.1 Provide Oversight and Coordination
+Oversight and coordination enable the project team to deliver value by aligning efforts, removing
+obstacles, and maintaining team focus. The specifics of how this function is carried out within the
+project team may vary among organizations but can include all project management activities. In
+some organizations, this function may involve some evaluation and analysis activities as part of the
+preliminary project activities. Coordination includes consulting with executives and business unit
+leaders on ideas for advancing objectives, improving project performance, and meeting customer
+needs. The coordination activities may also include assisting in business analysis, tendering and
+contract negotiations, and business case development. Oversight may be involved in follow-on
+activities related to benefits realization and sustainment after the project deliverables are finalized
+but before formal closure of the project. Examples of roles responsible for these functions include
+project managers, who may be formally assigned such activities, and scrum masters (further
+described in Section 2.5.1), who are asked to lead the project team to perform the activities
+themselves. Ultimately, the oversight and coordination function is tailored to fit the needs of the
+organization and its specific portfolio, program, and project requirements.
+2.4.2 Solicit and Manage Feedback
+Individuals involved in the project contribute perspectives, insights, direction, and expectations. In
+projects that use adaptive or hybrid approaches, the need for ongoing feedback is greater because
+the project teams are exploring and developing product elements within specific increments due to
+ambiguity and complexity. In some project environments, the customer, end user, or product owner
+engages with the project team for periodic reviews and feedback. In some projects, a representative
+of the customer or client participates with the project team. Close collaboration can ensure that the
+customer and end-user input is directly integrated into ongoing development activities. The extent
+of customer and end-user input depends on factors such as project complexity, product maturity,
+and level of uncertainty, as well as the guidance or direction that may be required to enable value
+creation. Feedback can be collected in person or virtually, using both analog and digital techniques.
+For more information on feedback, please refer to the tools and techniques detailed in Section 5 of
+Section 2 - A System for Value Delivery
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

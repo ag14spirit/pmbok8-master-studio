@@ -1,0 +1,71 @@
+2.5 Stakeholders Performance Domain.
+2.5.1 Key Concepts ..
+2.5.2 Processes.
+2.5.3 Tailoring Considerations ..
+2.5.4 Interactions With Other Domains
+2.5.5 Check Results...
+2.6 Resources Performance Domain .
+2.6.1 Key Concepts
+2.6.2 Processes ...
+2.6.3 Tailoring Considerations ..
+2.6.4 Interactions With Other Domains
+2.6.5 Check Results..
+2.7 Risk Performance Domain
+2.7.1 Key Concepts
+2.7.2 Processes.
+2.7.3 Tailoring Considerations
+2.7.4 Interactions With Other Domains
+2.7.5 Check Results.
+3 Tailoring .
+3.1 Overview..
+3.2 Why Tailor?
+3.3 What to Tailor.
+3.3.1 Life Cycle and Development Approach Selection
+3.3.2 Processes.
+3.3.3 Engagement.
+3.4 The Tailoring Process
+3.4.1 Select Initial Development Approach
+3.4.2 Tailor for the Organization .
+3.4.3 Tailor for the Project....
+3.4.4 Implement Ongoing Improvement
+3.5 Tailoring the Performance Domains.
+3.6 Diagnostics ...
+3.7 Summary..
+4 Inputs and Outputs..
+5 Tools and Techniques.
+67
+68
+70
+.74
+78
+79
+80
+88
+91
+92
+92
+92
+.. 94
+98
+101
+102
+103
+.. 103
+104
+.. 104
+. 104
+105
+105
+105
+105
+106
+108
+. 109
+110
+. 110
+. 112
+113
+.. 145
+Table of Contents
+XV
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

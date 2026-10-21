@@ -1,0 +1,50 @@
+the performing organization to acquire, upgrade, and maintain physical assets such as
+property, plants, buildings, technology, or equipment. OpEx are intended funds for the
+ongoing costs of running the day-to-day business activities or operations. These expenses
+typically include advertising expenses, administration fees, wages, rent, and utility costs.
+In some cases, the total amount of OpEx can influence the financial results of the whole
+organization. In other cases, the budget is allocated annually and therefore has to be
+used within the year, with no possibility of being transferred to the next year. In projects
+that implement an agile approach, the budget can be allocated for a quarter and then
+revised quarterly. This allocation allows more flexibility in terms of budget, based on the
+amount of work achieved.
+Project budget. Project budget buildup depends on organizational process assets (OPAs),
+policies, governance, portfolio practices, and financial management practices within
+the organization. The project budget can also be influenced by external regulations,
+compliance, accounting principles, or industry standards applicable to the organization,
+leading to significant variations. In one scenario, the initial project budget may contain the
+sum of approved work package cost estimates, contingency reserve, and management
+reserve, with reserves managed implicitly. In another scenario, the initial project budget
+may contain the sum of approved work cost estimates, while contingency reserve and
+management reserve are managed explicitly. Figure 2-25 illustrates the two possible budget
+buildup scenarios. However, variations may exist based on organizational preferences or
+external influences.
+• Cost baseline. Similar to a project budget, the cost baseline may vary depending on
+organizational preferences or external factors. The cost baseline is the approved version
+of the time-phased project budget, excluding any management reserves, which can
+be changed only through formal change control procedures and is used as a basis for
+comparison to actual results. Alternatively, the cost baseline may be the approved version
+of the time-phased initial project budget, excluding both contingency and management
+reserves, which can be changed only through formal change control procedures and is used
+as a basis for comparison to actual results. Figure 2-25 presents two possible scenarios: one
+including contingency reserve in the cost baseline (left side) and one excluding contingency
+reserve (right side).
+Reserves. A reserve is a provision in the project management plan to mitigate cost and/or
+schedule risks, often used with a modifier (e.g., management reserve, contingency reserve)
+to provide further detail on what types of risk are meant to be mitigated. Contingency
+reserves and management reserves are distinct in their purpose and authority of usage
+and may differ on risk classification (known-unknowns or unknown-unknowns). For more
+information, see the Risk performance domain in Section 2.7. The contingency reserve is
+the time or money allocated in the schedule or cost baseline for known risks with active
+response strategies and is usually allocated in the initial project budget (see Figure 2-25, left
+side). However, based on different organizational preferences or external factors, it may be
+outside the initial project budget (see Figure 2-25, right side). The management reserve is
+time or money that management sets aside in addition to the schedule or cost baseline and
+releases for unforeseen work that is within the scope of the portfolio, program, or project.
+This reserve is used for unknown-unknowns rather than specific, identified risks. Typically.
+management reserves are realized at the discretion of senior leadership or management.
+However, in some organizations, it may be at the discretion of the project manager or
+project management team.
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

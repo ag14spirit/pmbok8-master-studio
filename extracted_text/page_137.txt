@@ -1,0 +1,40 @@
+2.1.6.9.1 Predictive Approaches
+For project closure, the project manager should ensure that all work is completed and that the
+objectives are met by reviewing the project management plan. Key activities for administrative
+closure in predictive approaches may include the following:
+• Satisfying completion or exit criteria. The following steps should be performed when
+satisfying the exit criteria in the Close Project or Phase process:
+• Ensure all documents and deliverables are updated and all issues are resolved.
+• Ensure that the measurable project value was delivered, and that there is a plan to
+maintain this value as the project is closed and transitioned to operations.
+• Confirm that deliverables have been delivered and formally accepted by the customer.
+• Verify that all costs have been charged to the project.
+• Close project accounts.
+• Reassign or release project personnel.
+• Address excess project materials.
+• Reallocate or release project facilities, equipment, and other resources.
+• Prepare final project reports as required by organizational policies.
+• Contractual agreement completion. The following activities should be verified when
+closing out contractual agreements in the Close Project or Phase process:
+• Confirm formal acceptance of the external source's work.
+• Finalize any open claims, guarantees, and warranties.
+• Update records to reflect the final results.
+• Ensure all invoices due to external sources are paid.
+• Archive relevant information for future use.
+• Resolve any disputes that may arise or refer them to the dispute board.
+• Additional closure activities. The following additional closure activities should be
+performed in the Close Project or Phase process:
+• Collect and audit project or phase records.
+• Assess project success or failure.
+• Manage knowledge sharing and transfer.
+• Identify and document lessons learned.
+• Archive project information for future organizational use.
+• Transfer project products, services, or results to the next phase or into production/
+operations.
+• Collect suggestions for improving or updating organizational policies and procedures
+and forward them to the appropriate unit.
+Measure stakeholder satisfaction.
+• Verify that all contractual, regulatory, legal, social, and environmental obligations have
+been met.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

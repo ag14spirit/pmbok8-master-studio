@@ -1,0 +1,80 @@
+- Plan Risk Responses
+Inputs
+• Project management plan
+- Resource management
+plan
+- Risk management plan
+- Cost baseline
+• Project documents
+- Lessons learned register
+- Project schedule
+- Project team assignments
+- Resource calendars
+- Risk register
+- Risk report
+- Stakeholder register
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+•
+• Expert judgment
+• Data gathering
+- Interviews
+• Interpersonal and team
+skills
+- Facilitation
+• Strategies for threats
+• Strategies for opportunities
+• Contingent response
+strategies
+• Strategies for overall
+project risk
+• Data analysis
+- Alternative analysis
+- Cost-benefit analysis
+• Decision-making
+- Multicriteria decision
+analysis
+• Etc.
+Outputs
+• Change requests
+• Project management plan
+updates
+- Schedule management
+plan
+- Financial management
+plan
+- Quality management plan
+- Resource management
+plan
+- Procurement
+management plan
+- Schedule baseline
+• Project document updates
+- Cost forecasts
+- Lessons learned register
+- Project schedule
+- Project team assignments
+- Risk register
+- Risk report
+• Etc.
+Figure 2-51. Plan Risk Responses Inputs, Tools and Techniques, and Outputs
+such as urgency and industry or government regulations may impact the way risks are
+managed in the project.
+• Risk appetite and threshold. Assess how the organization's risk appetite and threshold
+guide or limit risk responses, considering historical experiences and risk-aversion levels.
+• Holistic view to project risk management. Ensure that risk impact and responses are
+viewed across various project domains like schedule, budget, scope, and stakeholders.
+• Strategic importance. Evaluate the project's strategic importance and its associated risk
+level due to breakthrough opportunities, performance blocks, or major innovations.
+• Development approach. Identify if the project follows a predictive, adaptive, or hybrid
+approach to appropriately tailor the risk processes.
+• Planning and implementing risk responses with flexibility. Manage risk responses by
+allowing for timely adjustments to risk strategies without compromising project goals and
+maintain open communication with relevant stakeholders.
+Section 2 - Project Management Performance Domains
+99
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,36 @@
+Multicriteria decision analysis. Multicriteria decision analysis is a technique that utilizes a decision
+matrix to provide a systematic analytical approach for establishing criteria, such as risk levels,
+uncertainty, and valuation, to evaluate and rank many ideas. Multicriteria decision analysis tools (e.g..
+score for each alternative. The alternatives are then ranked by score.
+Multipoint estimating. Multipoint estimating is a method used to estimate cost or duration by
+estimates helps define an approximate range for an activity's duration:
+• Most likely (tM). This estimate is based on the duration of the activity, given the resources
+likely to be assigned, their productivity, realistic expectations of availability for the activity,
+dependencies on other participants, and interruptions.
+• Optimistic (tO). The activity duration based on analysis of the best-case scenario for the
+activity.
+• Pessimistic (tP). The duration based on analysis of the worst-case scenario for the activity.
+Depending on the assumed distribution of values within the range of the estimates, the expected
+duration, tE, can be calculated. One commonly used formula is triangular distribution:
+tE = (tO + tM + tP) / 3
+Triangular distribution is used when there is insufficient historical data or when using judgmental
+lata. Duration estimates based on three points with an assumed distribution provide an expected
+duration and clarify the range of uncertainty around the expected duration.
+Negotiation. Negotiation is a discussion aimed at reaching an agreement. Negotiation is used to
+achieve support or agreement that supports the work of the project or its outcomes and to resolve
+Teach consensus on pager mited, Negation can Wild trust and harmony mong tea i menders.
+Procurement negotiation clarifies the structure, rights, and obligations of the parties and other
+terms of the purchases so that mutual agreement can be reached prior to signing a contract. Final
+document language reflects all agreements reached. Negotiation concludes with a signed contract
+document or other formal agreement that can be executed by both buyer and seller.
+he negotiation should be led by a member of the procurement team who has the authority t
+ign contracts. The project manager and other members of the project management team may b
+present during negotiation to provide assistance as needed.
+Networking. Networking is the establishment of connections and relationships with other people
+from the same or other organizations for the purpose of exchanging information and developing
+ontacts. Networks provide project managers and their teams with access to informal organization:
+o solve problems, influence actions of their stakeholders, and increase stakeholder support for the
+work and outcomes of the project, thus improving performance.
+Section 5 - Tools and Techniques
+183
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

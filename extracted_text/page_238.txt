@@ -1,0 +1,45 @@
+Project
+Personnel
+Material
+Equipment
+ROLE
+Role
+2
+Role
+Material
+Material
+2
+Equipment
+Equipment
+Level
+1
+Leve
+2
+Grade
+2
+Figure 4-4. Sample Resource Breakdown Structure
+may be divided between the team management plan and the physical resource management plan
+according to the specifics of the project.
+The resource management plan may include but is not limited to the following:
+• Identification of resources. Methods for identifying and quantifying the team and physical
+resources needed.
+• Acquiring resources. Guidance on how to acquire the team and physical resources for the
+project.
+• Roles and responsibilities:
+• Role. The function assumed by, or assigned to, a person in the project. Examples of
+project roles are civil engineer, business analyst, and testing coordinator.
+• Authority. The right to apply project resources, make decisions, sign approvals, accept
+deliverables, and influence others to carry out the work of the project. Examples
+of decisions that should have clear authority include the selection of a method for
+completing an activity, quality acceptance criteria, and how to respond to project
+variances. Team members operate best when their individual levels of authority match
+their individual responsibilities.
+• Responsibility. The assigned duties and work that a project team member is expected
+to perform in order to complete the project's activities.
+• Competence. The skill and capacity required to complete assigned activities within the
+project constraints. If project team members do not possess required competencies,
+esponses such as training.
+Section
+4 - Inputs and Outputs
+133
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

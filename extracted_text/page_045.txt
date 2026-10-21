@@ -1,0 +1,107 @@
+Table 2-1. Influences of Organizational Structures on Projects
+Project Characteristics
+Organizational
+Structure Type
+Organic or simple
+Functional
+(centralized)
+Multidivisional
+(may replicate
+functions for each
+division with little
+centralization)
+Matrix-strong
+Matrix—weak
+Work Group
+Arrangement
+Flexible; people
+working side by side
+Job being done
+(e.g., engineering,
+manufacturing)
+One of the following:
+product; production
+processes; portfolio;
+program; geographic
+region; customer
+type
+By job function, with
+project manager as a
+function
+Job function
+Project Manager's
+Authority
+Low
+Low
+Low
+Matrix-
+balanced
+Job function
+Moderate to high
+Low
+Low to moderate
+Project Manager's
+Role
+Part-time role; may
+or may not be a
+designated job role
+such as coordinator
+Part-time role; may
+or may not be a
+designated job role
+such as coordinator
+Part-time role; may
+or may not be a
+designated job role
+such as coordinator
+Full-time, designated
+job role
+Part-time role; done
+as part of another
+job and not a
+designated job role
+such as coordinator
+Part-time role;
+embedded in the
+functions as a skill
+and may not be a
+designated job role
+such as coordinator
+Full-time, designated
+job role
+Full-time or part-time
+role
+Mixed
+Resource
+Availability
+Low
+Low
+Low
+Moderate to
+high
+Low
+Low to
+moderate
+Project-oriented
+(composite,
+hybrid)
+Virtual/network
+Hybrid
+Project
+Network structure
+with nodes at points
+of contact with other
+people
+Mix of other types
+High to almost
+total
+Low to moderate
+Mixed
+High to almost
+total
+Low to
+moderate
+Mixed
+22
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

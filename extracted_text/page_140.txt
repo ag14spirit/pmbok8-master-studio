@@ -1,0 +1,34 @@
+• Example 2. A project that requires rapid innovation and approaches may want to adopt a
+faster feedback cycle that an agile framework may provide. Thus, a self-governing approach
+may be adopted, where there is no external governance body and the team manages all
+value delivery, outputs, quality, etc., through typical agile processes.
+2.1.8 Interactions With Other Domains
+The Governance performance domain is interrelated with all other project management performance
+domains. This interrelationship includes ensuring the alignment of project scope, schedule, and
+inancial resources to maximize value delivery while balancing trade-offs. As such, Table 2-4 addresse
+interactions with the Scope, Schedule, and Finance performance domains, first and foremost.
+2.1.9 Check Results
+Acknowledging and implementing the appropriate level of project management governance requires
+confirm whether those outcomes are met.
+2.2 Scope Performance Domain
+Scope carries a unique and central place in project management, as the value of a project derives
+from the outcome delivered in alignment with its scope. The Scope performance domain includes
+the processes required to ensure that the project encompasses all of the work required to complete
+the project successfully and that only the required work is mapped and no unnecessary work is
+performed, thus helping to optimize costs and schedule in order to maximize the project's value.
+In addition to defining and managing the scope, the Scope performance domain also focuses on
+project quality. Quality is defined by meeting stakeholder expectations and fulfilling the project and
+roduct requirements. This performance domain helps ensure that deliverables meet the specifie
+cceptance criteria and that the processes used to produce them are effective and efficient. The
+domain emphasizes continuous process improvement, helping to ensure that both scope and quality
+are aligned and consistently meet the project's objectives and standards.
+2.2.1 Key Concepts
+The following key concepts support effective practices for the Scope performance domain:
+• Business case. The business case is a documented economic feasibility study used to
+establish validity of the benefits to be delivered by a portfolio component, program, or
+project. Projects are initiated through a business case that outlines costs, benefits, and how
+value will be created, together with project success criteria.
+Section
+2 - Project Management Performance Domains
+35
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

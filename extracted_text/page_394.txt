@@ -1,0 +1,92 @@
+Prompt lists, 191-192
+Public communication, 152
+Pull communication, 152
+Purpose, as intrinsic motivator, 182
+Push communication, 152
+Qualifications-only selection method, 249
+cost of, 158-159
+definition of, 35
+objectives for, 121
+Quality-and-cost-based selection method, 249
+Quality assurance, 16, 23-24, 128, 129
+Quality-based selection method, 249
+Quality control, 23
+Quality control measurements, 128
+Quality management, 22-23
+Quality management plan, 128-129
+Quality metrics, 129
+Quality test and evaluation documents, 130
+Quantitative estimating techniques, 170
+Quantitative risk analysis, 96
+Questionnaires, 192
+R
+RACI matrix, 194, 195
+Ranking, 187, 201
+Rarity, of resources, 194
+Reallocated internal budgets, 122
+Real-time monitoring, 241
+Receivers, in communication models, 153-154
+Recognition and rewards, 86, 192
+Recognition plan, 134
+Red hat, 198
+Reflection, in after-action reviews, 146
+Regression analysis, 192
+Regulations, 65, 120. See also Organizational process
+assets (OPAS)
+Released change regues 114
+Release backlog, 115
+Release planning, agile, 146, 147
+Reliability, of Al systems, 243
+Reports)
+final. 121
+formats of, 122, 139
+quality, 129-130
+risk, 138
+work performance, 144
+Request for information (RFI), 248
+Request for proposal (RFP), 248
+Request for quote (RFQ), 248
+clear understanding of, 46
+definition of, 38
+eliciting and analyzing, 40-41
+for funding, 126
+as known-known, 93
+for resources, 134
+stability of, 46
+types of, 130-131
+Requirements documentation, 130-131
+Requirements management plan, 131
+Requirements traceability matrix, 131-132
+Reserve analysis, 192
+Reserves
+contingency, 60, 102, 192, 202, 204
+definition of, 60
+management, 60, 61
+Resilience
+planning for, 101
+of proiects, 94
+of project teams, 86, 102
+Resource(s). See also Procurement management
+acquiring, 82-84, 133
+assignments of, 124, 143
+availability of, 66, 120
+cost estimates for, 119
+effective utilization of, 92
+estimating, 82, 91
+geographic distribution of, 120
+identification of, 133, 194
+monitoring and controlling, 87-88
+number of, and duration estimate, 53
+roles and responsibilities related to, 133-134
+scarce, 81, 90
+in schedule compression, 196-197
+sourcing strategies for, 14-15, 16, 19-21
+virtual, 124, 143
+Resource-based view, 194
+Resource breakdown structure, 132, 133, 172
+Resource calendar, 132
+Resource control, 134
+Resource-leveled critical path (RLCP), 160
+Index
+289
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

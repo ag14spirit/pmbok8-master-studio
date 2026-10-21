@@ -1,0 +1,34 @@
+This section defines the six principles of project management:
+• Adopt a Holistic View (see Section 3.3);
+• Focus on Value (see Section 3.4);
+• Embed Quality Into Processes and Deliverables (see Section 3.5);
+• Be an Accountable Leader (see Section 3.6);
+• Integrate Sustainability Within All Project Areas (see Section 3.7); and
+• Build an Empowered Culture (see Section 3.8).
+Collectively, these principles describe the mindset of project management, which in turn guides the
+mechanics of project management. This interplay between mindset and mechanics is discussed in
+Section 3.1.
+3.1 The Project Management Mindset
+of beliefs, ways of thinking, and habits that make sense of the behaviors and views of others as well
+as a way to interpret and deal with various situations. The project management mindset is described
+by three dimensions and six principles that guide the practice of project management mechanics.
+The project management mindset is composed of three dimensions: proactive, ownership, and
+value-driven. This integrated mindset is essential in today's complex and rapidly changing business
+environment that should balance diverse customer needs and consider the increasing need for-and
+importance of—sustainability. Figure 3-1 provides an overview of the relationships among these
+dimensions and the correlation with the project management principles described in this section.
+Proactive
+Ownership
+Adopt a Holistic View
+Be an Accountable Leader
+Embed Quality Into Processes
+and Deliverables
+Build an Empowered Culture
+Mindset
+Focus on Value
+Integrate Sustainability Within
+All Project Areas
+Value-Driven
+Figure 3-1. The Project Management Mindset
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

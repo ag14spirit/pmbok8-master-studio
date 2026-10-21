@@ -1,0 +1,36 @@
+Theory of constraints (TOC). Theory of constraints is a body of knowledge focused on improving the
+system-level performance of an organization, end-to-end process, project portfolio, or project. The
+TOC application to a project or project portfolio is critical chain project management (CCPM). See also
+critical chain project management and continuous improvement.
+To-complete performance index (TCPI). The to-complete performance index (TCPI) is a measure
+of the cost performance that should be achieved with the remaining resources in order to meet
+timate at completion (EAC). If it becomes obvious that the BAC is no longer viable, the proje
+anager should consider the forecasted EAC. Once approved, the EAC may replace the BAC in th
+TCPI calculation. The equation for TCPI is: (BAC - EV) / (BAC - AC) where: BAC = budget at completion,
+EV = earned value, and AC = actual cost.
+The TCPI is conceptually displayed in Figure 5-24. The equation for the TCPI is shown in the lower-
+left corner as the work remaining (defined as the BAC minus the EV) divided by the funds remaining
+(which can be either the BAC minus the AC, or the EAC minus the AC).
+If the cumulative CPI falls below the baseline (as shown in Figure 5-24), all future work of the project
+should be performed immediately in the range of the TCPI (BAC) (as reflected in the top line of
+Figure 5-24) to stay within the authorized BAC. Whether this level of performance is achievable is
+a judgment call based on several considerations, including risk, time remaining in the project, and
+technical performance. Such a level of performance is displayed as the TCPI (EAC) line. The equation
+for the TCPI is based on the EAC: (BAC - EV) / (EAC - AC). The EVM formulas are provided in Table 5-1.
+Status Date
+>1
+TCPI
+(BAC)
+1.00
+Baseline Plan
+• --
+<1
+Cumulative
+CPI
+Formula:
+Work Remaining (BAC - EV)
+Funds Remaining (BAC - AC) or (EAC - AC) = TCPI
+Figure 5-24. To-Complete Performance Index (TCPI)
+206
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

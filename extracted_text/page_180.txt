@@ -1,0 +1,79 @@
+Manage Communications
+Inputs
+• Project management plan
+- Resource management
+plan
+- Communications
+management plan
+- Stakeholder engagement
+plan
+• Project documents
+- Change log
+- Issue log
+- Lessons learned register
+- Quality report
+- Risk report
+- Stakeholder register
+• Work performance reports
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+• Communication technology
+• Communication methods
+• Communication skills
+- Communication
+competence
+- Feedback
+- Nonverbal communication
+- Presentations |
+• Project management
+information system
+• Project reporting
+• Interpersonal and team
+skills
+- Active listening
+- Conflict management
+- Cultural awareness
+- Meeting management
+- Networking
+- Political awareness
+• Meetings
+• Etc.
+Outputs
+•Project communications
+•Project management plan
+updates
+- Communications
+management plan
+- Stakeholder engagement
+plan
+• Project document updates
+- Issue log
+- Lessons learned register
+- Project schedule
+- Risk register
+- Stakeholder register
+• Organizational process
+asset updates
+• Etc.
+Figure 2-37. Manage Communications Inputs, Tools and Techniques, and Outputs
+• Product. Products that allow or require interactive, incremental, or event-exploratory
+approaches usually bring a specific framework for stakeholder interactions. For example,
+the software industry created common events (also known as ceremonies) such as product
+reviews, planning sessions, and project retrospectives, among others, to update and engage
+stakeholders.
+Large language models (LLMs) and artificial intelligence (Al). The use of Al should be
+ssessed for each project through a decision-making process to determine when Al cal
+ssist with tasks or provide more time for other valuable activities. The evaluation shoul
+be focused on the use of Al to produce some artifacts for communication with the sponsor,
+stakeholders, team, and vendors. Proactive security and ethics measures should be
+considered, such as project managers engaging with the appropriate stakeholders (e.g., the
+cybersecurity team, if applicable), to understand if the risk of incorporating Al is acceptable
+for the organization
+Section
+2 - Project Management Performance Domains
+75
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

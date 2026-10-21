@@ -1,0 +1,44 @@
+blocker. See impediment.
+budget. The approved estimate for the portfolio, program, or project, or any work breakdown
+structure component or schedule activity.
+budget at completion (BAC). The sum of all budgets established for the work to be performed. See
+also actual cost (AC), earned value (EV), estimate at completion (EAC), estimate to complete (ETC), and
+planned value (PV).
+burn chart. A graphical representation of the work remaining in a timebox or the work completed
+toward the release of a product or project deliverable.
+business value. The net quantifiable benefit derived from a business endeavor that may be tangible,
+intangible, or both.
+cadence. A rhythm of activities conducted throughout the project.
+change. A modification to any formally controlled deliverable, project management plan component,
+or project document.
+change control. A process whereby modifications to documents, deliverables, or baselines
+associated with the project are identified, documented, approved, or rejected. See also change control
+board (CCB).
+change control board (CCB). A formally chartered group responsible for reviewing, evaluating,
+approving, delaying, or rejecting changes to the project, and for recording and communicating such
+decisions. See also change control.
+change management. A comprehensive, cyclic, and structured approach for transitioning
+individuals, groups, and organizations from a current state to a future state with intended business
+benefits.
+Closing Focus Area. Processes performed to formally complete or close a project, phase, contract, or
+in some cases, to terminate a project before completion.
+complexity. A characteristic of a program or project or its environment that is difficult to manage
+due to human behavior, system behavior, and ambiguity.
+confirmation bias. A type of cognitive bias that confirms preexisting beliefs or hypotheses.
+conformance. The degree to which the results meet the set quality requirements.
+constraint. A limiting factor that affects the execution of a portfolio, program, project, or process.
+contingency. An event or occurrence that could affect the execution of the project, which may be
+accounted for with a reserve.
+contingency reserve. Time or money allocated in the schedule or cost baseline for known risks with
+active response strategies. See also management reserve.
+continuous delivery. The practice of delivering feature increments immediately to customers, often
+through the use of small batches of work and automation technology.
+contract. A mutually binding agreement that obligates the seller to provide the specified product,
+service, or result and obligates the buyer to pay for it.
+control. The process of comparing actual performance with planned performance, analyzing
+variances, assessing trends to effect process improvements, evaluating possible alternatives, and
+recommending appropriate corrective action as needed.
+266
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

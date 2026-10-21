@@ -1,0 +1,35 @@
+Tailoring in multiorganization projects requires careful consideration of how different organizational
+processes, governance structures, and delivery approaches align. Integration planning should ensure
+that tailored practices from each participating organization are harmonized to achieve cohesive
+project outcomes.
+3.4.3 Tailor for the Project
+The key attributes that influence tailoring for the project are the product or deliverable, project team,
+and culture. The project team should ask questions about each attribute to help guide them in the
+tailoring process. Answers to these questions can help identify the need to tailor the processes,
+development approach, life cycle, and tools and techniques.
+3.4.3.1 Product or Deliverable
+Key attributes associated with the product or deliverable include the following:
+• Standards compliance. How much process rigor and quality assurance are appropriate?
+Type of product/deliverable. Is the product well known and easy to recognize, like
+ilding, or something intangible like software or the design of a new drug or vaccin
+• Industry market. What market does the project, product, or deliverable serve? Is that
+market highly regulated, fast moving, or slow to evolve? What about competitors and
+incumbents?
+• Technology. Is the technology stable and well established or rapidly evolving and at risk of
+obsolescence?
+• Timeframe. Is the project timeframe short, in weeks or months, or does it span several
+years?
+• Stability of requirements. How likely are there to be changes to core requirements?
+• Security. Are elements of the product business confidential or classified?
+• Incremental and iterative delivery. Is this something the project team can develop and
+get stakeholder feedback on incrementally and iteratively, refining the product through
+repeated cycles, or is it hard to evaluate until it is near completion?
+3.4.3.2 Project Team
+Project team considerations include the following:
+• Project team size. How many full-time and/or part-time people will be working on the
+project?
+• Project team geography. Where are the team members predominantly located
+geographically? Will some or all of the team be remote or colocated?
+• Organizational distribution. Where are the supporting groups and stakeholders located?
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

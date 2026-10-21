@@ -1,0 +1,39 @@
+A General Project Management
+Methodology
+A General Development
+Approach
+Environmental
+Factors
+General Guides
+Tailoring at the Organizational Level
+Organization's Methodology
+for Small Projects
+Organization's Methodology
+for Large/Sensitive Projects
+Tailoring at the Project Level
+Methodology
+for Project A
+Methodology
+for Project B
+Methodology
+for Project C
+Methodology
+for Project D
+Methodology
+for Project E
+Figure 3-2. Assessing the Organizational and Project Factors When Tailoring
+A project management office (PMO), in organizations that have one, can play a vital role
+in reviewing and approving tailored development approaches, which is well aligned to
+organizational policy. Tailoring that impacts the project team requires less oversight than
+iloring impacting external groups, so project manager approval is usually enough for interna
+roject tailoring. Tailoring that affects external groups may require the approval of PMOs, whic
+may also assist project teams as they tailor their approaches by providing ideas and solutions
+from other projects.
+improving cost control, or enhancing delivery consistency.
+Modern PMOs are increasingly expected to go beyond operational support, acting as enablers of
+Projects sometimes require the collaboration of multiple organizations, with each bringing its
+vn processes, governance structures, and delivery approaches. In such cases, it is importar
+lat tailoring is done using a multiorganization approach to help ensure alignment and cohesio
+Section 3 - Tailoring
+107
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

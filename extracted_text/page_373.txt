@@ -1,0 +1,40 @@
+external dependencies. Relationships between project activities and non-project activities.
+ast tracking. A schedule compression technique in which activities or phases normally done i
+equence are performed in parallel for at least a portion of their duration. See also crashing
+feature. A set of related requirements or functionalities that provides value to an organization.
+fixed-price contract. An agreement that sets the fee that will be paid for a defined scope of work
+regardless of the cost or effort to deliver it.
+flow. The measure of how efficiently work moves through a given process or framework.
+forecast. An estimate or prediction of conditions and events in the project's future based on
+information and knowledge available at the time of the forecast.
+function point. An estimate of the amount of business functionality in an information system, used
+to calculate the functional size measurement of a software system.
+Gantt chart. A bar chart of schedule information where activities are listed on the vertical axis,
+dates are shown on the horizontal axis, and activity durations are shown as horizontal bars placed
+according to start and finish dates.
+governance. The framework for directing and enabling an organization through its established
+policies, practices, and other relevant documentation.
+histogram. A bar chart that shows the graphical representation of numerical data.
+hybrid approach. A combination of elements from both adaptive and predictive approaches that is
+useful when there is uncertainty or risk around the requirements.
+impediment. An obstacle that prevents the team from achieving its objectives. Also known as a
+blocker.
+incremental approach. An adaptive development approach in which the deliverable is produced
+successively, adding functionality until the deliverable contains the necessary and sufficient capability
+to be considered complete.
+Initiating Focus Area. Those processes performed to define a new project or new phase of an
+existing project by obtaining authorization to start the project or phase.
+internal dependencies. Relationships between two or more project activities.
+issue. A current condition or situation that may have an impact on one or more objectives. See also
+opportunity, risk, and threat.
+iteration. A short cycle of development during which a product or deliverable is released or further
+matured. See also sprint.
+iteration plan. A detailed plan for the current iteration.
+iteration planning. A meeting to clarify the details of the backlog items, acceptance criteria, and
+work effort required to meet an upcoming iteration commitment.
+iteration review. A meeting held at the end of an iteration to demonstrate the work that was
+accomplished during the iteration.
+iterative approach. A development approach that focuses on an initial, simplified implementation
+then progressively elaborates, adding to the feature set until the final deliverable is complete.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

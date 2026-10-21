@@ -1,0 +1,35 @@
+tilizing a basic ordering agreement or as complicated as managing, coordinating, and
+ntegrating several large procurement activities. For further details, see Appendix X4 ol
+2.6.2 Processes
+The Resources performance domain includes the processes required to plan, estimate, and acquire
+the resources needed to successfully complete the project, lead the project team, and control
+resources. These processes help ensure that the right resources will be available to the project
+manager and project team at the right time and place.
+The following processes are included in the Resources performance domain (see Figure 2-40):
+• Plan Resource Management. The process of defining how to estimate, acquire, lead, and
+utilize physical, virtual, or team resources.
+• Estimate Resources. The process of estimating team resources and the type and
+quantities of physical or virtual resources necessary to perform project work.
+• Acquire Resources. The process of obtaining the team, physical, or virtual resources
+necessary to complete project work, which is based on the activity list.
+Initiating
+Planning
+Closing
+Plan Resource
+Management
+Estimate
+Resources
+Executing
+Acquire
+Resources
+Lead the
+Team
+Monitoring and Controlling
+Monitor and
+Control
+Resourcing
+Figure 2-40. Resources Performance Domain Processes Overview
+80
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.
+^

@@ -1,0 +1,27 @@
+Preface
+PMI is committed to representing the voice of the project management community. That
+commitment drives a pursuit of practitioner input and continuous feedback on how the content of
+A Guide to the Project Management Body of Knowledge (PMBOK® Guide) should evolve.
+With the PMBOK® Guide-Eighth Edition, PMI delivers the most evidence-based revision to date.
+Moreover, community input inspired a design that is simultaneously broad in scope and inclusive of
+all industries and approaches.
+Evidence-Based and Globally Represented
+To support the creation of this eighth edition, PMI conducted qualitative and quantitative research
+over the course of 2023 that yielded approximately 48,000 data points.
+With this data in hand, a highly selective process was conducted to identify volunteers. That selection
+process yielded two globally diverse teams of subject matter experts. The development team
+consisted of 12 subject matter experts with a diverse background from 10 different countries across
+five continents; the review team featured 12 members from eight different countries, altogether
+representing dozens of industries and approaches. Over 18 months, the two teams worked
+independently in a double-blind fashion, iteratively developing and then validating the material in this
+eighth edition.
+That work was validated and refined by two rounds of public community feedback, yielding more
+than 12,000 comments from project management practitioners around the world.
+Summary of Changes
+The majority of changes can be grouped into four main categories:
+• Key term and concept updates,
+• Principle refinement,
+• Reintroduction of Process Groups as Focus Areas, and
+• Project management performance domain updates.
+vii
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

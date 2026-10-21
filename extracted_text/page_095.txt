@@ -1,0 +1,42 @@
+4.5.3 Executing Focus Area
+The Executing Focus Area consists of those processes, practices, or actions performed to complete
+the work in a manner consistent with the currently agreed-upon course of action.
+he actions in this Focus Area include coordinating resources, managing stakeholder engagemen
+nd performing the activities of the project, as well as other project tasks. The key benefit of thi
+ocus Area is to drive focused execution to achieve the value proposition represented by the
+tegrated baseline. The project management plan can and should be changed whenever such
+change would enhance the value proposition of the project. This Focus Area is also where the choice
+of development approach (adaptive, predictive, or hybrid) is often most evident.
+4.5.4 Monitoring and Controlling Focus Area
+The Monitoring and Controlling Focus Area consists of those actions required to track, measure,
+review, and regulate the progress and performance of the project; identify any areas in which
+changes to the plan are required; and initiate the corresponding changes.
+Monitoring can include comparing project performance data, producing performance measures,
+comparing actual performance with planned performance, or reporting and disseminating
+performance information. Controlling can include analyzing variances, assessing trends to affec
+process improvements, evaluating possible alternatives, and recommending appropriate course
+corrections as needed.
+The key benefit of this Focus Area is to ensure the project is on track to meet expectations. This
+ffort often involves measuring and analyzing project performance at regular intervals, appropriat
+vents, or when exceptional conditions occur. If any variances are found, the project managemen
+team identifies what, if any, corrective actions may be needed. Those corrective actions are then
+negotiated and agreed upon by appropriate stakeholders.
+For any project having a stable project management plan, the effort required to perform Monitoring
+red Central guil afaily gesistent thromon vexedaive aporate on ring ander going
+equent and sigt
+Controlling efforts are likely to be less consistent.
+The Monitoring and Controlling Focus Area monitors and controls the work being done within
+each life cycle phase and for the project as a whole. The Monitoring and Controlling Focus Area is
+performed in parallel with the other Focus Areas. It is not a separate, stand-alone area.
+4.5.5 Closing Focus Area
+The Closing Focus Area consists of the actions performed to formally complete or close a project,
+hase, contract, or in some cases, to terminate a project before completion. This effort may incluc
+le verification that specific actions are completed for other Focus Areas before a given project ‹
+phase can be declared as complete.
+The key benefit of this Focus Area is that phases, projects, and contracts are closed out appropriately,
+ransitioning to operations in a manner that helps meet or exceed the project's target business
+objectives. Verifying the achievement of project outputs, outcomes, and benefits as part of this
+Focus Area is essential to ensuring that the project has met or exceeded the intended value and
+stakeholders' expectations.
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

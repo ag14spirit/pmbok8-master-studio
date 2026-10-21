@@ -1,0 +1,80 @@
+Develop Scope Structure
+Inputs
+• Project management plan
+• Project documents
+- Project scope statement
+- Requirements
+documentation
+• Approved changes
+• Enterprise environmental
+factors
+• Organizational process assets
+• Etc.
+Tools & Techniques
+• Expert judgment
+• Brainstorming
+• Decomposition
+Outputs
+• Scope baseline
+• Work breakdown structure
+(WBS)
+• WBS dictionary
+• User stories
+• Product backlog
+• Etc.
+Figure 2-17. Develop Scope Structure Inputs, Tools and Techniques,
+and Outputs
+Monitor and Control Scope
+Inputs
+• Project management plan
+- Scope management plan
+- Quality management plan
+• Project documents
+- Requirements
+documentation
+- Performance
+measurement
+baseline
+- Quality test and
+evaluation documents
+•Quality metrics
+• Approved change requests
+• Deliverables
+• Enterprise environmental
+factors
+• Organizational process assets
+• Etc.
+•
+Tools & Techniques
+• Data analysis
+- Variance analysis
+- Trend analysis
+- Root cause analysis
+• Performance reviews
+• Audits and inspections
+• Testing/product evaluations
+• Data representations
+• Process automations
+• Etc.
+Outputs
+• Quality reports
+• Verified deliverables
+• Change requests
+• Quality control
+measurements
+• Project management plan
+updates
+- Scope management plan
+- Quality management plan
+• Project document updates
+- Requirements
+documentation
+- Lessons learned register
+• Work performance
+information
+• Etc.
+ПП.
+Figure 2-18. Monitor and Control Scope Inputs, Tools and Techniques, and Outputs
+Section 2 - Project Management Performance Domains
+43
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,44 @@
+slippages and warns the project manager in advance that there may be problems later in the
+schedule if established trends persist. This information is made available early enough in the project
+timeline to give the project team time to analyze and correct any anomalies. The results of trend
+analysis can be used to recommend preventive actions if necessary.
+Tuckman ladder. One of the models used to describe team development is the Tuckman ladder,
+which includes five stages of development that teams may go through. Although it is common for
+these stages to occur in order, it is not uncommon for a team to get stuck in a particular stage or
+regress to an earlier stage. Projects with team members who worked together in the past may also
+• Forming. This phase is where the team members meet and learn about the project and
+their formal roles and responsibilities. Team members tend to be independent and not as
+open in this phase.
+• Storming. During this phase, the team begins to address the project work, technical
+ecisions, and the project management approach. If team members are not
+ollaborative or open to differing ideas and perspectives, the environment can becom
+counterproductive.
+• Norming. In this phase, team members begin to work together and adjust their work habits
+and behaviors to support the team. The team members learn to trust one another.
+• Performing. Teams that reach the performing stage function as a well-organized unit. They
+are interdependent and work through issues smoothly and effectively.
+• Adjourning. In this phase, the team completes the work and moves on from the project.
+This typically occurs when staff is released from the project as deliverables are completed.
+The duration of a particular stage depends upon team dynamics, team size, and team leadership. The
+project management team should have a good understanding of team dynamics to move the team
+members through all stages in an effective manner.
+Value stream mapping. Value stream mapping is a display of the critical steps in a process and
+the time taken in each step to identify waste. Value stream mapping is a Lean technique used to
+document, analyze, and improve the flow of information or materials required to produce a product
+or service for a customer. A value stream begins, ends, and hopefully continues with a customer.
+A value stream is the set of activities that takes place to add value for customers, from the initial
+request through realization of value by the customers.
+Variance analysis. Variance analysis is a technique for determining the cause and degree of
+difference between the baseline and actual performance. The technique uses mathematical
+models to forecast future outcomes based on historical results. Variance analysis reviews the
+differences (or variances) between planned and actual performance. This analysis can include
+duration estimates, cost estimates, resource utilization, resource rates, technical performance, and
+other metrics. Variance analysis reviews the variances from an integrated perspective considering
+cost, time, technical, and resource variances in relation to one another to get an overall view of
+variance on the project. This review allows for the appropriate preventive or corrective actions to be
+initiated.
+Velocity. Velocity is a measure of a team's productivity rate at which the deliverables are produced,
+validated, and accepted within a predefined interval.
+Section 5 - Tools and Techniques
+211
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

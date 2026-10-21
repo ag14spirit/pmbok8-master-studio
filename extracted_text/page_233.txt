@@ -1,0 +1,42 @@
+Project scope statement. The project scope statement is the description of the project scope,
+major deliverables, assumptions, and constraints. The project scope statement documents the entire
+scope, including the project and product scope. The statement describes the project's deliverables in
+detail and provides a common understanding of the project scope among project stakeholders. The
+document may contain explicit scope exclusions that can assist in managing stakeholder expectations.
+The project scope statement enables the project team to perform more detailed planning, guides the
+project team's work during execution, and provides the baseline for evaluating whether requests for
+changes or additional work are contained within or outside the project's boundaries.
+The degree and level of detail to which the project scope statement defines the work that will be
+performed and the work that is excluded can help determine how well the project management
+team can control the overall project scope. The detailed proiect scope statement, either directly or by
+reference to other documents, includes the following:
+• Project scope description. The project scope description progressively elaborates the
+haracteristics of the product, service, or result described in the proiect charter and
+requirements documentation.
+• Deliverables. A deliverable is any unique and verifiable product, result, or capability
+to perform a service that is required to be produced to complete a process, phase, or
+oject. Deliverables also include ancillary results such as project management reports ar
+cumentation. These deliverables may be described at a summary level or in great deta
+• Acceptance criteria. The acceptance criteria is a set of conditions that are met before
+deliverables are accepted.
+• Project exclusions. Project exclusions identify what is excluded from the project. Explicitly
+stating what is out of scope for the project helps manage stakeholders' expectations and
+can reduce scope creep.
+Although the project charter and the project scope statement are sometimes perceived as containing
+the project. Table 4-1 describes some of the key elements for each document.
+Project team assignments. Project team assignments are recorded in a document containing a list
+if the team members and their roles and responsibilities for the project. This documentation car
+clude a project team directory and names inserted into the project management plan, such as th
+project organization charts and schedules.
+Quality control measurements. Quality control measurements are the documented results of the
+Manage Quality Assurance process activities. The measurements should be captured in the format
+specified in the quality management plan.
+Quality management plan. The quality management plan is a component of the program or project
+nanagement plan that describes how an organization's policies, procedures, and guidelines wi
+e implemented to achieve the quality objectives. The plan describes the activities and resource
+necessary for the project management team to achieve the quality objectives set for the project. The
+quality management plan may be formal or informal, detailed or broadly framed. The style and detail
+of the quality management plan are determined by the requirements of the project. The plan should
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

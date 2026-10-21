@@ -1,0 +1,42 @@
+• Release backlog. A release backlog is a subset of the product backlog that includes items
+planned for a specific release. The release backlog helps organize the work to be delivered
+at the end of a release cycle, which may encompass multiple sprints or iterations.
+The project team determines the scope they can achieve based on the prioritized backlog, estimates
+the work involved, and works collaboratively throughout the iteration to develop the scope.
+Basis of estimates. The basis of estimates is the supporting documentation that outlines the details
+used in establishing the project estimates such as assumptions, constraints, levels of detail, ranges,
+and confidence levels.
+legardless of the level of detail, the basis of estimates should provide a clear and complete
+inderstanding of how an estimate was derived. Documentation mav include how the basis of
+estimate was developed, assumptions made, known constraints, range of possible estimates
+(e.g., t10%), confidence level of the final estimate, and individual project risks influencing the estimate.
+Benefits management plan. The benefits management plan is the documented explanation defining
+the processes for creating, maximizing, and sustaining the benefits provided by a program or project.
+The benefits management plan is the document that describes how and when the benefits of the
+project will be delivered and the mechanisms that should be in place to measure those benefits.
+A project benefit is an outcome of actions, behaviors, products, services, or results that provides
+value to the sponsoring organization as well as to the project's intended beneficiaries. Development
+of the plan begins early in the project life cycle with the definition of the target benefits. The plar
+describes key elements of the benefits and may include the following:
+• Target benefits. The expected tangible and intangible value to be gained by the
+implementation of the project; financial value may be expressed as net present value (NPV).
+• Strategic alignment. The alignment of the project to the business strategies of the organization.
+• Timeframe for realizing benefits. The length of time to realize benefits, for example,
+short term, long term, ongoing, or by phase.
+• Benefits owner. The person accountable for monitoring, recording, and reporting realized
+benefits throughout the timeframe established in the plan.
+• Metrics. The direct and indirect measures used to determine the benefits realized.
+• Assumptions. The factors expected to be in place or to be in evidence.
+• Risks. The risks that pertain to the realization of benefits.
+The data and information that are documented in the business case and needs assessment are
+used to develop the benefits management plan. The benefits management plan and the project
+management plan include a description of how the business value resulting from the project
+becomes part of the organization's ongoing operations, including the metrics to be used. The metrics
+provide verification of the business value and validation of the project's success.
+Management pad momplement of te business me, preme hater, and prole acting then plants.
+he project manager works with the sponsor to ensure that the project charter, project manageme!
+lan, and benefits management plan remain in alignment throughout the life cycle of the projed
+Section
+4 - Inputs and Outputs
+115
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

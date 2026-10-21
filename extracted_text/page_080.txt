@@ -1,0 +1,19 @@
+Section 4
+Project Life Cycles
+A project life cycle is the series of activities and/or phases that a project passes through from its start
+to its closure. The project life cycle provides the foundational framework for managing a project.
+This basic framework applies regardless of the specific project work involved or the adopted project
+development approach.
+This section explores the project life cycle through five factors:
+• Project phases,
+• Project development approaches (predictive, adaptive, hybrid),
+• Considerations for selecting a development approach,
+• Delivery cadence, and
+• Project Management Focus Areas (formerly known as Process Groups).
+4.1 Project Phases
+Projects are often decomposed into multiple phases. A project phase is a collection of logically related
+project activities that culminates in the completion of one or more deliverables and/or outcomes.
+The phases may be sequential, transitional, or overlapping. In some projects a combination of these
+phases may be used, and each phase may include one or more stages of the project life cycle. Project
+57
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

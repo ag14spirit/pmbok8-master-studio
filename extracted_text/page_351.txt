@@ -1,0 +1,43 @@
+X4.2 Procurement Overview
+Project procurement management encompasses the essential processes required to develop and
+administer agreements such as contracts, purchase orders, memoranda of agreements (MOAS), or
+service-level agreements (SLAs). These processes help ensure that the procurement of goods and
+services necessary for the project can be handled efficiently and effectively. The personnel authorized
+to procure these goods and services may include members of the project team, management, or
+members of the organization's purchasing department, depending on the organizational structure.
+Effective procurement management involves a series of activities designed to oversee and control
+procurement activities throughout the project life cycle.
+The first stage in project procurement management is identifying the procurement needs and
+then planning for the same. During this phase, project managers or members of the purchasing
+department should involve key stakeholders early in the planning stage to ensure alignment
+on procurement objectives and constraints and document the decisions, as well as specify the
+procurement standards rules and regulations and identify potential sellers. This process involves
+conducting a thorough analysis of the project's needs, determining the resources required, and
+deciding whether to procure these resources internally or externally. The process also includes
+preparing procurement documents such as requests for proposals (RFPs) or invitations for bids (IFBs)
+(also called an invitation to tender [ITT]), which are then shared with potential sellers to solicit their
+responses. Proper planning ensures that all procurement activities align with the project's objectives
+and constraints.
+The next stage is conducting the procurements. This step involves obtaining responses from
+potential sellers, evaluating these responses, selecting the most suitable seller, and awarding the
+contract. During this stage, it is crucial to ensure that the procurement process is transparent and
+fair, providing equal opportunities for all potential sellers to participate, as well as to ensure that the
+queries raised by bidders through requests for information (RFls) are duly and adequately addressed.
+The selection of a seller should be based on predefined criteria such as cost, quality, and the seller's
+ability to meet the project requirements and timelines. Once a seller is selected, the contract is
+negotiated and finalized, outlining the terms and conditions under which the goods or services will be
+provided.
+The final stage in the procurement process is monitoring and controlling procurements. This step
+involves managing procurement relationships, monitoring contract performance, and making
+necessary changes and corrections. Effective contract management can ensure that the seller
+meets their obligations and that the project receives the required goods and services on time
+and within budget. Any issues or discrepancies should be addressed promptly to avoid delays or
+additional costs. The process also includes closing out contracts once the procurement activities
+are completed, ensuring that all contractual obligations have been fulfilled and there are no
+outstanding issues. This stage is critical for ensuring the procurement process supports the overall
+success of the project.
+X4.3 Make-or-Buy Analysis
+make-or-buy analysis is used to determine whether work or deliverables can best be accomplishe
+y the project team or should be purchased from outside source
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

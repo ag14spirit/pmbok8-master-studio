@@ -1,0 +1,43 @@
+The procurement management plan contains the activities to be undertaken during the procurement
+process. The plan should document whether international competitive bidding, national competitive
+bidding, local bidding, etc., should be done. If the project is financed externally, the sources and availability
+of funding should be aligned with the procurement management plan and the project schedule.
+The procurement management plan may include guidance for the following:
+• How procurement will be coordinated with other project aspects such as project schedule
+development and control processes;
+• Timetable of key procurement activities;
+• Procurement metrics to be used to manage contracts;
+• Stakeholder roles and responsibilities related to procurement, including authority and
+constraints of the project team when the performing organization has a procurement
+department;
+• Constraints and assumptions that could affect planned procurements;
+• Legal jurisdiction and the currency in which payments will be made;
+• Determination of whether independent estimates will be used and whether they are
+needed as evaluation criteria;
+• Risk management issues, including identifying requirements for performance bonds or
+insurance contracts to mitigate some forms of project risk; and
+• Prequalified sellers, if any, to be used.
+A procurement management plan can be formal or informal, highly detailed or broadly framed, and
+is based upon the needs of each project.
+Product. An artifact that is produced, is quantifiable, and can be either an end item in itself or a
+component item. Product is an overarching term that includes both tangible (physical goods) and
+intangible (digital goods and services) items.
+Project calendars. A project calendar is a calendar that identifies working days and shifts that are
+available for scheduled activities. The project calendar distinguishes time periods in days, or parts
+of days, that are available to complete scheduled activities from time periods that are not available
+for work. A schedule model may require more than one project calendar to allow for different work
+periods for some activities to calculate the project schedule. Project calendars may be updated.
+roject charter. A project charter is a document issued by the project initiator or sponsor tha
+ormally authorizes the existence of a project and provides the project manager with the authority t
+apply organizational resources to project activities.
+roject communications. Project communications may include but are not limited to performanc
+reports, deliverable status, schedule progress, cost incurred, presentations, and other informatior
+required by stakeholders.
+Project documents. The project documents include documentation created throughout the five
+Project Management Focus Areas to initiate, plan, execute, monitor and control, and close the project
+efore delivering it. Examples include the change log, issue log, project schedule, project scop
+tatement, requirements documentation, risk register, and stakeholder register
+Section
+4 - Inputs and Outputs
+125
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

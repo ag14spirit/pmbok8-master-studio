@@ -1,0 +1,57 @@
+Table 2-7. Check Outcomes-Schedule Performance Domain
+Outcome
+Scheduling approaches are consis-
+tent with the project deliverables.
+The project life cycle consists of pha-
+ses that connect the delivery of busi-
+ness and stakeholder value from the
+beginning to the end of the project.
+A holistic approach to delivering the
+project outcomes is developed.
+Schedule documentation is
+complete.
+Scheduling tools and techniques are
+used.
+Stakeholders are involved in the
+schedule development.
+Sufficient buffers are built in for
+known-unknowns.
+Check
+Align the schedule with the development approach for deliverables
+(predictive, adaptive, or hybrid).
+Represent the project work-from project launch to close-in
+project phases. Ensure the phases include the appropriate exit
+criteria.
+Select and develop a delivery schedule that demonstrates that the
+roject is planned in a holistic manner with no gaps or areas o
+nisalignment
+Ensure that the schedule documentation includes all essential ele-
+ments, such as task dependencies, durations, resource allocations,
+and milestones, based on the development approach selected.
+Monitor whether the team employed appropriate scheduling tools
+(e.g., project management software) and techniques (e.g., critical
+path method) during the schedule development.
+Check the level of participation from key stakeholders (e.g., client,
+team members) during the scheduling process. Low involvement
+may lead to an unrealistic or poorly developed schedule.
+Check that major project constraints and known risks are factored
+into the project schedule by providing sufficient floats, contingency
+reserves, or alternate activity network strategies such as second
+2.4 Finance Performance Domain
+The Finance performance domain addresses processes and tools related to the use and allocation
+of monetary resources, both internally and externally, to the performing organization. Financial
+performance relates to the costs, funding, and, in some cases, the value proposition of the project.
+Processes described in this performance domain include planning, estimating, budgeting, financing,
+funding, managing, measuring, and controlling costs so the project can optimize value for the
+organization.
+Having timely and accurate information about project work and performance allows the project team
+to learn and determine the appropriate actions needed to address current or expected variances from
+the desired performance. Financial measures are used for multiple reasons, including the following:
+• Evaluating performance compared to the plan;
+Tracking the utilization of resources, work completed, budget expended, etc.;
+•
+Demonstrating accountability;
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.
+^

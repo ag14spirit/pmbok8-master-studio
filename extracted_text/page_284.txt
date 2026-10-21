@@ -1,0 +1,46 @@
+of the outcome, even if the option selected may not have been everyone's first choice.
+Generally, inclusion increases commitment to the decision. The downside of group
+decision-making is the time required and the interruption to the team's work that can
+occur when members are consulted about a decision.
+Project team decision-making often follows a diverge/converge pattern. This pattern
+means that stakeholders are first engaged to generate a broad set of solution
+alternatives or approaches. This work is often done individually to avoid the effect
+of senior or charismatic stakeholders unduly influencing other stakeholders. Then,
+after a broad spectrum of decision alternatives has been generated, the project team
+converges on a preferred solution.
+•
+The goal is to make decisions quickly while engaging the diverse knowledge of a group in
+an inclusive and respectful manner. Some decisions may be made in a different direction
+than some people prefer, but everyone has an opportunity to explain their position. In
+the end, the deciding authority, whether an individual or a group, makes a decision based
+on the presented analysis and with consideration for stakeholder expectations.
+• Careful selection of which decisions should go for group discussion and using voting
+can limit the interruptions and task switching experienced by the project team. Many
+approaches such as Roman voting, wideband Delphi estimating, and fist of five voting
+use the diverge/converge pattern. These approaches aim to engage individual input
+while voting at the same moment, which minimizes groupthink.
+For those decisions that are beyond the authority of the project team to decide, the
+project team can investigate alternatives, consider impacts of each alternative, and
+escalate the decision to someone with the proper authority. This process aligns with the
+philosophy of "do not bring me problems, bring me solutions" while remaining aligned
+with organizational governance regarding decision-making authority.
+• Conflict management. Addressing conflict before it escalates beyond useful debate leads
+to better outcomes. The following approaches can help:
+• Keep communication open and respectful. Because conflict can cause anxiety, it is
+important to keep a safe environment to explore the source of the conflict. Without a
+safe environment, people will stop communicating. Make sure words, tone of voice, and
+body language remain nonthreatening.
+• Focus on the issues, not the people. Conflict is based on people perceiving situations
+differently. Conflicts should not be personal. The focus is on resolving the situation, not
+casting blame.
+• Focus on the present and future, not the past. Stay focused on the current situation,
+not past situations. If something similar happened previously, bringing up the past will
+not resolve the current situation. In fact, it can further intensify the current situation.
+Search for alternatives together. Damage incurred from conflict can be repaired by
+problem-solving space where people can work together to generate creative alternatives
+(for more information, see conflict management).
+Leads and lags. A lead is the amount of time whereby a successor activity can be advanced with
+respect to a predecessor activity. For example, on a project to construct a new office building, the
+Section 5 - Tools and Techniques
+179
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

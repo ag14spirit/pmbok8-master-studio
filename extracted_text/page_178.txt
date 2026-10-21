@@ -1,0 +1,69 @@
+Plan Communications Management —
+Inputs
+• Project charter
+• Project management plan
+- Resource management
+plan
+- Stakeholder engagement
+plan
+• Project documents
+- Requirements
+documentation
+- Stakeholder register
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+• Tools & Techniques
+• Expert judgment
+• Communication
+requirements analysis
+• Communication technology
+• Communication models
+• Communication methods
+• Interpersonal and team
+skills
+- Communication styles
+assessment
+- Political awareness
+- Cultural awareness
+• Data representation
+- Stakeholder engagement
+assessment matrix
+• Meetings
+• Etc.
+Outputs
+• Project management plan
+updates
+- Communications
+management plan
+- Stakeholder engagement
+plan
+• Project document updates
+- Project schedule
+- Stakeholder register
+• Etc.
+Figure 2-35. Plan Communications Management Inputs, Tools and Techniques, and Outputs
+2.5.2.5 Manage Communications
+The Manage Communications process involves setting up and conducting communications with
+stakeholders (e.g., sponsors, customers, end users, team members, managers, or executives).
+both inside and outside the team (e.g., external vendors). Manage Communications is the process
+of ensuring the timely and appropriate collection, creation, distribution, storage, retrieval,
+management, monitoring, and ultimate disposition of project information. The key benefit of
+this process is that it enables an efficient and effective information flow between the project
+eam and stakeholders. The Manage Communications process identifies all aspects of effectiv
+ommunication, including the choice of appropriate technologies, methods, and techniques. I
+addition, the process should foster greater flexibility in the communications activities, allowing for
+adjustments in the methods and techniques to accommodate the changing needs of stakeholders
+and the project (see Figure 2-37).
+2.5.2.6 Monitor Stakeholder Engagement
+The Monitor Stakeholder Engagement process involves assessing the effectiveness of stakeholder
+engagement efforts, identifying necessary adjustments to improve relationships, and refining strategies
+or plans to better meet stakeholder participation needs. The key benefit of this process is that it maintains
+or increases the efficiency and effectiveness of stakeholder engagement activities as the project evolve
+and its environment changes. This process is performed throughout the project (see Figure 2-38)
+Section
+2 - Project Management Performance Domains
+73
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

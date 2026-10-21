@@ -1,0 +1,72 @@
+Monitor and Control Project Performance
+Inputs
+• Project management plan
+- Any component
+• Project documents
+- Assumption log
+- Basis of estimates
+- Cost forecasts
+- Issue log
+- Lessons learned register
+- Milestone list
+- Quality reports
+- Risk register
+- Risk report
+- Schedule forecasts
+• Work performance
+information
+• Agreements
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Data analysis
+- Alternative analysis
+- Cost-benefit analysis
+- Earned value analysis
+- Root cause analysis
+- Trend analysis
+- Variance analysis
+• Decision-making
+- Voting
+• Meetings
+• Project dashboards
+• Visual controls
+• Information radiators
+• Etc.
+Outputs
+• Work performance reports
+• Change requests
+•Project management plan
+updates
+- Any component
+• Project document updates
+- Cost forecasts
+- Issue log
+- Lessons learned register
+- Risk register
+- Schedule forecasts
+• Etc.
+Figure 2-9. Monitor and Control Project Performance Inputs, Tools and Techniques, and Outputs
+The Monitor and Control Project Performance process is linked to measurement, as it relies on
+the continuous tracking, review, and reporting of project metrics to ensure alignment with the
+performance objectives set out in the project management plan. Effective measurement provides the
+necessary data to assess project progress, resource utilization, and the status of the project.
+By collecting and analyzing leading and lagging indicators, project practitioners can identify potential
+problems early, make informed decisions, and take corrective or preventive action to keep the
+roject on track. Measurement also facilitates accountability and transparency, allowing stakeholder
+o understand the current status of the proiect and its future development. The Monitor and Contro
+Project Performance process is thus supported by robust measurement techniques that drive
+process improvements and increase the likelihood of project success.
+Measurement requires time and effort that could be allocated to other productive tasks;
+therefore, project teams should focus on measuring only what is relevant and ensure that the
+metrics are actionable. Metrics should adhere to the SMART criteria explained in Section 2.1.5.3
+to be effective.
+Section
+2 - Project Management Performance Domains
+27
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

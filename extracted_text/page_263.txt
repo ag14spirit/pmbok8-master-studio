@@ -1,0 +1,46 @@
+• Enhance. The enhance strategy is used to increase the probability and/or impact of an
+opportunity. Early enhancement action is often more effective than trying to improve the
+benefit after the opportunity has occurred. The probability of occurrence for an opportunity
+may be increased by focusing attention on its causes. Where it is not possible to increase
+probability, an enhancement response might increase the impact by targeting factors that
+drive the size of the potential benefit. Examples of enhancing opportunities include adding
+more resources to an activity to finish early.
+• Accept. Accepting an opportunity acknowledges its existence but no proactive action
+is taken. This strategy may be appropriate for low-priority opportunities. It may also be
+adopted where it is not possible or cost-effective to address an opportunity in any other
+way. Acceptance can be either active or passive. The most common active acceptance
+strategy is to establish a contingency reserve, including amounts of time, money, or
+resources to take advantage of the opportunity if it occurs. Passive acceptance involves no
+proactive action apart from a periodic review of the opportunity to ensure that it does not
+change significantly.
+Continuous improvement. Continuous improvement is an ongoing process that focuses on
+efforts to improve processes, products, systems, or services. It involves identifying, analyzing, and
+implementing incremental improvements. Continuous improvement can use approaches such as
+plan-do-check-act (PDCA), Lean, Total Quality Management, Six Sigma, Five Focusing Steps (5FS), and
+Control charts. Control charts are used to determine whether or not a process is stable or has
+predictable performance. Upper and lower specification limits are based on the requirements
+and reflect the maximum and minimum values allowed. Upper and lower control limits are
+different from specification limits. The control limits are determined using standard statistical
+calculations and principles to ultimately establish the natural capability for a stable process. The
+project manager and appropriate stakeholders may use the statistically calculated control limits
+to identify the points at which corrective action will be taken to prevent performance that remains
+outside the control limits. Control charts can be used to monitor various types of output variables.
+Although used most frequently to track repetitive activities required for producing manufactured
+lots, control charts may also be used to monitor cost and schedule variances, volume, frequency
+of scope changes, or other management results to help determine if the project management
+Cost aggregation. Cost aggregation is a cost estimate that is aggregated by work packages in
+accordance with the work breakdown structure (WBS). The work package cost estimates are then
+aggregated for the higher component levels of the WBS (such as control accounts) and, ultimately, for
+the entire project.
+Cost-benefit analysis. Cost-benefit analysis is a financial analysis method used to determine the
+benefits provided by a project against its costs. The analysis is used to estimate the strengths and
+weaknesses of alternatives in order to determine the best alternative in terms of benefits provided. A
+cost-benefit analysis can help the project manager to determine if project activities are cost-effective
+A cost-benefit analysis compares the cost of an activity to the expected benefit
+Cost of quality (CoQ). The cost of quality includes all costs incurred over the life of the product
+by investment in preventing nonconformance to requirements, appraisal of the product or service
+for conformance to requirements, and failure to meet requirements. The CoQ associated with a
+158
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

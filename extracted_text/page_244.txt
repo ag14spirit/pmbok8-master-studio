@@ -1,0 +1,43 @@
+Forecasts are updated and reissued based on work performance information provided as the project
+is executed. The information is based on the project's past performance and its expected future
+performance based on corrective or preventive actions. This information may include earned value (EV)
+performance indicators as well as schedule reserve information that could impact the project in the future.
+detailed or broadly framed based on the needs of the project. The plan also includes appropriate
+control thresholds.
+The schedule management plan can establish the following:
+• Project schedule model development. The scheduling methodology and the scheduling
+tool to be used in the development of the project schedule model are specified.
+• Release and iteration length. When using an adaptive life cycle, the timeboxed periods
+for releases, waves, and iterations are specified. Timeboxed periods are durations during
+which the team works steadily toward completion of a goal. Timeboxing helps to minimize
+scope creep as it forces the team to process essential features first, then other features
+when time permits.
+• Level of accuracy. The level of accuracy specifies the acceptable range used in determining
+realistic activity duration estimates and may include an amount for contingencies.
+• Units of measure. Each unit of measurement (e.g.. s
+heasurem or sure sach unit of mirers re, staff hour, days, or weeks for tim
+defined for each of the resources.
+• Organizational procedures links. The work breakdown structure (WBS) provides the
+framework for the schedule management plan, allowing for consistency with the estimates
+and resulting schedules.
+• Project schedule model maintenance. The process used to update the status and record
+progress of the project in the schedule model during the execution of the project is defined.
+• Control thresholds. Variance thresholds for monitoring schedule performance may be
+specified to indicate an agreed-upon amount of variation to be allowed before some actior
+should be taken. Thresholds are typically expressed as percentage deviations from the
+parameters established in the baseline plan.
+•
+Rules of performance measurement. Earned value management (EVM) rules or other
+physical measurement rules of performance measurement are set. For example, the
+schedule management plan may specify:
+• Rules for establishing percent complete,
+• Any EVM techniques (e.g., baselines, fixed formula, percent complete, etc.) to be
+employed (for more specific information, refer to The Standard for Earned Value
+Management [3]), and
+• Schedule performance measurements, such as schedule variance (SV) and schedule
+performance index (SPI), used to assess the magnitude of variation to the original
+schedule baseline.
+• Reporting formats. The formats and frequency for the various schedule reports are defined.
+Section 4 - Inputs and Outputs
+139
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

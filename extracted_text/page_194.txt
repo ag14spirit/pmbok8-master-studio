@@ -1,0 +1,50 @@
+benefits of collaboration also apply to other project environments, collaborative teams
+are often critical to the success of projects with a high degree of variability and rapid
+changes because there is less time for centralized tasking and decision-making.
+• Maturity of project team culture. When project teams form across different organizations
+based on a contract, strategic partnership, or other business relationship, specific roles
+that perform various functions may be more formalized and less flexible depending on the
+contract or other terms. Such arrangements often require more up-front work to establish
+a "one team" mindset; ensure project team members understand how everyone contributes
+to the project; and establish other enablers that integrate skills, capabilities, and processes.
+The teams may differ in aspects such as:
+• Unique culture of the project team. Each project team develops its own team culture.
+The project team's culture may be established deliberately by developing project team
+norms or informally through the behaviors and actions of its project team members.
+The project team culture operates within the organization's culture but reflects the
+project team's individual ways of working and interacting.
+•
+Transparency on bias. Human beings have a set of biases, some of them unconscious
+and some of them conscious. For example, one person may feel that unless a schedule
+is displayed using a software-generated Gantt chart, it is not a true or valid schedule.
+Another person may have a contrasting bias that detailed planning further out than 30
+days is a waste of time. Being open and transparent about biases up front establishes a
+culture of openness and trust that can enable consensus and collaboration.
+• Project manager role. The project manager role is key in establishing and maintaining
+a safe, respectful, nonjudgmental environment that allows the project team to
+communicate openly. One way to accomplish this is by modeling desired behaviors,
+such as:
+• Transparency. Being transparent in how one thinks, makes choices, and processes
+information helps others identify and share their own processes. This openness can
+extend to being transparent about biases as well.
+• Integrity. Integrity comprises ethical behavior and honesty. Individuals
+demonstrate honesty by sharing risks, communicating their assumptions and
+basis of estimates, delivering bad news early, and ensuring that status reports
+provide an accurate depiction of the project's progress. Ethical behavior can include
+spotlighting potential defects or negative effects in product design; disclosing
+potential conflicts of interest; ensuring fairness; and making decisions based on
+environmental, stakeholder, and financial impacts.
+• Respect. Demonstrating respect for each person, how they think, their skills, and
+the perspective and expertise they bring to the project team sets the stage for all
+project team members to adopt this behavior.
+• Positive discourse. Throughout the project, diverse opinions, different ways of
+approaching situations, and misunderstandings will occur. These are a normal
+part of conducting projects. These challenges present an opportunity to have a
+dialogue rather than a debate. A dialogue entails working with others to resolve
+divergent opinions. The goal is to arrive at a resolution that all parties can embrace.
+Conversely, a debate is a win-lose scenario where people are more interested
+in winning personally than they are in being open to alternative solutions to a
+problem.
+Section 2 - Project Management Performance Domains
+89
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

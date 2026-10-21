@@ -1,0 +1,93 @@
+Resource leveling, 193-194
+Resource management plan, 81, 132-134
+Resource manager, 79
+Resource optimization technique, 193-194
+Resource requirements, 134
+Resource smoothing, 194
+Resources performance domain, 79-92
+checking outcomes of, 92
+Focus Areas and, 9
+interactions with other domains, 36, 57,91
+key concepts in, 79-80
+overview of, 79
+and processes, 80-88
+tailoring, 88-91
+Respect, 89, 179
+Response, 154
+Response strategies, 157-158, 202-204
+Responsibility assignment matrix, 194, 195
+Return on investment (ROI) analysis, 242
+Revenue forecasts, 134
+Reverse brainstorming, 150
+Review(s)
+after-action, 145-146
+of cost estimates, 119
+historical information, 172
+performance, 185
+sprint, 199
+Revised cost baseline, 118
+Rewards, 192
+Risk(s)
+of artificial intelligence, 26, 239-243
+categories of, 135-136, 195
+classifying, 93
+definition of, 92
+identification of (See Risk identification)
+identified, 92-93, 137, 138
+ading indicators and, 1
+measurement,
+Risk-adjusted ROl analysis, 242
+Risk analysis, 96
+Risk appetite, 94, 99, 136
+Risk audit, 148
+Risk breakdown structure (RBS), 135-136
+Risk exposure, 94
+Risk identification
+Al used in, 101, 241
+process of, 96
+prompt lists used in, 191
+SWOT analysis used in, 204
+Risk impact analysis, 242
+Risk management plan, 95-96, 134-136
+Risk owners, potential, 137
+Risk performance domain, 92-102
+Al use cases in, 241-242
+checking outcomes of, 102
+Focus Areas and, 9
+interactions with other domains, 36, 46, 57, 66, 91,
+101-102
+key concepts in, 92-94
+overview of, 92
+and processes, 94-98
+tailoring, 98-101
+Risk register, 93, 137
+Risk register updates, 137
+Risk report, 138
+Risk responses
+Al used in, 241
+definition of, 94
+identifying, 78
+implementing, 78,98, 99
+planning, 96-97, 99
+strategies for, 94, 157-158, 202, 203-204
+Risk sharing, 157, 202
+Risk strategy, 134, 157, 202, 203
+Risk threshold, 94, 99
+ROACE method, 59
+Robotic process automation (RPA), 188
+ROl analysis, 242
+Rolling wave planning, 196
+Root cause analysis, 196
+Round-robin, 150
+positive (See Opportunities)
+probability and impact assessment of, 195
+probability and impact levels of, 136
+responses to (See Risk responses)
+root cause analysis of, 196
+sensitivity analysis of, 197, 198
+simulation models of, 197-198, 199
+s
+Scale interective communication model, 153-154
+290
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,30 @@
+2.4.3 Facilitate and Support
+motivation in pursuit of the target outcome. Facilitation helps the project team to create consensus
+around solutions, resolve conflicts, and make decisions. Facilitation may also be used to coordinate
+neetings and contribute in an unbiased way to the advancement of project objectives. Supporting people
+hrough change and helping to address obstacles that can prevent the team from achieving project
+2.4.4 Perform Work
+The people performing this function provide the knowledge, skills, and experience necessary to deliver
+execution, reduce human error, and enhance productivity. For more information on colocation and
+virtual collaboration tools, please refer to the tools and techniques detailed within Section 5 of A Guide
+to the Project Management Body of Knowledge (PMBOK® Guide) [2]. Some work may be highly specialized,
+while other work may be performed by project team members who have broad skill sets.
+2.4.5 Apply Expertise
+Applying expertise within a project involves contributing specialized knowledge, vision, and skills in a
+specific subject area. Experts provide advice and support across the organization, enhancing the project
+team's learning process and improving the accuracy and quality of their work. Experts can also help identify
+uncertainties and blind spots, and eventually evaluate project progress and ultimate success. These
+2.4.6 Provide Organizational Direction and Insight
+Guiding and clarifying the direction of the project or product involves prioritizing requirements
+or scope based on value, dependencies, and technical or operational risks. Those responsible for
+providing organizational direction help set the course for the next increment or element to be
+developed or delivered. This role includes engaging with stakeholders, customers, and project
+environments, direction and insight may come from regular review cycles or feedback loops. In
+predictive environments, checkpoints may be established to review progress and provide guidance
+on project milestones. Roles such as portfolio managers, project sponsors, and product owners are
+examples of those who typically guide and clarify project direction. These roles can ensure that the
+project stays aligned with strategic objectives and delivers the intended value, adjusting the course as
+necessary based on feedback and performance metrics.
+26
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

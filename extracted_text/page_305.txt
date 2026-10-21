@@ -1,0 +1,40 @@
+• Knowledge. The person may have specialist knowledge, which can benefit the project
+through more effective delivery of project objectives, organizational outcomes, or
+knowledge of the power structures of the organization.
+and the power structures of the organization and its politics.
+Stakeholder engagement assessment matrix. A stakeholder engagement assessment matrix is a
+latrix that compares current and desired stakeholder engagement levels. One way to classify th
+gagement level of stakeholders is shown in Figure 5-23. The engagement level of stakeholders ca
+be classified as follows:
+• Unaware. The stakeholder is unaware of the project and its potential impacts.
+Resistant. The stakeholder is aware of the project and potential impacts but resistant
+o any changes that may occur as a result of the work or outcomes of the project. These
+stakeholders will be unsupportive of the work or outcomes of the project.
+• Neutral. The stakeholder is aware of the project but neither supportive nor unsupportive.
+• Supportive. The stakeholder is aware of the project and its potential impacts and
+supportive of the work and its outcomes.
+• Leading. The stakeholder is aware of the project and its potential impacts and actively
+engaged in ensuring that the project is a success.
+In Figure 5-23, C represents the current engagement level of each stakeholder and D indicates the
+level that the project team has assessed as essential to ensure project success (desired). The gap
+berletively ent and the stad folder. she losinger wil i act teen our and desires is cessary
+essential element of monitoring stakeholder engagement.
+Stakeholder mapping/representation. Stakeholder mapping and representation is a method
+of categorizing stakeholders using various methods. Categorizing stakeholders assists the team
+in building relationships with the identified project stakeholders. Common methods include the
+• Power/interest grid, power/influence grid, or impact/influence grid. Each of these
+techniques supports a grouping of stakeholders according to their level of authority (power),
+level of concern about the project's outcomes (interest), ability to influence the outcomes
+Stakeholder
+Stakeholder 1
+Stakeholder 2
+Stakeholder 3
+Unaware
+Resistant
+Figure 5-23. Stakeholder Engagement Assessment Matrix
+Neutral
+Supportive
+Leading
+DC
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,58 @@
+Software Product
+Release 5.0
+Project
+Management
+Planning
+Product
+Requirements
+Software
+Meetings
+User
+Documentation
+Detail
+Design
+Software
+User
+Documentation
+Construct
+Software
+Integration
+and Test
+Software
+User
+Documentation
+User
+Documentation
+Administration
+Training Program
+Materials
+Training Program
+Materials
+Training Program
+Materials
+Training Program
+Materials
+Note: The WBS is illustrative only. It is not intended to represent the full project scope of any specific project, nor to imply that this is
+the only way to organize a WBS on this type of project.
+Figure 5-7. Sample WBS Organized by Phase
+to greater levels of detail, the ability to plan, manage, and control the work is enhanced. However,
+excessive decomposition can lead to a nonproductive management effort, inefficient use of
+resources, decreased efficiency in performing the work, and difficulty aggregating data over different
+levels of the WBS.
+Decomposition may not be possible for a deliverable or subcomponent that will be accomplished far
+into the future. The project management team usually waits until the deliverable or subcomponent is
+agreed on so that the details of the WBS can be developed. This technique is sometimes referred to
+as rolling wave planning.
+The WBS represents all product and project work, including the project management work. The total
+of the work at the lowest levels should roll up to the higher levels so that nothing is left out and no
+extra work is performed. This is sometimes called the 100 percent rule.
+For specific information regarding the WBS, refer to the Practice Standard for Work Breakdown
+Structures [41. The practice standard contains industry-specific examples of WBS templates that
+can be tailored to specific projects in a particular application area.
+Dependency determination and integration. Dependencies may be characterized by the following
+attributes: mandatory or discretionary and internal or external. Dependency has four attributes, but
+two can be applicable at the same time in the following ways: mandatory external dependencies,
+mandatory internal dependencies, discretionary external dependencies, or discretionary internal
+166
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

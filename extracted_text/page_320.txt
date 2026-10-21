@@ -1,0 +1,11 @@
+Nhat-if analysis. What-it analysis is the process of evaluating scenarios in order to predict theil
+effect (positive or negative) on project obiectives. This process is an analysis of the question: "What
+if the situation represented by scenario X happens?" A schedule network analysis is performed using
+the schedule to compute the different scenarios, such as delaying a major component delivery.
+extending specific engineering durations, or introducing external factors such as a strike or a change
+in the permit process. The outcome of the what-if analysis can be used to assess the feasibility of the
+project schedule under different conditions, and in preparing schedule reserves and response plans
+to address the impact of unexpected situations.
+Section 5 - Tools and Techniques
+215
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,49 @@
+Strategies for overall project risk. Risk responses should be planned and implemented not only for
+individual project risks but also to address overall project risk. The same risk response strategies that
+are used to deal with individual project risks can also be applied to overall project risk:
+• Avoid. Where the level of overall project risk is significantly negative and outside the
+agreed-upon risk thresholds for the project, an avoid strategy may be adopted. This strategy
+involves taking focused action to reduce the negative effect of uncertainty on the project as
+a whole and bring the project back within the thresholds. An example of avoidance at the
+overall project level might include removal of high-risk elements of scope from the project.
+Where it is not possible to bring the project back within the thresholds, the project may be
+canceled. This strategy represents the most extreme degree of risk avoidance, and it should
+be used only if the overall level of threat is, and will remain, unacceptable.
+•
+Exploit. Where the level of overall project risk is significantly positive and outside the
+agreed-upon risk thresholds for the project, an exploit strategy may be adopted. This
+strategy involves taking focused action to capture the positive effect of uncertainty on
+the project as a whole. An example of exploiting at the overall project level might include
+the addition of high-benefit elements of scope to the project to add value or benefits to
+stakeholders. Alternatively, the risk thresholds for the project may be modified with the
+agreement of key stakeholders in order to embrace the opportunity.
+• Transfer/share. If the level of overall project risk is high but the organization is unable
+to address it effectively, a third party may be involved to manage the risk on behalf of the
+organization. Where overall project risk is negative, a transfer strategy is required, which
+may involve payment of a risk premium. In the case of a high positive overall project risk,
+ownership may be shared in order to reap the associated benefits. Examples of both
+transfer and share strategies for overall project risk include but are not limited to setting
+up a collaborative business structure in which the buyer and seller share the overall project
+risk, launching a joint venture or special-purpose company, or subcontracting key elements
+of the project.
+• Mitigate/enhance. These strategies involve changing the level of overall project risk to
+optimize the chances of achieving the project's objectives. The risk mitigation strategy
+is used where overall project risk is negative, and risk enhancement applies when it is
+positive. Examples of mitigation or enhancement strategies include replanning the project,
+changing the scope and boundaries of the project, modifying project priority, changing
+resource allocations, adjusting delivery times, etc.
+Accept. Where no proactive risk response strategy is possible to address overall project
+risk, the organization may choose to continue with the project as currently defined, even
+if overall project risk is outside the agreed-upon thresholds. Risk acceptance can be either
+active or passive. The most common active acceptance strategy is to establish an overall
+contingency reserve for the project, including amounts of time, money, or resources to be
+used if the project exceeds its thresholds. Passive acceptance involves no proactive action
+apart from periodic review of the level of overall project risk to ensure that it does not
+change significantly.
+Strategies for threats. There are five alternative strategies that may be considered for dealing with
+threats, as follows:
+• Escalate. Risk escalation is appropriate when the project team or project sponsor agrees
+that a threat is outside the scope of the project or that the proposed response would
+Section 5 - Tools and Techniques
+203
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

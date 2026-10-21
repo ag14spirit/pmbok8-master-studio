@@ -1,0 +1,47 @@
+Table 2-3. Advantages of Insourcing Versus Outsourcing
+Advantages of Insourcing/Make
+• Leverages internal expertise when it is available
+internally
+• Is often less expensive if substantial new innovation
+is required
+• Provides tighter integration with strategic advantage
+or value proposition
+• Increases control and oversight of deliverables
+Advantages of Outsourcing/Buy
+• Leverages external expertise when it is missing
+internally
+• Is often less expensive if the goods or services
+are common
+• Frees up capacity and capital to focus on com-
+petitive strengths
+• Transfers delivery risk to the supplier
+• Maintains supplier relations
+complexity, source performance, and risk exposure. The sourcing strategy plan includes developing a
+process for managing relationships with external sources, dealing with potential risks, and ensuring
+clear channels of communication throughout the project life cycle.
+A key part of this process is establishing source selection criteria, which help guide the evaluation and
+helps ensure that selected partners are capable of delivering the required scope of work effectively
+and reliably.
+The Plan Sourcing Strategy process differs from the Plan Resource Management process (see
+Section 2.6.2) as it involves the outsourcing of project work and deliverables, taking into account
+various factors such as determining the scope, time, cost, quality, and resources required to acquire
+the final work and deliverables from outside the organization.
+Participants in this process may include the purchasing or procurement department as well as
+personnel from the buying organization's legal department. These responsibilities should be
+documented in the sourcing strategy plan.
+The Plan Sourcing Strategy process applies to projects where there is a need to use external sources
+to complete project work. For more information, see Appendix X4 on Procurement.
+2.1.6.4 Manage Project Execution
+The Manage Project Execution process involves leading and performing the work defined in the
+project management plan and implementing approved changes to meet the project's objectives. The
+primary benefit of this process is the comprehensive management of project work and deliverables,
+which enhances the likelihood of project success. When leading project teams, the collective team
+members have more knowledge than any single person. Directing and managing execution provides
+a way to align the knowledge and skills of all team members toward the project objectives.
+This process includes executing the planned project activities to complete deliverables and
+achieve set objectives. The process also involves allocating resources, managing their efficient use,
+and making adjustments to project plans based on the analysis of work performance data and
+Section
+2 - Project Management Performance Domains
+21
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

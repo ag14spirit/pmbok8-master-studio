@@ -1,0 +1,45 @@
+• Rules of performance measurement. Earned value management (EVM) rules of
+performance measurement are set. For example, the financial management plan may:
+• Define the points in the WBS at which measurement of control accounts will be
+performed;
+• Establish the EVM techniques (e.g., weighted milestones, fixed formula, percent
+complete, etc.) to be employed; and
+• Specify tracking methodologies and the EVM computation equations for calculating
+the projected estimate at completion (EAC) forecasts to provide a validity check on the
+bottom-up EAC.
+• Reporting formats. The formats and frequency for the various cost reports are defined.
+• Additional details. Additional details about financial management activities include but are
+not limited to:
+• Description of strategic funding choices,
+• Procedure to account for fluctuations in currency exchange rates, and
+• Procedure for project cost recording.
+Funding proposals. Projects often require dedicated funding efforts either before or after the
+projects have started. Additionally, certain phases of a given project may require specific funding
+requests to cover approved budgets associated with that phase. In these cases, estimated costs and
+reserves are calculated as part of a business value proposition. The value proposition is then used to
+request the needed funds from the appropriate internal or external funding source.
+Funding strategy. Projects require funding to be successful. Funding can come from sources either
+internal or external to the project's performing organization. Some projects require more than one
+approach to secure the needed monies. Any single approach, or combination of approaches, can be
+considered a funding strategy. Approaches range from organizational budget transfers to customer
+contracts to government or nongovernmental organization (NGO) grants. Common funding strategies
+include but are not limited to the following:
+• Fixed or reallocated internal budgets. Internally owned assets and employees are
+funded by fixed annual departmental budgets and then applied to specific projects as
+needed. Alternatively, existing budgets within the organization that have surplus funds
+or lower-priority initiatives can be reallocated to the project.
+• Lump sum. The entirety of the project's budget and reserves are allocated all at once.
+• Incremental disbursement. Project funds are secured and allocated in multiple
+increments, specific to individual phases or key milestones.
+• External investment. This strategy involves high-net-worth individual or institutional
+investors who are willing to provide capital to early-stage or innovative projects, often in
+exchange for interest in long-term ownership or operations.
+• Governmental or nongovernmental organization (NGO) grants. Projects may be
+partially or fully funded by relevant grants offered by government agencies, NGOs, or
+philanthropists that support projects aligning with their specific objectives.
+• Crowdfunding. This strategy involves the accumulation of small contributions from a
+large number of individuals who are interested in supporting the project or its mission.
+This strategy can be particularly effective for projects with strong community appeal.
+122
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,48 @@
+Team building. Team building is conducting activities that enhance the team's social relationships
+and build a collaborative and cooperative working environment. Team-building activities can vary
+from a 5-minute agenda item in a status review meeting to an off-site, professionally facilitated
+event designed to improve interpersonal relationships. The objective of team-building activities is to
+help individual team members work together effectively. Team-building strategies are particularly
+valuable when team members operate from remote locations without the benefit of face-to-face
+contact. Informal communication and activities can help in building trust and establishing good
+working relationships. While team building is essential during the initial stages of a project, it should
+be a continuous process. Changes in a project environment are inevitable, and to manage them
+ffectivelv, a continuous or renewed team-building effort may be applied. The project manager
+should continually monitor team functionality and performance to determine if any actions are
+needed to prevent or correct various team problems.
+Technical performance analysis. Technical performance analysis compares technical
+accomplishments during project execution to the schedule of technical achievement. The analysis
+requires the definition of objective, quantifiable measures of technical performance, which can be
+used to compare actual results against targets. Such technical performance measures may include
+weight, transaction times, number of delivered defects, storage capacity, etc. Deviation can indicate
+the potential impact of threats or opportunities.
+Test and inspection planning. During the planning phase, the project manager and the project team
+determine how to test or inspect the product, deliverable, or service to meet the stakeholders' needs
+and expectations, as well as how to meet the goal for the product's performance and reliability. The
+tests and inspections are industry dependent and can include, for example, alpha and beta tests in
+software projects, strength tests in construction projects, inspection in manufacturing, and field tests
+and nondestructive tests in engineering.
+Testing/product evaluations. Testing is an organized and constructed investigation conducted
+to provide objective information about the quality of the product or service under test in
+accordance with the project requirements. The intent of testing is to find errors, defects, bugs,
+or other nonconformance problems in the product or service. The type, amount, and extent of
+tests needed to evaluate each requirement depend on the nature of the project, time, budget,
+and other constraints. Tests can be performed throughout the project, as different components of
+the project become available, and at the end of the project on the final deliverables. Early testing
+helps identify nonconformance problems and helps reduce the cost of fixing the nonconforming
+components.
+Different application areas require different tests. For example, software testing may include unit
+testing, integration testing, black-box, white-box, interface testing, regression testing, alpha testing,
+etc. In construction projects, testing may include cement strength, concrete workability tests,
+nondestructive tests at construction sites for testing the quality of hardened concrete structures, and
+soil tests. In hardware development, testing may include environmental stress screening, burn-in
+tests, system testing, and more.
+Text-oriented formats. Team member responsibilities that require detailed descriptions can be
+specified in text-oriented formats. Usually in outline form, these documents provide information such
+as responsibilities, authority, competencies, and qualifications. The documents are known by various
+names including position descriptions and role-responsibility-authority forms. These documents can
+be used as templates for future projects, especially when the information is updated throughout the
+current project by applying lessons learned.
+Section 5 - Tools and Techniques
+205
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

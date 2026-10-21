@@ -1,0 +1,39 @@
+• Bar chart or bar graph for ordinal data. Ordinal data can be grouped into categories
+based on natural order or hierarchy (e.g., level of education such as high school diploma,
+bachelor's degree, master's degree, doctorate degree).
+• Histogram for discrete data. Discrete data will usually have limited, finite value numbers
+(e.g., product reviews).
+• Line graph or line chart for continuous data. Continuous data can take any value (e.g.,
+temperature).
+Decision-making. Decision-making techniques include but are not limited to the following:
+• Voting. Voting is a collective decision-making technique and an assessment process
+having multiple alternatives with an expected outcome in the form of future actions. These
+techniques can be used to generate, classify, and prioritize product requirements. Examples
+of voting techniques include:
+• Unanimity. A decision that is reached whereby everyone agrees on a single course of
+action.
+• Majority. A decision that is reached with support obtained from more than 50% of the
+nembers of the group. Having a group size with an uneven number of participants car
+ensure that a decision will be reached rather than resulting in a tie.
+Plurality. A decision that is reached whereby the largest block in a group decides, ever
+f a majority is not achieved. This method is generally used when the number of option
+nominated is more than two.
+• Autocratic decision-making. In this method, one individual takes responsibility for making
+the decision for the group.
+• Multicriteria decision analysis. A technique that uses a decision matrix to provide a
+systematic, analytical approach for establishing criteria, such as risk levels, uncertainty, and
+valuation, to evaluate and rank many ideas.
+Decision tree analysis. Decision tree analysis is a diagramming and calculation technique
+for evaluating the implications of a chain of multiple options in the presence of uncertainty.
+Decision trees are used to support selection of the best of several alternative courses of action.
+Alternative paths through the project are shown in the decision tree using branches representing
+different decisions or events, each of which can have associated costs and related individual
+oject risks (including both threats and opportunities). The end points of branches in th
+ecision tree represent the outcome from following that particular path, which can be negati
+or positive.
+The decision tree is evaluated by calculating the expected monetary value of each branch, allowing
+the optimal path to be selected. An example decision tree is shown in Figure 5-5.
+to effectively manage the project. The level of detail for work packages varies depending on the size
+Section 5 - Tools and Techniques
+163
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,30 @@
+Scope management plan. A scope management plan is a component of the program or project
+management plan that describes how the scope will be defined, developed, monitored, controlled,
+and validated.
+The components of a scope management plan include the following:
+• Process for preparing a project scope statement,
+• Process that enables the creation of the work breakdown structure (WBS) from the detailed
+project scope statement,
+• Process that establishes how the scope baseline will be approved and maintained, and
+• Process that specifies how formal acceptance of the completed project deliverables will be
+obtained.
+The scope management plan can be formal or informal and broadly framed or highly detailed, based
+on the needs of the project.
+Skill matrix. The skill matrix is a tool that maps out the skills and competencies required for a
+it reflects the current capabilities of the team and the needs of the project.
+urcing strategy plan. The sourcing strategy plan is a component of the project management pla
+at describes which elements of the project will be insourced, outsourced, or both. The sourcir
+components of the sourcing strategy plan may include the following:
+• Insourcing or outsourcing decisions, and
+• Source selection criteria.
+Stakeholder engagement plan. The stakeholder engagement plan is a component of the program
+or project management plan that identifies the strategies and actions required to promote
+stakeholders.
+Stakeholder register. A stakeholder register is a project document that contains information
+about project stakeholders, including an assessment and classification of project stakeholders. This
+the role contains information about the identifed stakeholders that includes but is not limited to
+• Identification information. Name, organizational position, location and contact details,
+and role on the project.
+Section 4 - Inputs and Outputs
+141
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

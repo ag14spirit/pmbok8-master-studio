@@ -1,0 +1,41 @@
+self-organizing team. A cross-functional team in which people assume leadership as needed to
+achieve the team's objectives.
+specification. An attribute that is necessary to be present in a project deliverable to help meet or
+exceed a target business objective.
+sponsor. An individual or a group that provides resources and support for the portfolio, program, or
+project, and is accountable for enabling success. See also stakeholder.
+sprint. A timeboxed interval within a project during which a usable and potentially releasable
+increment of a product is created. See also iteration. |
+stakeholder. An individual, group, or organization that may affect, be affected by, or perceive itself
+to be affected by a decision, activity, or outcome of a portfolio, program, or project. See also sponsor.
+standard. A document established by an authority, custom, or general consent as a model or
+example.
+statement of work (SOW). A narrative description of products, services, or results to be delivered by
+the project.
+status meeting. A regularly scheduled meeting to exchange and analyze information about the
+current progress of the project and its performance.
+steering committee. An advisory body of senior stakeholders who provide direction and support for
+the portfolio, program, or project team and make decisions outside of the team's authority.
+story point. A unit used to estimate the relative level of effort needed to implement a user story.
+strategic plan. A high-level document that explains an organization's vision and mission plus the
+approach that will be adopted to achieve this mission and vision, including the specific goals and
+objectives to be achieved during the period covered by the document.
+swarm. A method in which multiple team members focus collectively on resolving a specific problem
+or task.
+tacit knowledge. Personal knowledge that can be difficult to articulate and share such as beliefs,
+experience, and insights.
+tailoring. The deliberate adaptation of approach, governance, and processes to make them more
+suitable for the given environment and the work at hand.
+task board. A visual representation of the progress of the planned work that allows everyone to see
+the status of the tasks. See also kanban board.
+technical performance measures. Quantifiable measures of technical performance that are used to
+ensure system components meet the technical requirements.
+template. A partially complete document in a predefined format that provides a defined structure
+for collecting, organizing, and presenting information and data.
+threat. A risk that would have a negative effect on one or more portfolio, program, or project
+objectives. See also issue, opportunity, and risk.
+registes . pred e taken is reta measurable project vandable that represens alint that.
+throughput. The number of items passing through a process.
+274
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

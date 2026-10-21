@@ -1,0 +1,35 @@
+1.
+Define
+Activities
+4.
+Adjust
+2.
+Determine
+Sequence
+3.
+Estimate
+Effort and
+Duration
+Figure 2-23. Steps for Developing the Schedule
+basis for estimating, scheduling, executing, monitoring, and controlling the project work.
+For more information on work packages, see Section 2.2 on the Scope performance
+• Artifacts for this step include the activity list, activity attributes, and milestones.
+• Step 2: Determine sequence. Once the activities have been defined, the next step is to
+determine the logical sequence in which the work will be carried out. This effort involves
+determining the dependencies and relationships among the schedule elements, or
+which activities should be completed before others can begin (e.g., start-to-start, finish-
+to-finish, start-to-finish, finish-to-start). The key benefit of this process is that it defines
+the logical sequence of work to obtain the greatest efficiency, given all of the project
+• Every work package and activity, except for the first and last, should be connected
+to at least one predecessor and at least one successor activity, with an appropriate
+logical relationship. Logical relationships should be designed to create a realistic project
+schedule. It may be necessary to use lead or lag time between activities to support a
+realistic and achievable project schedule.
+•
+Note: Depending on the degree of decomposition, the sequence can be determined
+at different levels, including the level of the control account, the work package, or the
+activity.
+Section
+2 - Project Management Performance Domains
+51
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

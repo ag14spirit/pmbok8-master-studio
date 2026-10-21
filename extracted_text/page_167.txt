@@ -1,0 +1,34 @@
+Initiating
+Plan
+Financial
+Management
+Planning
+Estimate
+Costs
+Closing
+Develop
+Budget
+Executing
+Monitoring and Controlling
+Monitor and
+Control
+Finances
+Figure 2-26. Finance Performance Domain Processes Overview
+• Develop Budget. The process of aggregating the estimated costs of individual activities or
+work packages to establish an authorized cost baseline.
+• Monitor and Control Finances. The process of monitoring the project's financial status,
+pdating project finances, managing changes to the cost baseline and revenue forecast
+nd ensuring that the project deliverables maintain their financial viability throughout th
+project life cycle.
+2.4.2.1 Plan Financial Management
+Plan Financial Management is the process of defining how the project revenues and expenses will be
+estimated, budgeted, managed, monitored, and controlled. The key benefit of this process is that it
+rovides guidance and direction on how the project finances will be managed throughout the projec
+nis process is performed once up front or at predefined points in the proiect (see Figure 2-27
+2.4.2.2 Estimate Costs
+Estimate Costs is the process of developing an approximation of the cost of resources needed to
+complete project work. The key benefit of this process is that it determines the monetary resources
+see Fredre he project. The proces is performed periodically throughout the project as needec
+62
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

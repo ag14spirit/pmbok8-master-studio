@@ -1,0 +1,31 @@
+2.4.7 Provide Resources
+Securing and providing the necessary resources is a crucial activity for project success. Some
+receives the necessary support from senior management.
+Individuals in resource-related functions, such as functional and resource managers, are responsible
+Together, these roles help ensure that the project team is equipped with the necessary resources to
+achieve the project objectives and overcome any challenges related to resource allocation.
+2.5 Project Management Roles
+While Section 2.4 describes the functions that drive project delivery, many environments perform
+those functions through a variety of individuals and/or teams, with some organizations focusing
+on specific role definitions. Each role within a project setup adds specific value, and the project's
+outcomes directly depend on those contributions.
+This section details some key project roles, such as the project management team, project
+hanager, sponsor, customer, product owner, project team, and end user, which all add value t
+a project's execution. However, as each enterprise and project is unique, the functions, roles, and
+responsibilities may differ accordingly.
+2.5.1 Project Management Team
+The project management team may consist solely of a project manager or may include more
+project team and managing the processes to deliver intended outcomes.
+Depending on the organization's policies and processes, it is suggested that the project management
+eam is involved from project initiation through closing and, in some cases, in post-project benefi
+nalysis. Moreover, in some organizations, a project management team may be involved in
+evaluation and feasibility analysis activities before project initiation and may consult with executives
+and business unit leaders on ideas for advancing strategic objectives, improving organizational
+performance, and meeting customer needs. In some organizational settings, the project management
+team may also be called upon to manage or assist in business analysis, business case development,
+and aspects of portfolio management for a project. The project management team's role and level of
+involvement may vary from organization to organization, and hence, the role should be tailored to fit
+the organizational structure, like tailoring project processes.
+Section 2 - A System for Value Delivery
+27
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

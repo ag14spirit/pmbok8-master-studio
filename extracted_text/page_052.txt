@@ -1,0 +1,40 @@
+project management lies in the characteristics of the project itself rather than the title of the
+individual overseeing it. It is crucial for any person fulfilling this function, regardless of their official
+position, to embrace the core aspects of project management to steer projects toward success.
+Varying examples of these agile roles are described in the PMI Disciplined Agile® (DA°) tool kit [3].
+2.5.1.1 Interaction Between the Project Management Team and Project Aspects
+The engagement of a project management team in project tasks is pivotal in bringing focus and clarity
+to the work. A competent project management team should manage needs and tasks effectively,
+prioritizing the items that are most urgent and important, and allocating attention accordingly.
+This prioritization helps ensure that resources are optimized and that critical project milestones
+are met on schedule. The project management team's presence catalyzes progress and efficiency,
+naintaining proiect momentum through strategic oversight, effective communication, and resource
+management.
+There are many leadership styles that members of a project management team can adopt based
+on the individuals, situations, team structures, stakeholders, and organizational processes and
+culture. Leaders should be versatile and able to switch between different leadership styles to
+achieve a better outcome. The project management team proactively interacts and negotiates
+with other project management teams, portfolio managers, program managers, project
+managers, and functional managers for demands on critical resources, priorities on project
+funding, receipt or distribution of deliverables, and in aligning project goals and objectives with
+those of the organization.
+Interacting with others helps to create a positive influence for fulfilling a project's various needs and
+for sharing experiences and addressing challenges, as a project management team works with and in
+different areas, departments, industries, and locations. The project management team usually works
+with the project sponsor, customer, product manager, or product owner to address internal political
+and strategic issues that may impact the team or the viability or quality of the project or product. The
+skills of the project management team, due to the complexity of the function and the increasing need
+for versatility and flexibility, are a mix of different skills such as ways of working, power skills, and
+business acumen, with a sole aim of accomplishing tasks without compromising their professional
+and social responsibility to the profession and society at large.
+In the context of leadership styles, situational leadership is particularly relevant for project
+management teams. This approach emphasizes the importance of flexibility and adaptability in
+leadership based on the evolving demands of the project. A project management team should
+adjust its leadership style to suit the specific needs of the team, the time sensitivity of tasks, and
+the complexity of the project. Whether it involves shifting from a more directive approach during
+critical project phases to a supportive style when team autonomy is beneficial, the ability to adapt
+one's leadership style is crucial for navigating the diverse challenges that projects typically present.
+Figure 2-7 represents the competencies that a project management team should have to fulfill the
+project outcomes in a successful way.
+Section 2 - A System for Value Delivery
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

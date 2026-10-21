@@ -1,0 +1,44 @@
+05/13/2027 20:30
+0.08
+0.07
+0.06
+0.05
+0.04
+0.03
+0.02
+0.01
+0.00
+10.0%
+Project Finish Date
+05/28/2027 19:45
+80.0%
+10.0%
+100.0%
+87.5%
+• 75.0%
+62.5%
+50.0%
+37.5%
+• 25.0%
+12.5%
+- 0.0%
+05/05/2027 05/10/2027 05/15/2027 05/20/2027 05/25/2027 05/30/2027 06/04/2027 06/09/2027 06/14/2027
+Figure 5-22. Example Probability Distribution of a Target Milestone
+• Yellow hat focuses on positive aspects; and
+• Green hat is responsible for generating new ideas.
+Sprint review. A sprint review is a collaborative review session where the team demonstrates the
+work that was completed during the sprint to stakeholders and solicits their feedback. A sprint
+review or iteration review is held at the end of a sprint or iteration to demonstrate the work that was
+accomplished during the sprint or iteration.
+Stakeholder analysis. Stakeholder analysis results in a list of stakeholders and relevant information
+such as their positions in the organization, roles on the project, "stakes," expectations, attitudes (their
+levels of support for the project), and their interest in information about the project. Stakeholders'
+stakes may include but are not limited to a combination of the following:
+• Interest. A person or group can be affected by a decision related to the project or its
+outcomes.
+• Rights (legal or moral rights). Legal rights, such as occupational health and safety, may
+protection of titorialstes or environmental sustainabil rights may involve concepts of
+• Ownership. Ownership is when a person or group has a legal title to an asset or a property.
+Section 5 - Tools and Techniques
+199
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

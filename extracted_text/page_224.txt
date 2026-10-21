@@ -1,0 +1,34 @@
+• Budget forecasts. Predictions of future project expenditures based on current data.
+• Change log. Documentation of all changes made to the cost baseline.
+Cost estimates. A cost estimate is a quantitative assessment of the likely costs for resources required
+to complete an activity. The cost estimate is a prediction that is based on the information known at a
+st estimates are generally expressed in units of some currency (e.g., dollars, euros, yen, etc.).
+me instances, other units of measure, such as staff hours or staff days, may be used to facilita
+comparisons by eliminating the effects of currency fluctuations.
+Cost estimates should be reviewed and refined during the course of the project to reflect additional
+details as they become available and assumptions are tested. The accuracy of a project estimate will
+increase as the project progresses through the project life cycle.
+Costs are estimated for all resources that will be charged to the project. These resources include but
+are not limited to labor, materials, equipment, services, and facilities, as well as special categories
+such as an inflation allowance, cost of financing, or contingency costs. Cost estimates may be
+presented at the activity level or in summary form.
+Cost forecasts. Based on the project's past performance, cost forecasts are used to determine if the
+project is within defined tolerance ranges for the budget and to identify any necessary change requests.
+A calculated estimate at completion (EAC) value is documented and communicated to stakeholders.
+evelopment approach. The development approach is the method used to create and evolve th
+oduct, service, or result during the project life cycle, such as an adaptive, predictive, or hybrid metho
+iration estimates. Duration estimates are quantitative assessments of the likely number ,
+ne periods that are required to complete an activity, phase, or project. Duration estimates do n
+include any lags. Duration estimates may include some indication of the range of possible results.
+• A range of 2 weeks + 2 days, which indicates that the activity will take at least 8 days and not
+more than 12 (assuming a 5-day work week); or
+• A 15% probability of exceeding 3 weeks, which indicates a high probability—85%—that the
+activity will take 3 weeks or less.
+program, or project. These conditions can be internal and/or external to the organization. The EEFs
+are considered as inputs to many project management processes, specifically for most planning
+processes. These factors may enhance or constrain project management options. In addition, these
+factors may have a positive or negative influence on the outcome.
+Section
+4 - Inputs and Outputs
+119
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

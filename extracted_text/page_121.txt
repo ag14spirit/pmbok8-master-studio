@@ -1,0 +1,51 @@
+It should be noted that the processes of the Governance performance domain span across the
+project life cycle from initiation to closure. Governance is not a one-time activity; it is pervasive
+throughout the project life cycle. The following processes are included in the Governance
+performance domain (see Figure 2-2):
+• Initiate Project or Phase. The process of officially authorizing the start of a project by
+dedicated procurement department.
+• Manage Project Execution. The process of leading and performing the work defined in the
+integrated project plans, including managing resources, addressing issues and risks, and
+implementing changes to achieve the project objectives.
+Manage Quality Assurance. The process of ensuring processes are performed in a
+manner consistent with stakeholder expectations, involving the implementation of planned
+and systematic activities defined in the Droiect's quality management plan. This process
+helps build confidence in future outputs, improves process efficiency and effectiveness, and
+ensures proper project governance to meet or exceed stakeholder expectations.
+Initiating
+Planning
+Closing
+Integrate and
+Align Project
+Plans
+Plan
+Sourcing
+Strategy
+Initiate
+Project or
+Phase
+Close
+Project or
+Phase
+Manage
+Project
+Execution
+Executing
+Manage
+Quality
+Assurance
+Manage
+Project
+Knowledge
+Monitoring and Controlling
+Monitor and
+Control Project
+Performance
+Assess and
+Implement
+Changes
+Figure 2-2. Governance Performance Domain Processes Overview
+16
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.
+^

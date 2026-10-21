@@ -1,0 +1,42 @@
+Factors that can affect the choice of communication technology may include the following:
+• Urgency of the need for information. The urgency, frequency, and format of the
+information to be communicated may vary from project to project and within different
+phases of a project.
+• Availability and reliability of technology. The technology that is required for distribution
+of project communications artifacts should be compatible, available, and accessible for all
+stakeholders throughout the project.
+• Ease of use. The choice of communication technologies should be suitable for project
+participants, and proper training events should be planned where appropriate.
+• Project environment. Factors to consider include:
+• Will the team meet and operate on a face-to-face basis or in a virtual environment?
+• Will the team be located in one or multiple time zones?
+• Will the team use multiple languages for communication?
+• Are there any other project environmental factors, such as various aspects of culture,
+that may constrain the efficiency of communication?
+• Sensitivity and confidentiality of the information. Some aspects to consider include:
+• Will the information to be communicated be sensitive or confidential? If so, additional
+security measures may be required.
+• Does the organization have social media policies for employees to ensure appropriate
+behavior, security, and the protection of proprietary information?
+Conflict management. Conflict is inevitable in a project environment. Sources of conflict include
+scarce resources, scheduling priorities, and personal work styles. Team ground rules, group norms,
+and solid project management practices, such as communication planning and role definition, can
+reduce the amount of conflict.
+Successful conflict management results in greater productivity and positive working relationships.
+When managed properly, differences of opinion can lead to increased creativity and better decision-
+making. If the differences become a negative factor, project team members are initially responsible for
+their resolution. If conflict escalates, the project manager should help facilitate a satisfactory resolution.
+Conflict should be addressed early and usually in private, using a direct, collaborative approach. If
+disruptive conflict continues, formal procedures may be used, including disciplinary actions. |
+The success of project managers in managing their project teams often depends on their ability to
+resolve conflicts. Different project managers may use different conflict resolution methods. Factors
+that influence conflict resolution methods may include:
+• Importance and intensity of the conflict,
+• Time pressure for resolving the conflict,
+Relative power of the people involved in the conflict,
+• Importance of maintaining a good relationship, and
+Motivation to resolve conflict on a long-term or short-term basis.
+156
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

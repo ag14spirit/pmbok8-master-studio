@@ -1,0 +1,92 @@
+• Specific information aimed at increasing understanding and support of the work and
+objectives of the project.
+Presentations are successful when the content and delivery take the following into account:
+• Expectations and needs of the audience, and
+• Needs and objectives of the project and project team.
+Prioritization/ranking. Stakeholder requirements should be prioritized and ranked, as should the
+stakeholders themselves. Stakeholders with the most interest and the highest influence are often
+prioritized at the top of the list. Commonly used methods include MosCoW (must have, should have,
+could have, and will not have), 100-point method, cost of delay, and Kano analysis.
+risk, which allows the relative priority of individual risks to be evaluated within each priority level.
+An example probability and impact matrix is presented in Figure 5-14, which also shows a possible
+numeric risk-scoring scheme.
+Problem-solving. Problem-solving entails finding solutions for issues or challenges. Problem-solving
+can include gathering additional information; critical thinking; and creative, quantitative, and/or
+logical approaches. Effective and systematic problem-solving is a fundamental element in quality
+Probability
+Very High
+0.90
+High
+0.70
+Medium
+0.50
+Low
+0.30
+Very Low
+0.10
+0.05
+0.04
+0.03
+0.02
+0.01
+0.09
+0.07
+0.05
+0.03
+0.01
+Threats
+0.18
+0.14
+0.10
+0.06
+0.02
+Moderate
+Negative Impact
+0.36
+0.28
+0.20
+0.12
+0.04
+0.72
+0.56
+0.40
+0.24
+0.08
+0.72
+0.56
+0.40
+0.24
+0.08
+Opportunities
+0.36
+0.28
+0.20
+0.12
+0.04
+0.18
+0.14
+0.10
+0.06
+0.02
+Mozate
+Positive Impact
+0.09
+0.07
+0.05
+0.03
+0.01
+0.05
+0.04
+0.03
+0.02
+0.01
+Mer Ho
+High
+0.70
+Medium
+0.50
+Angeld
+Figure 5-14. Example Probability and Impact Matrix With Scoring Scheme
+Section 5 - Tools and Techniques
+187
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

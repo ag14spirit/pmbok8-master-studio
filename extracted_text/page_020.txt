@@ -1,0 +1,102 @@
+A Guide to the Project Management Body of Knowledge
+(PMBOK® Guide)
+Figures
+Figure 1-1
+Figure 2-1
+Figure 2-2
+Figure 2-3
+Figure 2-4
+Figure 2-5
+Figure 2-6
+Figure 2-7
+Figure 2-8
+Figure 2-9
+Figure 2-10
+Figure 2-11
+Figure 2-12
+Figure 2-13
+Figure 2-14
+Figure 2-15
+Figure 2-16
+Figure 2-17
+Figure 2-18
+Figure 2-19
+Figure 2-20
+Figure 2-21
+Figure 2-22
+Figure 2-23
+Figure 2-24
+Figure 2-25
+Figure 2-26
+Figure 2-27
+Figure 2-28
+Figure 2-29
+Figure 2:30
+Figure 2-31
+Relationship Between Project Management Principles and Project Management
+Performance Domains.........
+Structured Versus Self-Governed Projects. ....
+Governance Performance Domain Processes Overview.
+Initiate Project or Phase Inputs, Tools and Techniques, and Outputs .
+Integrate and Align Project Plans Inputs, Tools and Techniques, and Outputs..
+Plan Sourcing Strategy Inputs, Tools and Techniques, and Outputs..
+Manage Project Execution Inputs, Tools and Techniques, and Outputs..
+Manage Quality Assurance Inputs, Tools and Techniques, and Outputs.
+Manage Project Knowledge Inputs, Tools and Techniques, and Outputs
+Monitor and Control Project Performance Inputs, Tools and Techniques, and Outputs .. 27
+Assess and Implement Changes Inputs, Tools and Techniques, and Outputs
+Example Flow for Project Changes ...
+Close Project or Phase Inputs, Tools and Techniques, and Outputs.
+Scope Performance Domain Processes Overview .
+Plan Scope Management Inputs, Tools and Techniques, and Outputs.
+Elicit and Analyze Requirements Inputs, Tools and Techniques, and Outputs
+Define Scope Inputs, Tools and Techniques, and Outputs .
+Develop Scope Structure Inputs, Tools and Techniques, and Outputs.
+Monitor and Control Scope Inputs, Tools and Techniques, and Outputs. .
+Validate Scope Inputs, Tools and Techniques, and Outputs
+Schedule Performance Domain Processes Overview ..
+Plan Schedule Management Inputs, Tools and Techniques, and Outputs.
+Develop Schedule Inputs, Tools and Techniques, and Outputs.
+Steps for Developing the Schedule ..
+Monitor and Control Schedule Inputs, Tools and Techniques, and Outputs .
+Two Scenarios of Budget Buildup...
+Finance Performance Domain Processes Overview..
+Plan Financial Management Inputs, Tools and Techniques, and Outputs .
+Estimate Costs Inputs, Tools and Techniques, and Outputs...
+Develop Budget Inputs, Tools and Techniques, and Outputs.
+Monitor and Control Finances Inputs, Tools and Techniques, and Outputs
+Examples of Project Stakeholders...........
+4
+12
+.. 16
+17
+.. 19
+. 20
+.. 22
+. 23
+....25
+.. 29
+. 30
+31
+39
+40
+41
+42
+. 43
+43
+44
+48
+49
+50
+51
+54
+61
+62
+63
+.. 63
+.. 64
+. 65
+68
+List of Figures and Tables
+xix
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

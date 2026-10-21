@@ -1,0 +1,41 @@
+• Conducting retrospectives (scheduled reviews to record lessons learned) for correcting
+processes and improving them, if required;
+• Reprioritizing the remaining work plan (backlog);
+• Determining the rate at which the deliverables are produced, validated, and accepted
+(velocity) in the given time per iteration (agreed-upon work cycle duration, typically 2 weeks
+• Determining that the project schedule has changed; and
+• Managing the actual changes as they occur.
+When work is being contracted, regular and milestone status updates from contractors and suppliers
+are a means of ensuring that the work is progressing as agreed to ensure that the schedule is under
+control. Scheduled status reviews and walkthroughs are expected to help ensure that the contractor's
+reports are accurate and complete.
+2.3.3 Tailoring Considerations
+Project managers may need to tailor and adapt the way that a project's schedule management
+processes are applied. Considerations for tailoring include but are not limited to life cycle and
+evelopment approach selection, product and deliverable attributes, project team attributes
+ulture, project environments, scheduling approaches and methods, and trends and emergin
+practices.
+2.3.3.1 Life Cycle and Development Approach Selection
+The choice of project life cycle and development approach can significantly influence how scheduling
+processes are tailored and applied throughout the project as follows:
+Predictive life cycle. In a predictive life cycle, the schedule is typically defined up front.
+Detailed planning and sequencing of tasks are done at the beginning, the project baseline
+is created and approved, and changes are less frequent. Usually, the changes to the project
+baseline are conducted through formal change management procedures. Tailoring in this
+context involves setting a comprehensive timeline with clear milestones, dependencies, and
+• Adaptive life cycle. In adaptive projects, schedules are more flexible. The project is divided
+into sprints or iterations with short-term planning horizons. Tailoring in adaptive projects
+involves creating timeboxed schedules that can adapt to changes in the proiect scope and
+• Hybrid life cycle. In a hybrid development approach, scheduling combines the flexibility
+of adaptive methods with the structured planning of a predictive approach. The high-level
+project schedule is planned to use predictive techniques to outline key milestones and
+deliverables. Within this framework, the subordinate project streams can use adaptive or
+predictive methods depending on their characteristics. Adaptive sprints or iterations are
+used to manage the detailed execution of project components with a high rate of change
+in requirements, allowing for adaptability and the frequent reassessment of priorities.
+ther components may use Kanban or the critical path method. This approach can hel
+nsure that the overall project stays on track and that teams can respond quickly ti
+changes and continuously improve the deliverables.
+Section 2 - Project Management Performance Domains
+55
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

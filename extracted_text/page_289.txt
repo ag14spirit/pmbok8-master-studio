@@ -1,0 +1,41 @@
+Nominal group. The nominal group technique is a structured method used to facilitate group
+decision-making by gathering input from participants in a systematic manner. The technique was
+takes place.
+Nonverbal communication. Examples of nonverbal communication include appropriate body
+anguage to transmit meaning through gestures, tone of voice, and facial expressions. Mirroring and
+eye contact are also important techniques. The team members should be aware of how they are
+expressing themselves, both through what they say and what they do not say.
+Observation/conversation. Observation and conversation provide a direct way of viewing
+individuals in their environment to see how they perform their jobs or tasks and carry out
+processes. Observation and conversation are particularly helpful for detailed processes when
+the people who use the product have difficulty or are reluctant to articulate their requirements
+Observation is also known as "job shadowing." The observation is usually done externally by
+an observer viewing a business expert performing a job. The observation can also be done by
+a "participant observer" who performs a process or procedure to experience how it is done to
+uncover hidden requirements.
+Organizational cultural intelligence. Organizational cultural intelligence is the capability of
+the enterprise to perform effectively in culturally diverse, complex situations and a multicultural
+world. For example, project managers and teams with high organizational cultural intelligence may
+demonstrate strong cultural skills and recognize that different team members from different cultural
+regions can think and express themselves differently. However, at the same time, these project
+managers and teams avoid demonstrating careless cultural stereotyping.
+Organizational theory. Organizational theory provides information regarding the way in which
+people, teams, and organizational units behave. Effective use of common techniques identified in
+organizational theory can shorten the amount of time, cost, and effort needed to create the Plan
+Resource Management process outputs and improve planning efficiency. Applicable organizational
+theories may recommend exercising a flexible leadership style that adapts to the changes in a team's
+maturity level throughout the project life cycle. It is important to recognize that the organization's
+Parametric estimating. Parametric estimating is an estimating technique in which an algorithm
+is used to calculate cost or duration based on historical data and project parameters. Parametric
+estimating uses a statistical relationship between historical data and other variables (e.g., square
+footage in construction) to calculate an estimate for activity parameters, such as cost, budget, and
+duration.
+Durations can be quantitatively determined by multiplying the quantity of work to be performed
+by the number of labor hours per unit of work. For example, duration on a design project is
+stimated by the number of drawings multiplied by the number of labor hours per drawing, or o
+cable installation, the meters of cable multiplied by the number of labor hours per meter. If th
+assigned resource is capable of installing 25 meters of cable per hour, the duration required to
+install 1,000 meters is 40 hours (1,000 meters divided by 25 meters per hour).
+184
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

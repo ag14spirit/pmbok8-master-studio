@@ -1,0 +1,33 @@
+• Verification and validation processes;
+• Service-level agreements (SLAs); and
+• Project closure guidelines or requirements.
+2.2.4 Organizational Knowledge Repositories
+The organizational knowledge repositories for storing and retrieving information include but are not
+limited to the following:
+• Configuration management knowledge repositories containing the versions of software
+and hardware components and baselines of all performing organization standards, policies,
+procedures, and project documents;
+• Financial data repositories containing information such as labor hours, incurred costs,
+budgets, and any project cost overruns;
+information, and information from risk activities;
+• Issue and defect management data repositories containing issue and defect status, control
+information, issue and defect resolution, and action item results;
+• Data repositories for metrics used to collect and make available measurement data on
+processes and products; and
+Project files from previous projects such as scope, cost, schedules, performand
+leasurement baselines, project calendars, project schedule network diagrams, ris
+registers, risk reports, and stakeholder registers.
+2.2.5 Organizational Structures
+etermination of the appropriate organizational structure type is the result of analyzing two ke
+lements. These elements are the organizational structure types available for use and how t
+optimize them for a given organization. The analysis often involves considerations such as resource
+allocation efficiency, decision-making speed, communication pathways, and the distribution of
+authority and responsibility. The optimal structure depends on variables such as the organization's
+size, industry, geographical spread, strategic objectives, and the complexity of its projects.
+Organis ton a unise due al stenumerous varaes to be considered. Or titational structures.
+take many forms. Table 2-1 compares several types of organizational structures and their influence
+on projects.
+2.3 Product Management Considerations
+Section 2 - A System for Value Delivery
+21
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

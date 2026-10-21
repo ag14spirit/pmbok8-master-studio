@@ -1,0 +1,39 @@
+2.3.3.2 Product and Deliverable Attributes
+The product and deliverable attributes can influence the tailoring of scheduling processes based on
+the following factors:
+• Compliance/criticality. High-criticality projects (i.e., very important projects for the
+erforming organization's strategic goals) may require more detailed and frequent schedul
+updates to ensure compliance and mitigate risks.
+• Type and technology. The type of deliverable and the technology involved can dictate the
+level of detail required in the schedule. New or innovative technologies may require more
+iterative scheduling due to the uncertainty associated with the project domain.
+2.3.3.3 Project Team Attributes
+The project team attributes can also influence the tailoring of scheduling processes depending on
+considerations such as the following:
+• Size and distribution. The size and geographical distribution of the project team can affect
+how the schedule is communicated and maintained. Large, dispersed teams may need
+more sophisticated scheduling tools and regular updates.
+• Experience. The experience levels of the team members can influence how detailed the
+schedule should be. Experienced teams may be able to use a less-detailed, high-level
+schedule, whereas less-experienced teams might require a more detailed, step-by-step plan.
+2.3.3.4 Culture
+following:
+Culture can influence the tailoring of scheduling processes depending on considerations such as the
+• Organizational culture. The culture of the organization, including its tolerance for
+uncertainty and change, affects how flexible or rigid the schedule should be. An adaptive
+ulture may embrace more fluid schedules, whereas a risk-averse culture may prefer
+detailed, fixed schedules. Culture can also be driven by industry factors. For example
+pharmaceutical companies follow strict processes for product development, whereas
+technology companies tend to be more aggressive toward assuming risks.
+• Buy-in and trust. High levels of trust and buy-in from stakeholders can enable more
+flexible scheduling practices, whereas low levels may require more formal and detailed
+scheduling.
+2.3.3.5 Project Environment
+The project environment can influence the tailoring of scheduling processes depending on
+considerations such as:
+• Project scale and environment. The scale of the project (e.g., megaprojects versus small
+ries and eve of ete and rent go educial, denment, or nonprofit) can
+Project goals and timeframe. Projects with aggressive timelines or critical deadlines ma
+equire more rigorous scheduling to ensure timely deliver
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

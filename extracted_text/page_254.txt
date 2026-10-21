@@ -1,0 +1,35 @@
+onfusion, it is important to distinguish between the product backlog, which contains the complet
+st of desired features and changes for the product, and the sprint backlog, which includes only th
+subset of items selected for delivery in a specific iteration.
+the order of the new item and changes in the backlog.
+Backlog refinement. Backlog refinement is the progressive elaboration of the content in the backlog
+e needed by the business and the customer. During a backlog refinement meeting, the backlog
+aborated and reprioritized to identify the work that can be accomplished during the upcoming iteratio
+Benchmarking. Benchmarking is the comparison of actual or planned products, processes, and
+practices to those of comparable organizations to identify good practices, generate ideas for
+improvement, and provide a basis for measuring performance. Benchmarked projects may exist
+within the performing organization or outside of it, or can be within the same application area
+or other application area. Benchmarking allows analogies to be made for projects in different
+application areas or industries.
+Bottom-up estimating. Bottom-up estimating is a method of estimating the duration, cost,
+or required resources by aggregating the estimates of the lower-level components of the work
+breakdown structure (WBS). When an activity's duration cannot be estimated with a reasonable
+degree of confidence, the work within the activity is decomposed into more detail. The detailed
+durations are estimated. These estimates are then aggregated into a total quantity for each of the
+activity's durations. Activities may or may not have dependencies between them that can affect
+the application and use of resources. If there are dependencies, this pattern of resource usage is
+reflected and documented in the estimated requirements of the activity.
+Brainstorming. The brainstorming technique is used to identify a list of ideas in a short period of
+time. Brainstorming is conducted in a group environment and is led by a facilitator. The technique
+comprises two parts: idea generation and analysis. Brainstorming can be used to gather data and
+solutions or ideas from stakeholders, subject matter experts, and team members.
+Brainstorming techniques. There are many brainstorming techniques, including the following:
+can be included as well.
+• Brainwriting encourages everyone in the brainstorming session to participate and writ
+eir ideas down before sharing them with other team members. Later, the facilitato
+collects the ideas and shares them or asks others to share and discuss them with the group.
+• Idea napkin involves documenting ideas in five steps on a napkin. The five steps include
+such topics as people, offering, customer, value proposition, and core competencies.
+Section 5 - Tools and Techniques
+149
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

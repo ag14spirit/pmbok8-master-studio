@@ -1,0 +1,37 @@
+This technique can produce higher levels of accuracy depending on the sophistication and underlying
+data built into the model. Parametric schedule estimates can be applied to a total project or to
+segments of a project, in conjunction with other estimating methods.
+Performance reviews. Performance reviews measure, compare, and analyze actual performance of
+work in progress on the project against the schedule baseline, such as actual start and finish dates,
+percent complete, and remaining duration for work in progress.
+olitical awareness. Political awareness helps project managers to plan communications based
+on the project environment as well as their organization's political environment. Political awarenes:
+concerns the recognition of formal and informal power relationships and the willingness to operate
+within these structures. Aspects of political awareness include the following:
+• Understanding the strategies of the organization,
+• Knowing who wields power and influence in this arena, and
+• Developing an ability to communicate with these stakeholders.
+Preassignment. When physical or team resources for a project are determined in advance, they
+assigned in Initiating or in other processes before the initial resource management plan has been
+Precedence diagramming method. Precedence diagramming method is a technique used for
+constructing a schedule model in which activities are represented by nodes and are graphically linked
+by one or more logical relationships to show the sequence in which the activities are to be performed.
+Precedence diagramming method includes four types of dependencies or logical relationships.
+A predecessor activity is an activity that logically comes before a dependent activity in a schedule.
+A successor activity is a dependent activity that logically comes after another activity in a schedule.
+These relationships are as follows and are illustrated in Figure 5-13:
+• Finish-to-start (FS). A logical relationship in which a successor activity cannot start until
+a predecessor activity has finished. For example, installing the operating system on a PC
+(successor) cannot start until the PC hardware is assembled (predecessor).
+• Finish-to-finish (FF). A logical relationship in which a successor activity cannot finish until
+a predecessor activity has finished. For example, writing a document (predecessor) is
+required to finish before editing the document (successor) can finish.
+• Start-to-start (SS). A logical relationship in which a successor activity cannot start until a
+predecessor activity has started. For example, leveling concrete (successor) cannot begir
+until pouring the foundation (predecessor) begins.
+Start-to-finish (SF). A logical relationship in which a predecessor activity cannot finish until
+a successor activity has started. For example, a new accounts payable system (successor)
+has to start before the old accounts payable system can be shut down (predecessor).
+Section 5 - Tools and Techniques
+185
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

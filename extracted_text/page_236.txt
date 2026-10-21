@@ -1,0 +1,37 @@
+• Project requirements. These requirements describe the actions, processes, or other
+conditions the project should meet. Examples include milestone dates, contractual
+obligations, constraints, etc.
+• Quality requirements. These requirements capture any condition or criteria required to
+validate the successful completion of a project deliverable or fulfillment of other project
+requirements. Examples include tests, certifications, validations, etc.
+Requirements management plan. A requirements management plan is a component of
+the program or project management plan that describes how requirements will be analyzed,
+• How requirements activities will be planned, tracked, and reported;
+• Configuration management activities such as:
+• How changes will be initiated;
+• How impacts will be analyzed;
+• How changes will be traced, tracked, and reported; and
+• Authorization levels required to approve these changes.
+• Requirements prioritization process;
+• Metrics that will be used and the rationale for using them; and
+• Traceability structure that reflects the requirement attributes captured on the requirements
+traceability matrix.
+Requirements traceability matrix. The requirements traceability matrix is a grid that links product
+requirements from their origin to the deliverables that satisfy them. The implementation of a requirements
+traceability matrix helps to ensure that each requirement adds business value by linking it to the business
+and project objectives. The matrix provides a means to track requirements throughout the project life
+ycle, helping to ensure that requirements approved in the requirements documentation are delivered a
+the end of the project. Finally, it provides a structure for managing changes to the product scope.
+The requirements traceability matrix includes but is not limited to the following:
+• Business needs, opportunities, goals, and objectives;
+• Project objectives;
+• Project scope and WBS deliverables;
+• Product design;
+• Product development;
+• Test strategy and test scenarios; and
+• High-level requirements to more detailed requirements.
+Attributes associated with each requirement can be recorded in the requirements traceability
+natrix. These attributes help to define key information about the requirement. Typical attribute
+Section 4 - Inputs and Outputs
+131
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,47 @@
+• Risk categories. Risk categories provide a means for grouping individual project risks.
+A common way to structure risk categories is with a risk breakdown structure (RBS), which
+s a hierarchical representation of potential sources of risk (see an example in Figure 4-5)
+An RBS helps the project team consider the full range of sources from which individual
+project risks may arise. This view can be useful when identifying risks or when categorizing
+identified risks. The organization may have a generic RBS to be used for all projects,
+RBS Level O
+RBS Level 1
+1. Technical Risk
+2. Management Risk
+0. All Sources of
+Project Risk
+3. Commercial Risk
+4. External Risk
+RBS Level 2
+1.1 Scope definition
+1.2 Requirements definition
+1.3 Estimates, assumptions, and constraints
+1.4 Technical processes
+1.5 Technology
+1.6 Technical interfaces
+Etc.
+2.1 Project management
+2.2 Program/portfolio management
+2.3 Operations management
+2.4 Organization
+2.5 Resourcing
+2.6 Communication
+Etc.
+3.1 Contractual terms and conditions
+3.2 Internal procurement
+3.3 Suppliers and vendors
+3.4 Subcontracts
+3.5 Client/customer stability
+3.6 Partnerships and joint ventures
+Etc.
+4.1 Legislation
+4.2 Exchange rates
+4.3 Site/facilities
+4.4 Environmental/weather
+4.5 Competition
+4.6 Regulatory
+Etc.
+Figure 4-5. Excerpt From a Sample Risk Breakdown Structure
+Section 4 - Inputs and Outputs
+135
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

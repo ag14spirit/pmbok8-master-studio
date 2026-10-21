@@ -1,0 +1,46 @@
+This Focus Area may also address the suspension or early closure of the project (e.g., when canceling
+the project becomes the best way to maximize the return on that project investment—or perhaps
+more accurately, to minimize what may have become a negative return).
+4.5.6 Focus Areas as a Whole
+These five Focus Areas are independent of the application areas (such as marketing, information
+services, or accounting) or industry focus (such as construction, aerospace, or telecommunications).
+ne Focus Areas are also independent of approach, as all development approaches honor these fiv
+1 some manner. Individual processes, practices, or actions in the Focus Areas are often iterated pric
+to completing a phase or a project.
+monitoring and controlling, aligning with organizational goals and stakeholder expectations.
+ocus Areas are not project phases. If the project is divided into phases, the actions in the Focus
+Areas interact within each phase. Moreover, these five Focus Areas are not strictly sequential
+they often overlap within a single phase. For example, planning and monitoring can happen
+simultaneously. This overlap is shown in Figures 4-13 and 4-14, which each illustrate how different
+aspects of project management may interact throughout the project life cycle.
+Figure 4-13 illustrates an example of how Focus Areas can interact during a project or phase using a
+primarily predictive approach. The level of effort applied to a given Focus Area can vary both within
+project phases and across the overall project life cycle.
+Initiating
+Focus
+Area
+Planning
+Focus
+Area
+Executing
+Focus
+Area
+Monitoring
+and Controlling
+Focus Area
+Closing
+Focus
+Area
+Level of
+Effort
+Start
+ngineerin
+- Procurement
+Finish
+Construction
+Commission Handover
+Figure 4-13. Example of Focus Area Interactions Within a Project or Phase Using a
+Predictive Approach
+Section 4 - Project Life Cycles
+73
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

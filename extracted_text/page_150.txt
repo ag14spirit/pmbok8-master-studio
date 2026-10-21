@@ -1,0 +1,44 @@
+adjustments in response to real-time external inputs. This flexibility enables the project team
+to continuously refine and realign the project's objectives with the evolving external conditions,
+thus maintaining relevance and ensuring that the delivered value remains high.
+• Design phase. Some industries, such as pharmaceutical and construction, rely heavily on
+the design phase of their projects. In such domains, it is essential to invest considerable
+effort in the early stages of scope definition to prevent costly changes during the later stages.
+This strategic rescoping, when done during the design phase, allows for a comprehensive
+evaluation of the project's direction before substantial resources are committed.
+Adaptive and hybrid life cycles. Adaptive ways of working are based on the refinement of
+the project scope, which takes place throughout several different iterations. Tailoring in a
+project using a hybrid approach may be even more challenging, as the overall expectations
+of the project are set with a scope baseline, schedule baseline, and cost baseline, whereas
+subteams may be working in iterations on the user stories contained in the backlog. In this
+case, there is an even greater need for a tailored approach to the activities and processes
+within this performance domain, taking into consideration the variety of ways of working
+2.2.3.1 Examples
+The following are three examples of how these considerations might be applied:
+• Example 1. A project to develop a new product is set up using a backlog with user stories.
+Rather than delivering all the user stories that are on the backlog, the team focuses on the
+main product goals to satisfy the customer expectations. The scope of the project is refined
+through different iterations.
+• Example 2. A software project to release a mobile app is aimed at a new market where little
+information is available about customer preferences. Adopting an iterative approach with a
+clear minimum viable product (MVP), created with the minimum features collected in a backlog.
+could provide rapid feedback to the team and better support with adaptation to changes.
+Example 3. A project for a new city park has been approved with a tight timeline for its
+execution. With multiple stakeholders providing requirements and feedback, the project
+manager decides to invest more time in the design phase, creating multiple mock-ups of
+the park to evaluate before beginning construction.
+2.2.4 Interactions With Other Domains
+The scope of a project does not exist in isolation; it is deeply interconnected with other performance
+domains that collectively determine a project's success. While the Schedule and Finance performance
+domains are the most obvious ones, as they are directly impacted in any scope change, other
+domains like Risk and Stakeholders are significantly connected as well.
+One important aspect is understanding the governance mechanisms within a project, particularly as
+they relate to the broader organizational context. Changes to the project scope should be navigated
+within these established governance structures to address potential consequences such as the need
+for additional budgets or resources. Such changes may be subject to review and approval processes
+to ensure that relevant scope modifications are justified and aligned with the strategic objectives
+of both the project and the organization. This adherence to governance is vital because scope
+fundamentally drives the project's value.
+Section 2 - Project Management Performance Domains
+45
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

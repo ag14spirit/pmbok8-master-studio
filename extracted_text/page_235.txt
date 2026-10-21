@@ -1,0 +1,37 @@
+The quality report may include recommendations for any process, project, and product
+improvements.
+Quality test and evaluation documents. Quality test and evaluation documents are essential
+components in project management that are designed to ensure a product or service meets the
+specified quality objectives. These documents outline the activities and processes used to assess
+whether the deliverables align with the quality standards set in the quality management plan. The
+quality test and evaluation documents are crucial for identifying errors, defects, or nonconformance
+issues early in the project life cycle, thereby reducing the cost and effort required to address the
+issues later.
+Regulations. See organizational process assets (OPAS).
+Requirements documentation. Requirements documentation is a description of how individual
+high level and become progressively more detailed as more information about the requirements
+becomes known. Before being baselined, requirements should be unambiguous (measurable and
+restate erasedoe, certain, mory isen rom a simple tume staking lers, the regree he
+ealer escriptions, and atachments. The documentato may also include see or dynamicary.
+graphic information.
+Many organizations categorize requirements into different types such as business and technical.
+Business requirements. These requirements outline the strategic objectives and high-level
+needs of the organization, ensuring alignment with broader organizational goals.
+• Stakeholder requirements. These requirements describe the needs of a stakeholder or
+stakeholder group.
+• Solution requirements. These requirements describe the features, functions, and
+haracteristics of the product, service, or result that will meet the business and stakeholde
+needs. Solution requirements are further grouped into functional and nonfunctiona
+requirements:
+Functional requirements. Functional requirements describe the behaviors of th
+roduct. Examples include actions, processes, data, and interactions that the produ
+should execute.
+• Portunently specimenes Nonancial re, are personal ement essential
+for product effectiveness and user satisfaction. Examples include reliability, security,
+performance, safety, level of service, supportability, retention/purge, etc.
+Transition and readiness requirements. These requirements describe temporary
+capabilities, such as data conversion and training requirements, needed to transition from
+the current, as-is state to the desired future state.
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

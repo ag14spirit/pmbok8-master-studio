@@ -1,0 +1,38 @@
+Activity list. An activity list is a documented tabulation of schedule activities that shows the activity
+description, activity identifier, and a sufficiently detailed scope of work description so project team
+members understand what work is to be performed.
+Agreements. Agreements are any document or communication that defines the initial intentions of a
+project. These agreements can take the form of a contract, service-level agreement (SLA), memorandum
+of understanding (MOU), letters of agreement, verbal agreement, purchase order, email, etc.
+Agreements can be simple or complex. A complex project may involve multiple contracts
+simultaneously or in sequence. Agreements should comply with local, national, and international
+laws regarding contracts.
+Approved change requests. Approved change requests are change requests that were processed
+according to the change management plan by the project manager, change control board (CCB), or
+another designated person, and are either approved, deferred, or rejected.
+Approved change requests are implemented via the Manage Project Execution process. Deferred
+or rejected change requests are communicated to the person or group requesting the change. The
+ispositions of all change requests are recorded in the change log as a proiect document update. See
+also change requests.
+Approved changes. Approved changes are changes or modifications that are being implemented—
+r have been implemented—as part of the project scope. Approved changes result from chang
+quests that have been fully approved through change control review meetings, either by th
+project manager or change control board (CCB).
+Assumption log. An assumption log is a project document used to record all assumptions and
+constraints throughout the project. New assumptions and constraints may be added, and the status
+of existing assumptions and constraints may be updated or closed out.
+High-level (strategic and operational) constraints are normally identified in the business case
+before the project is initiated and then flow into the project charter. Lower-level activity and task
+assumptions are generated throughout the project such as defining technical specifications,
+estimates, schedule activities, risks, etc. The assumption log is used to record all assumptions and
+constraints throughout the project life cycle.
+Backlog. A backlog is an ordered list of work to be done, often written as user stories, and prioritized
+by the business to manage and organize an adaptive or agile project's work. The backlog reflects
+the current project needs, including the product requirements and user stories, and contains a
+reprioritized plan for the remaining work.
+The types of backlogs commonly used in adaptive and agile projects include the following:
+Iteration backlog. An iteration backlog is a subset of the product backlog that contair
+lected user stories and the required tasks to complete the committed work during th
+current iteration.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

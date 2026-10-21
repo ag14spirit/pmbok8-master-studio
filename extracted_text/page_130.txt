@@ -1,0 +1,63 @@
+Manage Project Knowledge -
+Inputs
+• Project management plan
+- All components
+• Project documents
+- Lessons learned register
+- Project team assignments
+- Resource breakdown
+structure
+- Stakeholder register
+• Deliverables
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Knowledge management
+• Information management
+• After-action reviews
+• In-progress postmortems
+• Storytelling
+• Retrospective meetings
+• Interpersonal and team
+skills
+- Active listening
+- Facilitation
+- Leadership
+- Networking
+- Political awareness
+• Etc.
+Outputs
+• Lessons learned register
+• Project management plan
+updates
+- Any component
+• Organizational process
+asset updates
+• Etc.
+Figure 2-8. Manage Project Knowledge Inputs, Tools and Techniques, and Outputs
+formalize and communicate, making it hard to transfer to others or different projects. The
+following are key characteristics of tacit knowledge:
+• Personal and embedded. Resides within an individual's mind.
+• Difficult to articulate. Challenging to express in words or documentation.
+• Experience-based. Includes insights, experiences, and practical skills.
+• Challenging to transfer. Cannot be easily shared or communicated to others.
+Managing knowledge involves more than just documenting explicit knowledge for sharing or
+obtaining lessons learned at the end of the project for use in future projects. Codified explicit
+nowledge lacks context and is open to different interpretations, so even though it can be mor
+asily shared, it is not always understood or applied in the right way. Tacit knowledge has furthe
+context but is difficult to codify.
+Tacit knowledge resides in the minds of individual experts or in social groups and situations
+and is often shared through conversations and interactions between people. Tacit knowledge,
+often deeply ingrained in experts' experience and intuition, can be shared within a project by
+fostering a collaborative and trust-filled environment. This effort involves creating opportunities
+for knowledge transfer through open communication, mentoring relationships, and team-building
+activities. Encouraging face-to-face interactions and hosting regular brainstorming sessions can
+help make implicit knowledge more accessible. The latest artificial intelligence (Al) technologies,
+Section 2 - Project Management Performance Domains
+25
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

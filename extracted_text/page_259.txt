@@ -1,0 +1,65 @@
+of the receiver, variations in the perceptions of receivers, or lack of appropriate knowledge
+or interest. The additional steps in an interactive communication model are:
+• Acknowledge. Upon receipt of a message, the receiver may signal (acknowledge)
+receipt of the message, but this does not necessarily mean agreement with or
+comprehension of the message-merely that it has been received.
+• Feedback/response. When the received message has been decoded and understood,
+the receiver encodes thoughts and ideas into a message and then transmits this
+message to the original sender. If the sender perceives that the feedback matches the
+original message, the communication has been successful. In communication among
+people, feedback can be achieved through active listening.
+As part of the communication process, the sender is responsible for the transmission of the message,
+ensuring the information being communicated is clear and complete, and confirming the message is
+Casseutral rstood. Dictirenesents chalenes to seyes can aris romanier of the message,
+methods, age, nationality, professional discipline, ethnicity, race, or gender. People from different
+cultures communicate using different languages (e.g., technical design documents or different styles)
+and expect different processes and protocols.
+The communication model shown in Figure 5-2 incorporates the idea that the message itself, and
+how it is transmitted, is influenced by the sender's current emotional state, knowledge, background,
+personality, culture, and biases. Similarly, the receiver's emotional state, knowledge, background,
+personality, culture, and biases will influence how the message is received and interpreted and will
+contribute to the barriers or noise.
+Transmit
+Message
+Current
+Emotional
+State
+Culture:
+• Generational
+• National
+• Professional
+discipline
+• Gender
+Personality
+biases
+(assumptions)
+Encode
+Noise
+Decode
+Noise
+Sender
+Acknowledge
+Message
+Medium
+Receiver
+Decode
+Encode
+Noise
+Feedback
+Message
+Current
+Emotional
+State
+Culture:
+• Generational
+• National
+• Professional
+isciplin
+Gende
+Personality
+biases
+(assumptions)
+Figure 5-2. Communication Model for Cross-Cultural Communication
+154
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

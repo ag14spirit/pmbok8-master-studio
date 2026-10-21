@@ -1,0 +1,44 @@
+project success. The consensus view across intended beneficiaries, other stakeholders, and project
+participants that a project was perceived to have delivered value that was worth the effort and
+expense.
+project team. A set of individuals performing the work of the project to achieve its objectives.
+prototype. A working model used to obtain early feedback on the expected product before actually
+building it.
+quality. The degree to which a set of inherent characteristics of a project deliverable helps to meet or
+exceed the project's target objectives.
+register. A written record of regular entries for evolving aspects of a project, such as risks,
+stakeholders, or defects.
+regulations. Requirements imposed by a governmental body. These requirements can establish
+product, process, or service characteristics, including applicable administrative provisions that have
+government-mandated compliance.
+release. One or more components of one or more products, which are intended to be put into
+production at the same time.
+release planning. The process of identifying a high-level plan for releasing or transitioning a product,
+deliverable, or increment of value.
+report. A formal record or summary of information.
+requirement. A condition or capability that is necessary to be present in a product, service, or result
+to satisfy a business need.
+reserve. A provision in the project management plan to mitigate cost and/or schedule risk, often
+used with a modifier (e.g., management reserve, contingency reserve) to provide further detail on
+what types of risk are meant to be mitigated.
+responsibility. An assignment that can be delegated within a portfolio, program, or project
+management plan such that the assigned resource incurs a duty to perform the requirements of the
+assignment.
+result. An output from performing project management processes and activities.
+rework. Action taken to bring a defective or nonconforming component into compliance with
+requirements or specifications.
+risk. An uncertain event or condition that, if it occurs, has a positive or negative effect on one or
+more portfolio, program, or project objectives. See also issue, opportunity, and threat.
+risk acceptance. A risk response strategy that involves acknowledging the risk and taking no action
+unless it occurs. Acceptance of the risk's implication(s) usually means using schedule and/or cost
+reserves and accepting scope and/or quality reduction(s). See also risk avoidance, risk enhancement,
+risk escalation, risk exploiting, risk mitigation, risk sharing, and risk transference.
+risk appetite. The degree of uncertainty an organization or individual is willing to accept in
+anticipation of a reward. See also risk threshold.
+sk avoidance. A risk response strategy that involves eliminating the threat or protecting th
+ortfolio, program, or project from its impact. See also risk acceptance, risk enhancement, ris
+escalation, risk exploiting, risk mitigation, risk sharing, and risk transference.
+risk breakdown structure (RBS). A hierarchical representation of potential sources of risks.
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

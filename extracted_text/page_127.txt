@@ -1,0 +1,70 @@
+Manage Project Execution
+Inputs
+• Project management plan
+- Any component
+• Project documents
+- Change log
+- Lessons learned register
+- Milestone list
+- Project communications
+- Project schedule
+- Requirements traceability
+matrix
+- Risk register
+- Risk report
+• Approved change requests
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Project management
+information system
+• Meetings
+- Daily coordination
+meetings
+• Etc.
+•
+Outputs
+• Deliverables
+• Work performance data
+• Issue log
+•Change requests
+• Project management plan
+updates
+- Any component
+• Project document updates
+- Activity list
+- Assumption log
+- Lessons learned register
+- Requirements
+documentation
+- Risk register
+- Stakeholder register
+• Organizational process
+asset updates
+• Etc.
+Figure 2-6. Manage Project Execution Inputs, Tools and Techniques, and Outputs
+information. Deliverables are produced as outputs from activities conducted according to the project
+management plan (see Figure 2-6).
+The project manager, along with the project team, manages and enables the execution of planned
+activities to achieve project objectives, and harmonizes different aspects of both technical and
+functional activities within the broader project ecosystem. This process also involves reviewing the
+impact of all project changes and implementing approved changes, including corrective actions,
+preventive actions, and defect remediation.
+During project execution, work performance data is collected and communicated to applicable
+controlling processes for analysis. This analysis provides information about the completion status
+of deliverables and other relevant details about project performance. The work performance data
+is also used as an input to the Monitoring and Controlling Focus Area and serves as feedback for
+lessons learned to improve the performance of future work packages.
+Quality management is relevant during project execution. There are two ways in which quality should
+e addressed in a project. The first is during the construction of the project management proces
+hich provides process quality assurance and value delivery throughout the project. The second
+during deliverable construction and should be addressed through scope management and control.
+22
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

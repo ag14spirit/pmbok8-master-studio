@@ -1,0 +1,42 @@
+Resource optimization technique. The resource optimization technique is a technique in which
+activity start and finish dates are adjusted to balance demand for resources with the available supply.
+Examples of resource optimization techniques that can be used to adjust the schedule model due to
+the demand and supply of resources include but are not limited to the following:
+• Resource leveling. A resource optimization technique in which adjustments are made
+to the project schedule to optimize the allocation of resources and which may affect the
+critical path. The resource leveling technique adjusts the start and finish dates based on
+resource constraints with the goal of balancing the demand for resources with the available
+supply. Resource leveling can be used when shared or critically required resources are
+available only at certain times or in limited quantities, are overallocated, such as when
+a resource has been assigned to two or more activities during the same time period (as
+shown in Figure 5-18), or when there is a need to keep resource usage at a constant level.
+Activities Before Resource Leveling
+Tom: 8 hrs
+Activity A Sue: 8 hrs
+Start
+Activity B Sue: 8 hrs
+Activity C Tom: 8 hrs
+Day 1
+Tom: 8 hrs
+Sue: 16 hrs
+Day 2
+Tom: 8 hrs
+Day 3
+Activities After Resource Leveling
+Tom: 8 hrs
+Activity A Sue: 8 hrs
+Start
+Activity B Sue: 8 hrs
+Day 1
+Tom: 8 hrs
+Sue: 8 hrs
+Day 2
+Sue: 8 hrs
+Activity C Tom: 8 hrs
+→
+Day 3
+Tom: 8 hrs
+Figure 5-18. Resource Leveling
+Section 5 - Tools and Techniques
+193
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

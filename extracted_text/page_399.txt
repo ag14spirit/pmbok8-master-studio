@@ -1,0 +1,76 @@
+Vision, establishing and maintaining, 176-177
+Visual communication skills, 155
+/isual controls, 212-214
+/isual representation, of projects, 188-185
+Voting, 163, 179, 214
+VRIO framework, 194
+simulation models of, 197-193
+takeholders and, 78, 10
+tolerance for, 56
+Understanding, shared, 86
+Unilateral decision-making, 178
+Units of measure, 121, 139
+Unknown-known (hidden fact), 93
+Unknown-unknown (emergent risk), 93
+Unplanned training, 210
+Updated cost estimates, 118
+Upward influence, 201
+Urgency of need for information, 156
+User stories, 41, 143
+V
+Validate Scope process, 40, 44, 143
+Value
+earned, 169, 206, 207
+planned, 169, 207
+project management office and, 233-234
+in resource-based view, 194
+Value breakdown structure (VBS), 38, 172
+Value creation
+checking outcomes of, 67
+Focus Areas and, 10-11
+Value definition, 59, 66
+Value maximization, 59, 67
+Value stream mapping, 211
+Vanity metric, 28
+Variance analysis, 211
+Variance at completion (VAC), 208
+Velocity, 211, 213
+Vendor management/procurement, 69, 245, 246, 248
+Verified deliverables, 143
+Virtual brainstorming, 149
+Virtual collaboration tools, 212
+Virtual project teams, 90, 212
+Virtual reality (VR), 212
+Virtual resource(s), 66, 68, 79-81, 83, 87, 92, 132, 143
+Virtual resource assignments, 124, 143
+Well-being, of employees, 91, 182
+What-if analysis, 215
+Wither at avoid (conflict resolution technique), 157
+Word association, 150
+Work breakdown structure (WBS)
+bottom-up estimating in, 149
+decomposition and, 38, 140, 163-166
+in financial management plan, 121-122
+forms of, 165-167
+as hierarchical chart, 171
+purpose of, 42
+work package estimation in, 143
+Work breakdown structure (WBS) dictionary, 38, 42,
+Work completed
+burnup chart of, 150, 174
+in earned value calculations, 207, 208
+Work package, 140
+Work package estimation, 143
+Work performance data, 22, 143, 144
+Work performance information, 144
+Work performance reports, 144
+Work remaining
+burndown chart of, 150, 174, 175
+in rolling wave planning, 196
+in to-complete performance index, 206
+Workshops, retrospectives, 194-195
+Writing, and brainstorming, 149, 150
+Yellow hat, 199
+294
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

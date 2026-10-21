@@ -1,0 +1,29 @@
+Development Approaches
+Predictive
+Hybrid
+Adaptive
+Increasingly Iterative and Incremental
+Figure 4-2. The Spectrum of Development Approaches
+The choice of the development approach for a project is typically made by the project manager
+carriesultation meth they evaluation forest beating to base or and way of the rect,
+The main factors that play a role in the choice of the approach are related to the requirements
+scope, timeline, and goals of the project; the organization's culture and needs; and the level of
+stakeholder involvement, risk profile, technological considerations, and overall complexity of the
+broader project context.
+When the requirements are sufficiently clear and stable early in the project, a predictive approach
+may be optimal and, in this setup, the schedule baseline, together with the cost baseline, are
+determined according to the scope that should be delivered. Taken together, the baselines for
+schedule, cost, and scope are referred to as the project's integrated baseline.
+Nhen the requirements are less clear early in the project, or the project is expected to incur more
+complexity and uncertainty, then more feedback is needed (e.g., details from the final customer
+or end user) to ensure project success. In such cases, an adaptive approach may be optimal. In an
+adaptive approach, work is reviewed periodically, often in a timeboxed cadence, so that feedback
+can be incorporated as the integrated baseline evolves. At the end of the timebox, the requirements
+this ase, based on the timed oil nevie ed a in led as rese tires will ree e
+delivered in an adaptive way.
+However, it is important to note that differing possible adaptive approaches may provide different
+orsit es fe with ther, more Pied crs strains, ten alley the inversed orangeraince it
+see Figure 4-3)
+60
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

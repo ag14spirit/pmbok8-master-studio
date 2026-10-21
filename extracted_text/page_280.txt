@@ -1,0 +1,57 @@
+as leadership activities. Management activities focus on the means of meeting project objectives, such
+as having effective processes, planning, coordinating, measuring, and monitoring work, among others.
+Leadership activities focus on people. Leadership includes influencing, motivating, listening, enabling,
+and other activities having to do with the project team. Both are important in delivering the intended
+outcomes. See also centralized management and leadership and distributed management and leadership.
+Interviews. Interviews are a formal or informal approach to elicit information from stakeholders
+by talking to them directly. Interviews are typically performed by asking prepared and spontaneous
+questions and recording responses. Interviews are often conducted on an individual basis
+between an interviewer and an interviewee but may involve multiple interviewers and/or multiple
+interviewees. Interviewing experienced project participants, sponsors, executives, and subject
+matter experts can aid in identifying and defining the features and functions of the desired product
+deliverables. Interviews are also useful for obtaining confidential information.
+Iteration burndown chart. An iteration burndown tracks the work that remains to be completed
+in the iteration backlog. An iteration burndown chart is used to analyze the variance with respect to
+an ideal burndown based on the work committed from iteration planning. A forecast trend line can
+be used to predict the likely variance at iteration completion and take appropriate actions during the
+urse of the iteration. A diagonal line representing the ideal burndown and daily actual remainin
+ork is then plotted. A trend line is then calculated to forecast completion based on the remainir
+work. Figure 5-10 is an example of an iteration burndown chart.
+Knowledge management. Knowledge management tools and techniques connect people so they
+can work together to create new knowledge, share tacit knowledge, and integrate the knowledge of
+diverse team members. The tools and techniques appropriate in a project depend on the nature of
+the project, especially the degree of innovation involved, project complexity, and the level of diversity
+(including diversity of disciplines) among team members.
+Iteration Burndown Chart
+Remaining Work
+300
+250
+200
+150
+100
+50
+Actual
+- Remaining
+Work
+→ Remaining
+Work
+Forecast
+- - - - Remaining
+Work
+1
+2
+3
+4
+5
+6
+7
+Iteration Days
+8
+9
+10
+11
+12
+Figure 5-10. Iteration Burndown Chart
+Section 5 - Tools and Techniques
+175
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

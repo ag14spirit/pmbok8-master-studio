@@ -1,0 +1,38 @@
+Initiating
+Planning
+Closing
+Plan Risk
+Management
+Identify
+Risks
+Perform
+Risk Analysis
+Plan Risk
+Responses
+Executing
+Implement
+Risk
+Responses
+Monitoring and Controlling
+Monitor
+Risks
+Figure 2-47. Risk Performance Domain Processes Overview
+• Identify Risks. The process of identifying project threats and opportunities. An important
+(den of cat on is tiny riskier. es ive denticatien isk to new ceration ng the project.
+progresses.
+• Perform Risk Analysis. The process of analyzing risks using an iterative approach that
+may combine qualitative and quantitative risk analyses. Qualitative analysis evaluates risks
+based on their probability and impact throughout the project. Quantitative analysis, when
+required, assesses the combined effect of risks and uncertainties on project objectives.
+Plan Risk Responses. The process of developing suitable and effective responses to
+nanage overall project and individual risks, which is performed throughout the project
+• Implement Risk Responses. The process of executing risk plans to address project risks,
+minimize threats, and maximize opportunities.
+• Monitor Risks. The process of tracking and analyzing risks, implementing response plans,
+and evaluating their effectiveness throughout the project, ensuring continuity and effective
+risk management.
+2.7.2.1 Plan Risk Management
+Section
+2 - Project Management Performance Domains
+95
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

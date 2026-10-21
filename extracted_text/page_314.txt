@@ -1,0 +1,106 @@
+Table 5-1. (Continued)
+Earned Value Analysis
+Abbreviation
+SPI
+Name
+Schedule
+performance
+index
+Lexicon
+Definition
+A measure
+of schedule
+efficiency
+expressed as the
+ratio of earned
+value to planned
+value
+EAC
+Estimate at
+completion
+The expected
+total cost of
+completing all
+work, expressed
+as the sum of
+the actual cost
+to date and
+the estimate to
+complete
+How It Is Used
+An SPI of 1.0 means
+that the project is
+exactly on schedule;
+that the work actually
+done so far is exactly
+the same as the work
+planned to be done
+so far. Other values
+show the percentage
+of how much the work
+is ahead or behind
+schedule based on
+the projected timeline
+for work planned.
+If the CPI is expected
+to be the same for
+the remainder of the
+project, EAC can be
+calculated using:
+If future work will be
+accomplished at the
+planned rate, use:
+If the initial plan is no
+longer valid, use:
+Equation
+SPI =
+EV / PV
+Interpretation
+of Result
+Greater than
+1.0 = Ahead
+of schedule
+Exactly 1.0 =
+On schedule
+Less than
+1.0 = Behind
+schedule
+EAC =
+BAC / CPI
+ETC
+Estimate to
+complete
+The expected
+cost to finish all
+the remaining
+project work
+EAC =
+AC +
+BAC - EV
+EAC =
+AC +
+Bottom-up
+ETC
+EAC = AC +
+[BAC - EV) /
+(CP| × SPI)]
+ETC =
+EAC - AC
+If both the CPI and
+Pl influence the
+emaining work, ust
+Assuming work is pro
+ceeding as planned,
+the cost of comple-
+ting the remaining
+authorized work can
+be calculated using:
+Reestimate the
+remaining work from
+the bottom up.
+ETC =
+Reestimate
+(continued)
+Section 5 - Tools and Techniques
+209
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

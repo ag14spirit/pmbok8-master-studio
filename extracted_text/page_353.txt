@@ -1,0 +1,52 @@
+• Criteria for moving from phase to phase;
+• Monitoring and evaluation plan for tracking progress; and
+• Process for knowledge transfer for use in subsequent phases.
+X4.5 Bid Process and Documents
+The bid process includes developing and publicizing bid documents, bidder conferences, and
+selecting a bidder. Bid documents may include the following:
+• Request for information (RFI). An RFl is used to gather more information from the market
+prior to sending out bid documents to a set of selected vendors.
+Request for proposal (RFP). An RFP is used for projects with a complex or complicate
+cope where the buyer is looking for the vendor to provide a solutio
+• Request for quote (RFQ). An RFQ is used when price is the main deciding factor and the
+proposed solution is readily available.
+These three types of documents cover the majority of bidding needs. There are other bid documents;
+however, they tend to be industry specific.
+Once the bid documents are distributed, the buyer generally has a bidder conference to respond to
+bidder questions and provide clarifying information. The bidders then develop their responses and
+deliver them to the buyer by the date specified in the bid documents.
+Choosing the best vendor, sometimes known as source selection, is often based on a number of
+criteria, such as experience, references, price, and timely delivery. These variables may be weighted
+to reflect the relative importance of each. The buyer evaluates vendor bids against the criteria
+to select an appropriate vendor(s). The buyer and vendor then negotiate terms and conditions.
+Almost everything can be negotiated, from cost to delivery and payment dates, to location of work,
+ownership of intellectual property, and so forth. Figure X4-1 illustrates an example of how these steps
+might flow together.
+Prepare
+SOW
+Prepare high-
+level estimates
+Advertise the
+opportunity
+RFI
+Qualified
+sellers
+Prepare
+bid documents
+RFP
+RFQ
+Prepare and
+submit proposals
+PROPOSAL
+QUOTE
+Evaluation and
+source selection
+Bidder
+conference
+Figure X4-1. Example Procurement Process Flow
+Negotiate terms
+and conditions
+Contracting
+248
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

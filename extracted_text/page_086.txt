@@ -1,0 +1,44 @@
+4.2.2 Adaptive Approaches
+Also referred to as change-driven or agile approaches, adaptive approaches are useful when a
+project's requirements and technical solution are subject to a high level of uncertainty and volatility
+and are likely to change significantly throughout the project. A clear vision is established at the
+start of the project, and the initial known requirements are progressively elaborated, changed, or
+replaced in accordance with stakeholder feedback, the environment, or unexpected events. Adaptive
+approaches can be both iterative and incremental. The iterative approach focuses on refining and
+improving the project through repeated cycles (iterations). The incremental approach delivers the
+final product in small, usable segments (increments), where the increments each provide value and
+build on one another until the complete product is delivered.
+While agility is a wide mindset that is broader than a development framework, agile approaches
+can be considered adaptive. Some agile methods entail iterations that are generally 1 to 4 weeks
+in duration, with a demonstration of the accomplishments at the end of each iteration. The entire
+project team is heavily involved in the planning at various levels. In the iteration, the team members
+determine the scope they can achieve based on the prioritized requirements in the form of the
+product backlog, estimate the amount of work, and work collaboratively to develop the scope during
+the iteration (see Figure 4-6).
+Several adaptive methodologies use flow-based scheduling. Flow-based scheduling is a project
+management approach that focuses on optimizing the flow of work through a system. One goal is to
+maximize the flow of deliverables based on resource capacity, materials, and other inputs. A related goal
+is to minimize time and resource waste and maximize the efficiency of processes and the throughput of
+deliverables. Projects that use these practices and techniques often adopt them from flow-maximizing
+approaches such as the Kanban method (a visual workflow management method to limit work in
+process [WIP] based on lean principles and focusing on continuous delivery without overburdening
+the team) and the theory of constraints (a management philosophy that focuses on identifying and
+addressing the most significant limiting factor [constraint] that stands in the way of achieving a goal).
+Life Cycle Using Adaptive Development Approach
+Define Project
+and
+Product Visions
+Iteration 1
+Iteration 2
+Iteration 3
+Feedback
+Backlog
+Prioritization
+Feedback
+Backlog
+Prioritization
+Figure 4-6. Life Cycle With an Adaptive Development Approach
+Section 4 - Project Life Cycles
+63
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.
+^

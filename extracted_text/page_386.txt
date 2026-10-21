@@ -1,0 +1,102 @@
+Design phase, 45
+Design thinking, 168
+Develop Budget process, 62, 64
+Development approach, 65, 99, 104-106, 119
+Develop Schedule process, 49-53
+Develop Scope Structure process, 40, 42, 43
+Diagnostic process, in after-action reviews, 145
+Diminishing returns, law of, 53
+Discrete data, 163
+Discretionary dependencies, 167-168
+Disputable claims, 252-254
+Dispute review boards, 253
+Distributed management and leadership, 150, 168
+Diverge/converge pattern, of decision-making, 179
+Documents/documentation
+in after-action reviews, 145
+analysis of, 168-169
+business documents, 116
+and duration estimate, 53
+procurement documentation, 124, 246, 248,
+250-252
+project documents, 125
+quality test and evaluation documents, 130
+requirements documentation, 130-131
+Downtime, 92
+Downward influence, 201
+Duration, 47, 48, 52-53. See also Schedule/scheduling
+Duration estimates, 119, 184
+ynamic environments, 44-4
+ynamic scheduling, 24
+E
+Early warning signaling, 241
+Earned value (EV), 169, 206, 207
+Earned value (EV) analysis, 169
+Earned value management (EVM), 122, 139, 160, 169
+Electronic communication skills, 155
+Elicit and Analyze Requirements process, 39, 40-41
+Emergent risk, 93
+Emotional intelligence, 169-170, 177-178
+Employee capability, 120
+Employee well-being, 91
+Empowerment, 86, 105
+Encoding, 153, 154
+Engagement
+of project teams, 69,105
+sponsor, 68-69
+stakeholder (See Stakeholder engagement)
+tailoring, 105
+Enhance (strategy), 158, 202, 203
+Enterprise environmental factors (EEFs), 119-120
+Enterprise environmental factor updates, 120
+Environmen
+awareness of, 102
+and scheduling, 56
+Environmental dynamics, 44-45
+Escalate (strategy), 157, 202, 203-204
+Escalation
+governance and, 13
+protocols for, 254
+Established contract models, 250
+Estimate at completion (EAC) value, 119, 209
+Estimate Costs process, 61, 62-63, 91
+Estimate(s)/estimating
+analogous, 146-147
+basis of, 115
+bottom-up, 149
+cost (See Cost estimates)
+definition of, 47
+duration, 119, 184
+multipoint, 183
+parametric, 184-185
+resources, 82, 91
+schedule, 47, 52-53
+techniques of, 170
+under uncertainty, 183
+Estimate Resources process, 80, 82, 91
+Estimate to complete (ETC), 209
+Ethics
+artificial intelligence and, 239-244
+claims administration and, 254
+Events, lagging indicators and, 14
+Executing (Focus Area), 9, 11
+Exit criteria, 32
+Expert determination, 253
+Expert judgment, 170
+Explicit knowledge, 24
+Exploit (strategy). 157, 202, 203
+External dependencies, 168
+External investment, 122
+External partners, dependency on, 44
+External risk, 135
+Extrinsic motivation, 182
+Eye contact, 184
+F
+Facilitation, 170
+Facilities, geographic distribution of, 120
+Facts, 93
+Failure costs, 159
+Fast tracking, 197
+Index
+281
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

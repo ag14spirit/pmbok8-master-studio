@@ -1,0 +1,42 @@
+Rolling wave planning. Rolling wave planning is an iterative planning technique in which the work
+to be accomplished in the near term is planned in detail, while the work in the future is planned at a
+higher level. This progressive elaboration allows work to exist at various levels of detail, depending
+on the project life cycle stage. During early strategic planning, when information is less defined, work
+packages are outlined at a high level. As more information becomes available, these packages are
+decomposed into detailed activities.
+Root cause analysis. Root cause analysis is an analytical method used to determine the basic
+underlying reason that causes a variance, defect, or risk. A root cause may underlie more than one
+variance, defect, or risk. Root cause analysis may also be used as a technique for identifying the root
+causes of a problem and solving them. When all root causes for a problem are removed, the problem
+does not recur.
+Schedule compression. Schedule compression is a technique used to shorten the schedule duration
+without reducing the project scope. Schedule compression techniques are used to meet schedule
+onstraints, imposed dates, or other schedule objectives. A helpful technique is the negative floa
+analysis. The critical path is the one with the least float. Due to violating a constraint or imposed date
+the total float can become negative. Schedule compression techniques are compared in Figure 5-20
+• Crashing. A schedule compression technique used to shorten the schedule duration for
+the least incremental cost by adding resources. Examples of crashing include approving
+overtime, bringing in additional resources, or paying to expedite delivery to activities on
+Normal
+2¿80 98 / 10
+11
+12
+14
+15
+Fast
+Tracking
+Crashing
+2
+3
+T
+4
+High Risk
+6
+9
+88
+10
+$ High Cost $
+Figure 5-20. Schedule Compression Comparison
+196
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

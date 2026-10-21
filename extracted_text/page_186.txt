@@ -1,0 +1,64 @@
+• Lead the Team. The process of guiding, developing, and managing the team to enhance
+performance and achieve project goals through feedback, collaboration, conflict resolution,
+or escalation.
+• Monitor and Control Resourcing. The process of ensuring that the physical or virtua
+esources assigned and allocated to the project are available as planned. This process als
+monitors the planned versus actual use of resources and performs corrective actions as
+necessary.
+2.6.2.1 Plan Resource Management
+The key benefit of this process is that it establishes the approach and level of management effor
+leeded to manage project resources based on the type and complexity of the project (see Figure 2-41)
+availability of—or competition for-scarce resources.
+The specific tools and techniques for the Plan Resource Management process include the
+responsibility assignment matrix, organizational theory, green human resource management,
+resource-based view, and SWOT (strengths, weaknesses, opportunities, threats) analysis.
+Plan Resource Management
+Inputs
+• Project charter
+• Project management plan
+- Quality management plan
+- Scope baseline
+• Project documents
+- Project schedule
+- Requirements
+documentation
+- Risk register
+- Stakeholder register
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+•
+• Expert judgment
+• Data gathering
+- Interviews
+• Data analysis
+- SWOT analysis
+• Data representation
+- Hierarchical charts
+- Responsibility assignment
+matrix
+- Text-oriented formats
+• Organizational theory
+• Meetings
+• Green human resource
+management
+• Resource-based view
+• Etc.
+•
+Outputs
+• Project management plan
+updates
+- Resource management
+plan
+• Team charter
+• Project document updates
+- Assumption log
+- Risk register
+• Etc.
+ПППП
+Figure 2-41. Plan Resource Management Inputs, Tools and Techniques, and Outputs
+Section 2 - Project Management Performance Domains
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

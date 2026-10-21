@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>PMBOK® 8 Master Studio • Estándar Oficial & Preparación PMP</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%232563EB'/><text x='50' y='65' font-size='46' font-weight='800' fill='white' text-anchor='middle' font-family='sans-serif'>P8</text></svg>">
+  <link rel="stylesheet" href="css/senior-design.css">
+</head>
+<body>
+  <!-- 2-Tier Executive Header -->
+  <header class="app-header-container">
+    <!-- Tier 1: Brand & Global Tools -->
+    <div class="header-tier1">
+      <a href="#" class="brand-wrapper" title="PMBOK 8va Edición Master Studio">
+        <div class="brand-icon-box">P8</div>
+        <div class="brand-info">
+          <span class="brand-title">PMBOK® 8 Master Studio</span>
+          <span class="brand-edition-tag">ANSI/PMI 99-001-2025</span>
+        </div>
+      </a>
+
+      <!-- Global Actions -->
+      <div class="header-tools">
+        <button class="action-chip-btn" id="platform-guide-btn" title="Iniciar tutorial interactivo de la plataforma">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+          <span>Guía de la Plataforma</span>
+        </button>
+
+        <div class="action-chip-btn" id="header-progress-chip" title="Tu progreso en las 18 unidades">
+          <span style="color: var(--c-teal); font-size: 0.75rem;">●</span>
+          <span id="header-progress-text">0% Dominado</span>
+        </div>
+
+        <button class="icon-square-btn" id="sound-toggle-senior-btn" title="Activar / Silenciar audio"></button>
+        <button class="icon-square-btn" id="theme-toggle-senior-btn" title="Alternar Modo Oscuro / Claro"></button>
+      </div>
+    </div>
+
+    <!-- Tier 2: Primary Functional Navigation Tabs (Zero Emojis, Sharp SVGs) -->
+    <div class="header-tier2">
+      <nav class="nav-tabs-group" aria-label="Navegación por módulos">
+        <button class="nav-tab-btn active" data-tab="curriculum">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+          <span>Ruta de Estudio</span>
+        </button>
+
+        <button class="nav-tab-btn" data-tab="matrix">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+          <span>40 Procesos (ITTO)</span>
+        </button>
+
+        <button class="nav-tab-btn" data-tab="presentations">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+          <span>Presentaciones (18 Decks)</span>
+        </button>
+
+        <button class="nav-tab-btn" data-tab="evm">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"></rect><line x1="8" y1="6" x2="16" y2="6"></line><line x1="16" y1="14" x2="16" y2="14.01"></line><line x1="12" y1="14" x2="12" y2="14.01"></line><line x1="8" y1="14" x2="8" y2="14.01"></line><line x1="16" y1="18" x2="16" y2="18.01"></line><line x1="12" y1="18" x2="12" y2="18.01"></line><line x1="8" y1="18" x2="8" y2="18.01"></line></svg>
+          <span>Laboratorio EVM</span>
+        </button>
+
+        <button class="nav-tab-btn" data-tab="simulator">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"></circle><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline></svg>
+          <span>Simulador PMP</span>
+        </button>
+
+        <button class="nav-tab-btn" data-tab="flashcards">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+          <span>Flashcards & Glosario</span>
+        </button>
+
+        <button class="nav-tab-btn" data-tab="appendices">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
+          <span>Apéndices (IA & PMO)</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Viewport Shell -->
+  <main class="app-main">
+    <!-- 1. Learning Hub & Curriculum -->
+    <section id="view-curriculum" class="section-view active"></section>
+
+    <!-- 2. Interactive 40 Processes 2D Matrix -->
+    <section id="view-matrix" class="section-view"></section>
+
+    <!-- 3. Visual Keynote Presentations per Unit (18 Decks, 180 Slides) -->
+    <section id="view-presentations" class="section-view"></section>
+
+    <!-- 4. EVM Laboratory & S-Curve -->
+    <section id="view-evm" class="section-view"></section>
+
+    <!-- 5. PMP Situational Exam Simulator -->
+    <section id="view-simulator" class="section-view"></section>
+
+    <!-- 6. 3D Flashcards & Searchable Glossary -->
+    <section id="view-flashcards" class="section-view"></section>
+
+    <!-- 7. Specialized Appendices (AI, PMO, Procurement, Evolution) -->
+    <section id="view-appendices" class="section-view"></section>
+  </main>
+
+  <!-- Slide-Over & Modal Card Backdrop -->
+  <div class="modal-backdrop-pro" id="senior-modal-backdrop" role="dialog" aria-modal="true"></div>
+
+  <!-- Toast Pill -->
+  <div class="toast-pill-pro"></div>
+
+  <!-- Universal Application Engine -->
+  <script src="js/bundle-pro.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+in reserve analysis, 192
+resource estimates and, 91
+review of, 119
+updated, 118
+Cost forecasts, 119
+Cost performance not ct, 2529, 206, 208
+Cost uncertainty, 183
+Crashi acheduled, gression technique), 196-197
+Critical path method (CPM), 159, 160-161
+itical thinking, 161, 17
+oss-cultural communication, 15
+Cultural awareness, 162
+Cultural influences, 120
+and communication, 154
+organizational, 56, 74, 109, 12(
+Customer centricity, 234, 235
+Customer talks and tests, 162
+D
+Daily coordination meeting, 162
+Dashboards, 190-191
+continuous, 163
+discrete, 163
+in Monitor and Control Project Performance
+process, 26-28
+work performance, 22, 143, 144
+Data analysis, 162
+Databases, commercial, 120
+Data-driven decision-making, 69, 240
+Data gathering, 162
+Data representation, 162-163
+Decentralized decision-making, 168
+Decision-making
+Al in, 69, 240
+autocratic, 163
+centralized, 150-151
+data-driven, 69, 240
+decentralized, 168
+emotional intelligence and, 178-179
+in financial monitoring, 64-65
+group-based, 178-179, 184
+influence diagrams used for, 172
+make-or-buy, 66, 123, 180, 246-247
+multicriteria decision analysis in, 163, 183, 240
+in self-governance model, 12
+stakeholders in, 68, 179
+sustainability in, 90
+techniques of, 163
+under uncertainty, 163, 172, 183
+unilateral, 178
+voting and, 163, 179, 214
+Decision tree analysis, 163, 164
+Decoding, 153, 154
+Decomposition, 38, 53, 140, 163-166
+Deep learning (DL), 237
+Deferred change requests, 114
+Define Scope process, 39, 41-42
+Definition of done (DoD), 39
+Delegation, 86
+Deliverables, 119
+accepted, 35, 38, 46, 113
+acquiring, 20
+aligning with schedule, 57, 58
+attributes of, 56, 108
+completing, 21, 22, 32
+decomposition of, 163-166
+lagging indicators and, 14
+prioritizing, 38
+in project scope statement, 128
+verified, 143
+Demoralization, 28
+Dependencies
+in backlog management, 149
+discretionary, 167-168
+external, 168
+internal, 168
+logical relationships as, 180, 185
+mandatory, 167
+in precedence due enor megham, 183-186
+Dependency determination and integration,
+166-168
+280
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

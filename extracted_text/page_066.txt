@@ -1,0 +1,45 @@
+3.5 Embed Quality Into Processes and Deliverables
+Quality is the degree to which a set of inherent characteristics of a project deliverable or process
+helps to meet or exceed the project's target objectives. Embedding quality includes the ability to
+satisfy customers and stakeholders' stated or implied needs as a matter of course, at or above
+target levels of efficiency (see Figure 3-4). The quality of the deliverable and the processes used to
+achieve it are measured by conformance to acceptance criteria, the definition of done (DoD), fitness
+for use, and overall efficiency. While quality thresholds typically address scope specifications, the
+an also apply to schedule and cost, especially for projects where the value proposition may be
+highly sensitive to those factors. Adopting a continuous improvement mindset optimizes processes,
+boosts efficiency, and enhances maturity growth for the whole organization, leading to better project
+outcomes and overall organizational success for present and future endeavors.
+Foundational to embedding target quality thresholds is continuous improvement and waste
+elimination. These practices enable project teams to refine their processes, optimize resource
+utilization, and deliver outcomes that meet or exceed target objectives. Continuous improvement
+allows teams to proactively identify and address areas for enhancement in both deliverables ano
+vorkflows, while waste elimination streamlines processes, conserving resources and improving
+performance. Quality spans several dimensions that apply to both deliverables and processes,
+including but not limited to the following:
+• Performance. Do the deliverables or processes function as intended by the project team
+and other stakeholders?
+• Conformity. Are the deliverables and processes aligned with specifications and fit for use?
+• Reliability. Do the deliverables and processes maintain the consistency necessary to meet
+or exceed desired outcomes?
+Embed Quality Into Processes and Deliverables
+Embed quality into
+processes and deliverables
+to maintain a consistent
+focus on achieving target
+quality thresholds. This
+emphasis on quality helps
+to ensure outcomes that
+meet project objectives
+and align with the needs,
+requirements, and
+acceptance criteria set by
+relevant stakeholders.
+• Project quality entails satisfying relevant stakeholders'
+expectations and fulfilling project and product requirements.
+• Quality focuses on meeting acceptance criteria for deliverables.
+• Project quality entails ensuring project processes are
+appropriate and as effective as possible.
+Figure 3-4. Embed Quality Into Processes and Deliverables
+Section 3 - Project Management Principles
+43
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,43 @@
+EEFs internal to the organization:
+• Organizational culture, structure, and governance. Examples include vision, mission,
+values, beliefs, cultural norms, leadership style, hierarchy and authority relationships,
+organizational style, ethics, codes of conduct, policies, and procedures.
+• Geographic distribution of facilities and resources. Examples include factory locations
+and virtual teams.
+• Infrastructure. Examples include existing facilities, equipment, organizational
+telecommunications channels, information technology hardware, availability, and capacity.
+• Information technology software. Examples include scheduling software tools,
+configuration management systems, web interfaces to other online automated systems,
+and work authorization systems.
+• Resource availability. Examples include contracting and purchasing constraints, approved
+providers and subcontractors, and collaboration agreements.
+• Employee capability. Examples include existing human resources expertise, skills,
+competencies, and specialized knowledge.
+EEFs external to the organization:
+• Marketplace conditions. Examples include competitors, market share, brand recognition,
+and trademarks.
+• Social and cultural influences and issues. Examples include political climate, codes of
+conduct, ethics, and perceptions.
+• Legal restrictions. Examples include country or local laws and regulations related to
+security, data protection, business conduct, employment, and procurement.
+• Commercial databases. Examples include benchmarking results, standardized cost
+estimating data, industry risk study information, and risk databases.
+• Academic research. Examples include industry studies, publications, and benchmarking
+results.
+• Government or industry standards. Examples include regulatory agency regulations and
+standards related to products, production, environment, quality, and workmanship.
+• Financial considerations. Examples include currency exchange rates, interest rates,
+inflation rates, tariffs, and geographic location.
+• Physical environmental elements. Examples include working conditions and weather
+constraints.
+Enterprise environmental factor updates. Enterprise environmental factor (EEF) updates refer
+to modifications or changes made to the conditions that influence, constrain, or direct a project.
+These factors can be internal or external to the organization and are not under the control of the
+project team. Updates to EEFs are important as they can enhance or constrain project management
+options and have a positive or negative influence on the project's outcome. Understanding and
+updating EEFs is essential for effective project management.
+Final product, service, or result transition. A product, service, or result, once delivered by the
+project, may be handed over to a different group or organization that will operate, maintain, and
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

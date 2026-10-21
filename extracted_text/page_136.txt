@@ -1,0 +1,58 @@
+2.1.6.9 Close Project or Phase
+The Close Project or Phase process involves finalizing all activities related to both successful and
+unsuccessful projects, phases, releases, iterations, or contracts. The primary benefits include
+archiving project or phase information, completing planned work, and releasing organizational
+resources for new projects. The process also includes confirming the extent to which value or the
+capability to deliver value has been achieved (see Figure 2-12).
+Close Project or Phase -
+Inputs
+• Project charter
+• Project management plan
+- All components
+• Project documents
+- Assumption log
+- Basis of estimates
+- Change log
+- Issue log
+- Lessons learned register
+- Milestone list
+- Project communications
+- Quality control
+measurements
+- Quality reports
+- Requirements
+documentation
+- Risk register
+- Risk report
+• Accepted deliverables
+• Business documents
+- Business case
+- Benefits management
+plan
+• Agreements
+• Procurement documentation
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+• Expert judgment
+• Data analysis
+- Document analysis
+- Regression analysis
+- Trend analysis
+- Variance analysis
+• Meetings
+• Etc.
+• Outputs
+• Project document updates
+- Lessons learned register
+• Final product, service, or
+result transition
+• Final report
+• Organizational process
+asset updates
+• Etc.
+/////
+Figure 2-12. Close Project or Phase Inputs, Tools and Techniques, and Outputs
+Section 2 - Project Management Performance Domains
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

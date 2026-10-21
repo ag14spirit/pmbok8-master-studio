@@ -1,0 +1,59 @@
+Develop Budget
+Inputs
+• Project management plan
+- Financial management
+plan
+- Resource management
+plan
+- Scope baseline
+• Project documents
+- Basis of estimates
+- Cost estimates
+- Project schedule
+- Risk register
+• Business documents
+- Business case
+- Benefits management
+plan
+• Agreements
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Cost aggregation
+• Data analysis
+- Reserve analysis
+• Historical information review
+• Funding limit reconciliation
+• Financing
+• Etc.
+Outputs
+• Cost baseline
+• Project funding requirements
+• Project document updates
+- Cost estimates
+- Project schedule
+- Risk register
+• Etc.
+Figure 2-29. Develop Budget Inputs, Tools and Techniques, and Outputs
+2.4.2.3 Develop Budget
+Develop Budget is the process of aggregating the estimated costs of individual activities or work
+packages to establish an authorized cost baseline. The key benefit of this process is that it determines
+the cost baseline against which project performance can be monitored and controlled. This process is
+performed once or at predefined points in the proiect (see Figure 2-29).
+2.4.2.4 Monitor and Control Finances
+Monitor and Control Finances is the systematic process of overseeing and managing a project's
+financial health by continuously tracking expenditures, updating financial records, adjusting the cost
+baseline and revenue forecasts as needed, and implementing corrective actions to address financial
+risks. This effort ensures that the project remains financially viable and aligned with budgetary goals
+throughout its entire life cycle. Financial monitoring also includes variance analysis-comparing actual
+costs against planned costs to identify and address deviations. The key benefit of this process is that
+the cost baseline is maintained throughout the project, as well as any anticipated revenue or cost
+savings projections associated with project outcomes. This process enables proactive decision-making
+64
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

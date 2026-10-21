@@ -1,0 +1,46 @@
+Choose a
+development
+approach best
+suited for
+the endeavor
+1) Select Initial
+Development
+Approach
+2) Tailor for
+Organization
+Modify based on
+organizational
+requirements
+Adjust based on
+size, criticality,
+and other factors
+3) Tailor for
+Project
+4) Implement
+Ongoing
+Improvement
+Inspect
+and adapt
+385
+Figure 3-1. Details of the Steps in the Tailoring Process
+Tailoring project management approaches requires thoughtful consideration of contextual factors to
+ensure that the chosen methodology aligns with project needs and organizational goals. One useful
+concept in this regard is the suitability filter. A suitability filter is not a rigid method or procedure,
+but rather a decision-making tool that helps project teams evaluate their unique circumstances.
+A suitability filter assists project teams with analyzing the project's characteristics and determining
+the best fit among predictive, adaptive, or hybrid approaches. The suitability filter combines its
+assessment with other data and decision-making activities, so the appropriate tailored approach is
+decided for each project. By evaluating criteria based on culture, project team dynamics, and project
+factors, a suitability filter assists discussion and decision on the initial approach.
+3.4.2 Tailor for the Organization
+Project teams own and improve their processes, but organizations can provide methodologies and
+development approaches as starting points for projects requiring oversight. These guides can help
+support repeatable processes, consistent capability measurement, and continuous improvement
+Organizations that have established process governance should ensure tailoring is aligned to policy
+Tailoring for the organization involves adding, removing, and reconfiguring elements of the approach
+to make it more suitable for the individual organization. This process is shown in Figure 3-2.
+Tailoring within an organization should also consider the context of the program and/or portfolio
+consistency and prey, prone lie co este spear itine organ atons are ance
+106
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,33 @@
+A Guide to the Project Management Body of Knowledge (PMBOK® Guide) —Eighth Edition and
+The Standard for Project Management
+ISBN: 978-1-62825-829-5 (paperback)
+ISBN: 978-1-62825-830-1 (ebook)
+Published by:
+Project Management Institute, Inc.
+18 Campus Blvd., Ste. 150
+Newtown Square, Pennsylvania 19073-3299 USA
+Phone: +1 610 356 4600
+PMl.org
+Online Support: www.pmi.org/about/contact
+©2025 Project Management Institute, Inc. All rights reserved.
+Our copyright content is protected by U.S. intellectual property law that is recognized by most
+countries. To republish or reproduce our content, you must obtain our permission in writing.
+Please go to https://www.pmi.org/permissions for details.
+This material is being provided under license to you for personal use only. No other use, distribution,
+reproduction, modification, and/or resale is permitted.
+NO AI TRAINING: Without in any way limiting Project Management Institute's exclusive rights under
+copyright, any use of this publication to "train" generative artificial intelligence (Al) technologies
+to generate text is expressly prohibited. PMI reserves all rights to license uses of this work for
+generative Al training and development of machine learning language models.
+Project Management Institute, PMI, the PMI logo, and PMBOK are trademarks and/or registered
+trademarks of Project Management Institute, Inc. in the U.S. and/or in other countries. For a
+comprehensive list of PMI trademarks, contact trademarks@pmi.org.
+Printed in the United States of America. No part of this work may be reproduced or transmitted
+in any form or by any means, electronic, manual, photocopying, recording, or by any information
+storage and retrieval system, without prior written permission of the publisher.
+The paper used in this book complies with the Permanent Paper Standard issued by the
+National Information Standards Organization (Z39.48—1992).
+This publication has been designed with sustainability in mind, using practices that minimize paper
+usage and reduce environmental impact.
+10987654321
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

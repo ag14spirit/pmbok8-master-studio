@@ -1,0 +1,42 @@
+2.3.3.6 Scheduling Approaches and Methods
+As different types of industries and projects require different approaches and methods to scheduling.
+it is increasingly important to have a contextual framework for effective adoption and tailoring of
+development practices to respond to the changing demands of the environment. Some approaches
+for scheduling include the critical path method, critical chain method, location-based scheduling,
+Last Planner System®, Gantt charts, and Kanban.
+• Location-based scheduling (LBS). Location-based scheduling allocates quantities to
+the locations defined in the LBS and takes into consideration the resourcing required to
+complete this work, including production rates, crew sizing, logic between tasks, and any
+requirements for splitting or buffering work.
+• Lean scheduling. Lean scheduling is based on the principles of lean project delivery (on-
+demand scheduling) and is designed to minimize waste and maximize value. To achieve
+this goal, deliverables are not assigned to the team. Lean scheduling principles point to
+the importance of limiting queues by pulling work when there is capacity to place the
+look-ahead planning.
+• Schedule and deliverable alignment. Project deliverables and schedules have varying
+levels of detail. This variation often creates confusion regarding what will be done and
+when. One approach to increase clarity is to ensure that a given element of the WBS is
+described by a schedule that has a commensurate level of detail.
+2.3.4 Interactions With Other Domains
+The Schedule performance domain closely interacts with the Governance, Scope, Finance,
+Stakeholders, Resources, and Risk performance domains, emphasizing the interdependent nature
+of project management elements. At the beginning of the project, the expected outcomes are
+identified, and a high-level schedule is developed to achieve these results. Depending on the selected
+development approach and life cycle, intensive scheduling may be conducted up front, which is then
+adjusted or adapted to the actual environment.
+Other life cycles encourage just enough scheduling at various points throughout the project, with the
+expectation that plans will evolve. The duration of the project depends on its scope, cost, resources,
+and quality. Each of these factors can cause the schedule to become longer or shorter.
+The Scope, Schedule, and Finance performance domains are closely linked to one another and
+changes in any one of them will likely impact the others. While the project outcome is directly
+dependent on these performance domains, they also are in parallel to, and indirectly connected with,
+the Stakeholders, Resources, and Risk performance domains in order to maintain a balance and
+ensure that all of the domains function under the Governance performance domain.
+2.3.5 Check Results
+Activities related to the Schedule performance domain should be considered successful only if they
+contribute to specific outcomes. Table 2-7 shows a set of sample target outcomes, along with a
+potential check to confirm whether those outcomes are met.
+Section
+2 - Project Management Performance Domains
+57
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

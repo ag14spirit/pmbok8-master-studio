@@ -1,0 +1,34 @@
+• Creating high-quality deliverables and outcomes,
+• Ensuring compliance with regulatory standards and sustainability considerations,
+• Satisfying diverse stakeholder expectations, and
+• Adapting to change.
+These factors should be understood, evaluated, and balanced to create a practical operating
+environment for the project. There may be situations that limit the degree to which project teams car
+tailor their approach (e.g., when organizational policies mandate the use of a specific approach or
+when a contract specifies a mandated approach).
+3.2 Why Tailor?
+The structure used to deliver projects can be extensive or minimal, rigorous or lightweight, and
+scale, duration, complexity, industry standards, organizational culture, number of stakeholders
+involved, and level of organizational project management maturity. For example, the rigor, checks
+and balances, and reporting requirements for a critical nuclear reactor project are much greater than
+those for building a new office building. Similarly, the communication and coordination needs for a
+10-member project team are far less extensive than for a project team of 200 people.
+Too few processes can lead to ineffective project management, while employing more processes than
+required is costly and wasteful. Thus, tailoring leads to optimum and effective project management
+that can deliver direct and indirect value to organizations, including the following benefits:
+• More commitment from the project team members who helped to tailor the approach;
+• Customer-oriented focus enhancements, as the needs of the customer are an important
+influencing factor in its development; and
+• More efficient use of project resources.
+3.3 What to Tailor
+This section discusses three project aspects that can be tailored:
+• Life cycle and development approach selection,
+• Processes, and
+• Engagement.
+Sections 3.3.1 through 3.3.3 explore each of these in more detail.
+3.3.1 Life Cycle and Development Approach Selection
+Deciding on a life cycle and its phases is an example of tailoring; additional tailoring can be done while
+selecting the development approach for the project. For instance, building a new data center could
+104
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

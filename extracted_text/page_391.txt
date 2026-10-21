@@ -1,0 +1,92 @@
+in Identify Stakeholders process, 71
+in Implement Risk Responses process, 100
+in Initiate Project or Phase process, 17
+in Integrate and Align Project Plans process, 19
+in Lead the Team process, 85
+list of, 113-144
+in Manage Communications process, 75
+in Manage Project Execution process, 22
+in Manage Project Knowledge process, 25
+in Manage Quality Assurance process, 23
+in Manage Stakeholder Engagement process, 74
+in Monitor and Control Finances process, 65
+in Monitor and Control Project Performance
+process, 27
+in Monitor and Control Resourcing process, 87
+in Monitor and Control Schedule process, 54
+in Monitor and Control Scope process, 43
+in Monitor Communications process, 77
+in Monitor Risks process, 100
+in Monitor Stakeholder Engagement process, 76
+from other processes, 124
+in Perform Risk Analysis process, 98
+in Plan Communications Management process, 73
+in Plan Financial Management process, 63
+in Plan Resource Management process, 81
+in Plan Risk Management process, 96
+in Plan Risk Responses process, 99
+in Plan Schedule Management process, 49
+in Plan Scope Management process, 40
+in Plan Sourcing Strategy process, 20
+in Plan Stakeholder Engagement process, 72
+in regression analysis, 192
+in Validate Scope process, 44
+Outsourcing, 14, 15, 20-21
+Outward influence, 201
+Overall risk, 93, 203
+Ownership
+in stakeholder analysis, 199
+P
+Parametric estimating, 184-185
+Participant involvement, in after-action reviews, 146
+Passive acceptance, 158, 202
+Path convergence, 127
+Performance measurement baseline (PMB).
+124, 169
+Performance reviews, 185
+Performing (team development phase), 211
+Perform Risk Analysis process, 95, 96, 98, 137
+Phase(s)
+Physical environment, 120
+Physical resource(s), 79-80, 83, 92
+Physical resource assignments, 124
+Pink, Daniel, 182
+Plan Communications Management process,
+Plan Financial Management process, 61, 62, 63
+Planning. See also Project management plan
+agile release, 146, 147
+benefits management, 115-116
+change management, 116
+communications management, 117-118
+configuration management, 118
+financial management, 62, 121-122
+iteration, 146, 147
+predictive analytics used in, 186, 240
+procurement management, 124-125, 246
+project canvas used in, 188-189
+quality management, 128-129
+recognition, 134
+release, 146, 147
+requirements management, 131
+resilience, 101
+resource management, 81, 132-134
+risk management, 94-96, 134-136
+risk responses, 96-97
+rolling wave, 196
+schedule management, 49, 139
+scope management, 40, 141
+sourcing strategy, 16, 19-21, 141
+stakeholder engagement, 71-72, 141
+test and inspection, 205
+Plan Resource Management process, 21, 80, 81,
+Plan Risk Management process, 94, 95-96, 136
+Plan Risk Responses process, 95, 96-97, 99, 137
+Plan Schedule Management process, 48, 49
+Plan Scope Management process, 39, 40
+Plan Sourcing Strategy process, 16, 19-21
+Plan Stakeholder Engagement process, 70,
+in earned value analysis, 169
+rules of, 122, 139
+286
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

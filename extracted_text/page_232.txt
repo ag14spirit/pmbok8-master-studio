@@ -1,0 +1,33 @@
+Project management plan updates. Project management plan updates are updates to the
+document that describes how the project is being executed, monitored and controlled, and closed.
+Project schedule. The project schedule is an output of a schedule model that presents linked
+ctivities with planned dates, durations, milestones, and resources. The detailed projec
+chedule should be flexible throughout the project to adjust for the knowledge gained, increase
+understanding of the risks, and value-added activities.
+Project schedule network diagram. The project schedule network diagram is a graphical
+representation of the logical relationships among the project schedule activities. Logical
+be fully described within the narrative.
+Activities that have multiple predecessor activities indicate a path convergence. Activities that have
+are a greatest active are alicated bye divere enteries at decentle erence,
+is called a path convergence, as it has more than one predecessor, while activity K is called a path
+divergence, as it has more than one successor.
+SS
+D
+E
+FS + 15
+Begin
+H
+SS + 10
+G
+End
+J
+Ff
+K
+L
+Note: SS means start-to-start:
+FS means finish-to-start; and
+FF means finish-to-finish.
+Figure 4-2. Example of a Project Schedule Network Diagram
+Section 4 - Inputs and Outputs
+127
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

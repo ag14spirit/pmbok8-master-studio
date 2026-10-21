@@ -1,0 +1,45 @@
+• Learning and improvement. The primary goal is to reinforce learning and improve future
+performance by applying the insights gained from the review.
+Participant involvement. All team members involved in the project participate in th
+eview, ensuring a comprehensive understanding of the events and outcomes
+• Structured reflection. The AARs follow a structured format, asking four key questions:
+• What was supposed to happen?
+• What actually happened?
+• Why were there differences?
+• What can we learn?
+In summary, AARs are a valuable tool for continuous improvement in project management. The
+reviews provide a structured approach to reflect on project performance, engage team members in
+the diagnostic process, and capture lessons learned to enhance future projects.
+Agile release planning. Agile release planning provides a high-level summary timeline of the release
+schedule (typically 3-6 months) based on the product roadmap and the product vision for the product's
+evolution. Agile release planning determines the number of iterations or sprints in the release. This
+planning empowers the product owner and team to determine the development scope, timelines, and
+a releasable product, factoring in business goals, dependencies, impediments, and resource availability.
+Since features represent expected value to the customer, the timeline provides a more easily
+understood project schedule as it defines which features will be available at the end of each iteration.
+Figure 5-1 shows the typical relationship among product vision, product roadmap, release planning,
+and iteration planning. While the figure shows tasks estimated in hours, it is important to note that
+many agile teams use story points instead. Story points reflect the relative effort or complexity rather
+than absolute time, based on the understanding that teams are typically better at comparing work
+items than predicting precise durations. This approach simplifies planning while preserving accuracy,
+as estimating hours can be more time-consuming and less reliable in dynamic environments.
+Alternative analysis. Alternative analysis is a method used to evaluate identified options in order
+to select the options or approaches to use when performing the work of the project. In a project
+context, two examples include (1) determining what solution might best address a project's business
+or mission objectives, and (2) determining the best approach for executing and completing project
+tasks within the defined constraints.
+Analogous estimating. Analogous estimating is a technique for estimating the duration, cost, or
+required resources for an activity or a project using historical data from a similar activity or project.
+Analogous estimating uses parameters from a previous, similar project, such as duration, budget, size,
+weight, and complexity, as the basis for estimating the same parameter or measure for a future project.
+When estimating durations, this technique relies on the actual duration of previous, similar projects
+as the basis for estimating the duration of the current project. It is a gross value estimating approach,
+sometimes adjusted for known differences in project complexity. Analogous duration estimating is
+frequently used to estimate project duration when there is limited detailed information about the project.
+Analogous estimating is generally less costly and less time-consuming than other techniques but can
+also be less accurate. Analogous duration estimates can be applied to a total project or to segments
+of a project and may be used in conjunction with other estimating methods. Analogous estimating is
+146
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,40 @@
+4.3.2 Project
+Project variables that influence the choice of development approach may include the following:
+• Stakeholders. Projects that use adaptive methods typically call for significant stakeholder
+involvement throughout the process.
+• Schedule constraints. If there is value to be realized from delivering something early, ever
+f it is not a finished product, an iterative or adaptive approach may be optimal. Meanwhile
+when a fixed end date must be met, a predictive approach can help focus planning on
+delivery timelines.
+• Financing uncertainty. Projects being executed in an environment of financing uncertainty
+may generate more value using an adaptive or iterative approach.
+• Project size and complexity. More flexible approaches are more suitable for larger,
+complex projects with evolving requirements.
+Team experience and skills. Projects managed using an adaptive or agile approach m
+enefit from teams with strong communication, collaboration, and problem-solving skil
+• Interdependencies. A reliance on other projects, departments, or functions for decisions,
+components, or resources may be a decision factor for the project team to consider for
+delivering projects with an iterative approach.
+4.3.3 Organization
+Organizational variables such as the structure, culture, capability, project team size, and location can
+influence the choice of development approach. The organizational variables to consider may include
+the following:
+• Organizational structure. Organizations with a fixed functional structure-and more
+traditional hierarchical arrangements—are more inclined to select a predictive approach
+due to preferred lines of authority. Organizations with a network-oriented structure may be
+more naturally inclined to embrace more adaptive or hybrid approaches.
+• Culture. A predictive approach may be a better fit in an organization with a culture of
+managing and directing, where the work is planned out and progress is measured against
+baseraces underie ny proaches may he sting in an angrizatens, leute that more easily
+• Organizational capability. Organizational policies, ways of working, reporting structures,
+and attitudes should all be aligned to employ delivery methods successfully. Additionally,
+the extent to which project management processes are established can influence the
+reliability and predictability of the chosen project delivery approach.
+• Project team size and location. Adaptive approaches often work better with smaller
+project teams. Some adaptive frameworks recommend having between three and nine
+team members. In predictive and hybrid approaches, this number may depend more
+on the project's requirements and scope complexity. Team location is relevant to all
+approaches, though some adaptive methods call for the colocation of team members. For
+some individuals and teams, remote work may enhance efficiency and focus on the team's
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

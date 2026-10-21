@@ -1,0 +1,70 @@
+Monitor and Control Finances
+Inputs
+•
+• Project management plan
+- Financial management
+plan
+- Cost baseline
+- Performance
+measurement
+baseline
+• Project documents
+- Lessons learned register
+- Project funding
+requirements
+• Work performance data
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+• Expert judgment
+• Data analysis
+- Earned value analysis
+- Trend analysis
+- Reserve analysis
+• To-complete performance
+index
+• Project management
+information system
+• Etc.
+Outputs
+• Work performance
+information
+• Revenue and cost forecasts
+• Change requests
+• Funding proposals
+• Project management plan
+updates
+- Financial management
+plan
+- Cost baseline
+- Performance
+measurement baseline
+• Project document updates
+- Assumption log
+- Basis of estimates
+- Cost estimates
+- Lessons learned register
+- Risk register
+• Etc.
+Figure 2-30. Monitor and Control Finances Inputs, Tools and Techniques, and Outputs
+to address deviations, optimize resource allocations, and ensure alignment with financial goals. The
+onitor and Control Finances process is performed throughout the project, ensuring that cos
+main under control and that the proiect is realizing financial benefits, if relevant (see Figure 2-30
+2.4.3 Tailoring Considerations
+Because each project is unique, activities and processes in the Finance performance domain should
+be tailored. Considerations for tailoring include but are not limited to the following:
+• Product. Heavily regulated industries may require a more formal set of controls related to
+finance, like compliance with standards such as the Sarbanes-Oxley Act (SOX) or General Data
+Protection Regulation (GDPR) to ensure financial data integrity and security. Examples include
+financial or pharmaceutical industries, where multiphase project processes are common and
+may impact the way finances are planned and tracked along the project life cycle.
+Development approach. Iterative approaches impact the project expenditures,
+flattening the spent curve throughout the project. Both financial planning and controls
+hould be tailored accordingly. For iterative projects, cost management practices, suc
+s time-phased budgeting and continuous funding assessment, are employed to manag
+evolving project needs.
+Section
+2 - Project Management Performance Domains
+65
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

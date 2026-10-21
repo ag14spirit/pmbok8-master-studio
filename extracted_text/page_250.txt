@@ -1,0 +1,24 @@
+Section 5
+Tools and Techniques
+All of the tools and techniques in this section appear in alphabetical order; therefore, no section
+numbers are assigned.
+Active listening. Active listening involves techniques such as acknowledging, clarifying, confirming,
+understanding, and addressing barriers that hinder effective communication and comprehension.
+Active listening is used to reduce misunderstandings and other miscommunications with stakeholders.
+It is particularly critical when working in global or cross-cultural environments, where team members
+may interpret messages differently due to diverse linguistic and cultural backgrounds.
+Affinity diagram. An affinity diagram shows large numbers of ideas classified into groups for review
+and analysis. Affinity diagrams can also organize potential causes of defects into groups showing the
+areas that should be focused on the most.
+After-action reviews (AARs). After-action reviews are a simple, structured process used to analyze
+what happened, why it happened, and how it can be done better by the participants and those
+responsible for the project or activity. Originating from the U.S. Army, AARs are designed to improve
+team performance by reflecting on actions taken and outcomes achieved. The AARs are typically
+conducted at the end of a project or after significant milestones to capture lessons learned and
+inform future activities. The AARs may include the following:
+Diagnostic process. The diagnostic process involves diagnosing what went well and what
+did not, and identifying both strengths and weaknesses.
+• Documentation. Findings from the AARs are documented and shared with relevant
+stakeholders to help ensure that valuable lessons are captured and disseminated.
+145
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

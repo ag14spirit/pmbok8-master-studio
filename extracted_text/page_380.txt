@@ -1,0 +1,39 @@
+time and materials (T&M) contract. A type of contract that is a hybrid contractual arrangement
+containing aspects of both cost-reimbursable and fixed-price contracts.
+timebox. A short, fixed period of time in which work is to be completed.
+tolerance. The quantified description of acceptable variation for a quality requirement.
+triple bottom line. A framework for considering the full cost of doing business by evaluating a
+company's bottom line from the perspective of profit, people, and the planet.
+uncertainty. A lack of understanding and awareness of issues, events, path to follow, or solutions to
+pursue.
+use case. An artifact for describing and exploring how a user interacts with a system to achieve a
+specific goal.
+validation. The assurance that a product, service, or result meets the needs of the customer and
+other identified stakeholders. See also verification.
+value. The excess of monetary and nonmonetary benefits over investment that is gained from
+achieving the goals of a portfolio, program, or project.
+value delivery system. A collection of strategic business activities aimed at building, sustaining, and/
+or advancing an organization.
+value proposition. The value of a product or service that an organization communicates to its
+customers.
+vanity metric. A measure that appears to show some result but does not provide useful information
+for making decisions.
+variance. A quantifiable deviation, departure, or divergence away from a known baseline or
+expected value.
+variance at completion (VAC). A projection of the amount of budget deficit or surplus, expressed as
+the difference between the budget at completion and the estimate at completion. See also budget at
+completion (BAC), cost variance (CV), and estimate at completion (EAC).
+verification. The evaluation of whether or not a product, service, or result complies with a
+regulation, requirement, specification, or imposed condition. See also validation.
+vision statement. A summarized, high-level description about the expectations for a product such as
+target market, users, major benefits, and what differentiates the product from others in the market.
+volatility. The possibility for rapid and unpredictable change.
+waste. Activities that consume resources and/or time without adding value.
+wideband Delphi. An estimating method in which subject matter experts go through multiple rounds
+of producing estimates individually, with a team discussion after each round, until a consensus is
+achieved.
+work package. The work defined at the lowest level of the work breakdown structure for which cost,
+effort, duration, and resources are estimated and managed.
+Glossary
+275
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

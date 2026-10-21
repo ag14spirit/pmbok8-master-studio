@@ -1,0 +1,44 @@
+cost performance index (CPI). A measure of the cost efficiency of budgeted resources expressed as
+the ratio of earned value to actual cost. See also schedule performance index (SPI).
+cost-reimbursable contract. A type of contract involving payment to the seller for the seller's actual
+costs, plus a fee typically representing the seller's profit.
+cost variance (CV). The amount of budget deficit or surplus at a given point in time, expressed as the
+difference between the earned value and the actual cost. See also schedule variance (SV).
+crashing. A schedule compression technique used to shorten the schedule duration for the least
+incremental cost by adding resources. See also fast tracking.
+criteria. Standards, rules, or tests on which a judgment or decision can be based or by which a
+product, service, result, or process can be evaluated.
+critical path. The sequence of activities that represents the longest path through a project, which
+determines the shortest possible duration.
+cumulative flow diagram. A chart indicating features completed over time, features in other states
+of development, and those in the backlog.
+dashboard. A set of charts and graphs showing progress or performance against important
+measures of the project.
+definition of done (DoD). A checklist of all the criteria required to be met so that a deliverable can
+be considered ready for customer use.
+duration. The total number of work periods required to complete an activity or work breakdown
+structure component, expressed in hours, days, or weeks. See also effort.
+earned value (EV). The measure of work performed expressed in terms of the budget authorized for
+that work. See also actual cost (AC), budget at completion (BAC), estimate at completion (EAC), estimate to
+complete (ETC), and planned value (PV).
+effort. The number of labor units required to complete a schedule activity or work breakdown
+structure component, often expressed in hours, days, or weeks. See also duration.
+epic. A large, related body of work intended to hierarchically organize a set of requirements and
+deliver specific business outcomes.
+estimate. A quantitative assessment of the likely amount or outcome of a variable, such as project
+costs, resources, effort, or durations.
+estimate at completion (EAC). The expected total cost of completing all work expressed as the sun
+f the actual cost to date and the estimate to complete. See also actual cost (AC), budget at completio
+(BAC), earned value (EV), estimate to complete (ETC), and planned value (PV).
+estimate to complete (ETC). The expected cost to finish all the remaining project work. See also
+actual cost (AC), budget at completion (BAC), earned value (EV), estimate at completion (EAC), and planned
+value (PV).
+Executing Focus Area. Consists of those processes performed to complete the work in a manner
+consistent with the integrated baseline, which can and should be changed whenever such a change
+would enhance the value proposition of the project.
+expected monetary value (EMV). The estimated value of an outcome expressed in monetary terms.
+explicit knowledge. Knowledge that can be codified using symbols such as words, numbers, and
+pictures.
+Glossary
+267
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PM Member benefit, not for distribution, sale, or reproduction.

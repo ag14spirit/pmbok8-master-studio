@@ -1,0 +1,43 @@
+network path. A sequence of activities connected by logical relationships in a project schedule
+network diagram.
+objective. Something toward which work is to be directed—a strategic position to be attained,
+a purpose to be achieved, a result to be obtained, a product to be produced, or a service to be
+performed.
+opportunity. A risk that would have a positive effect on one or more portfolio, program, or project
+objectives. See also issue, risk, and threat.
+organizational breakdown structure. A hierarchical representation of the project organization that
+illustrates the relationship between project activities and the organizational units that will perform
+those activities.
+outcome. An end result or consequence of a process or project.
+performance measurement. Measures that characterize physical or functional attributes relating to
+system operation.
+phase gate. A review at the end of a phase in which a decision is made to continue to the next phase,
+to continue with modification, or to end a program or project. See also project phase.
+plan. A proposed means of accomplishing something.
+planned value (PV). The authorized budget assigned to scheduled work. See also actual cost (AC),
+budget at completion (BAC), earned value (EV), estimate at completion (EAC), and estimate to complete (ETC).
+Planning Focus Area. Those processes that establish the total scope of the effort, define and refine
+the objectives, and develop the course of action required to attain those objectives.
+portfolio. A collection of programs, projects, and operations managed as a group to maximize overall
+value delivery and achieve strategic objectives, meet mandatory obligations, or generate income
+streams. See also program and project.
+portfolio management. The centralized management of one or more portfolios to achieve strategic
+objectives. See also program management and project management.
+precision. Within the quality management system, precision is an assessment of exactness.
+predictive approach. A development approach in which the project scope, time, and cost are
+determined in the early phases of the life cycle.
+prioritization matrix. A scatter diagram that plots effort against value so as to classify items by
+priority.
+product. An artifact that is produced, is quantifiable, and can be either an end item in itself or a
+component item.
+product life cycle. A series of phases that represent the evolution of a product, from concept
+through delivery, growth, maturity, and to retirement. See also project life cycle.
+product management. The integration of people, data, processes, and business systems to create,
+maintain, and evolve a product or service throughout its life cycle.
+Preen rune. person responsible for maximizing the value of the product and is accountable for
+product scope. The features and functions that characterize a product, service, or result. See also
+project scope and scope.
+270
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.
+^

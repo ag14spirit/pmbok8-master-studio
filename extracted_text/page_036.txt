@@ -1,0 +1,24 @@
+Section 2
+A System for Value Delivery
+The information in this section provides a context for a value delivery system, the project
+environment, product management, project functions, and project management roles as follows:
+• Creating Value. Section 2.1 describes how projects operate within a system to produce
+value or enhance value production capabilities for organizations and their stakeholders.
+• Project Environment. Section 2.2 identifies internal and external factors that can influence
+projects and the delivery of value.
+• Product Management Considerations. Section 2.3 identifies the ways portfolios,
+programs, projects, and products relate to one another.
+• Functions Associated With Projects. Section 2.4 identifies the functions that support
+project delivery.
+• Project Management Roles. Section 2.5 describes the various roles of those involved in
+managing projects and their functions.
+2.1 Creating Value
+Projects exist in both large and small contexts. These contexts can range from government agencies,
+enterprises, or contractual arrangements to local nonprofits organizing community events or
+families organizing their vacations. For brevity, this standard uses the term "organization" broadly to
+encompass government agencies, enterprises, businesses, contractual arrangements, joint ventures,
+and other entities. Organizations create value for stakeholders, and the expected value to be created
+via any project investment should meet or exceed the threshold for targets, both financial and
+nonfinancial, that have been set. Projects are specifically designed to deliver value or enhance value
+13
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

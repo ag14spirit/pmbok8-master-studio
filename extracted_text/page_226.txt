@@ -1,0 +1,36 @@
+support it throughout its life cycle. This output refers to the transition of the final product, service, or
+result that the project was authorized to produce (or in the case of phase closure, the intermediate
+product, service, or result of that phase) from one team to another.
+Final report. A final report is a summary of project performance, which can include information such as:
+• Summary-level description of the project or phase;
+• Scope objectives, the criteria used to evaluate the scope, and evidence that the completion
+criteria were met;
+• Quality objectives, the criteria used to evaluate the project and product quality, the
+verification and actual milestone delivery dates, and reasons for variances;
+• Cost objectives, including the acceptable cost range, actual costs, and reasons for any
+variances;
+• Summary of the validation information for the final product, service, or result;
+• Schedule objectives, including whether the results achieved the benefits that the project
+was undertaken to address (If the benefits are not met at the close of the project, indicate
+the degree to which they were achieved and an estimate for future benefits realization.);
+be met in the future.); and
+• Summary of any risks or issues encountered on the project and how they were addressed.
+Financial ma pan at describe how cal tail epian plan sacred end or ried the precia
+anagement processes, and their associated tools and techniques, are documented in the financi
+anagement plan. For example, the financial management plan can establish the followin
+Units of measure. Each unit used in measurements (e.g., staff hours, staff days, or wee
+r time measures: meters, liters, tons, kilometers, or cubic vards for quantity measures:
+lump sum in currency form) is defined for each of the resources.
+the project.
+• Level of accuracy. The acceptable range (e.g., ‡10%) used in determining realistic cost
+estimates is specified and may include an amount for contingencies.
+• Organizational procedures links. The work breakdown structure (WBS) (see Section 5)
+account number(s) that links directly to the performing organization's accounting system.
+• Control thresholds. Variance thresholds for monitoring cost performance may be
+specified to indicate an agreed-upon amount of variation to be allowed before some action
+should be taken. Thresholds are typically expressed as percentage deviations from the
+baseline plan.
+Section
+4 - Inputs and Outputs
+121
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

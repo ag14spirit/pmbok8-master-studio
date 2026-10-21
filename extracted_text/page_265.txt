@@ -1,0 +1,41 @@
+critical path analysis, and both call for a resource-loaded and resource-leveled critical path (RLCP).
+Indeed, when identifying the longest path or chain of tasks in a project schedule, "the RLCP" is
+synonymous with "the critical chain."
+The only meaningful difference in scheduling logic between CCPM and CPM is that CCPM also
+protect the project due date, whereas SPI is designed to gauge how far from the schedule baseline
+the project may be. Also, a big benefit of BPl is its use in prioritizing day-to-day tasks according to
+which ones will help protect the due dates of projects most at risk of missing them. (Note that, in
+addition to the project-level set of techniques briefly described above, CCPM also has portfolio-level
+Critical path drag. Critical path drag is the amount of time that an activity on the critical path is
+adding to the project duration. Alternatively, it is the maximum amount of time that one can shorten
+the activity before it is no longer on the critical path or before its duration becomes zero.
+Critical path drag cost. Critical path drag cost is the amount by which a project's expected return
+on investment (ROI) is reduced due to the critical path drag of a specific critical path activity. In other
+words, it is the true economic cost of a specific critical path activity, comprised of its resource cost
+plus the cost of delay (or foregone acceleration premium).
+Critical path method (CPM). Critical path method is a method used to estimate the minimum
+project duration and determine the amount of scheduling flexibility (float) on the logical network
+paths within the schedule model. The CPM identifies the critical path, which is the sequence of
+activities that determines the shortest possible duration to complete the project. This method
+involves schedule network analysis by calculating the early start (ES), early finish (EF), late start (LS),
+and late finish (LF) dates for each activity, without regard to resource limitations, by performing a
+forward and backward pass through the schedule network.
+• The forward pass begins at the project start and calculates the earliest possible start and
+finish dates for each activity. For example: If Activity A has an early start (ES) of Day 1 and
+a duration of 3 days, its early finish (EF) is Day 3 (calculated as EF = ES + Duration - 1). This
+means the activity would start on Day 1 and complete by the end of Day 3.
+The backward pass begins at the project end and determines the latest allowable start and
+finish dates without delaying the project. For example: If an activity must finish no later than
+Day 10 (LF = 10), and it has a duration of 4 days, its late start (LS) would be Day 7 (calculated
+as LS = LF - Duration + 1). This means the latest it can start without delaying the project is
+Day 7.
+The difference between late and early dates yields the total float, which indicates how much an
+activity can be delayed without affecting the project's finish date. Activities with zero total float form
+e critical path. Figure 5-4 illustrates a sample network. In this example, the longest path includ
+tivities A, C, and D. Thus, the sequence A-C-D is identified as the critical pat/
+The resulting early and late start and finish dates do not represent the actual project schedule, but
+rather define time windows within which each activity may be executed, based on the model inputs
+such as durations, dependencies, leads, lags, and constraints.
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

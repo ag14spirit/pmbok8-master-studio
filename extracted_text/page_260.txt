@@ -1,0 +1,42 @@
+This communication model and its enhancements can assist in developing communication strategies
+and plans for person-to-person or even small-group-to-small-group communications. The model is
+not useful for other communications artifacts such as emails, broadcast messages, or social media.
+Communication requirements analysis. Communication requirements analysis is an analytical
+technique used to determine the information needs of the project stakeholders through interviews,
+vorkshops, the study of lessons learned from previous projects, etc. Analysis of communicatior
+requirements determines the information needs of the project stakeholders. These requirement
+are defined by combining the type and format of information needed with an analysis of the value of
+that information. Sources of information typically used to identify and define project communication
+requirements include but are not limited to the following:
+• Stakeholder information and communication requirements from within the stakeholder
+register and stakeholder engagement plan;
+• Number of potential communication channels or paths, including one-to-one, one-to-many,
+and many-to-many communications;
+• Organizational charts;
+• Project organization and stakeholder responsibilities, relationships, and interdependencies;
+• Development approach;
+• Disciplines, departments, and specialties involved in the project;
+• Logistics of how many persons will be involved with the project and at which locations;
+• Internal information needs (e.g., when communicating within organizations);
+• External information needs (e.g., when communicating with the media, public, or
+contractors); and
+• Legal requirements.
+Communication skills. Communication skills are a collection of skills to provide, receive, and elicit
+information from various sources. Communication skills can be oral, visual, or electronic. Oral
+ommunication skills include interaction, presentation, active listening, and meeting facilitation
+/isual communication skills include data visualization and nonverbal communication. Electroni
+communication skills include electronic tools such as professional writing, crafting emails, texting.
+chatting, Al prompts, and similar activities.
+Communication styles assessment. A communication styles assessment is a technique used to
+assess communication styles and identify the preferred communication method, format, and content
+for planned communication activities. Often used with unsupportive stakeholders, this assessment
+may follow a stakeholder engagement assessment to identify gaps in stakeholder engagement that
+require additional tailored communication activities and artifacts.
+Communication technology. Communication technology includes specific tools, systems, computer
+programs, etc., used to transfer information among project stakeholders. The methods used to
+ransfer information among project stakeholders may vary significantly. Common methods use
+or information exchange and collaboration include conversations, meetings, written document
+databases, social media, and websites.
+Section 5 - Tools and Techniques
+155
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

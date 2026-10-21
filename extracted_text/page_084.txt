@@ -1,0 +1,47 @@
+& Fixed
+Scope
+& Fixed
+Budget
+& Fixed
+Schedule
+Budget
+d Variable
+Schedule
+d' Variable
+Scope
+d' Variable
+When scope is fixed, unexpected
+changes can be managed by altering
+budget or schedule
+When budget and schedule are fixed,
+unexpected changes can be managed
+by varying scope
+Figure 4-3. Constraint Options for Adaptive Approaches
+4.2.1 Predictive Approaches
+A predictive approach may be optimal when the project scope can be stabilized early in the project. A
+predictive approach may also be referred to as a waterfall, plan-driven, or traditional approach. This
+approach is also suitable for large projects involving significant investment or regulatory oversight.
+These conditions may require robust change control mechanisms and planned reevaluation between
+successive phases. The scope, schedule, cost, resource needs, quality requirements, and risks can be
+well defined in the early phases of the project life cycle and are expected to remain relatively stable.
+This development approach allows the project team to capture reliable certainty early in the project
+and to perform much of the planning up front (see Figure 4-4).
+For projects or phases in which the cost of iterating far exceeds its value, such as the build phase
+of many construction projects, a predictive approach may be optimal. Similarly, for projects in
+heavily regulated environments, such as healthcare, there may be phase gates required in order
+for regulators to carefully assess whether, for instance, a new drug treatment or medical device has
+demonstrated sufficient promise to merit further development.
+In certain predictive approaches, it may be optimal to deliver the product partially and incrementally,
+rather than as a single, final release. An incremental approach is used when the overall scope is well
+understood and planned up front, but phased delivery offers advantages due to the size, complexity,
+or specific risk factors of the project environment. In this approach, the project is divided into
+different phases or increments, with each phase or increment delivering a part of the overall product.
+Each increment builds upon the previous one, progressively adding features and functionality or
+completing parts of the product (see Figure 4-5). The increments may be sequential or overlap and
+the phases in each increment may differ, depending on the nature of the work. While stakeholder
+value is realized earlier through partial delivery, the overall scope and timeline remain largely fixed.
+This approach allows stakeholders to use and benefit from parts of the product before the entire
+rolect is completed and can often enhance the valu
+Section 4 - Project Life Cycles
+61
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

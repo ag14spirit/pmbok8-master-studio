@@ -1,0 +1,75 @@
+Table 5-1. (Continued)
+Earned Value Analysis
+Abbreviation
+TCPI
+Name
+To-complete
+performance
+index
+Lexicon
+Definition
+A measure
+of the cost
+performance
+that should be
+achieved with
+the remaining
+resources in
+order to meet
+a specified
+management
+goal, expressed
+as the ratio of
+the cost to finish
+the outstanding
+work to the
+remaining budget
+How It Is Used
+It is the efficiency
+that should be
+maintained in order
+to complete on plan.
+Equation
+TCPI =
+(BAC - EV) /
+(BAC - AC)
+Interpretation
+of Result
+Greater thar
+1.0 = Harder
+to complete
+Exactly 1.0 =
+Same to
+complete
+Less than
+1.0 = Easier
+to complete
+It is the efficiency
+that should be main-
+tained in order to
+complete the current
+EAC.
+TCPI =
+(BAC - EV) /
+(EAC - AC)
+Greater thar
+1.0 = Harder
+to complete
+Exactly 1.0 =
+Same to
+complete
+Less than
+1.0 = Easier
+to complete
+coaching. If project team members lack the necessary management or technical skills, such skills can
+Scheduled training takes place as stated in the resource management plan. Unplanned training takes
+place as a result of observation, conversation, and project performance appraisals conducted during
+management of the project team. Training costs could be included in the project budget or supported
+by the performing organization if the added skills may be useful for future projects. Training may be
+performed by in-house or external trainers.
+Trend analysis. Trend analysis is an analytical method that uses mathematical models to forecast
+future outcomes based on historical results. The analysis looks ahead in the project for expected
+210
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

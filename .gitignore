@@ -1,0 +1,23 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Heavy Source PDFs & OCR Binaries
+*.pdf
+pmbok8.pdf
+check_all
+ocr_range
+pdf_extract
+pmbok_ocr
+test_vision
+
+# Node / Python
+node_modules/
+npm-debug.log*
+__pycache__/
+*.pyc
+
+# Temp / Scratch
+.system_generated/
+*.tmp
+legacy_archive/

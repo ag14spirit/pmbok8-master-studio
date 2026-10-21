@@ -1,0 +1,73 @@
+Acquire Resources
+Inputs
+• Project management plan
+- Resource management
+plan
+- Procurement management
+plan
+- Cost baseline
+• Project documents
+- Project schedule
+- Resource calendars
+- Resource requirements
+- Stakeholder register
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Decision-making
+- Multicriteria decision
+analysis
+• Interpersonal and team
+skills
+- Negotiation
+- Problem-solving
+•Preassignment
+• Virtual teams
+• Etc.
+Outputs
+• Physical or virtual resource
+assignments
+• Project team assignments
+• Resource calendars
+• Change requests
+• Project management plan
+updates
+- Resource management
+plan
+- Cost baseline
+• Project document updates
+- Lessons learned register
+- Project schedule
+- Resource breakdown
+structure
+- Resource requirements
+- Risk register
+- Stakeholder register
+• Enterprise environmental
+factor updates
+• Organizational process
+asset updates
+• Etc.
+Figure 2-43. Acquire Resources Inputs, Tools and Techniques, and Outputs
+The Acquire Resources process is performed periodically throughout the project as needed. It is
+important that the following factors are considered during the process of obtaining the project
+resources:
+• The project manager or project team should collaborate, effectively negotiate, and influence
+others who are able to provide the required team, physical, or virtual resources for the project.
+• Failure to acquire the necessary resources for the project may affect the schedule, budget,
+customer satisfaction, and quality while increasing risk. Insufficient resources or capabilities
+decrease the probability of success and, in a worst-case scenario, could result in project
+cancellation.
+If the team, physical, or virtual resources are not available due to constraints such as
+economic factors or assignment to other projects, the project manager or project team
+may be required to assign alternative resources, perhaps with different competencies,
+features, or costs. Alternative resources are allowed if risks are acknowledged and the legal,
+regulatory, mandatory, or other specific criteria are not violated.
+Section
+2 - Project Management Performance Domains
+83
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

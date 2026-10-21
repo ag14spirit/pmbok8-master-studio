@@ -1,0 +1,33 @@
+• Suppliers and Vendors
+• Customers
+• End Users
+• Regulatory Bodies
+• Local Communities
+• Family
+• Sponsor
+• Governing Bodies
+• Project Management Offices
+• Steering Committees
+• Project Manager
+• Project Management
+Team
+• Project Team
+Figure 2-31. Examples of Project Stakeholders
+2.5.1 Key Concepts
+The following key concepts support effective practices for the Stakeholders performance domain.
+• Stakeholder engagement. Stakeholder engagement encompasses the activities conducted
+to identify and analyze stakeholder needs and manage expectations and communications
+to foster stakeholder support. Stakeholders are a crucial part of project management.
+Understanding and addressing their different needs, engaging them at the right time, keeping
+them properly informed, and communicating well are ways to maintain their engagement.
+Research shows that an active project sponsor is a critical success factor in achieving positive
+outcomes from projects. Engagement involves the following considerations:
+• Sponsor engagement. Sponsors are essential stakeholders who hold decision-making
+authority; secure human, material, or virtual resources; and ensure alignment with
+organizational strategy and project objectives. Sponsors are typically involved in
+activities such as:
+• Initiating the project and defining the project objectives and business case,
+• Approving the project charter and approving any changes to it,
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

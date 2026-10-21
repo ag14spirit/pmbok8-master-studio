@@ -1,0 +1,36 @@
+Cultural awareness. Cultural awareness is an understanding of the differences among individuals,
+groups, and organizations and adapting the project's communication strategy in the context of these
+differences. This awareness and any consequent actions can minimize misunderstandings and
+miscommunication that may result from cultural differences within the project's stakeholder community.
+Cultural awareness and cultural sensitivity help the project manager to plan communications based on
+the cultural differences and requirements of stakeholders and team members.
+Customer talks and tests. Customer talks and tests consist of the collaborative processes and
+activities involving direct interaction and feedback from customers during the development and
+quality of the deliverables.
+Daily coordination meeting. A daily coordination meeting is a brief, daily collaboration meeting
+and ensure that the team is aligned and moving forward effectively.
+• Short and focused. Daily coordination meetings are typically brief, lasting no more than
+i5mintes. minutes. previty helps ensure that the meeting remains focused and efficient.
+• Progress updates. Team members share what they accomplished the previous day, wha
+they plan to do today, and any obstacles they are facing. This structure helps to keep
+everyone informed about the current status of the project.
+• Obstacle identification. By discussing obstacles or blockers, the team can quickly identif
+ssues that should be addressed, allowing for timely problem-solving and suppor
+• Accountability. Regular updates create a sense of accountability among team members,
+as they commit to specific tasks and report on their progress daily.
+• Collaboration and communication. Daily coordination meetings enhance communication
+within the team, fostering a collaborative environment where team members can support
+one another and work together more effectively.
+Data analysis. Data analysis is a process that involves data preprocessing, cleaning, transforming
+analyzing, interpreting, and visualization in order to discover insights for informed and data-driven
+project decision-making. Data analysis can be done manually by project team members or other
+dedicated functions or by including business intelligence tools and software.
+Data gathering. Data gathering is a process of selecting, collecting, measuring, and analyzing data baser
+on the area of interest or variables (e.g., to answer relevant project-related questions or outcomes)
+Data representation. Data representation is the way that data is stored, processed, and
+ransmitted. Data representation can include but is not limited to the following
+• Pie chart or circle chart for nominal data representation. Nominal data can be
+categorized (e.g., it can be a mode of transportation such as a car, train, bus, or bicycle)
+162
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,49 @@
+Define Scope -
+Inputs
+• Project charter
+• Assumption log
+• Project management plan
+• Requirements documentation
+• Enterprise environmental
+factors
+• Organizational process assets
+• Etc.
+Tools & Techniques
+• Expert judgment
+• Decision-making
+• Data analysis
+• Decomposition
+• Interpersonal and team skills
+- Facilitation
+• Product analysis
+• Etc.
+•
+Outputs
+• Project documents
+- Project scope statement
+- Requirements
+documentation
+• Etc.
+Figure 2-16. Define Scope Inputs, Tools and Techniques, and Outputs
+2.2.2.4 Develop Scope Structure
+In projects using a predictive approach, the purpose of the WBS is to state the project objectives and
+define the required deliverables. The WBS represents a structured, hierarchical decomposition of
+the total scope of work into smaller, manageable work packages that can be easily assigned, tracked,
+and measured, ensuring that all stakeholders have a clear and shared understanding of the project
+deliverables. This shared understanding facilitates effective project planning, tracking, and controlling
+by assigning clear ownership and accountability for each deliverable.
+In projects with complex or interdependent deliverables, a WBS dictionary may be developed to
+provide additional details about each WBS component. The WBS dictionary supports the WBS by
+elaborating on elements such as scope descriptions, milestones, responsible parties, resource needs,
+and acceptance criteria. This detailed documentation enhances clarity and alignment across the team.
+In agile projects, the WBS corresponds to the product backlog, where work items can be broken
+down into epics and user stories. The product backlog is a prioritized list of the known features and
+work the project team will perform. The key benefit of this process is to provide a strategic view of
+the project's scope and value. This process helps the project team to be aligned and working toward a
+common goal (see Figure 2-17).
+2.2.2.5 Monitor and Control Scope
+expectations. The primary objective of managing and controlling scope is to ensure the product,
+requirements specified by the stakeholders (see Figure 2-18).
+42
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

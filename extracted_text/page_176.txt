@@ -1,0 +1,70 @@
+• Identify Stakeholders
+Inputs
+• Project charter
+• Business documents
+- Business case
+- Benefits management
+plan
+• Project management plan
+- Communications
+management plan
+- Stakeholder engagement
+plan
+• Project documents
+- Change log
+- Issue log
+- Requirements
+documentation
+• Agreements
+• Enterprise environmental
+tactors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Data gathering
+- Questionnaires and
+surveys
+- Brainstorming
+• Data analysis
+- Stakeholder analysis
+- Document analysis
+• Data representation
+- Stakeholder mapping/
+representation
+• Meetings
+• Etc.
+Outputs
+• Stakeholder register
+• Change requests
+• Project management plan
+updates
+- Requirements
+management plan
+- Communications
+management plan
+- Risk management plan
+- Stakeholder engagement
+plan
+• Project document updates
+- Assumption log
+- Issue log
+- Risk register
+• Etc.
+Figure 2-33. Identify Stakeholders Inputs, Tools and Techniques, and Outputs
+2.5.2.1 Identify Stakeholders
+The Identify Stakeholders process involves selecting the individuals, groups, or organizations
+that have a stake in the project. The process includes identifying project stakeholders regularly
+and analyzing and documenting relevant information regarding their interests, involvement,
+interdependencies, influence, and potential impact on project success. The key benefit of this
+process is that it enables the project team to identify the appropriate focus for the engagement of
+each stakeholder or group of stakeholders. Continuous stakeholder identification can work as a risk
+management strategy as the project environment evolves. This process is performed periodically
+throughout the project as needed (see Figure 2-33).
+2.5.2.2 Plan Stakeholder Engagement
+Plan Stakeholder Engagement is the process of developing strategies to engage identified project
+Section
+2 - Project Management Performance Domains
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

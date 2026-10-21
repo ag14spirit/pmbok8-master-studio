@@ -1,0 +1,46 @@
+There are five general techniques for resolving conflict. Each technique has its place and use:
+• Withdraw/avoid. Retreating from an actual or potential conflict situation; postponing the
+issue to be better prepared or to be resolved by others.
+• Smooth/accommodate. Emphasizing areas of agreement rather than areas of difference;
+conceding one's position to the needs of others to maintain harmony and relationships.
+• Compromise/reconcile. Searching for solutions that bring some degree of satisfaction to
+all parties in order to temporarily or partially resolve the conflict. This approach occasionally
+results in a lose-lose situation.
+• Force/direct. Pushing one's viewpoint at the expense of others; offering only win-los
+olutions, usually enforced through a power position to resolve an emergency. Thi
+approach often results in a win-lose situation.
+• Collaborate/problem-solve. Incorporating multiple viewpoints and insights from differing
+perspectives; requires a cooperative attitude and open dialogue that typically leads to
+consensus and commitment. This approach can result in a win-win situation.
+nstructive cost model (COCOMO). A constructive cost model is a cost-estimation model f
+fort, time, and cost, usually associated with software development projects. The source lines d
+code or function points and adjustment factors are usually used as inputs and help to predict the
+software development cost.
+Contingent response strategies. There are five strategies that may be considered for dealing with
+opportunities, as follows:
+• Escalate. This risk response strategy is appropriate when the project team or project
+sponsor agrees that an opportunity is outside the scope of the project or that the proposed
+response would exceed the project manager's authority. Escalated opportunities are
+managed at the portfolio level, program level, or other relevant part of the organization,
+but not on the project level. The project manager determines who should be notified about
+the opportunity and communicates the details to that person or part of the organization.
+It is important that ownership of escalated opportunities is accepted by the relevant party
+in the organization. Opportunities are usually escalated to the level that matches the
+objectives that would be affected if the opportunity occurred. Escalated opportunities are
+not monitored further by the project team after escalation, although they may be recorded
+in the risk register for information.
+Exploit. The exploit strategy may be selected for high-priority opportunities where the
+organization wants to ensure that the opportunity is realized. This strategy seeks to capture
+the benefit associated with a particular opportunity by ensuring that it definitely happens,
+increasing the probability of occurrence to 100%. Examples of exploiting responses may
+include assigning an organization's most talented resources to the project to reduce the time
+to completion or using new technologies or technology upgrades to reduce cost and duration.
+Share. Sharing involves transferring ownership of an opportunity to a third party so that
+it shares some of the benefit if the opportunity occurs. It is important to select the new
+owner of a shared opportunity carefully, so they are best able to capture the opportunity
+for the benefit of the project. Risk sharing often involves payment of a risk premium to the
+party taking on the opportunity. Examples of sharing actions include forming risk-sharing
+partnerships, teams, special-purpose companies, or joint ventures.
+Section 5 - Tools and Techniques
+157
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,44 @@
+While these Focus Areas are presented sequentially, in practice they often overlap and interact
+dynamically throughout the project life cycle.
+he Project Management Focus Areas should not be confused with project phases, although some
+laming conventions may be the same or a project phase may largely consist of activities that are par
+of a Focus Area.
+Additionally, these Focus Areas intersect with project management performance domains in specific
+ways. Detailed descriptions of the project management performance domains and their relationships to
+the Focus Areas are provided in A Guide to the Project Management Body of Knowledge (PMBOK° Guide) [2].
+4.5.1 Initiating Focus Area
+The Initiating Focus Area consists of those processes, practices, or actions performed to define a new
+project or new phase of an existing project. This area often includes formal authorization to start the
+project or phase. The purpose of the Initiating Focus Area is to align the stakeholders' expectations
+nd the project's purpose, inform stakeholders of the scope and objectives, align key stakeholders
+nd discuss how their participation in the project and its associated phases can help to ensure thei
+expectations are met.
+Among the various initiating actions, the initial scope is defined and initial financial resources are
+committed. Stakeholders who will interact and influence the overall outcome of the project are
+identified and project management roles are assigned. This information is often captured in artifacts
+such as a project charter or stakeholder register.
+The key benefits of this Focus Area are that projects are only authorized when aligned with the
+organization's strategic objectives and when the business case, benefits, and stakeholders are
+considered from the start of the project. In some organizations, a project manager is involved in
+eveloping the business case and defining the benefits. In other organizations, a broader projec
+anagement team helps write a formal proiect charter, while others have the preliminary proiect wor
+done by the project sponsor, PMO, portfolio steering committee, or another stakeholder group.
+Business documents are those documents that generally originate outside of the project but are used
+as inputs to the project. Examples of business documents include the business case and benefits
+nanagement plan. Figure 4-12 shows one way a sponsor and related business documents mav relate
+to initiating actions.
+In the business documents, the sponsor should provide the minimum information necessary for a
+project manager to start project activities. Involving the sponsors, customers, and other stakeholders
+during project initiation creates a shared understanding of success criteria. This involvement also
+increases alignment on project deliverables as well as stakeholder satisfaction throughout the project.
+4.5.2 Planning Focus Area
+The Planning Focus Area consists of those processes, practices, or actions that establish the intended
+scope of the effort, define and refine the objectives, and develop the course of action required to
+attain those objectives. Such activities may involve developing several artifacts such as a product
+backlog or a project management plan.
+The nature of a project may require the use of repeated feedback loops for additional analysis. As
+more project information or characteristics are gathered and understood, some additional planning
+70
+The
+Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

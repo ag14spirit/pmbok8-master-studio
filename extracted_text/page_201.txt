@@ -1,0 +1,51 @@
+Plan Risk Management
+Inputs
+• Project charter
+• Project management plan
+- All components
+• Project documents
+- Stakeholder register
+• Enterprise environmental
+tactors
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+• Expert judgment
+• Data gathering
+- Interviews
+• Data analysis
+- Stakeholder analysis
+• Meetings
+• Etc.
+Outputs
+• Project management plan
+updates
+- Risk management plan
+• Etc.
+Figure 2-48. Plan Risk Management Inputs, Tools and Techniques, and Outputs
+2.7.2.2 Identify Risks
+Identify Risks includes recognizing both negative and positive risks. The process of risk identification
+focuses on distinguishing genuine risks from nonrisks, such as concerns and issues. It is important
+to recognize that not all risks can be identified at the outset due to the inherent uncertainties and
+unknowns present at the beginning of a project. Therefore, risk identification should be an iterative
+process, allowing for continuous identification and assessment of risks as more information becomes
+available and the project evolves. This iterative approach helps ensure that the risk management
+process remains dynamic and responsive, addressing emerging risks effectively and to a practical
+extent throughout the project life cycle (see Figure 2-49).
+2.7.2.3 Perform Risk Analysis
+Perform Risk Analysis involves an iterative process that combines both qualitative and quantitative
+risk analysis actions. Qualitative risk analysis is conducted throughout the project to evaluate
+individual project risks by assessing their probability of occurrence and impact. Other characteristics
+of assessment may include the degree of impact on the obiectives, manageability, timing of
+possible impacts, relationships with other risks, and common causes or effects. Quantitative risk
+analysis, depending on the project, may not always be required, but when it is, it is also conducted
+throughout the project. This process includes numerically analyzing the combined effect of
+identified individual project risks and other sources of uncertainty on overall project objectives (see
+Figure 2-50).
+2.7.2.4 Plan Risk Responses
+pan is to espresses is til prices of depoure, aper seeing trade and are rea
+benefit of this process is that it identifies suitable ways to address overall project risk and individual
+96
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

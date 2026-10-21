@@ -1,0 +1,90 @@
+Develop Schedule -
+Inputs
+• Project charter
+• Project management plan
+- Scope management plan
+• Development approach
+• Project documents
+- Activity attributes
+- Activity list
+- Assumption log
+- Basis of estimates
+- Duration estimates
+- Lessons learned register
+- Milestone list
+- Project schedule network
+diagrams
+- Project team assignments
+- Resource calendars
+- Resource requirements
+- Risk register
+• Agreements
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Decomposition
+• Rolling wave planning
+• Precedence diagramming
+method
+• Logical relationship
+• Leads and lags
+• Dependency determination
+and integration
+• Estimation techniques
+• Reserve analysis
+• Data analysis
+- What-if analysis
+- Simulation
+- Alternative analysis
+• Voting
+• Schedule network analysis
+• Schedule compression
+• Critical path method
+• Critical chain method
+• Resource optimization
+- Resource leveling
+• Project management
+information system
+• Agile release planning
+• Etc.
+Outputs
+• Schedule baseline
+• Project schedule
+• Schedule data
+• Project calendars
+• Change requests
+• Project management plan
+updates
+- Schedule management
+plan
+• Project document updates
+- Activity list
+- Activity attributes
+- Assumption log
+- Basis of estimates
+- Duration estimates
+- Lessons learned register
+- Milestone list
+- Project schedule network
+diagrams
+- Resource requirements
+- Risk register
+• Etc.
+Figure 2-22. Develop Schedule Inputs, Tools and Techniques, and Outputs
+There are four steps to developing the schedule (see Figure 2-23):
+1. Define activities,
+2. Determine sequence,
+3. Estimate effort and duration, and
+4. Adjust.
+The work involved in each step is as follows:
+• Step 1: Define activities. The first step involves identifying and documenting the
+specific actions to be performed to produce the project deliverables. The key benefit of
+this process is that it decomposes work packages into schedule activities that provide a
+50
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

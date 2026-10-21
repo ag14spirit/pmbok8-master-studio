@@ -1,0 +1,43 @@
+• Procurement strategy. Make-or-buy decisions are connected to the procurement strategy.
+or buy decisions, procurement tailoring involves selecting the appropriate contract type,
+such as fixed-price or time and materials (T&M) contracts, based on risk distribution and
+cost certainty, which may have multiple implications for the financial side of the project. It is
+important to tailor the financial processes with the procurement strategy to minimize the risk
+of cost overruns. Sometimes organizations make a buy decision to outsource if they do not
+have the in-house infrastructure or technologies needed to internally complete the project.
+• Value definition. The definition of value may vary from one performing organization to
+another.
+• Resource availability. Constraints in human resources, as well as physical or virtual
+resources, may increase a project's actual and forecasted costs due to higher wages or
+training costs, expedited shipping fees, rental surcharges, additional labor costs, overhead,
+or penalties for late delivery. See Section 2.6 on the Resources performance domain and
+enterprise environmental factors (EEFs).
+2.4.3.1 Examples
+The following are three examples of how these considerations might be applied:
+• Example 1. A project with an adaptive life cycle may require frequent adjustments to the
+contract and budget. Thus, contracts should be structured in a way that reflects budget
+expenditures in alignment with the iterative progress and cadence of the project.
+• Example 2. A small project may have limited financial flexibility. Thus, a conservative
+approach to budgeting with contingency and management reserves is crucial to mitigate
+risks and ensure project stability.
+Example 3. A project in the government sector may have a higher demand for fiscal
+accountability and risk aversion, due to public accountability and regulatory requirements.
+Thus, budget reserves should be evaluated with a greater buffer to account for potential
+risks and uncertainties, ensuring that the project can handle any unforeseen financial
+challenges without compromising its objectives. This effort is influenced by the sponsor and
+stakeholders, who may prioritize maintaining a higher buffer to mitigate risks.
+2.4.4 Interactions With Other Domains
+Finance is one of the key pillars of a successful project as it provides access to the resources necessary
+for its proper execution. In that sense, financial resources and constraints have a direct impact on the
+Governance, Scope, and Schedule performance domains. The decisions made in those performance
+domains may affect the Finance performance domain, just as financial activities may affect the other
+domains. Additionally, the Finance performance domain may be impacted by other performance
+domains, such as Stakeholders and Risk. On a broader scale, maximizing value delivery should be the
+primary goal of a project, connecting its results to the performing organization's strategy.
+2.4.5 Check Results
+ctivities related to the Finance performance domain should be considered successful only if the
+ontribute to specific outcomes. Table 2-8 shows a set of sample target outcomes, along with
+potential check to confirm whether those outcomes are met.
+66
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

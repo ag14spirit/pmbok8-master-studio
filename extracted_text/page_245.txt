@@ -1,0 +1,42 @@
+cope baseline. The scope baseline is the approved version of formal scope documents that ci
+changed using formal change control procedures and is used as the basis for comparison!
+actual results. The scope baseline may include the approved version of a scope statement, work
+breakdown structure (WBS), and its associated WBS dictionary, and is a component of the project
+management plan.
+Components of the scope baseline include the following:
+• Project scope statement. The project scope statement includes the description of the
+project scope, major deliverables, and exclusions.
+• WBS. The WBS is a hierarchical decomposition of the total scope of work to be carried
+out by the project team to accomplish the project objectives and create the required
+deliverables. Each descending level of the WBS represents an increasingly detailed
+definition of the project work:
+• Work package. The lowest level of the WBS is a work package with a unique identifier.
+These identifiers provide a structure for hierarchical summation of costs, schedule,
+and resource information and form a code of accounts. Each work package is part
+of a control account. A control account is a management control point where th
+cope, budget, and schedule are integrated and compared to the earned value fo
+performance measurement. A control account has two or more work packages, though
+each work package is associated with a single control account.
+• Planning package. A control account may include one or more planning packages.
+A planning package is a WBS component below the control account and above the work
+package with known work content but without detailed schedule activities.
+• WBS dictionary. The WBS dictionary is a document that provides detailed deliverable,
+activity, scheduling, cost, and resource information about each component in the WBS. The
+WBS dictionary is a document that supports the WBS. Most information included in the
+WBS dictionary is created by other processes and added to this document at a later stage.
+Information in the WBS dictionary may include but is not limited to the following:
+• Code of account identifier,
+• Description of work,
+• Assumptions and constraints,
+• Responsible organization,
+• Schedule milestones,
+• Associated schedule activities,
+• Resources required,
+• Cost estimates,
+• Quality requirements,
+• Acceptance criteria,
+• Technical references, and
+• Agreement information.
+140
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

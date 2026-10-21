@@ -1,0 +1,36 @@
+Activity or Risk Driving
+Projection Duration
+Activity B12.3 Manufacture reactors
+Risk 5.2 DCS may fail installation test
+Risk 5.7 Duplicate test may not be required
+Activity A3.12 Construct control room
+Risk 4.6 Piling contractor may deliver early
+Activity A7.1 Provide temporary facilities
+Activity D1.9 Install equipment
+Risk 7.2 Hydrotest may find fewer faults
+-0.2
+0.1
+0.1
+0.2
+o.3
+Correlation With Project Duration
+0.4
+0.5
+Figure 5-21. Example Tornado Diagram
+or scenarios using probability distributions and other representations of uncertainty. Figure 5-22
+shows a probability distribution for a project with the probability of achieving a certain target date
+.e., project finish date). In this example, there is a 10% probability that the project will finish on o
+efore the target date of 13 May 2027, while there is a 90% probability of completing the project b
+For more information on how Monte Carlo simulation is used for schedule models, see the Practice
+Standard for Scheduling 15].
+Six Thinking Hats®! Six Thinking Hats® is a group discussion and creative conversation technique
+that involves six different metaphorical hats that are each a different color to represent different
+ways of thinking:
+• Blue hat usually facilitates the meeting and considers the big picture of the idea or issue
+discussed;
+• White hat considers facts and information;
+• Red hat shows feelings and emotions;
+• Black hat has a negative point of view;
+1 Six Thinking Hats° is a registered trademark of Edward de Bono Limited.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

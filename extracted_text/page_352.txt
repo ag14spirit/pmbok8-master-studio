@@ -1,0 +1,35 @@
+Factors to consider in the make-or-buy decision include the organization's current resource
+allocation, their skills and abilities, the need for specialized expertise, the desire to avoid expanding
+permanent employment obligations, and the need for independent expertise. This decision process
+also includes evaluating the risks involved with each make-or-buy decision.
+Make-or-buy analysis may use payback period, return on investment (ROl), internal rate of return
+(IRR), discounted cash flow, net present value (NPV), cost-benefit analysis, or other techniques in
+order to decide whether to include something as part of the project or purchase it externally.
+X4.4 Procurement Strategy
+Once the make-or-buy analysis is complete and the decision is made to acquire from outside the
+project, a procurement strategy should be identified. The objective of the procurement strategy
+is to determine the project delivery method, the type of legally binding agreements), and how
+the procurement will advance through the procurement phases. The following factors should be
+considered:
+• Delivery methods. Delivery methods are different for professional services versus
+construction projects.
+• For professional services, delivery methods include buyer/services provider with no
+subcontracting, buyer/services provider with subcontracting allowed, joint venture between
+buyer and services provider, and buyer/services provider acts as the representative.
+• For industrial, integration, or build-out supply projects, project delivery methods
+include turnkey, design-build (DB), design-bid-build (DBB), design-build-operate (DBO).
+build-own-operate-transfer (BOOT), and others.
+• Multiparty agreement involving all key stakeholders (owner, designer, contractor);
+• Shared risks and rewards based on project outcomes;
+• Early involvement of key participants for better integration of expertise;
+• Collaborative decision-making leveraging the combined expertise of all parties; and
+• Open-book accounting for financial transparency.
+Procurement phases. The procurement strategy may also include information on
+rocurement phases. Incorporating digital tools like procurement management softwar
+an streamline phase transitions and help ensure real-time tracking of milestones
+Information on procurement phases may include the following:
+• Sequen betes frect hasecurement, a description of each phase, and the
+• Procurement performance indicators and milestones to be used in monitoring;
+Appendix X4
+247
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

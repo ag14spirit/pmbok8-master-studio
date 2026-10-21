@@ -1,0 +1,53 @@
+• Integrate and Align Project Plans -
+Inputs
+• Project charter
+• Outputs from other
+rucesses
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+• Expert judgment
+• Data gathering
+- Brainstorming
+- Checklists
+- Focus groups
+- Interviews
+• Interpersonal and team skills
+- Conflict management
+- Facilitation
+- Meeting management
+• Meetings
+• Project canvas
+• Etc.
+Outputs
+• Project management plan
+• Etc.
+IIIIIII/
+Figure 2-4. Integrate and Align Project Plans Inputs, Tools and Techniques, and Outputs
+This documentation may take the form of a project governance plan, project management plan,
+project execution plan, project development plan, project implementation plan, or another document
+that transparently defines—for all team members and stakeholders-the project management
+framework within which decisions will be made (see Figure 2-4).
+At the beginning of the project, this process should establish the overall tailoring considerations and
+determine the development approach and project life cycle. This information should form part of the
+project management plan and serve as an input to all performance domains, guiding their planning
+efforts. Subsequently, all management plans and baselines from the performance domains should be
+integrated into the project management plan, and their alignments should be verified. Additionally,
+other management plans, such as the change management plan or configuration management plan,
+should be included if applicable.
+The amount of time spent planning, both up front and throughout the project, should be determined
+by the circumstances. Therefore, the information gained from planning should be sufficient to move
+forward in an appropriate manner but not more detailed than necessary. Project teams use planning
+artifacts to confirm stakeholder expectations and provide stakeholders with the information they need
+to make decisions, take action, and maintain alignment between the project and its stakeholders.
+2.1.6.3 Plan Sourcing Strategy
+The Plan Sourcing Strategy process entails documenting project sourcing decisions, specifying the
+source selection approach, determining the scope of work for external sourcing, and selecting the
+appropriate contracts and sources for delivering the work (see Figure 2-5).
+Section
+2 - Project Management Performance Domains
+19
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

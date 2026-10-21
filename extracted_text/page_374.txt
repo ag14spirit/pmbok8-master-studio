@@ -1,0 +1,37 @@
+kanban board. A visualization tool that shows work in progress to help identify bottlenecks and
+overcommitments, thereby allowing the team to optimize the workflow. See also task board.
+knowledge. A mixture of experience, values and beliefs, contextual information, intuition, and insight
+that people use to make sense of new experiences and information.
+essons learned. The knowledge gained during a project that shows how project events were
+addressed or should be addressed in the future for the purpose of improving future performance
+life cycle. See project life cycle.
+log. A document used to record and describe or denote selected items identified during execution of
+a process or activity. Usually used with a modifier, such as issue, change, or assumption.
+management reserve. Time or money that management sets aside in addition to the schedule or
+cost baseline and releases for unforeseen work that is within the scope of the portfolio, program, or
+project. See also contingency reserve.
+mandatory dependency. A relationship that is contractually required or inherent in the nature of
+the work.
+method. A means for achieving an outcome, output, result, or project deliverable.
+methodology. A system of practices, techniques, procedures, and rules used by those who work in a
+discipline.
+metric. A description of a project or product attribute and how to measure it.
+milestone. A significant point or event in a portfolio, program, or project.
+milestone schedule. A type of schedule that presents milestones with planned dates.
+minimum viable product (MVP). A concept used to define the scope of the first release of a solution
+to customers by identifying the fewest number of features or requirements that would deliver value.
+modeling. Creating simplified representations of systems, solutions, or deliverables such as
+prototypes, diagrams, or storyboards.
+monitoring. Collecting project performance data, producing performance measures, and reporting
+and disseminating performance information.
+Monitoring and Controlling Focus Area. Those processes required to track, review, and regulate
+the progress and performance of the project; identify any areas in which changes to the plan are
+required; and initiate the corresponding changes.
+Monte Carlo analysis/simulation. A method of identifying the potential impacts of risk and
+uncertainty using multiple iterations of a computer model to develop a probability distribution of a
+range of outcomes that could result from a decision or course of action.
+Net Promoter Scores! An index that measures the willingness of customers to recommend an
+organization's products or services to others.
+Glossary
+269
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

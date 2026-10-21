@@ -1,0 +1,33 @@
+The Manage Quality Assurance process implements a set of planned and systematic acts and processes
+defined within the project's quality management plan that can help to achieve the following:
+• Build confidence that a future output will be completed in a manner that meets the
+specified requirements and expectations through quality assurance tools and techniques
+such as quality audits and failure analysis;
+• Improve the efficiency and effectiveness of processes and activities to achieve better results
+and performance and enhance stakeholder satisfaction; and
+• Ensure the project is governed properly, and thus increase the likelihood that it will meet or
+exceed stakeholder expectations.
+In agile or adaptive projects, quality assurance can be performed formally or informally, based on the
+context. In predictive projects, quality assurance is usually performed in a formal capacity, under the
+expectation that strong process quality will minimize variances in an otherwise stable project.
+Quality assurance tasks may be performed by the project management team, an external entity, or both.
+2.1.6.6 Manage Project Knowledge
+Manage Project Knowledge is the process of using existing knowledge and creating new knowledge
+to achieve the project's objectives and contribute to organizational learning (see Figure 2-8). Key
+benefits of this process include the following:
+• Using prior organizational knowledge to produce or improve the project outcome, and
+• Collecting new knowledge created by the project to support organizational operations and
+future projects or phases.
+Knowledge management is concerned with managing both explicit and tacit knowledge for two
+domains, contextual knowledge, and project management knowledge).
+Managing projects requires both explicit and tacit knowledge:
+• Explicit knowledge. Explicit knowledge is formal and systematic; it is the type of knowledge
+• Codifiable. Can be documented in words, pictures, or numbers.
+• Formal and systematic. Structured and organized in a way that is easy to understand.
+• Easily communicated. Can be shared through manuals, procedures, and other
+documentation.
+Tacit knowledge. Tacit knowledge is information that is embedded in a person's mind and
+is highly personal. Tacit knowledge is difficult to articulate because it consists of technical
+skills, experiences, insights, and practical knowledge. Tacit knowledge is challenging to
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

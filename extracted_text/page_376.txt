@@ -1,0 +1,42 @@
+program. A group of related projects and program activities managed in a coordinated manner to
+obtain benefits not available from managing them individually. See also portfolio and project.
+program management. The application of knowledge, skills, and principles to a program to achieve
+the program objectives and to obtain benefits and control not available by managing program
+components individually. See also portfolio management and project management.
+progressive elaboration. The iterative process of increasing the level of detail in a project
+management plan as greater amounts of information and more accurate estimates become
+available.
+project. A temporary initiative in a unique context undertaken to create value. See also portfolio and
+program.
+project calendar. A calendar that identifies working days and shifts that are available for scheduled
+activities.
+project governance. The framework, functions, and processes that guide project management
+activities in order to meet or exceed target project objectives.
+project lead. A person who helps the project team to achieve the project objectives, typically by
+orchestrating the work of the project. See also project manager.
+project life cycle. The series of phases that a project passes through from its start to its completion.
+See also product life cycle.
+roject management. The application of knowledge, skills, tools, and techniques to project activities
+o meet or exceed the intended value. See also portfolio management and program management
+project management body of knowledge (PMBOK). A term that describes the knowledge within
+the profession of project management.
+Project Management Focus Areas. A logical grouping of project management inputs, tools and
+techniques, and outputs. The Project Management Focus Areas include Initiating processes, Planning
+processes, Executing processes, Monitoring and Controlling processes, and Closing processes.
+each organization.
+project management team. The members of the project team who are directly involved in project
+management activities.
+project manager. The person assigned by the performing organization to lead the team that is
+responsible for achieving the project objectives. See also project lead.
+project phase. A collection of logically related project activities that culminates in the completion of
+one or more deliverables. See also phase gate.
+project review. An event at the end of a phase or project to assess the status, evaluate the
+value delivered, and determine if the project is ready to move to the next phase or transition to
+operations.
+project scope. The work performed to deliver a product, service, or result with the specified features
+and functions. See also product scope and scope.
+project sponsor. See sponsor.
+Glossary
+271
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.
+^

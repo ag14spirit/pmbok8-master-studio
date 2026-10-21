@@ -1,0 +1,26 @@
+Story Points Done
+Story
+- Points
+Done
+DaY
+Figure 5-26. Burnup Chart
+A burndown chart can show the number of story points remaining or the amount of risk
+exposure that has been reduced.
+• Other types of charts. Visual charts can also include information such as an impediment
+list that shows a description of the impediment to getting work done, the severity, and the
+actions being taken to resolve the impediment.
+Voting. Voting is a collective decision-making technique and assessment process having multiple
+alternatives with an expected outcome in the form of future actions. These techniques can be used
+to generate, classify, and prioritize product requirements. Examples of voting techniques include the
+following:
+• Unanimity. A decision that is reached whereby everyone agrees on a single course of
+action.
+• Majority. A decision that is reached with support obtained from more than 50% of the
+members of the group. Having a group size with an uneven number of participants can
+ensure that a decision will be reached rather than resulting in a tie.
+• Plurality. A decision that is reached whereby the largest block in a group decides, even
+if a majority is not achieved. This method is generally used when the number of options
+nominated is more than two.
+214
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

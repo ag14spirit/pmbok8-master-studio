@@ -1,0 +1,64 @@
+Implement Risk Responses
+Inputs
+• Project management plan
+- Risk management plan
+• Project documents
+- Lessons learned register
+- Risk register
+- Risk report
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+• Expert judgment
+• Interpersonal and team
+skills
+- Influencing
+• Project management
+information system
+• Etc.
+Outputs
+• Change requests
+• Project document updates
+- Issue log
+- Lessons learned register
+- Project team assignments
+- Risk register
+- Risk report
+• Etc.
+Figure 2-52. Implement Risk Responses Inputs, Tools and Techniques, and Outputs
+Monitor Risks
+• Project management plan
+- Risk management plan
+• Project documents
+- Issue log
+- Lessons learned register
+- Risk register
+- Risk report
+• Work performance data
+• Work performance reports
+• Etc.
+Tools & Techniques
+- Technical performance
+• Audits
+• Meetings
+• Etc.
+Outputs
+• Work performance
+information
+• Change requests
+• Project management plan
+updates
+- Any component
+• Project document updates
+- Assumption log
+- Issue log
+- Lessons learned register
+- Risk register
+- Risk report
+• Organizational process
+asset updates
+• Etc.
+Figure 2-53. Monitor Risks Inputs, Tools and Techniques, and Outputs
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMIl Member benefit, not for distribution, sale, or reproduction.

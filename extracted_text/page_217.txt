@@ -1,0 +1,60 @@
+Table 3-1. Common Situations and Tailoring Suggestions
+Situation
+The deliverables are poor quality.
+Team members are unsure of
+how to proceed or undertake their
+work.
+Team members are not
+cooperative and are working in
+silos.
+There are long delays waiting for
+approvals.
+There is too much work in progress
+and/or waste.
+Stakeholders are not engaged or
+they share negative feedback.
+There is a lack of transparency
+and understanding about project
+progress.
+Issues and/or risks for which the
+team is unprepared continue to
+surface, requiring the team to
+react rather than make progress
+on their work
+Tailoring Suggestion
+nalyze the root causes of poor quality and implement targete
+eedback and quality assurance measures where needed. Focus o
+process improvements rather than just increasing verification steps.
+Assess the specific needs of the team to identify the most
+appropriate support mechanisms, including guidance, mentorship,
+training, and knowledge-sharing practices.
+Conduct team-building activities and hold individual meetings
+to understand the cause. Take actions to strengthen bonds and
+promote coordination among team members.
+Streamline the approval process by appointing people who are
+authorized to make decisions up to certain value thresholds,
+shortening the time needed for approvals.
+Use techniques like value stream mapping and kanban boards to
+visualize work, identify issues, and find solutions.
+Assess whether stakeholders receive timely and relevant information,
+tailoring communication methods to balance simplicity with the need
+for deeper engagement.
+Check to ensure that appropriate data is collected, analyzed, shared,
+and discussed during team and stakeholder meetings. Validate
+agreement on the measures with the team and stakeholders.
+Explore root causes to identify whether there are related gaps in
+project processes or activities.
+3.7 Summary
+Tailoring adapts the approach, governance, and processes to fit the project's environment and
+objectives, which involves analyzing and modifying people, processes, and tools. The tailoring process
+includes four steps:
+• Select the initial development approach,
+• Tailor for the organization,
+Tailor for the project, and
+• Improve continuously.
+Tailoring is typically led by project stakeholders, with organizational guidelines and governance ensuring
+verying and valdating that the storer proaches are elective and kiged with project oucomes.
+112
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

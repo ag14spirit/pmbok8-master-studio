@@ -1,0 +1,36 @@
+decision points, branching loops, parallel paths, and overall order of processing within a horizontal
+value chain. This visualization helps in understanding the operational details of procedures and can
+be particularly useful in project management for outlining processes and identifying potential areas
+for improvement.
+discussion designed to be more conversational than a one-on-one interview.
+Funding limit reconciliation. Funding limit reconciliation is the process of reconciling the
+expenditure of funds with any funding limits on the commitment of funds for the project. A
+rance between the funding limits and the planned expenditures will sometimes necessitate th
+scheduling of work to level out the rate of expenditures. This leveling is accomplished by placi
+imposed date constraints for work into the project schedule.
+Genetic algorithms. Genetic algorithms are an optimization technique and iterative process inspired
+y natural selection to find solutions to complex problems. Genetic algorithms can be utilized for
+roject optimization, exploring all possible decision combinations without human bias. For example
+reen human resource management. Green human resource management is a set of peopl
+lanagement policies and practices that focuses on the sustainable use of resources, preservin
+the natural environment, and improving environmental performance. For example, green human
+resource management can involve incorporating green practices while considering project team
+ember recruitment and selection, training and development, performance management, ar
+mpensation and rewards, as well as reviewing proiect team members' involvement with gre
+practices when performing individual and team assessments.
+Ground rules. Ground rules are expectations regarding acceptable behavior by project team
+members. Defined in the team charter, ground rules set the expected behavior for project team
+members and other stakeholders with regard to stakeholder engagement.
+Hierarchical charts. Hierarchical charts are a traditional organizational chart structure that can be
+used to show positions and relationships in a graphical, top-down format. Other hierarchical charts
+include the following:
+• Work breakdown structure (WBS). A WBS is a hierarchical decomposition of the total
+scope of work to be carried out by the project team to accomplish the project objectives
+and create the required deliverables. The WBS is designed to show how project deliverables
+are broken down into work packages and provides a way of showing high-level areas of
+responsibility.
+of project deliverables, an OBS is arranged according to an organization's existing
+departments, units, or teams, with the project activities or work packages listed under each
+Section 5 - Tools and Techniques
+171
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

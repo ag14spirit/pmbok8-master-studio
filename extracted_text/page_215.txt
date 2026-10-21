@@ -1,0 +1,21 @@
+Tailoring Steps
+1) Select Approach
+2) Tailor for the Organization
+3) Tailor for the Project
+4) Implement Ongoing
+Improvement
+Figure 3-3. The Tailoring Process
+3.5 Tailoring the Performance Domains
+The work associated with each performance domain can also be tailored, based on the uniqueness of
+the project. As shown in Figure 3-4, the principles for project management provide guidance for the
+behavior of project practitioners as they tailor the performance domains to meet the unique needs of
+the project context and environment. Tailoring consideration examples for each project management
+performance domain are specifically covered in Section 2 on performance domains.
+3.6 Diagnostics
+Periodic reviews, such as retrospectives or lessons learned, help assess the effectiveness of
+current approaches and identify areas for improvement through tailoring. Teams that do not us
+retrospectives can rely on issues, threats, quality metrics, and stakeholder feedback to determine if
+further tailoring is needed. Table 3-1 provides common situations and tailoring suggestions.
+110
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

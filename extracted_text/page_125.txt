@@ -1,0 +1,56 @@
+Plan Sourcing Strategy -
+Inputs
+• Project charter
+• Project management plan
+- Scope management plan
+- Quality management plan
+- Scope baseline
+- Schedule management
+plan
+- Financial management
+plan
+- Resource management
+plan
+• Project documents
+- Milestone list
+- Requirements
+documentation
+- Requirements traceability
+matrix
+- Quality metrics
+- Resource requirements
+- Project team assignments
+- Risk register
+- Stakeholder register
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+•
+• Expert judgment
+• Market research
+• Make-or-buy analysis
+• Source selection analysis
+• Document analysis
+• Etc.
+Outputs
+• Sourcing strategy plan
+- Insourcing or outsourcing
+decisions
+- Source selection criteria
+• Etc.
+Figure 2-5. Plan Sourcing Strategy Inputs, Tools and Techniques, and Outputs
+This process establishes a clear framework for acquiring project deliverables, either from within
+the organization or from external sources, defining what to acquire, how to acquire it, and when to
+acquire it.
+The process is used to determine whether work or deliverables can be better accomplished using
+internal sources or should be purchased from outside sources. Several factors should be considered
+in the make-or-buy decision (see Table 2-3).
+In addition to supporting make-or-buy decisions, the sourcing strategy plan may also include
+determining the type of contracts to be used for external sources. These contracts should be
+consistent with the selected sourcing approach, taking into account factors such as project
+20
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

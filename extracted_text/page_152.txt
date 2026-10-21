@@ -1,0 +1,42 @@
+2.3 Schedule Performance Domain
+Project scheduling provides a plan that represents how and when the project will deliver the
+products, services, and results defined in the project scope. The schedule serves as a tool for
+ommunication and for managing stakeholder expectations, and provides a basis for performanc
+eporting. The project schedule also facilitates the proactive identification of potential delays an
+risks, enabling timely corrective actions to keep the project on track.
+2.3.1 Key Concepts
+Schedule management includes the processes required to oversee the project's timely completion.
+The detailed project schedule should be flexible throughout the project to adjust for the knowledge
+gained, increased understanding of the risks and external influences, and value-added activities.
+Revising and maintaining the project schedule to sustain a realistic schedule should continue
+throughout the project.
+Schedules can be created and defined at various levels. The project team specifies the rules for
+the relative granularity of the level's schedule activities in the overall schedule model. It should be
+noted that schedule levels can change depending on the approach (e.g., adaptive or predictive).
+practitioner, and organizational scheduling requirements.
+With project timelines continuously shrinking, there may be insufficient time to analyze the project
+details (sometimes, the details are also evolving). It may also be impossible to develop a detailed
+project schedule up front, even in projects using a predictive approach, so a growing number of
+project management practitioners are preparing detailed schedules progressively as their projects
+unfold. This effort involves initially outlining the broad milestones and key activities of a project and
+then refining and expanding upon them as more information becomes available or as the project
+progresses. This approach allows for flexibility and adjustment as the project evolves and more
+details become known. A well-known technique that helps with this approach is rolling wave planning.
+The following key concepts support effective practices for the Schedule performance domain:
+• Project schedule. The project schedule is an output of a schedule model that presents
+linked activities with planned dates, durations, milestones, and resources. The project
+schedule may include start and finish dates; the total number of work periods required
+to complete an activity or WBS component, expressed in hours, days, or weeks (known
+as duration); significant points or events in a portfolio, program, or project (known as
+milestones); and resources. For further information, see Section 2.6 on the Resources
+performance domain.
+Estimate. An estimate is a quantitative assessment of a variable's likely amount or outcome,
+such as project effort or duration. Effort is the number of labor units required to complete a
+schedule activity or WBS component, often expressed in hours, days, or weeks. Duration is the
+number of work periods needed to complete individual activities with the estimated resources.
+Schedule baseline. The schedule baseline is the approved version of a schedule model
+for can barisha to ed usal resulta che level of traine dures ages set procedures,
+tones ise on priged on singes usive are dictepproaches and more Rexible, or even
+Section
+2 - Project Management Performance Domains
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

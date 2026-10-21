@@ -1,0 +1,44 @@
+• Schedule. An emphasis on quality has implications for the project's schedule. Examples
+include ensuring scheduling practices and artifacts are reviewed for completeness and
+correctness; integrating product quality reviews as scheduled milestones; and practicing a
+"shift-left" approach, where quality practices are prioritized as early in the project life cycle
+as possible. (
+• Finance. Embedding quality into finance helps control costs by preventing rework and
+reducing waste. Aligning financial management with quality objectives supports cost control
+while pursuing the project's objectives.
+• Stakeholders. Quality in this performance domain helps ensure that stakeholder expectations
+are met. Through continuous communication, stakeholder feedback is integrated into the
+roject aspects, leading to increased satisfaction, collaboration, and credibility.
+• Resources re alicated romaintain tar, embediesholds. This sure that tes sing.
+skilled personnel and appropriate tools, helping to ensure that the project is adequately
+supported to deliver the intended results.
+• Risk. The Risk performance domain encompasses the proactive management of quality-
+elated risks. By embedding quality into every aspect of the project, potential quality issue
+an be anticipated and mitigated, reducing the risk of defects and noncompliance
+3.6 Be an Accountable Leader
+Projects create a unique need for effective leadership. Unlike general business operations, where roles
+and responsibilities are often established and consistent, projects may involve multiple organizations,
+departments, functions, or vendors that do not interact on a regular basis. Moreover, projects may
+carry higher stakes and expectations than regular operational functions. As a result, a broader array
+of managers, executives, senior contributors, and other stakeholders may attempt to influence a
+project. This diversity of influence often creates higher degrees of confusion and conflict. Consequently,
+effective leadership behaviors are found more frequently-and from more people-on high-performing
+projects than lower-performing projects. Accountable leadership is about being responsible and taking
+ownership of the project's target business objectives, as well as the actions taken and the decisions
+made (see Figure 3-5). When accepting or pulling work, accountability means being responsible for the
+execution of that work. The key characteristics of an accountable leader include the following:
+• Integrity, honesty, and fairness. These values are required of all team members, where
+people demonstrate the moral principles that guide their decisions, particularly in tough
+situations. The decisions made by a leader with integrity and fairness are focused on the
+common good, helping to build trust with stakeholders.
+• Self-awareness. Effective leaders have the capability to make connections among their
+feelings, thoughts, and actions by understanding their motives, values, and strengths.
+This self-awareness helps professionals build relationships to accomplish results.
+• Respectfulness, humility, and availability. Leaders should be open to feedback and
+should work for the team, supporting their needs and removing barriers when possible.
+These values form the basis for the concept of servant leadership.
+• Flexibility and adaptability. Leaders should have the capability to adapt their leadership
+style to the situation and the audience. Leadership styles should be adapted based on the
+project's needs without losing the leader's core values.
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

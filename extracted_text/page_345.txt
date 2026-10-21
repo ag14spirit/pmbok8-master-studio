@@ -1,0 +1,61 @@
+Table X3-1. Primary AI Use Cases in Project Management
+Project Management
+Performance Domain
+Governance
+Al Strategy
+Augmentation
+Governance
+Assistance
+Governance
+Augmentation
+Governance
+Assistance
+Governance
+Automation
+Governance
+Automation
+Governance
+Assistance
+Use Case
+Data-driven decision-making. Al can analyze historical
+project data, market trends, and organizational priorities
+to help with the selection and prioritization of projects. Al
+can weigh elements such as potential ROl, strategic align-
+ment, resource availability, and risk levels to recommend
+the best projects to take forward.
+Multicriteria decision analysis. Al can use sophisti-
+cated algorithms to evaluate multiple criteria all together,
+providing a balanced scorecard approach to prioritize
+rojects based on their overall value and feasibilit
+riteria. Al can also run resource constrained scenario:
+to help choose projects with the highest impact use of
+available resources.
+Brainstorming/idea generation. Al tools can generate
+ideas and suggestions based on a given set of parame-
+ters, keywords, or previous successful endeavors. These
+tools can also use machine learning to provide insights
+into emerging trends and technologies that can inspire
+new project ideas. Additionally, these tools can be used
+to generate ideas for documents such as business cases
+and project charters.
+Collaborative platforms with Al. Platforms enhanced
+with Al can facilitate brainstorming sessions by organizing
+and categorizing ideas in real time, ensuring all team con-
+tributions are considered and the best ideas surface.
+Automated reporting and representation. Al can
+automatically generate comprehensive reports on project
+status, performance metrics, and compliance, reducing
+manual effort and increasing accuracy. Al can also be
+incorporated into visual tools, dashboards, and informa-
+tion radiators to improve the understanding of the project
+status for both the project team and stakeholders.
+Process automation. Routine tasks such as project
+documentation, reports, compliance checks, lessons
+learned (at the portfolio level), and administrative
+approvals can be automated, allowing the PMO to focus
+on strategic activities.
+Predictive analytics for planning. Al can predict
+accurate and realistic project plans.
+240
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

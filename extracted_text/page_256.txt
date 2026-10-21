@@ -1,0 +1,35 @@
+achieve the project outcomes. See also distributed management and leadership.
+Change control tools. To facilitate configuration and change management, both manual and
+automated tools can be utilized. Configuration control focuses on specifying both deliverables and
+and verified, changes are managed, and accountability is maintained, meeting the functional
+requirements outlined in the configuration documentation.
+Change management activities supported by these change control tools include identifying and
+selecting change items, documenting changes into proper change requests, and deciding on changes by
+reviewing, approving, rejecting, or deferring them. Additionally, tools help track changes by verifying that
+they are registered, assessed, approved, and communicated to stakeholders. Tools also manage change
+requests and the resulting decisions, with additional considerations for communication to assist the
+change control board (CCB) in their duties and to distribute decisions to the appropriate stakeholders.
+Checklists. A checklist is a list of items, actions, or points to be considered. Checklists are often used
+as reminders and are developed based on historical information and knowledge accumulated from
+similar projects and other sources of information. Using checklists is an effective way to capture
+lessons learned from similar completed projects, listing specific individual project risks that have
+occurred previously and that may be relevant to the current project.
+The organization may maintain checklists based on completed projects or use generic checklists from
+the industry. While a checklist may be quick and simple to use, it is impossible to build an exhaustive
+one. The project team should also explore items that do not appear on the checklist. Additionally,
+the checklist should be reviewed from time to time to update new information as well as remove or
+archive obsolete information. Checklists can also serve as an effective way to ensure that a project
+or task is ready to start; such a checklist is also called "definition of ready" or "full kit," and can be
+particularly useful in minimizing rework.
+Coaching and mentoring. Coaching provides guidance and helps people (e.g., a project team
+member or a stakeholder) to find a solution to a specific problem on their own by asking the right
+questions. Mentoring is serving as a counselor, guide, or mentor by sharing knowledge, skills, or
+experience with a person who has to develop their own knowledge or skills. Both coaching and
+nentoring include one-to-one conversations. However, coaching is more related to achieving specifi
+oals, while mentoring is a more long-term, ongoing relationship-building practice
+Colocation. Colocation is an organizational placement strategy where the project team members are
+physically located close to one another in order to improve communication, working relationships,
+and productivity.
+Section 5 - Tools and Techniques
+151
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,37 @@
+As projects grow in complexity and involve more stakeholders, the likelihood of disputes increases
+herefore, it is essential for project managers to be proficient in claims administration and familia
+with alternative dispute resolution (ADR) methods. Types of ADR include the following:
+• Negotiation. Negotiation involves direct discussions between parties to resolve disputes
+without third-party intervention.
+• Mediation. Mediation brings in a neutral third party to facilitate discussions between
+disputing parties to reach a mutually acceptable solution.
+• Arbitration. Arbitration is a more formal process where an arbitrator or panel hears both
+sides and makes a binding decision.
+• Dispute review boards. A dispute review board is a panel of neutral experts appointed at
+the start of a project to provide ongoing dispute avoidance and resolution.
+• Expert determination. Expert determination is when an independent expert is appointed
+to make a decision on a specific technical or financial issue.
+• Litigation. If all other means are exhausted but the disagreement between the
+stakeholders persists, litigation becomes the last option, where the dispute is referred to a
+court to be resolved.
+X4.9.1 Relevance to Project Managers
+Project managers play a crucial role in claims administration and dispute resolution. Project
+oressionals should understand contract terms thoroughly to identify potential areas of dispute ar
+anage risks proactively. Project managers should maintain detailed records of all project activitie
+changes, and communications to support potential claims. They should also foster open and clear
+communication among all stakeholders to help minimize misunderstandings that could lead to
+disputes. Recognizing potential conflicts early and addressing them promptly to prevent escalation
+are critical aspects of a project professional's job.
+To effectively handle claims and disputes, project managers should seek to improve their negotiation
+addition, Some orm of tel ahing or introduction to contract a and arms man earient during
+the early stages of a project is beneficial.
+Al-powered tools can also play a crucial role by analyzing contract terms, identifying potential
+leverage is po ases ofersks aredited with specif lause and use data riven insanes for cae
+negotiations.
+Establishing a strong working relationship with the organization's legal team for guidance and
+support is essential. Additionally, Al can enhance this collaboration by providing real-time contract
+analytics, tracking potential risks, and recommending proactive measures to resolve issues before
+they escalate.
+Appendix X4
+253
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

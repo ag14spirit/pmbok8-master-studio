@@ -1,0 +1,46 @@
+• Scope. The principle of Adopt a Holistic View helps foster alignment of all project activities
+with the overall project scope, preventing scope creep and misalignment by considering
+the entire project ecosystem. Also, by promoting clarity on the organizational objectives
+to be achieved rather than merely the end deliverables, the principle encourages
+creative solutioning, allowing an equal opportunity to achieve simpler but more effective,
+sustainable, and long-lasting solutions.
+Schedule. A holistic view improves scheduling by considering the interdependencies of all
+project activities, making timelines more realistic and adaptive to changes and maintaining
+alignment with project goals. By implementing a holistic view, the project management team
+can ensure that the most relevant what-if scenarios are drawn out and evaluated, and that
+candidate baseline changes are evaluated for which one might vield the highest return on
+investment for that project—and for the project's portfolio and program contexts overall.
+Finance. A holistic approach optimizes financial management by aligning budget allocation:
+vith project priorities, controlling project costs effectively, and anticipating financial impact:
+of changes within the broader project context—all aimed at maximizing returns on project
+investments.
+• Stakeholders. The Adopt a Holistic View principle enhances the engagement of all relevant
+stakeholders, from departments to vendors to customers. This engagement is done
+by ensuring inclusive participation in decision-making processes, leading to improved
+satisfaction and collaboration as their perspectives are integrated into the project strategy.
+Resources. Having a holistic mindset also emphasizes understanding how all project
+components are intended to integrate in order to maximize the project's value proposition.
+This view makes it easier to drive the flow of completed work, avoid unnecessary resource
+conflicts, optimize the use of project resources within a portfolio or program, and equip and
+empower team members to execute the work, all according to what drives the most value.
+• Risk. A holistic view facilitates proactive risk management by identifying and managing risks
+across all project domains, understanding their interdependencies, and developing robust
+risk management strategies.
+3.4 Focus on Value
+Value, also referred to as project value, is the ultimate success indicator and driver of projects. Value
+can be described and assessed using either measurable metrics, such as return on investment, or
+qualitative observations such as testimonials and societal benefits. Value represents the overall
+worth of the project outcomes and the net benefits to stakeholders (see Figure 3-3). This value
+encompasses the deliverables and their related outcomes, particularly from the perspective of
+key stakeholders. Value can be expressed in various ways, such as financial contributions to the
+sponsoring or receiving organization, social benefits, or the customer's perceived benefits from the
+project result. Regardless of their form, all projects exist to pursue target organizational objectives
+that are worth more than what is invested in pursuit of those objectives-often significantly more
+than what might be available via alternative investment options.
+Project justification and organizational strategy, often detailed in a business case, provide the project
+team with the necessary information to make decisions that meet or exceed the intended business
+value. Desired outcomes should be clearly described, iteratively assessed, and updated throughout
+he project life cycle using quality gates, feedback loops, and regular reviews. The project tean
+hould adapt to changes and continuously evaluate alignment with the desired outputs, baselines
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

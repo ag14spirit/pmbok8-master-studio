@@ -1,0 +1,40 @@
+to improve the team's performance. This effort should also include identifying the appropriate
+or required resources necessary to achieve and implement the improvements identified in the
+assessment.
+Team performance assignments. The team performance assignments refer to the allocation of tasks
+nd responsibilities to team members based on their skills, roles, and the project's requirements. Th
+ssignments are used to ensure that the project progresses efficiently and effectively
+User stories. A user story is a brief, textual description of an outcome from a specific stakeholder
+perspective, and is a promise for a conversation to clarify details. User stories clarify details or
+Verified deliverables. Verified deliverables are completed project deliverables that have been
+checked and confirmed for correctness through the Monitor and Control Scope process. A goal of
+the Monitor and Control Scope process is to determine the correctness of deliverables. The results
+of performing the Monitor and Control Scope process are verified deliverables that become an
+input to the Validate Scope process for formalized acceptance. If there are any change requests or
+improvements related to the deliverables, they should be changed, inspected, and reverified.
+Virtual resource assignments. Virtual resources include software, testing environments, licenses,
+and anything else created or seen using computers or the internet that is needed for efficient and
+effective project completion. Virtual resource assignments are the documentation of the virtual
+resources that will be used during the project. The virtual resource assignments describe the
+expected resource utilization and details such as type, amount, location, and whether the resource is
+internal to the organization or outsourced
+WBS dictionary. See scope baseline.
+Work breakdown structure (WBS). See scope baseline.
+Work package estimation. The work package estimation is defined at the lowest level of the work
+breakdown structure (WBS), for which cost and duration are estimated and managed. For example,
+simulation can be used to estimate work packages. The simulation involves calculating multiple work
+package durations and costs with different sets of activity assumptions, constraints, risks, issues, or
+scenarios using probability distributions and other representations of uncertainty. Throughout the
+project, work packages are progressively elaborated into activities.
+Work performance data. Work performance data includes the raw observations and measurements
+identified during activities being performed to carry out project work. The data is often viewed as the
+lowest level of detail from which information is derived by other processes. The data is then gathered
+through work execution and passed to the controlling processes for further analysis.
+Examples of work performance data include work completed, key performance indicators (KPIs),
+technical performance measures, actual start and finish dates of schedule activities, story points
+completed, deliverables status, schedule progress, number of change requests, number of defects,
+actual costs incurred, actual durations, etc.
+Section
+4 - Inputs and Outputs
+143
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

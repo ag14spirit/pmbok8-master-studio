@@ -1,0 +1,41 @@
+Being proactive is a key habit that shapes effective project management and drives the team
+toward achieving strategic objectives. The proactive mindset in project management emphasizes
+systems thinking and appropriate levels of planning to help ensure that target quality thresholds
+are embedded within every phase of the project. The proactive mindset integrates the project
+management principles of Adopt a Holistic View and Embed Quality Into Processes and Deliverables,
+fostering a culture of continuous improvement and forward-thinking action (see Section 3.2 for
+details on the project management principles). The mindset enables project managers to anticipate
+challenges, address them promptly, and align processes with evolving project and stakeholder needs,
+thereby enhancing overall project resilience and success.
+The ownership dimension focuses on the accountability of leaders and the development of a high-
+performance team culture. This dimension integrates the principles of Be an Accountable Leader and
+Build an Empowered Culture, ensuring that leadership is not just about making decisions but also
+about fostering a culture of accountability and collaboration. This mindset supports the development
+of strong, self-reliant teams that drive project success through shared ownership and commitment.
+The value-driven dimension emphasizes delivering maximum value by seamlessly integrating
+sustainability throughout the project life cycle. This dimension incorporates the principles of Focus
+on Value and Integrate Sustainability Within All Project Areas. By aligning projects with organizational
+strategic objectives and emphasizing contributions to the broader community and the environment
+i.e., achieving the triple bottom line of people, profit, and planet), this dimension helps ensure that
+roject outcomes are both impactful and sustainable. Ultimately, the value-driven dimension promote
+a balance between achieving measurable success and advancing broader sustainability goals.
+By integrating the proactive, ownership, and value-driven mindset dimensions, organizations can
+create a solid framework for achieving exceptional project results. This holistic approach helps ensure
+organizations to deliver projects that not only drive the execution of an organization's strategy, but
+are also socially responsible and environmentally sustainable.
+3.2 Principles and Performance Domains
+Performance domains are designed to enable the practical application of project management
+rinciples and ensure this mindset is translated into effective practices and outcomes. These
+erformance domains represent the mechanics of proiect management, including the knowledge
+processes, and methods that are essential for effective project delivery.
+The project management performance domains include Governance, Scope (including quality).
+Schedule, Finance, Stakeholders, Resources, and Risk. These performance domains are described in
+detail in A Guide to the Project Management Body of Knowledge (PMBOK® Guide) [2].
+ach performance domain plays an important role in operationalizing project management principle
+y providing a structured approach to managing various aspects of a project. Conversely, the projec
+management principles serve as the foundation of the performance domains.
+While all the principles relate to all performance domains, some are connected more strongly than
+others. For instance, the Adopt a Holistic View principle is supported by all performance domains, which
+Section 3 - Project Management Principles
+37
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

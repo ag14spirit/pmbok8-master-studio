@@ -1,0 +1,46 @@
+• Executing. Project work can benefit from the shared understanding of its broader goals
+such as informing technical decisions or motivating team members. This understanding car
+be seen in the Manage Project Execution and Manage Project Knowledge processes.
+• Manitorient ne irs allie As riefsproceed the changese chan Erective propert
+Project Performance process provides a way to govern effective changes toward value
+creation.
+• Closing. All projects and project phases eventually end. They can achieve their desires
+impact as originally planned, or experience closure earlier or later than expected
+Projects experience any number of governance scenarios during their life cycle. In each case, the
+overarching value proposition should be the primary factor in project decisions. Table 2-2 illustrates
+several such scenarios.
+Several management disciplines relate to the governance of project value and impact. These
+clude but are not limited to change management, benefits realization, value management, an
+evenue management. Tools and techniques from these disciplines are often incorporated into th
+Governance performance domain.
+2.1.2 Project Governance Models
+Applying the right governance model to a project is an important decision, because too much
+governance risks wasting resources, while too little may lead to strategic alignment and project
+performance issues. The need to apply optimum governance varies with the implementation approach
+and organizational guidelines. The right balance should be made for strategic alignment, compliance,
+and delivering value. For these reasons, governance models can be applied at the organizational,
+portfolio, program, or project level, depending upon the approach and complexity (see Figure 2-1).
+Table 2-2. Sampling of Common Project Governance Scenarios
+Governance Scenario
+Project initiation
+Project replanning
+Project expansion or
+contraction
+Early termination for
+positive cause
+Early termination for
+negative cause
+Description
+A new project or phase is deemed to be a worthwhile venture; resources and
+effort are expended to launch the undertaking
+A revision to any element of the project management plan that requires intentional
+review by the project management team, sponsors, or senior management
+A project or phase undergoes change to its schedule, budget, quality thresholds,
+compliance, or other constraints as a means to preserve the original value proposi-
+tion or capture a new one
+A project or phase is closed before exhausting its planned schedule and/or bud
+get because the desired value impact has been achieved
+precaut the des ed set before cia unting is lanied schedule and or but.
+Section 2 - Project Management Performance Domains
+11
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

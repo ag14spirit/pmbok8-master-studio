@@ -1,0 +1,67 @@
+Monitor Communications
+Inputs
+• Project management plan
+- Resource management
+plan
+- Communications
+management plan
+- Stakeholder engagement
+plan
+• Project documents
+- Issue log
+- Lessons learned register
+- Project communications
+• Work performance data
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Project management
+information system
+• Data representation
+- Stakeholder engagement
+assessment matrix
+• Interpersonal and team
+skills
+- Observation/conversation
+• Meetings
+• Etc.
+Outputs
+• Work performance
+information
+• Change requests
+• Project management plan
+updates
+- Communications
+management plan
+- Stakeholder engagement
+plan
+• Project document updates
+- Issue log
+- Lessons learned register
+- Stakeholder register
+• Etc.
+Figure 2-39. Monitor Communications Inputs, Tools and Techniques, and Outputs
+• Example 3. A medium-sized global project requires inclusive communication strategies.
+Thus, multilingual updates and monthly virtual forums help ensure engagement and
+feedback from stakeholders across different cultural backgrounds.
+Based on stakeholders' varied needs and preferences, there should be different communication
+methods (e.g., email for formal updates, instant messaging for quick questions, feedback loops,
+face-to-face meetings, etc.) or adjustments to the level of detail in communications based on each
+stakeholder's role in the project.
+A complex project with numerous stakeholders may require a more sophisticated communications
+management plan compared to smaller projects, where the communication channels are more
+limited in number.
+2.5.4 Interactions With Other Domains
+Stakeholders permeate all aspects of projects. Stakeholders define and prioritize the requirements
+and scope for the project team, participate in and shape project planning, and determine the
+acceptance and quality criteria for the project deliverables and outcomes. Much of the project work
+'evolves around engaging and communicating with stakeholders. Throughout a project or at its
+losure, stakeholders use the project deliverables and influence the realization of project outcomes
+Section 2 - Project Management Performance Domains
+77
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

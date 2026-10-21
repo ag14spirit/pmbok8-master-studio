@@ -1,0 +1,65 @@
+Perform Risk Analysis
+Inputs
+• Project management plan
+- Risk management plan
+- Scope baseline
+- Schedule baseline
+- Cost baseline
+• Project documents
+- Assumption log
+- Cost estimates
+- Duration estimates
+- Resource requirements
+- Risk register
+- Stakeholder register
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Data gathering and analysis
+- Interviews
+• Interpersonal and team
+skills
+- Facilitation
+• Risk categorization
+• Data analysis
+- Risk probability and
+impact assessment
+- Simulations
+- Sensitivity analysis
+- Decision tree analysis
+- Influence diagrams
+• Data representation
+- Probability and impact
+matrix
+• Etc.
+Outputs
+• Project document updates
+- Assumption log
+- Issue log
+- Risk register
+- Risk report
+• Etc.
+Figure 2-50.
+Perform Risk Analysis Inputs, Tools and Techniques, and Outputs
+2.7.2.5 Implement Risk Responses
+Implement Risk Responses is the process of implementing sufficient risk response plans. The key
+benefit of this process is that it ensures that agreed-upon risk responses are executed as planned to
+address overall project risk exposure, minimize individual project threats, and maximize individual
+project opportunities (see Figure 2-52).
+2.7.2.6 Monitor Risks
+Monitor Risks is the process of monitoring the implementation of risk response plans, tracking
+identified risks, identifying and analyzing new risks, planning responses for new risks, and evaluating the
+effectiveness of risk responses and processes throughout the project. This process helps ensure that risk
+owners are assigned to maintain continuity and address emerging risks effectively (see Figure 2-53).
+2.7.3 Tailoring Considerations
+Because each project is unique, activities and processes in the Risk performance domain should be
+tailored. Considerations for tailoring may include the following:
+• Prore sited is comanager De priae the a sincts sed press plete Constrates a
+98
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

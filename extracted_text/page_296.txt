@@ -1,0 +1,82 @@
+10-Jun-27
+Overall Progress
+BL Start
+10-Jun-27
+BL Finish
+30-Nov-28
+Exp Finish
+30-Nov-28
+Delay
+O Days
+Due bare
+30-Oct-27
+Safety Statistics
+Total Mhr
+Na
+Mhr/LTI
+Overall
+Tendering and
+Contracting
+Engineering
+Construction
+Delivery
+30
+20.
+40 50 60 T0
+80
+90
+100
+14% Overall Progress
+Against Plan of 18%
+Manpower Plan vs. Actual
+1000
+800
+200
+539
+397
+BL Duration • • Remaining Duration
+30-Nov-28
+Progress Monitor Graph
+10-Jun-27 16-Aug-27 22-0ct-27 29-Dec-27 5-Mar-28 11-May-28 18-Ju-28 23-Sep-28 30-Nov-28
+Overall
+Construction
+Delivery
+Engineering
+Tendering and Contracting
+S Curve
+3-Month SPI Trend
+14%
+7217713717
+hich means that the projec
+is behind the schedu
+1427
+Ang 27
+• 0.95
+Sep 2h
+Critical Issue
+racker
+Statistics
+Major Points to Focus on:
+• Ocen
+• Cosed
+Figure 5-17. Project Dashboard Example 2
+Moderate Critical
+Project management information system (PMIS). A PMIS is an information system consisting
+the tools and techniques used to gather, integrate, and disseminate the outputs of proje
+anagement processes. A PMIS provides access to information technology software tools, such
+cheduling software tools, work authorization systems, configuration management systems, and
+formation collection and distribution systems, as well as interfaces to other online automated
+systems such as organizational knowledge repositories. Automated gathering and reporting on key
+Project reporting. Project reporting is the act of collecting and distributing project information.
+Project information is distributed to many groups of stakeholders and should be adapted to provide
+information at an appropriate level, format, and detail for each type of stakeholder. The format
+may range from a simple communication to more elaborate custom reports and presentations.
+Information may be prepared regularly or on an exception basis.
+Prompt lists. A prompt list is a predetermined list of risk categories that might give rise to individual
+project risks and that could also act as sources of overall project risk. The prompt list can be used
+as a framework to aid the project team in idea generation when using risk identification techniques
+The risk categories in the lowest level of the risk breakdown structure can be used as a prompt list
+for individual project risks. Some common strategic frameworks are more suitable for identifying
+Section 5 - Tools and Techniques
+191
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

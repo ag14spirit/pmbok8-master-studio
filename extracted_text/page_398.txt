@@ -1,0 +1,100 @@
+Technical dependencies, 167
+Technical performance analysis, 205
+Technical requirements, 130
+Technical risk, 135
+Technology
+advances in, 53
+availability and reliability of, 156
+and scheduling, 56
+Test and inspection planning, 205
+Testing/product evaluations, 205
+Text-oriented formats, 205
+Theory of constraints (TOC), 206
+Theory of needs, 182
+Theory X, 182
+Theory Y, 182
+Theory Z, 182
+Thinking
+critical, 161, 177
+design, 168
+Six Thinking Hats® technique and, 198-199
+Threats
+definition of, 93
+strategies for, 203-204
+Thresholds, 139
+Time and materials (T&M) contract, 251
+Timing. See also Calendars; Schedule/scheduling
+in communications management, 117
+in project management, 126
+for realizing benefits, 115
+in risk management, 134
+in schedule management, 139
+To-complete performance index (TCPI), 206-210
+Tools and techniques
+in Acquire Resources process, 83
+in Assess and Implement Changes process, 29
+in Close Project or Phase process, 31
+in Define Scope process, 42
+in Develop Budget process, 64
+in Develop Schedule process, 50
+in Develop Scope Structure process, 43
+in Elicit and Analyze Requirements process, 41
+in Estimate Costs process, 63
+in Estimate Resources process, 82
+in Identify Risks process, 97
+in Identify Stakeholders process, 71
+in Implement Risk Responses process, 100
+in Initiate Project or Phase process, 17
+in Integrate and Align Project Plans process, 19
+in Lead the Team process, 85
+list of, 145-215
+in Manage Quality Assurance process, 23
+in Manage Stakeholder Engagement process, 74
+in Monitor and Control Finances process, 65
+in Monitor and Control Project Performance
+process, 27
+in Monitor and Control Resourcing process, 87
+in Monitor and Control Schedule process, 54
+in Monitor and Control Scope process, 43
+in Monitor Communications process, 77
+in Monitor Risks process, 100
+in Monitor Stakeholder Engagement process, 76
+in Perform Risk Analysis process, 98
+in Plan Risk Management process, 96
+in Plan Risk Responses process, 99
+in Plan Schedule Management process, 49
+in Plan Scope Management process, 40
+Plan Sourcing Strategy process,
+Plan Stakeholder Engagement process,
+in Validate Scope process, 44
+Top-down approach, 165
+Tornado diagram, 197, 198
+Total float, 160, 161, 167, 194, 196
+Traditional postmortems, 174
+Training, 134, 210
+Transfer (strategy), 203, 204
+Transition and readiness requirements, 130
+Transmission of message, 153, 154
+Transparency
+Al systems and, 243
+on bias, 89
+of project managers, 89
+Trend(s)
+analysis of, 210-211
+leading indicators and, 14
+Trend line, 175
+Trust
+in project teams, 86
+and scheduling, 56
+Tuckman ladder, 211
+U
+Unanimity, 163, 214
+Uncertainty
+cost, 192
+decision-making under, 163, 172, 183
+definition of, 94
+degree of, 94
+effects of, 195, 203
+Index
+293
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PM Member benefit, not for distribution, sale, or reproduction.

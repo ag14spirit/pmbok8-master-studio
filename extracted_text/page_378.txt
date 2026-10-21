@@ -1,0 +1,45 @@
+sk enhancement. A risk response strategy that involves increasing the probability of occurrenc
+r impact of an opportunity. See also risk acceptance, risk avoidance, risk escalation, risk exploiting, ris
+mitigation, risk sharing, and risk transference.
+isk escalation. A risk response strategy that involves transferring the ownership of the risk to
+elevant party in the organization because the risk is outside of scope or the team does not hav
+sufficient authority to address it. See also risk acceptance, risk avoidance, risk enhancement, risk
+exploiting, risk mitigation, risk sharing, and risk transference.
+risk exploiting. A risk response strategy whereby the project team acts to ensure that an opportunity
+occurs. See also risk acceptance, risk avoidance, risk enhancement, risk escalation, risk mitigation, risk
+sharing, and risk transference.
+risk exposure. An aggregate measure of the potential impact of all risks at any given point in time in
+a portfolio, program, or project.
+sk mitigation. A risk response strategy that involves decreasing the probability of occurrenc
+• impact of a threat. See also risk acceptance, risk avoidance, risk enhancement, risk escalation, ris
+exploiting, risk sharing, and risk transference.
+risk review. The process of analyzing the status of existing risks and identifying new risks. May also
+be known as a risk reassessment.
+risk sharing. A risk response strategy that involves allocating ownership of an opportunity to a third
+party that is best able to capture the opportunity or absorb the impact of the threat. See also risk
+acceptance, risk avoidance, risk enhancement, risk escalation, risk exploiting, risk mitigation, and risk
+transference.
+risk threshold. The measure of acceptable variation around an objective that reflects the risk
+appetite of the organization and stakeholders. See also risk appetite.
+risk transference. A risk response strategy that involves shifting the impact of a threat to a
+third party, together with ownership of the response. See also risk acceptance, risk avoidance, risk
+enhancement, risk escalation, risk exploiting, risk mitigation, and risk sharing.
+roadmap. A high-level timeline that depicts such things as milestones, significant events, reviews,
+and decision points.
+role. A defined function to be performed by a project team member, such as testing, filing,
+inspecting, or coding.
+S-curve diagram. A graph that displays cumulative costs over a specified period of time.
+schedule model. A representation of the plan for executing the project's activities including
+durations, dependencies, and other planning information, used to produce a project schedule along
+with other scheduling artifacts.
+schedule performance index (SPI). A measure of schedule efficiency expressed as the ratio of
+earned value to planned value. See also cost performance index (CPI).
+schedule variance (SV). A measure of schedule performance expressed as the difference between
+the earned value and the planned value. See also cost variance (CV).
+scope. The sum of the products, services, and results to be provided as a project. See also product
+scope and project scope.
+scope creep. The uncontrolled expansion to product or project scope without adjustments to time,
+cost, and resources.
+Glossary
+273
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

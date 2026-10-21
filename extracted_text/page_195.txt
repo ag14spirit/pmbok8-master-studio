@@ -1,0 +1,44 @@
+•
+• Support. Projects can be challenging from the perspectives of technical challenges,
+environmental influences, and interpersonal interactions. Supporting project team
+members through problem-solving and removing impediments builds a supportive
+culture and leads to a trusting and collaborative environment. Support can also be
+demonstrated by providing encouragement, showing empathy, and engaging in
+• Courage. Recommending a new approach to a problem or a way of working can
+be intimidating. Likewise, it can be challenging to disagree with a subject matter
+expert or someone with greater authority. However, demonstrating the courage
+that it takes to suggest, disagree, or try something new enables a culture of
+experimentation and communicates to others that it is safe to be courageous and
+try new approaches.
+• Celebrate success. Focusing on project goals, challenges, and issues often
+sidelines the fact that individual project team members and the project team are
+steadily progressing toward those goals. While work takes priority, project team
+members may neglect to recognize demonstrations of innovation, adaptation,
+service to others, and learning. Instantly recognizing and celebrating successes and
+"quick wins" may offer a sense of accomplishment, keep the team motivated, and
+highlight the continuous progress made toward project goals.
+Industry context. Due to the scarce nature of critical resources, in some industries several
+rends have become popular in the past few years. There is extensive literature about lear
+nanagement, just-in-time manufacturing, Kaizen, total productive maintenance, theory
+of constraints, and other methods. A project manager should determine if the performing
+organization has adopted one or more resource-related methods, tools, and techniques
+and adapted them to the project accordingly.
+Organizational governance structures. Projects operate within a larger organizational
+system. There may be the expectation that the organizational leadership style of top
+management is recognized and reflected in the team's leadership. The organizational
+structure influences the degree to which authority and accountability are centralized or
+distributed. For further details, see Section 5 on Tools and Techniques, where centralized
+management and leadership and distributed management and leadership are explained.
+Sustainability considerations in decision-making. Projects should consider the
+environmental and social impact of every stage in the value chain, from hiring team members
+to sourcing materials, transportation, and disposal. This effort may involve reducing
+emissions, using renewable energy sources, minimizing waste, and positively affecting local
+communities. For further details, please refer to the Integrate Sustainability Within All Project
+Areas principle in The Standard for Project Management [1]. In addition, Section 5 provides
+further details on tools and techniques such as green human resource management.
+Maturity of the project team members. Project team members who are mature in their
+technical fields may need less oversight and direction than project team members who are
+new to the organization, team, or technical specialty.
+and improve communication.
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

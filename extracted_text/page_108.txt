@@ -1,0 +1,22 @@
+Section 1
+Introduction
+This section describes important information about A Guide to the Project Management Body of
+Knowledge (PMBOK® Guide)-Eighth Edition. The section explains the relationship of the PMBOK® Guide
+to The Standard for Project Management [1],' details changes to the PMBOK® Guide, and provides a
+brief overview of the content.
+1.1 Structure of the PMBOK® Guide
+In addition to this introduction, this edition of the PMBOK® Guide contains four core sections:
+• Project Management Performance Domains. This section identifies and describes seven
+project management performance domains that form an integrated system to enable
+successful delivery of the project and intended outcomes.
+• Tailoring. This section describes what tailoring is and presents an overview of what to tailor
+and how to go about tailoring individual projects.
+• Inputs and Outputs. This section presents a brief description of the assets and artifacts
+used as either sample inputs to, or sample outputs of, the project management activities
+and processes presented throughout the project management performance domains. The
+elements listed in this section are neither intended to be comprehensive, nor required for
+any given project. Rather, they are commonly used selections from among the countless
+options that project teams can implement.
+1 The numbers in brackets refer to the numbered list of references at the end of the PMBOK° Guide.
+3
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

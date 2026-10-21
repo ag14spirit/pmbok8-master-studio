@@ -1,0 +1,40 @@
+not materialize in a portfolio, program, or project. Potentially harmful risks, often called
+threats, may negatively impact one or more project objectives through project delays,
+cost overruns, or reputation damage. Positive risks, better known as opportunities, may
+positively affect one or more project objectives, including a potential increase in market
+share, cost savings, or a positive environmental impact. A risk may be described in a
+"cause, event, and consequence" structure (see the risk register in Section 4 on Inputs and
+Outputs). Risks can also be classified into unknown-known, unknown-unknown, known-
+known, and known-unknown (see Figure 2-46).
+Issue. An issue is a current condition or situation that may have an impact on one or
+lore project objectives. An issue has already occurred and may require immediate
+ction or management attention. Reviewing the project issue log and risk register ca
+¿dosely chate as an issue red yairse from a orky manage is. However, sues also
+differ from risks as issues have already occurred or are still occurring, whereas risks are
+potential future problems that have not yet occurred.
+• Overall risk. Overall risk is the effect of uncertainty on the portfolio, program, or project
+as a whole. Overall risk may arise from everything that is uncertain or unknown in the
+project, including individual risks. Responses to overall project risk are the same as
+project ather than to a specific vent it the overal risk teste profe stories, the
+organization may choose to cancel the project.
+Unknown-Known
+(Hidden fact)
+Knowledge exists in the
+community but not with the
+entity working on the endeavol
+Unknown-Unknown
+(Emergent risk)
+Knowledge does not exist
+within the sphere of influence.
+Known-Known
+(Facts and requirements)
+Managed as a part of scope.
+Not a risk.
+Known-Unknown
+(Classic risk)
+There is knowledge to identify
+probability and impact.
+Figure 2-46. Risk Classification
+Section 2 - Project Management Performance Domains
+93
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,39 @@
+Adaptive
+Predictive
+Adaptive
+Predictive
+Adaptive
+Predictive
+Figure 4-9. A Hybrid of Adaptive and Predictive Approaches Used Simultaneously
+• Another approach is to use a combination of adaptive and predictive approaches
+throughout the life cycle.
+• A small adaptive element within a primarily predictive project is used.
+• A largely adaptive approach with a predictive component is used.
+Some examples where a hybrid approach may be suitable include the following:
+• Healthcare solutions. A hybrid approach is also appropriate during the implementation
+of an electronic medical records system in a hospital where certain aspects (infrastructure
+setup) are predictive but the development and integration of the user interface may benefit
+from an adaptive approach.
+The PMI Disciplined Agile® (DA®) tool kit [4] describes three levels of hybrid approaches commonly
+found in projects across industries:
+• Hybrid Level 1. A predictive approach is the dominant contributor to the way of working.
+Meanwhile, some adaptive elements are leveraged to reduce specific project pain points.
+• Hybrid Level 2. At this level, both the predictive and adaptive approaches contribute
+significantly to the success of a project.
+• Hybrid Level 3. At this point on the spectrum, an adaptive approach becomes the major
+contributor to the way of working. Some predictive elements are used to satisfy various
+business constraints.
+Today, most projects require a hybrid approach, combining elements of both adaptive and predictive
+methodologies. Relying solely on one approach—whether adaptive or predictive—is no longer
+sufficient to address the diverse challenges and complexities that modern projects present. A hybrid
+approach allows for greater flexibility, enabling project teams to adapt to changing conditions while
+still maintaining control over predictable aspects of the project.
+Predictive
+Adaptive
+Adaptive
+Adaptive
+Predictive
+Figure 4-10. A Largely Predictive Approach With an Adaptive Component
+Predictive
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

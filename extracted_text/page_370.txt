@@ -1,0 +1,33 @@
+Glossary
+Many of the words defined here have broader, and in some cases, different dictionary definitions. In
+some cases, a single glossary term consists of multiple words (e.g., root cause analysis).
+Note: Many terms are fully defined in Section 4, Inputs and Outputs, and Section 5, Tools and
+Techniques. This glossary is designed to provide definitions for additional terms that are not covered
+in those sections.
+acceptance criteria. A set of conditions that are met before deliverables are accepted. See also
+requirement.
+accuracy. Within the quality management system, accuracy is an assessment of correctness.
+actual cost (AC). The realized cost incurred for the work performed on an activity during a specific
+time period. See also budget at completion (BAC), earned value (EV), estimate at completion (EAC),
+estimate to complete (ETC), and planned value (PV). |
+adaptive approach. A development approach in which the requirements are subject to a high level
+of uncertainty and volatility and are likely to change throughout the project.
+agile. A term used to describe a mindset of values and principles as set forth in the Manifesto for Agile
+Software Development.
+ambiguity. A state of being unclear, having difficulty in identifying the cause of events, or having
+multiple options from which to choose.
+artifact. A document or other item created during a portfolio, program, or project to help manage it
+and provide information to the project team, stakeholders, and management.
+assumption. A factor in the planning process considered to be true, real, or certain, without proof or
+demonstration.
+authority. The right to apply project resources, expend funds, make decisions, or give approvals.
+baseline. The approved version of a work product that can be changed using formal change control
+procedures and is used as the basis for comparison to actual results.
+benefit. A gain or asset realized by the organization and other stakeholders as the result of
+outcomes delivered.
+bid documents. All documents used to solicit information, quotations, or proposals from prospective
+sellers.
+bidder conference. Meetings with prospective sellers prior to the preparation of a bid or proposal
+Also know alla spective conderences, vener on terences, or perstad confer the procurement.
+265
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

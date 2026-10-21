@@ -1,0 +1,52 @@
+Purpose
+What is the intent of this project?
+Why are we doing this project?
+Scope/Requirements
+Objective
+Project Approval Requirements
+What constitutes project success, who
+ecides if the project is successful, and w
+proves the project
+Assumptions/Constraints
+Scope/Deliverables
+Scope Exclusion
+Resources
+What resources do we need in this project?
+Milestones
+Project Phases
+Stakeholders
+Who has an interest in the success of the project?
+In what way are they involved in the project?
+Users
+Who will benefit from the outcome of the project?
+Team
+Percentage of who are the participants?
+Percentage of who is the project manager?
+Percentage of what other roles are present in
+the team?
+Risks
+Which risks may occur during the project?
+How do we treat these risks?
+Lessons Learned
+Figure 5-15. Project Canvas Example
+managers and teams capture, organize, and communicate essential project information in a clear
+and concise manner. The project canvas typically includes various sections that cover different
+aspects of the project such as objectives, stakeholders, deliverables, resources, risks, and
+The project canvas offers a visual representation of the project, making it easier to understand and
+communicate the project's scope and key components. By presenting information visually, the project
+:anvas allows team members and stakeholders to quickly grasp the overall picture and see how
+different elements of the project interconnect. This visual approach is particularly useful in complex
+projects where multiple factors should be considered simultaneously.
+One of the main advantages of a project canvas is that it provides a comprehensive overview of
+the project. The project canvas includes sections for project objectives, stakeholders, deliverables,
+resources, risks, and timelines, ensuring that all critical aspects of the project are captured in one
+place. This holistic view helps project managers to identify potential gaps or issues early on and to
+plan more effectively.
+The project canvas also serves as a powerful collaboration tool. By providing a common platform for
+discussing and aligning on project details, it facilitates communication and collaboration among tean
+members and stakeholders. This collaborative approach helps ensure that everyone involved in the
+project has a shared understanding of its goals, scope, and key components, which can lead to better
+decision-making and more successful project outcomes.
+Section 5 - Tools and Techniques
+189
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

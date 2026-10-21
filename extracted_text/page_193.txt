@@ -1,0 +1,43 @@
+Updating resource allocations requires knowing what actual resources have been used to date
+and what is still needed. This task is done mainly by reviewing the performance usage to date. The
+Monitor and Control Resourcing process is concerned with:
+• Monitoring resource expenditures,
+• Identifying and dealing with resource shortages and surpluses in a timely manner,
+• Ensuring that resources are used and released according to the plan and project needs,
+• Informing appropriate stakeholders if any issues arise with relevant resources,
+• Influencing the factors that can create resource utilization changes, and
+• Managing the actual changes as they occur.
+he Monitor and Control Resourcing techniques discussed here are those used most frequently or
+roiects implementing a predictive approach. There are many others that mav be useful on certai
+projects or in some application areas. Failing to manage and control resources efficiently is a risk to
+successful project completion. For example, the following may occur:
+• Failing to secure critical equipment or infrastructure on time may result in delays in the
+manufacture of the final product.
+• Ordering low-quality materials may damage the quality of the product, causing a high rate
+of recalls or rework.
+• Keeping too much inventory may result in high operational costs and reduce the
+organization's profit. Conversely, an unacceptably low inventory level could hinder the
+ability to satisfy customer demand and, again, reduce the organization's profit.
+2.6.3 Tailoring Considerations
+Given the uniqueness of each project, activities and processes within the Resources performance
+domain may be tailored to align with the project's specific requirements, constraints, and stakeholder
+expectations. Considerations for tailoring include but are not limited to the following:
+• Development approach selection. Leadership styles are tailored to meet the needs of the
+roject, environment, and stakeholders. Organizations and project teams with experience
+in a specific type of project may be more self-managing and require less leadership. Wher
+a project is new to an organization, the tendency is to provide more oversight and use a
+more direct leadership style.
+• In a predictive development approach, resource management is typically planned and
+structured in advance. Tailoring in this context involves defining resource requirements
+early in the project and allocating them based on the project schedule. This effort
+includes identifying all necessary skills and resources, creating a detailed resource
+management plan, and ensuring resource availability throughout the project.
+• In an adaptive development approach, projects with high variability benefit from team
+structures that maximize focus and collaboration, such as self-organizing teams with
+generalizing specialists. Collaboration is intended to boost productivity and facilitate
+innovative problem-solving. Collaborative teams may facilitate accelerated integration
+of distinct work activities, improve communication, increase knowledge sharing, and
+provide flexibility of work assignments in addition to other advantages. Although the
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

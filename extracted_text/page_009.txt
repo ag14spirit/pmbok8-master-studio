@@ -1,0 +1,35 @@
+Update of Key Terms and Concepts
+This edition presents updated definitions of key terms and concepts, such as the core definitions
+for project, project management, and others. These updates are based on shifts in marketplace
+expectations encountered by portfolio, program, and project practitioners. While some of these shifts
+are recent, others accumulated over the last decade or longer. Shifts that motivate these updates
+include but are not limited to the following:
+• Timeliness. Some of the key terms and concepts have not been updated in more than
+40 years. In that time, the discipline of project management has meaningfully expanded
+and matured to merit updates.
+• Global accessibility. The project management community is more global than ever before.
+The language used in some of the historical definitions has been unfriendly to international
+translation and nonnative English speakers.
+• Focus on value. Earlier understandings of project management focused on efficient
+elivery of work within constraints (e.g., scope, schedule, compliance, quality). However, th
+Irrent marketplace expects project management to address an expanding set of concep
+including the project's value proposition.
+Refined Principles
+This edition defines six project management principles that guide effective practice. These six
+principles are the result of a community-driven simplification of the principles defined in the previous
+edition's 12 principles. In the eighth edition, principles have been refined to be more actionable, and
+consolidated to minimize overlap, duplication, and confusion.
+Additional details on the refinement of the project management principles can be found in
+Appendix X5: Evolution of the PMBOK® Guide.
+Reintroducing Process Groups as Focus Areas
+This edition presents five Project Management Focus Areas: Initiating, Planning, Executing,
+Monitoring and Controlling, and Closing. Most projects feature a life cycle that involves actions and
+activities related to these Focus Areas.
+Historically, these five Focus Areas were presented as logical categories of formal project
+management processes, known as the Project Management Process Groups. In contrast, today's
+projects often satisfy these five concepts through the use of multiple approaches. In addition to
+formal processes, project life cycles are often managed by informal practices and/or flexible policies
+as well. As such, these historical Process Groups have been reimagined as Focus Areas.
+viii
+Preface
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

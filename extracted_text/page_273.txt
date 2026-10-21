@@ -1,0 +1,38 @@
+for modification or removal. The project team determines which dependencies are
+discretionary during the process of sequencing the activities.
+• External dependencies. External dependencies involve a relationship between project
+activities and non-project activities. These dependencies are usually outside of the project
+of sequencing the activities.
+• Internal dependencies. Internal dependencies involve a precedence relationship between
+project activities and are generally inside the project team's control. For example, if
+the team cannot test a machine until they assemble it, there is an internal mandatory
+dependency. The project management team determines which dependencies are internal
+during the process of sequencing the activities.
+Design thinking. Design thinking is a nonlinear, iterative process that teams use to understand
+users, challenge assumptions, redefine problems, and create innovative solutions to prototype and
+test. Design thinking is a human-centered needs analysis process, popularly used for new product
+development projects. The process encourages collaboration and the exploration of different ideas
+with a focus on customer experience, and is performed using several iterative activities such as
+defining the problem, ideating options, prototyping, and testing.
+Distributed management and leadership. This management structure emphasizes teamwork
+and empowered individuals. As opposed to centralized management and leadership, a distributed
+management and leadership structure means that decision-making and authority are decentralized
+and distributed among various individuals and teams. Sometimes project management activities
+are shared among a project management team, and project team members are responsible for
+completing the work. There are also situations where a project team may self-organize to complete
+a project. Rather than having a designated project manager, someone within the project team may
+serve as facilitator to enable communication, collaboration, and engagement. This role may shift
+among project team members. See also centralized management and leadership.
+Document analysis. Document analysis consists of reviewing and assessing any relevant
+documented information. There is a wide range of documents that may be analyzed. Examples of
+documents that may be analyzed include but are not limited to the following:
+• Agreements and contracts;
+• Business plans, processes, or interface documentation;
+• Business rules repositories;
+• Current process flows;
+• Marketing literature;
+• Plans, assumptions, constraints, historical files, and technical documentation;
+• Problem/issue logs;
+Policies and procedures;
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,51 @@
+Table 2-8. Check Outcomes-Finance Performance Domain
+Outcome
+The project contributes to business
+objectives and the advancement of
+strategy (value maximization).
+Project completeness is within or
+below budget.
+Project deliverables are validated
+according to the plan.
+Value is created as an investment or
+as a different kind of value from the
+financial perspective.
+Financial visibility is achieved.
+Check
+Check parameters such as return on investment (ROI) (metric), net
+present value (NPV) (metric), internal rate of return (IRR) (metric),
+ost-benefit analysis, key performance indicators (KPIs), objective
+ind key results (OKRs), CapEx, and OpE
+Check the variance analysis with metrics such as cost
+variance (CV) and cost performance index (CPI), as well as the
+accomplishment of financial targets with the vendors based on the
+signed contract.
+Apply earned value management (EVM) and check other metrics as
+defined by the organization.
+Use different metrics to be measured as project success based on
+what is defined in the project success criteria for the project; for
+instance, the investment or potential value in the future.
+Use tools such as trend analysis or graphical analysis and perform
+forecasting.
+2.5 Stakeholders Performance Domain
+The Stakeholders performance domain addresses the processes and tools related to stakeholder
+engagement, starting from the identification of stakeholders through the monitoring of their
+engagement during the whole life cycle of the project. The project sponsor, team members, and
+all the people impacted by—or who feel they may be impacted by-the project are considered as
+takeholders. This performance domain is closely linked to communications management. Among
+ther abilities, some key skills to develop in this performance domain are negotiation and conflic
+Internal and external stakeholders include individuals, groups, and organizations (see Figure 2-31).
+project can nave a small group of stakeholders or potentially millions of stakeholders. There ma
+different stakeholders in different phases of the project, and the influence, power, or interests
+stakeholders may change as the project unfolds.
+Effective stakeholder identification, analysis, and engagement includes stakeholders who are
+either internal or external to the organization, those who are supportive of the project, those who
+are neutral, and opponents, who are not supportive of the project. The activities of identification
+prioritization, and engagement should be reviewed and updated routinely, or at least when the
+project progresses through phases. While having relevant technical project management skills is an
+important aspect to delivering successful projects, possessing the interpersonal and leadership skills
+to work effectively with stakeholders is just as important, if not more so.
+Section
+2 - Project Management Performance Domains
+67
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,48 @@
+Additionally, it is essential to assess whether the governance and integration in adaptive projects
+will lean toward self-governing teams and a total-quality approach. Determining whether and how
+a project management office should be involved is another critical step. Deciding if the team will
+establish a governance board and identifying which committees or stakeholders should be involved
+are further considerations to help tailor the governance approach to fit the specific needs and
+context of the project.
+Guided self-governance. Agile or adaptive projects are designed to be self-governing
+meaning that the teams involved have the autonomy to make decisions and manage their
+work without heavy bureaucracy and oversight. Instead, these teams manage their work
+with light governance and clear-set boundaries and guardrails. In this way, agile teams
+are empowered to make decisions about their work processes, priorities, and problem-
+solving approaches-essentially, self-governance. Additionally, successful agile teams are
+comfortable with uncertainty and are willing to engage in collaborative decision-making.
+This collaboration involves facilitating open discussions, exploring differing opinions, and
+using constructive feedback to navigate through unknowns together. As an example, the
+practice of daily coordination meetings helps ensure teams maintain focus and alignment
+and serves as a self-governing mechanism toward that end. Adaptive teams operate
+with autonomy, leveraging iterative planning, collaborative decision-making, and focused
+communication to drive continuous improvement, which can lead to successful self-
+governance.
+Project life cycle adaptations. Governance should also be tailored to be appropriate for
+predictive, adaptive, and hybrid life cycles. This tailoring involves a continuous and iterative
+process of adapting the approach, governance, and processes to suit the unique objectives,
+stakeholders, and complexity of the environment. Such deliberate adaptation aims to
+maximize value, manage constraints, and improve performance by using "just enough"
+processes, methods, templates, and artifacts to achieve the desired project outcomes.
+For projects that apply lean/agile approaches, governance may be provided by the project
+team only in the artifacts and events of the project. Predictive projects may have heavier
+governance requirements due to internal and external constraints. Project managers
+should tailor the appropriate framework to enable flexibility and consistently produce
+positive outcomes within the project's life cycle context. Factors such as the business
+environment, regulatory requirements, need for innovation, market conditions, team size,
+degree of uncertainty, and project complexity play a crucial role in how project systems are
+tailored. Additionally, organizations with established process governance should ensure
+that tailoring aligns with policy and strategy. The Disciplined Agile® (DA°) tool kit offers
+further guidance on lean/agile governance.
+2.1.7.1 Examples
+The following are three examples of how these considerations might be applied:
+Example 1. A project may or may not be governed by a project management office
+(PMO). Thus, project managers should ensure that their governing approach is focused
+on delivering maximum value. In a small organization, the project manager may make
+decisions regarding project governance with other key leaders, while a project manager
+with access to a PMO in a large organization may partner with PMO leadership and/or other
+portfolio, program, and project managers to help ensure that a project is appropriately
+governed to achieve strategic alignment and deliver value.
+34
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

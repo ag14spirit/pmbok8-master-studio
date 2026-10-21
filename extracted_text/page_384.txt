@@ -1,0 +1,89 @@
+Checklists, 151
+Circle chart, 162
+Claims administration, 252-254
+Classic risk, 93
+cognitivate problem-solve (conflict resolution
+technique), 157
+Commercial databases, 120
+Commercial risk, 135
+Communication
+active listening, 145
+Al used in, 75, 242
+in conflict management, 179
+with customers, 234
+during daily coordination meetings, 162
+of explicit knowledge, 24
+methods of, 152-153
+models of, 153-155
+monitoring, 77
+nonverbal, 184
+nuanced, 254
+open, 86
+project canvas and, 189
+skills for, 155
+with stakeholders, 68, 69, 72, 73, 75, 145
+of tacit knowledge, 24-25
+in virtual team environment, 212
+Communication competence, 152
+Communication requirements analysis, 155
+Communications management, 69, 72, 73, 75
+Communications management plan, 117-118
+Communications management plan updates, 118
+Communication styles assessment, 155
+Communication technology, 155-156
+Confidentiality, 156, 254
+Configuration management activities, 151
+Configuration management plan, 118
+Confirmation bias, 28
+Conflict management, 156-157, 179
+Conformance, cost of, 158-159
+Constraints
+analysis of, 147-148
+in backlog management, 149
+financial, 59-60
+and float, 161
+in human resources, 66
+log of, 114
+in resource acquisition, 83
+theory of, 206
+Constructive cost model (COCOMO), 157
+Contingency reserves, 60, 102, 192, 202, 204
+Contingent response strategies, 157-158
+Continuous data, 163
+Continuous improvement, 35, 146, 158
+among organizations, 18
+client, 123
+completing, 32
+in procurement, 183, 246, 250-252
+sourcing strategy plans and, 20-21
+types of, 250-252
+Contract management, 246, 252
+Contribution, by stakeholders, 200
+Control charts, 158
+Control thresholds, 121
+Copyright, 243
+Correlation, 14, 28, 197
+Cost(s)
+actual, 118, 169, 206, 207
+critical path drag, 160
+least, 249
+of training, 210
+Cost aggregation, 158
+Cost baseline
+changing, 60
+and contingency reserve, 60, 61
+definition of, 60, 118
+establishing, 64
+and funding requirements, 126
+revised, 118
+updates, 118-119
+Cost-benefit analysis, 158
+Cost estimates, 119
+constructive cost model for, 157
+cost aggregation as, 158
+multipoint, 183
+parametric, 184
+process of, 62-63
+Index
+279
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

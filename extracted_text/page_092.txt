@@ -1,0 +1,46 @@
+4.4 Delivery Cadence
+Based on the selected development approach, projects can have a single delivery, multiple deliveries,
+periodic deliveries, or continuous deliveries.
+• Single delivery. Projects that have a single delivery produce all outcomes at the end of the
+project. For example, a process-reengineering project may not have any deliveries until
+near the end of the project when the new process is rolled out.
+• Multiple deliveries. Some projects have multiple deliveries. A project may have multiple
+components or elaborations delivered at different times throughout the project. For example,
+a project to develop a new drug may have multiple deliveries, such as preclinical submissions
+Phase 1 clinical trial results (safety, side effects, optimal dose, and timing), Phase 2 clinical
+trial results (effectiveness for 100-300 human volunteers), Phase 3 clinical trial results
+(tests efficacy against standard treatments), registration and regulatory approval, and then
+launch. In this example, the deliveries are sequential. Some projects have deliveries that are
+developed separately rather than sequentially, such as a project to update building security,
+as many tasks can be performed in parallel. Deliveries may include physical barriers to entry,
+new badges, new key code pads, and so forth. Each of these is a separate delivery, but few,
+if any of them, need to follow a specific order. In all cases, however, the deliveries should be
+concluded in order to meet or exceed the target business objectives.
+• Periodic deliveries. Commonly used in adaptive approaches, periodic deliveries are like
+nultiple deliveries but are on a regular and fixed delivery schedule such as monthly or
+semimonthly. A new software application may have internal deliveries every 2 weeks and
+then periodically release the deliveries into the market.
+• Continuous delivery. Continuous delivery is the practice of incrementally delivering
+value to production on an ongoing basis. This approach focuses on delivering tested and
+validated product increments, ensuring they are production-ready at all times. By leveraging
+automation and maintaining a continuous flow from backlog prioritization through iterative
+development and testing, teams can deploy frequently and efficiently while minimizing
+risks. Continuous delivery fosters responsiveness to customer feedback and evolving
+market trends, allowing organizations to iterate quickly and provide regular updates without
+introducing unnecessary deployment overheads.
+4.5 Project Management Focus Areas
+This standard describes the fundamental actions that take place over the course of any project,
+regardless of whether the project follows a predictive, adaptive, or hybrid approach. These project
+management actions are grouped into five Project Management Focus Areas:
+• Initiating.
+Planning,
+•
+Executing,
+• Monitoring and Controlling, and
+• Closing.
+These Focus Areas are implemented using formal processes, informal practices, or other policies,
+rocedures, or techniques. The areas can involve iterative, continuous, and/or overlapping action:
+hat are performed when planned or needed during the project and/or in each phase of the projec
+Section 4 - Project Life Cycles
+69
+Licensed To: George Shubitidze PM Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

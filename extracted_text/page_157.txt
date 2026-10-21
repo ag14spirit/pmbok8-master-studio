@@ -1,0 +1,46 @@
+• Step 3: Estimate effort and duration. Estimating effort and duration is about determining
+the number of work periods (hours, days, weeks, or other) needed to complete individual
+activities with estimated resources. The key benefit of this process is that it provides the
+amount of time and effort each activity will take to complete.
+• Estimating effort and duration uses information from the scope of work, required
+resource types or skill levels, estimated resource quantities, and resource calendars.
+(For more information, see the Scope performance domain in Section 2.2 and the
+Resources performance domain in Section 2.6). The estimates can be based on the
+following techniques:
+• Expert judgment,
+• Delphi technique,
+• Analogous estimating,
+• Parametric estimating,
+• Program evaluation and review technique (PERT),
+• Bottom-up estimating,
+• Planning poker,
+• Story points,
+• T-shirt sizing, and
+• Many others.
+Factors that may influence the duration estimates include constraints imposed on the
+duration, effort involved, or type of resources (e.g., fixed duration, fixed effort or work,
+fixed number of resources, the experience of the team executing the activity, and the
+risk involved in the activity), as well as the schedule network analysis technique used.
+The inputs for the estimates of duration originate from the person or group on the
+project team that is most familiar with the nature of the work for the specific activity.
+•
+The duration estimate is progressively elaborated, and the process considers the
+quality and availability of the input data. For example, as more detailed and precise
+data are available about the project engineering and design work, the accuracy and
+quality of the duration estimates may improve.
+•
+Estimating effort and duration requires an estimation of the amount of work effort
+required to complete the activity as well as the estimated number of available
+resources. These estimates are used to approximate the number of work periods
+(activity duration) needed to complete the activity using the appropriate project and
+resource calendars.
+In many cases, the number of resources that are expected to be available to accomplish
+an activity, along with the skill proficiency levels of those resources, may determine the
+activity's duration. A change to a driving resource allocated to the activity will usually
+influence the duration.
+Sometimes, the intrinsic nature of the work (i.e., constraints imposed on the duratio
+fort involved, or number of resources) will take a predetermined amount of time
+complete, regardless of the resource allocation (e.g., a 24-hour stress test).
+52
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

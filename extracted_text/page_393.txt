@@ -1,0 +1,108 @@
+Project life cycle
+adaptations to, 34
+schedule and, 55, 58
+scope and, 45
+tailoring, 104-105
+Project management information system (PMIS), 191
+Project management office (PMO), 233-236
+customer-centric, 234, 235
+maturity models of, 235-236
+overview of, 233
+roles of, 124, 233
+in tailoring, 107
+types and models of, 234-235
+value proposition of, 233-234
+oject management office (PMO) leader, '
+oject management performance domains, 7-'
+See also specific domains
+Project management plan
+content of, 18, 115, 126
+definition of, 126
+integrating, 10, 16, 18-19, 78
+Project management plan updates, 127
+Project manager(s). See also Leadership
+assessments by, 172
+authorization of, 17
+business documents provided by, 116
+in claims administration, 253
+conflict management by, 156
+contract types considered by, 250
+control limits used by, 158
+cultural intelligence of, 184
+decision-making by, 69
+emotional intelligence of, 170
+escalate strategy used by, 157, 202, 203-204
+in governance models, 12
+influencing skills of, 173
+in project closure, 32
+in project execution, 22
+recognition and rewards from, 192
+and resource acquisition, 83
+risk audit by, 148
+roles and responsibilities of, 79, 84, 89-90, 91
+test and inspection planning by, 205
+Project meetings, 162, 181
+Project organization charts, 134
+Project performance, 11, 16, 17, 26-28
+Project reporting, 191
+Project requirements, 131
+Project resilience, 94
+Project schedule, 47, 127. See also Schedule/
+scheduling
+project schedule never flagram, 48,127
+Project scope, 38. See also Scope performance domain
+decomposition of, 38, 140, 163-166
+defining, 41-42, 46
+developing structure of, 40, 42, 43
+monitoring and controlling, 40, 42-43, 143
+validating, 40, 44, 143
+Project scope description, 128
+Project scope statement, 128, 129, 140
+Project sponsor, 116
+Project team(s). See also Leadership
+adaptive, 34
+assessments of, 172
+attributes of, 56, 108-109
+charter for, 142
+collaboration tools for, 212
+colocation of members in, 151-15:
+critical thinking in, 177
+cultural intelligence of, 184
+culture of, 89
+decision-making in, 179
+development of, 84, 88-89, 134
+distributed management and, 168
+emotional intelligence of, 169
+engagement of, 69, 105
+experience of, 56
+governance and, 37
+ground rules for, 171
+high-performing, 86, 92
+maturity of members of, 90
+meetings for, 162, 181
+motivating, 177, 181
+negotiation among members of, 183
+performance assessments of, 142-143
+performance assignments for, 143
+productivity of, 92
+project canvas used by, 189
+recognition and rewards for members of, 192
+resilience of, 86, 102
+and resource acquisition, 83
+responsibilities of, in text-oriented formats, 205
+retrospectives for, 194-195
+Six Thinking Hats° technique for, 198-199
+size and geographical distribution of, 56
+team building for, 205
+team skills, 79, 174-175
+threat strategies used by, 203-204
+training for members of, 134, 210
+uncertainty and, 34, 102
+virtual, 90,212
+Project team assignments, 128
+Project team resource management, 134
+Project value. See Value
+Project vision, 176-177
+288
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

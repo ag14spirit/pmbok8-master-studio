@@ -1,0 +1,39 @@
+• Information technology systems. Examples include task management tools, cost
+management tools, scheduling software tools, configuration management systems, web
+interfaces to other online automated systems, and work authorization systems.
+• Resource availability. Examples include contracting and purchasing constraints, staffing
+levels or team capacity, and collaboration agreements.
+• Employee capability. Examples include existing human resources expertise, skills,
+competencies, and specialized knowledge.
+• Financial capability of the organization. Examples include external funding options and
+additional financial resources that may be required for projects.
+2.2.1.2 Enterprise Environmental Factors External to the Organization
+The following are examples of EEFs that are external to the organization:
+• Marketplace conditions. Examples include competitors, customer behavior, market share,
+brand recognition, and trademarks.
+• Social and cultural influences and issues. Examples include political climate, codes of
+conduct, ethics, and perceptions.
+• Legal restrictions. Examples include country or local laws and regulations related to
+security, data protection, business conduct, employment, and procurement.
+• Academic research. Examples include industry studies, publications, benchmarking
+'esults, empirical data that can inform decision-making, and emerging trends within th
+management field that could be insightful for project management.
+• Government or industry standards. Examples include regulatory agency regulations
+and standards related to products, production, environment, safety, quality, and
+workmanship.
+• Financial considerations. Examples include currency exchange rates, interest rates,
+inflation rates, tariffs, taxes, and geographic location.
+• Physical environmental elements. Examples include working conditions, weather, and
+constraints such as geopolitical issues.
+• Emerging technologies and innovations. Examples include advancements in artificial
+intelligence, automation, blockchain, and the Internet of Things (loT).
+• Public health and safety regulations. Examples include government-imposed health
+protocols, travel restrictions, quarantine measures, social distancing guidelines, and public
+safety mandates.
+2.2.2 Organizational Process Assets
+rganizational process assets may include any artifact, practice, or knowledge from any or al
+of the performing organizations involved in the project, which can be used to execute or gover
+Section
+2 - A System for Value Delivery
+19
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

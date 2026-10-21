@@ -1,0 +1,49 @@
+• Tools and Techniques. This section presents a brief description of the tools and techniques
+listed for project management activities and the processes presented throughout the project
+management performance domains. The elements listed in this section are neither intended
+to be comprehensive, nor required for any given project. Rather, they are offered as commonly
+used selections from among the countless options that project teams have available.
+1.2 Relationship of the PMBOK® Guide and The Standard for Project Management
+Work in the project management performance domains is guided by the principles of project
+management. As described in The Standard for Project Management [1], a principle is a fundamental
+norm, truth, or value that gives guidance for the project manager and project team. The principles of
+project management provide guidance for the mindset and behavior of people involved in projects
+as they influence and shape the performance domains to produce the intended outcomes. While
+there is conceptual overlap between the principles and the performance domains, the principles
+guide mindset and behavior, while the performance domains present broad areas of focus in
+which to demonstrate that mindset and behavior. Figure 1-1 shows how the project management
+principles create a foundation for the performance domains, providing guidance to processes in each
+performance domain.
+Stakeholders
+Finance
+Adopt
+Build an
+Empowered
+a Holistic
+View
+Culture
+Sustainability
+Integrate
+Within Al Project Areas
+Schedule
+Proactive
+Ownership
+Value-Driven
+Be an
+Accountable
+Leader
+Resources
+Value
+Embed Qually
+Into Processes
+and Deliverables
+Governance
+• Mindset and Behaviors
+• Principles
+• Performance Domains
+Scope
+Figure 1-1. Relationship Between Project Management Principles and Project Management
+Performance Domains
+4
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,33 @@
+Project document updates. The project document updates include updates to the project
+documents created throughout the five Project Management Focus Areas to initiate, plan, execute,
+monitor and control, and close the project before delivering it.
+Project funding requirements. The project funding requirements are the total funding
+requirements and periodic funding requirements (e.g., quarterly, annually) that are derived from the
+cost baseline. The cost baseline includes the projected expenditures plus the contingency reserves.
+Funding often occurs in incremental amounts and may not be evenly distributed (see Figure 4-1).
+The total funds required are those included in the cost baseline plus management reserves, if any.
+Funding requirements may include the source(s) of the funding. The budget at completion (BAC) IS
+the sum of all budgets established for the work to be performed.
+Project management plan. The project management plan is the document that describes how the
+project will be executed, monitored and controlled, and closed. The project management plan defines
+the basis for all project decisions and is a living document that can be expected to change over time.
+A project management plan typically consists of the following components: change management
+plan, communications management plan, financial management plan, iteration plan, procurement
+management plan, quality management plan, requirements management plan, release plan,
+resource management plan, risk management plan, schedule management plan, scope management
+plan, sourcing strategy plan, stakeholder engagement plan, and test plan. However, the project
+team or the organization may tailor the content of the project management plan to include only
+those elements that are most relevant to the specific project context, objectives, and organizational
+Project Budget
+Management Reserve 1
+Budget at
+Completion
+Cumulative Values
+Funding Requirements
+Expenditures
+Cost Baseline
+Time
+Figure 4-1. Cost Baseline, Expenditures, and Funding Requirements
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.
+^

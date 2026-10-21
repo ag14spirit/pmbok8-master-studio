@@ -1,0 +1,32 @@
+2.5.1.3 Technological Impact on Project Management
+Technological advancements significantly boost the efficiency and transparency of project
+anagement. For instance, tools that support task scheduling and resource allocation, automat
+epetitive tasks, create data visualization, assist in brainstorming, optimize schedules, and enhanc
+The advent of cloud computing and fast global internet access has revolutionized data storage and
+changes swiftly without significant delays.
+The project management team's function in leveraging these technologies may involve diligent
+planning, coordination, testing, or auditing to ensure that the selected technology serves the project's
+best interests. The project management team should ensure the accuracy of data and the neutrality
+of outputs, avoiding biases that could skew project results. By selecting appropriate technologies
+and continuously monitoring their integration and effectiveness, the project management team can
+safeguard the integrity and success of the project, thereby maintaining high standards of quality and
+reliability in project outcomes. However, in some organizations, the responsibility for technological
+impact and tool usage may be handled by the PMO instead of the project management team. As
+technology advances, the level of information security threats and cybersecurity concerns increases.
+It is the project management team and project manager's responsibility to be aligned with the
+organization's IT department to safeguard project information. For further details, see Appendix X2
+on PMOs.
+2.5.2 Sponsor, Customer, or Product Owner
+The project sponsor, customer (either internal or external), and product owner may provide decision
+leadership outside of the project management team's authority and power. Their active engagement
+and oversight support the project management team to drive project outcomes efficiently. These
+roles communicate the organization's vision, goals, or expectations to the project management team
+and project team, while keeping the project aligned with business objectives, facilitating executive-
+level decisions, helping to secure resources, advocating for the project team, and addressing issues
+or removing obstacles that are beyond the project management team's authority. These individuals
+are also critical for achieving project sustainability, as well as environmental, social, and governance
+(ESG) goals. The individuals in these roles should continuously monitor project progress and provide
+advice to the project management team as required so that the project's intended business benefits
+are realized.
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

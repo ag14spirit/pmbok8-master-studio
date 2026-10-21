@@ -1,0 +1,60 @@
+Elicit and Analyze Requirements -
+Inputs
+• Project charter
+• Agreements
+• Business case
+• Project documents
+- Assumption log
+- Lessons learned register
+- Stakeholder register
+• Project management plan
+- Requirements
+management plan
+- Scope management plan
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Decision-making
+• Data gathering
+- Benchmarking
+- Brainstorming
+- Focus groups
+- Interviews
+- Questionnaires and
+surveys
+• Data analysis
+- Document analysis
+• Data representation
+• Interpersonal and team
+skills
+- Nominal group
+• Design thinking
+• Prioritization/ranking
+• Meetings
+• Etc.
+Outputs
+• Requirements
+documentation
+• Etc.
+Figure 2-15. Elicit and Analyze Requirements Inputs, Tools and Techniques, and Outputs
+delivered to stakeholders. In an adaptive environment, the requirements are collected in the form of
+user stories that are then prioritized in a backlog. The key benefit of this process is that it provides
+direction and a starting point to define a product, service, or result that will add value to stakeholders
+(see Figure 2-15).
+2.2.2.3 Define Scope
+The objective of this process is to develop a detailed or high-level description of the project,
+product, and value expected to be delivered, as well as a quality management plan. This description
+may be done at the beginning of the project for predictive approaches or at the beginning of each
+iteration for adaptive and hybrid approaches. In predictive approaches, these deliverables should
+be structured in the WBS, whereas in adaptive approaches, these deliverables are progressively
+defined through a backlog. This process also identifies the quality requirements and standards
+for the deliverables, as well as determines how the project will demonstrate that the quality
+requirements are met. The key benefit of this process is that it helps ensure that the stakeholders
+and project team understand the value that will be delivered through a product, service, or result
+Section 2 - Project Management Performance Domains
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

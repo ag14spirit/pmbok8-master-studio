@@ -1,0 +1,44 @@
+• Client contract. Many projects are the result of a customer procurement effort, where the
+performing organization serves as a vendor to a sponsor organization. Procurement is a
+complementary discipline to project management and is further explored in Appendix X4.
+Issue log. An issue log is a project document where information about issues is recorded and monitored.
+Lessons learned register. A lessons learned register is a project document or repository used to
+record knowledge gained during a project, phase, or iteration so that it can be used to improve future
+performance for the team and the organization. Lessons learned from previous projects can be used
+in the current project and entered into the lessons learned repository.
+The lessons learned register may include the category and description of the situation. The register
+may also include the impacts, recommendations, and proposed actions associated with the situation.
+The lessons learned register records challenges, problems, realized risks and opportunities, or other
+content as appropriate.
+The lessons learned register is created as an output of the Manage Project Knowledge process
+early in the project. Thereafter it is used as an input and updated as an output in many processes
+hroughout the project. The persons or teams involved in the work are also involved in capturing
+he lessons learned. Knowledge can be documented using videos, pictures, audio, or other suitabl
+means that ensure the efficiency of the lessons captured.
+At the end of a project or phase, the information is transferred to an organizational process asset
+called a lessons learned repository.
+Lessons learned updates. Lessons learned updates refer to the process of capturing, documenting.
+nd integrating knowledge gained during a project to improve future performance. This effor
+volves identifying what went well, what did not, and how similar situations can be better manage
+in future projects.
+Make-or-buy analysis and decisions. Make-or-buy analysis is the decision-making process of
+gathering and organizing data about product requirements and analyzing them against available
+Iternatives, including the purchase or internal manufacture of the product. A make-or-buy analysi:
+esults in a make-or-buy decision as to whether particular work can be best accomplished by the
+project team or if it should be purchased from outside sources.
+Milestone list. A milestone list identifies all of the project milestones and indicates whether the
+milestone is mandatory, such as those required by contract, or optional, such as those based on historical
+information. Milestones have zero duration because they represent a significant point or event in a project.
+Organizational capabilities. Organizational capabilities include all of the organizational policies,
+ways of working, reporting structures, and attitudes that should be aligned to employ adaptive
+methods successfully, as organizational capabilities influence the development approach.
+Transitioning from predictive development approaches to adaptive approaches and then to
+sing agile methods is more than just stating that the organization has now become agile. Th
+ansition entails shifting the mindset starting at the executive level and continuing throughout th
+organization, as well as promoting and sustaining ongoing efforts to stay agile.
+Organizational process assets (OPAs). Organizational process assets are plans, processes, policies,
+procedures, regulations, and knowledge bases specific to and used by the performing organization.
+These assets influence the management of the project.
+Section 4 - Inputs and Outputs
+123
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

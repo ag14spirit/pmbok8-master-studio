@@ -1,0 +1,32 @@
+Appendix X3
+Artificial Intelligence
+X3.1 Artificial Intelligence in the Project Context
+Artificial intelligence (Al) describes a set of technologies that simulate human behavior on computers.
+This technology allows machines to perform tasks they were not directly programmed to do, learn
+from experiences, and adapt to new situations. Al has a broad range of applications, including
+pattern recognition, fraud detection, robotics, and the discovery of new drugs to combat diseases.
+The quick changes in the field of Al, and its rising potential, require great adaptability for staying
+current with new tools and in learning new ways of working.
+Advances in the Al field, such as the development of large language models (LLMs), have expanded its
+applicability while simplifying its adoption, bringing the technology to the mainstream. What was once
+a tool only available to experts or companies with abundant resources is now accessible with minimal
+manual intervention. In that sense, the technology has become so pervasive that every professional,
+including project professionals, should obtain a better understanding of Al to remain productive.
+Though Al's long-term impacts remain to be seen, it is already creating a major shift in most
+professions, increasing the productivity of the workforce and creating new job opportunities while
+possibly extinguishing others.
+A common classification of Al systems is described as follows and is shown in Figure X3-1:
+• Artificial intelligence (AI). Al is a broader term describing systems that can reason, learn,
+and act autonomously.
+• Machine learning (ML). ML is a subfield of Al that uses data to train neural network
+models, which can predict outputs based on previous inputs.
+• Deep learning (DL). DL is a more advanced ML type that relies on multilayered neural
+networks to extract features and make decisions. Deep learning often requires large data
+sets and significant computational resources.
+Generative Al (GenAl). GenAl is a subset of deep learning that applies large language
+models (LLMs) to create systems capable of generating new data such as text, speech,
+audio, pictures, and videos, among others.
+For the sake of simplification, this appendix refers to the broader term "Al," even if some of the use
+cases are built using more specific techniques such as GenAl.
+237
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

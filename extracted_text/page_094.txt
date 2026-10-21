@@ -1,0 +1,39 @@
+Project Boundaries
+Monitoring an
+ontrolling Processe
+Deliverables
+End
+Users
+Sponsor
+Business
+Documents
+Initiating
+Processes
+Closing
+Project Records
+Organizational
+Process Assets
+Figure 4-12. Project Boundaries
+may be required. In this context, planning can follow a progressive, iterative, or rolling wave approach
+according to the project phase or life cycle approach.
+Moreover, as project changes are encountered, update planning may be required at any appropriate
+moment of a project phase. This ongoing refinement of the project management plan is called
+progressive elaboration, indicating that planning is an iterative or ongoing activity. Highly predictive
+The key benefit of this Focus Area is to define the course of action for successfully completing the
+project or phase.
+When the initial planning effort is complete, the collection of knowledge and artifacts describing the
+course of action is often referred to as the project management plan. In some organizations, that
+plan is submitted for formal approval and used as the authoritative reference for how the project will
+be managed.
+Once the project management team is oriented to-and confident with-the course of action, they
+are ready to begin executing.?
+'Note that many project teams consider a simple, high-level roadmapping exercise as sufficient
+for the initial
+planning, especially in environments where the scope is expected to change
+significantly. As a result, the project team may consider a robust analysis of scope/schedule/
+cost trade-offs to be effectively useless; however, some discussion on how sensitive the project's
+value proposition is to schedule durations or specific dates can often be crucial, as can any
+sensitivity to exceeding an investment-cost threshold.
+Section 4 - Project Life Cycles
+71
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

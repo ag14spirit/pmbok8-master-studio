@@ -1,0 +1,28 @@
+register or scheduling plan with buffers. A project professional is expected to review the
+results to ensure they are accurate and complete.
+• Augmentation. Augmentation is the enhancement of existing capabilities and the
+through multiple iterations.
+X3.1.2 State of the Market
+X3.2 Common Use Cases
+Table X3-1 demonstrates how Al can significantly enhance various aspects of project management,
+including planning, controlling, stakeholder engagement, risk management, and strategic decision-
+making.
+Figure X3-2 presents some use cases classified by complexity and the need for human intervention.
+X3.3 Responsible Use and Ethical Concerns
+The use of Al in projects and organizations brings together associated benefits and risks that should
+be considered. On one hand, the use of Al may shift the daily work of project professionals from
+epetitive tasks to higher-level and more creative tasks. On the other hand, it is up to human beings t
+ake the related risks into account and make appropriate decisions regarding Al's use and potentia
+There are multiple ethical factors and risks that may play a critical role in the adoption of Al, particularly:
+• Bigori as they are sensultroduce bias themselves The risk or bias can be mitigated
+through different actions such as:
+• Diversification of the data sets on which the Al system is trained;
+• Periodic tests conducted on the Al system, with particular focus on bias; and
+• Involvement of different teams in the development of the Al system.
+• Privacy. Al systems use large data sets that can be sensitive and regulated by privacy
+Accountability. Al systems may be responsible for certain decisions, depending on the
+working arrangement. Ultimately, a human should be accountable for each decision, and
+this accountability should be clearly defined.
+Appendix X3
+239
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

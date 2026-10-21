@@ -1,0 +1,48 @@
+Operations play a critical role in supporting and influencing portfolios, programs, and projects, as
+well as essential business functions such as payroll and supply chain management. At the same
+time, portfolios, programs, projects, and products interact dynamically, shaping and influencing one
+another to drive strategic outcomes.
+As shown in Figure 2-2, a system for value delivery is part of an organization's internal environment
+that is subject to policies, procedures, methodologies, frameworks, governance structures, and so
+forth. That internal environment exists within the larger external environment, which includes the
+economy, competitive environment, legislative constraints, etc. Section 2.2 provides more detail on
+internal and external environments.
+The components in a value delivery system create deliverables used to produce outcomes. An
+outcome is the end result or consequence of a process or project. Focusing on outcomes, possible
+alternatives, and strategic decisions emphasizes the long-term performance of the project. The
+outcomes create benefits, which are positive effects realized by the organization, and may also create
+disbenefits, which are negative consequences or losses. Benefits, in turn, create value, which is
+something of worth, importance, or usefulness. Because all projects are investments, their expected
+value-whether financial or nonfinancial —should meet or exceed target thresholds in order to justify
+the investment in the first place.
+A value delivery system works most effectively when information and feedback are shared consistently
+among all components, keeping the system aligned with strategy and attuned to the environment.
+Figure 2-3 demonstrates an example of how information flows effectively throughout the system.
+2.1.2 Assessing Project Success
+The assessment of project success requires the evaluation of two important dimensions: the success
+of preet outers and the success of priet mintendent lue esses, Ting rst dis valse reticuses
+depends on the nature of the product and the project—it can occur during the project, immediately
+Strategy
+Desired outcomes,
+benefits, and value
+Deliverables with support
+and maintenance information
+Senior
+Leadership
+Portfolios
+Programs
+and Projects
+Operations
+and Products
+Portfolio performance
+information
+Performance information
+and progress
+Outcomes, benefits, value performance analysis
+Information for updates,
+fixes, and adjustments
+Figure 2-3. Example Information Flow
+16
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.
+^

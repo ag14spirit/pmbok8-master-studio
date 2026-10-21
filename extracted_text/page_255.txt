@@ -1,0 +1,45 @@
+• Individual brainstorming encourages creative thinking and includes techniques such as:
+• Free writing. A time-based writing session when people generate ideas and write until
+an alarm sounds, ignoring grammar and spelling;
+• Word association. Creating a list of words and relating them to a topic, which
+stimulates the development of numerous creative and unconventional ideas; and
+• Spiderwebs. Visual note-taking that diagrams the process of thought, where one idea
+can stimulate other related ideas.
+• Mind mapping. See mind mapping. (
+• Reverse brainstorming is a brainstorming technique used by teams to create ideas about
+how to make a problem worse instead of solving it, which may help to identify the root
+cause of a problem.
+• Round-robin is a brainstorming technique where everyone within the team takes a turn to
+generate and develop ideas.
+• Starbursting is a brainstorming technique with a main goal of creating a list of questions
+related to an idea or an issue from different angles. The star has six points, each
+representing a different question: who, what, when, where, why, and how.
+• SWOT (strengths, weaknesses, opportunities, threats) analysis. See SWOT analysis.
+• Five whys analysis is an iterative brainstorming technique that repeatedly asks "why" in
+order to get beyond symptoms and get to the root cause of the problem.
+Branch and bound. The branch and bound technique is a minimal path to the optimal solution
+for a given problem. Branch and bound is an optimization problem-solving method that involves
+breaking down a problem into smaller subproblems and using bounding functions to eliminate any
+subproblems that do not contain the optimal solution. This technique could be used for project
+scheduling by systematically exploring and pruning potential schedules to find an optimal sequence
+of tasks that minimizes project completion time while satisfying all constraints.
+Burndown chart. A burndown chart is a graphical representation of the work remaining versus the
+time left in a timebox. See also iteration burndown chart.
+Burnup chart. A burnup chart is a graphical representation of the work completed toward a milestone.
+Burnup charts are used mostly within adaptive development approaches to show project progress over
+time. The chart tracks the amount of work to be completed as a straight line across the top of the graph.
+The work completed starts at zero and increases as more work is completed. See also visual controls.
+Cause-and-effect diagram. A cause-and effect diagram is a visual representation that helps trace
+an effect back to its root cause. A cause-and-effect diagram may also be known as a fishbone or
+Ishikawa diagram. This type of diagram breaks down the causes of the problem statement identified
+into discrete branches, helping to identify the main or root cause of the problem.
+entralized management and leadership. While leadership activities should be practiced b
+I proiect team members, management activities mav be centralized or distributed. Centralize
+management and leadership is a management structure that consists of top-down leadership
+and instructions for decision implementation for other levels of management. As opposed to
+mplementing distributed management and leadership, a centralized management and leadership
+structure means that the decision-making and authority are centralized within top management
+150
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

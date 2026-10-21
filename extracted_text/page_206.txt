@@ -1,0 +1,37 @@
+• Exploring complementary techniques in risk identification and analysis. Utilize
+advanced techniques like generative artificial intelligence (GenAl) and data analytics for
+comprehensive risk identification and analysis.
+• Necessity for resilience planning. Prepare for major disruptions with scenario planning
+and ensure alignment with the organization's business continuity or emergency response
+2.7.3.1 Examples
+The following are two examples of how these considerations might be applied:
+• Example 1. A renewable energy project team may focus on large-scale solar power plant
+construction to meet a company's sustainability objectives. The risk management process
+should be tailored to include specific actions to significantly advance the organization's
+Example 2. A project with an agile life cycle may involve developing a new software
+application to meet rapidly changing market demands. Thus, to tailor risk management for
+this development approach, the project team conducts risk assessments at the beginning
+of each sprint instead of only during the initial planning phase. This adjustment allows the
+team to quickly identify and address emerging risks, ensuring flexibility and responsiveness.
+Additionally, regular risk review meetings are held with stakeholders at the end of each
+iteration to incorporate their feedback and adjust risk strategies accordingly. The frequent,
+iterative risk management process and risk-adjusted backlogs help maintain alignment with
+the project's dynamic requirements and stakeholder expectations.
+2.7.4 Interactions With Other Domains
+The Risk performance domain is closely interrelated with the Scope, Schedule, Finance, and
+Stakeholders performance domains.
+Stakeholders are critical sources of information regarding risks and uncertainty. They provide insights
+about potential risks, suggest risk assessment methods, and assist in managing uncertainties.
+Effective stakeholder engagement and communication can help ensure that risk management
+processes align with stakeholder expectations and can assist with proactively addressing concerns.
+The Scope, Schedule, and Finance performance domains are also crucial areas of interaction. In
+predictive projects with stable scopes, schedule reserves help manage identified risks and maintain
+timelines. In adaptive projects with evolving requirements, the team should adjust plans to address
+new risks and uncertainties. Risks can impact the project scope, either increasing or decreasing it,
+which in turn affects the schedule and budget. Additionally, the Finance performance domain is
+rectlv influenced by risk management, with internal projects experiencing increased or decrease
+sts, and external projects facing potential revenue generation or loss. Effective risk manageme
+Section
+2 - Project Management Performance Domains
+101
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

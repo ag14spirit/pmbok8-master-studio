@@ -1,0 +1,24 @@
+1.3 Changes to the PMBOK® Guide
+This edition of the PMBOK® Guide focuses on delivering outcomes regardless of the approach used by
+the project team. However, project practitioners using the PMBOK® Guide also benefit from some level
+of understanding of how to deliver projects.
+This eighth edition takes the best parts of previous editions of the PMBOK® Guide to offer project
+managers a more practical and complete framework. The detailed, process-oriented approach of
+performance domain structure. This combined approach provides both a thorough understanding
+of individual processes and a broader view of how those processes interact to produce the desired
+project results. This approach makes the guide more adaptable and useful for project managers
+using a variety of approaches and working in diverse situations.
+Tailoring is the deliberate adaptation of the project management approach, governance, and
+processes to make them more suitable for a given environment (environmental factors include
+dustry, culture, regulations, etc.) and fit for the purpose of the work at hand. The tailoring proces:
+› driven by the guiding project management principles, organizational values, and organizationa
+culture. This guide preserves tailoring guidance from the previous edition while also adding tailoring
+considerations for each project management performance domain.
+In embracing the full spectrum of project management approaches, this edition of the PMBOK® Guide
+recognizes that no publication can capture every tool, technique, process, or practice that project teams
+might use. Therefore, this edition presents an array of commonly used good practices, activities, and
+processes that project practitioners can use to accomplish their work. These practices and processes
+are able to fit most projects most of the time.
+Section 1 - Introduction
+5
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

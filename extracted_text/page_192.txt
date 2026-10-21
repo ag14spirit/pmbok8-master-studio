@@ -1,0 +1,79 @@
+2.6.2.5 Monitor and Control Resourcing
+The Monitor and Control Resourcing process helps ensure that the physical or virtual resources
+assigned and allocated to the project are available as planned. The process also monitors the
+planned versus actual use of physical or virtual resources and performs corrective actions as
+necessary. The key benefit of this process is ensuring that the assigned physical or virtual resources
+are available to the project at the right time and in the right place and are released when no longer
+needed (see Figure 2-45).
+The Monitor and Control Resourcing process should be performed continuously in all project phases
+and throughout the project life cycle. The resources needed for the project should be assigned and
+released at the right time, right place, and in the right amount for the project to continue without
+delays. The Monitor and Control Resourcing process is concerned with physical and virtual resources
+such as equipment, materials, supplies, facilities, infrastructure, software, testing environments,
+licenses, services, or any other relevant resources. Team members are addressed in the Lead the
+Team process. Usually, work performance information is intended for assessing resource usage
+in the project status. However, it is common practice to assess individual performance based on
+work performance information. For assessing team performance, see the Lead the Team process in
+Section 2.6.2.4.
+Monitor and Control Resourcing
+Inputs
+• Project management plan
+- Resource management
+plan
+• Project documents
+- Issue log
+- Lessons learned register
+- Physical or virtual resource
+assignments
+- Project schedule
+- Resource breakdown
+structure
+- Risk register
+• Work performance data
+• Agreements
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Data analysis
+- Alternative analysis
+- Cost-benefit analysis
+- Performance reviews
+- Trend analysis
+• Problem-solving
+• Interpersonal and team skills
+- Negotiation
+- Influencing
+• Project management
+information system
+• Value stream mapping
+• Continuous improvement
+• Theory of constraints
+• Control charts
+• Branch and bound
+• Etc.
+Outputs
+• Work performance information
+• Change requests
+• Project management plan
+updates
+- Resource management
+plan
+- Schedule baseline
+- Cost baseline
+• Project document updates
+- Assumption log
+- Issue log
+- Lessons learned register
+- Physical resource
+assignments
+- Resource breakdown
+structure
+- Risk register
+• Etc.
+////
+Figure 2-45. Monitor and Control Resourcing Inputs, Tools and Techniques, and Outputs
+Section 2 - Project Management Performance Domains
+87
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

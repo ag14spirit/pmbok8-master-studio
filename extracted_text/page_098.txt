@@ -1,0 +1,11 @@
+References
+[1] Project Management Institute (PMI). (2024). PMI Lexicon of Project Management Terms-Version
+4.0. PMl. https://www.pmi.org/standards/lexicon
+[2] Project Management Institute (PMI). (2025). A Guide to the Project Management Body of Knowledge
+(PMBOK® Guide)-Eighth edition. PMI.
+[3] Disciplined Agile® (DA®). (n.d.). Foundation for Business Agility. Project Management Institute (PMI).
+https://www.pmi.org/disciplined-agile/
+[4] Disciplined Agile® (DA°). (n.d.). Hybrid Life Cycles. Project Management Institute (PI). https://www
+.pmi.org/disciplined-agile/serial/hybridlifecycles
+75
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

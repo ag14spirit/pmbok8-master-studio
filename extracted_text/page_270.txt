@@ -1,0 +1,69 @@
+1.1
+Needs
+Assessment
+1.0
+Value Management
+System Project
+1.2
+Standards
+Development
+1.3
+Systems
+Engineering
+1.4
+Project
+Management
+1.1.1
+Current System
+Audit
+1.1.2
+Requirements
+Determination
+1.1.3
+Alternatives
+Development
+1.1.4
+System Requirements
+Development
+1.1.1.1
+Components
+Identification
+1.1.1.2
+Components
+Analysis
+1.1.2.1
+Gap
+Assessment
+1.1.2.2
+Requirements
+Changes Identification
+1.1.3.1
+Alternatives
+Identification
+1.1.3.2
+Alternative
+Analysis
+Note: The WBS is illustrative only. It is not intended to represent the full project scope of any specific project, nor to imply that this
+is the only way to organize a WBS on this type of project.
+Figure 5-6. Sample WBS Decomposed Down Through Work Packages
+A WBS structure may be created through various approaches. Some of the popular methods include
+the top-down approach, the use of organization-specific guidelines, and the use of WBS templates.
+A bottom-up approach can be used to group subcomponents. The WBS structure can be represented
+in various forms, such as:
+• Using phases of the project life cycle as the second level of decomposition, with the product
+and project deliverables inserted at the third level, as shown in Figure 5-7;
+• Using major deliverables as the second level of decomposition, as shown in Figure 5-8; and
+• Incorporating subcomponents that may be developed by organizations outside the project
+team, such as contracted work. The seller then develops the supporting contract WBS as
+part of the contracted work.
+components represent verifiable products, services, or results. If an agile approach is used, epics can
+e decomposed into user stories. The WBS may be structured as an outline, organizational chart
+r other method that identifies a hierarchical breakdown. Verifying the correctness of the
+decomposition requires determining that the lower-level WBS components are those that are
+necessary and sufficient for completion of the corresponding higher-level deliverables. Different
+deliverables can have different levels of decomposition.
+To arrive at a work package, the work for some deliverables should be decomposed only to the
+next level, while others may require additional levels of decomposition. As the work is decomposed
+Section 5 - Tools and Techniques
+165
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,39 @@
+• Resilience. Can the deliverables and supporting processes cope with unforeseen failures
+and recover quickly?
+• Satisfaction. Do the deliverables and processes elicit valuable feedback from customers
+and/or end users, including usability and user experience?
+• Uniformity. Do the deliverables and processes demonstrate parity across similar outputs or
+workflows?
+• Efficiency. Are the deliverables and processes optimized to produce the greatest output
+with the least input?
+• Sustainability. Do the deliverables and processes contribute positively to economic, social,
+and environmental outcomes?
+• Compliance. Do the deliverables and processes comply with regulatory requirements and
+relevant industry standards, as well as organizational standards?
+Project teams measure quality using metrics and acceptance criteria based on project specifications.
+A specification is an attribute that is necessary to be present in a project deliverable to help meet
+or exceed a target objective. Quality is linked to the product acceptance criteria, as described in the
+project charter, statement of work (SOW), or other key documents. In some projects, as the project
+volves through experimentation, these criteria should be regularly updated and refined. Ensuring
+hese criteria are validated during the acceptance process is essential to meeting project objective
+and delivering a successful product.
+Quality is also relevant to the project approaches and activities used to produce the project's
+deliverables. Project teams can pursue the target quality thresholds of both the project and the
+pursuing target quality thresholds.
+3.5.1 Project Impact
+The objective of quality activities is to help ensure that what is delivered meets the objectives of the
+Stomer and other relevant stakeholders. The intention is to minimize the waste of resources ar
+aximize the probability of attaining the desired outcome. This effort results in the followir
+• Moving the deliverables to the point of delivery without unnecessary delays, and
+• Minimizing the need for rework and/or reducing material waste through the early detection
+and prevention of defects.
+The objective of quality activities is the same whether dealing with an up-front, well-defined set of
+requirements or a set of requirements that is progressively elaborated and incrementally delivered.
+Quality management processes and practices help produce deliverables and outcomes that meet
+project objectives and align to the expectations, requirements, and acceptance criteria expressed
+by the organization and relevant stakeholders. Close attention to quality in project processes and
+deliverables creates positive outcomes, including the following:
+Project deliverables that are fit for purpose and that meet acceptance criteria, stakeholder
+expectations, and organizational objectives;
+The Standard for Project Management
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

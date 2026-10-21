@@ -1,0 +1,42 @@
+Ready
+Develop and
+Unit Test
+Kanban Board
+Development
+Done
+System
+Test
+Done
+8
+3
+2
+Cycle time is the
+time from when
+a task starts until
+it is completed.
+Deliver to Customer
+Lead time is the time from
+when a task is put on the
+board until it is delivered.
+Because the order of the
+items in the Ready column
+ba nechanged, this can
+There is a limit
+on this column.
+Tasks can be
+swapped with
+other tasks at
+any time.
+Figure 5-25. Task Board or Kanban Board
+of work. Different color sticky notes can represent different types of work, and dots can be
+used to show how many days a task has been in its current position. Flow-based projects,
+such as those that use kanban boards, can use these charts to limit the amount of work in
+progress. If a column is approaching the work-in-progress limit, project team members can
+"swarm" around the current work to help those working on tasks that are slowing the flow.
+• Burn charts. Burn charts, such as burnup or burndown charts, can show project team
+velocity. Velocity measures the productivity rate at which the deliverables are produced
+validated, and accepted within a predefined interval. A burnup chart can track the amount
+of work done compared to the expected work that should be done (see Figure 5-26).
+Section 5 - Tools and Techniques
+213
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

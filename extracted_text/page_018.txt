@@ -1,0 +1,79 @@
+List of Figures and Tables
+The Standard for Project Management
+Figures
+Figure 1-1
+Figure 1-2
+Figure 2-1
+Figure 2-2
+Figure 2-3
+Figure 2-4
+Figure 2-5
+Figure 2-6
+Figure 2-7
+Figure 3-1
+Figure 3-2
+Figure 3-3
+Figure 3-4
+Figure 3-5
+Figure 3-6
+Figure 3-7
+Figure 3-8
+Figure 3-9
+Figure 4-1
+Figure 4-2
+Figure 4-3
+Figure 4-4
+Figure 4-5
+Figure 4-6
+Figure 4-7
+Impact of Projects on Organizational States ...
+A Framework for Managing Portfolios, Programs, Projects, and Operations
+Examples of Business Value .......
+Example of a System for Value Delivery .
+Example Information Flow.
+Project Influences..
+Sample Product Life Cycle
+Project Management Team Within Various Spheres of Influence .
+Project Management Team Competencies..
+The Project Management Mindset
+Adopt a Holistic View
+Focus on Value
+Embed Quality Into Processes and Deliverables.
+Be an Accountable Leader.
+Integrate Sustainability Within All Project Areas.
+The Sustainability Pyramid..
+Sustainability Broadens the Orientation of Project Management.
+Build an Empowered Culture .
+Impact of Variables Over Time
+The Spectrum of Development Approaches ...
+Constraint Options for Adaptive Approaches ..
+Sample Predictive Life Cycle.....
+Sample Predictive Life Cycle With an Incremental Delivery
+Life Cycle With an Adaptive Development Approach...
+Agile Approaches Plotted by Breadth and Depth.
+11
+14
+15
+16
+18
+23
+28
+30
+36
+38
+41
+43
+47
+49
+49
+51
+53
+59
+60
+.. 61
+. 62
+.. 62
+.. 63
+.. 64
+xvii
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

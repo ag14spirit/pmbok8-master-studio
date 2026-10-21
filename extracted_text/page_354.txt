@@ -1,0 +1,43 @@
+X4.6 Source Selection Analysis
+It is necessary to review the prioritization of the competing demands for the project before deciding
+on the selection method. Since competitive selection methods may require sellers to invest a large
+amount of time and resources up front, it is a good practice to include the evaluation method in
+the tender documents so bidders know how they will be evaluated. This transparency helps infuse
+stakeholder trust in the selection method. Commonly used selection methods include the following:
+• Least cost. The least cost method may be appropriate for procurements of a standard or
+routine nature where well-established practices and standards exist and from which a specific
+and well-defined outcome is expected that can be executed at different costs. In more
+complex procurements, least cost should be avoided as it may negatively impact quality.
+• Qualifications only. The qualifications-only selection method applies when the time and
+cost of a full selection process would not make sense because the value of the procurement
+is relatively small. The buyer establishes a short list and selects the bidder with the
+strongest qualifications, expertise, and references.
+• Quality-based/highest technical proposal score. The selected firm is asked to submit a
+proposal with both technical and cost details and is then invited to negotiate the contrac
+if the technical proposal proves acceptable. Using this method, technical proposals are
+first evaluated based on the quality of the technical solution offered. The seller that
+submitted the highest ranked technical proposal is selected if their financial proposal can
+be negotiated and accepted
+• Quality and cost based. The quality-and-cost-based method allows cost to be included as
+a factor in the seller-selection process. In general, when risk and/or uncertainty are greater
+for the project, quality should be a key element when compared to cost.
+• Single source. Single-source procurement is a formal process where only one supplier
+can satisfy the technical requirements due to unique technical competence and expertise.
+This method is used when there is only one source verified to possess patents or exclusive
+rights to manufacture and furnish the item or service. It is not an attempt to contract with a
+favored provider but is employed when no other options are available.
+Fixed budget. The fixed-budget method requires disclosing the available budget to
+invited sellers in the request and selecting the highest ranking technical proposal within
+the budget. Because sellers are subject to a cost constraint, they will adapt the scope and
+quality of their offer to that budget. The buyer should therefore ensure that the budget is
+compatible with the statement of work (SOW) and that the seller will be able to perform
+the tasks within the budget. This method is appropriate only when the SOW is precisely
+defined, no changes are anticipated, and the budget is fixed and cannot be exceeded.
+X4.7 Source Selection Criteria
+In choosing evaluation criteria, the buyer seeks to ensure that the proposal selected will offer the
+bes folai, for the services required. The source selection criteria may include but are not limited to
+• Capability and capacity;
+• Product cost and life cycle cost;
+Appendix X4
+249
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

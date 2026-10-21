@@ -1,0 +1,59 @@
+Table X3-1. (Continued)
+Project Management
+Performance Domain
+Governance
+Al Strategy
+Automation
+Governance
+Assistance
+Governance
+Augmentation
+Governance
+Automation
+Governance
+Automation
+Governance
+Automation
+Use Case
+Real-time monitoring. Al tools can continuously moni-
+or project progress against planned baselines, providin
+eat time redate and alerts for deviations, enabling
+55, bumaring agal retire notice an an
+that things appear to be progressing according to plan,
+Al tools can use pattern recognition from similar projects
+to indicate when things may be at risk of falling behind or
+going off track.
+Baseline optimization. Al tools can augment trade-off
+analysis among scope, schedule, and cost factors to help
+determine the optimal baseline that maximizes a project's
+value proposition.
+Al chatbots. Virtual assistants powered by Al can handle
+routine queries, provide project updates, and assist with
+task management, freeing up project managers to focus
+on more strategic activities.
+Task management. Al assistants can track activities*
+progress, send reminders, or assign tasks based on team
+members' workloads and skill sets.
+Automated meeting minutes and summaries.
+Al can schedule and transcribe meetings; identify key
+points, decisions, and action items; and generate
+Risk
+Augmentation
+Risk
+Automation
+stakeholders are aligned.
+Risk identification and assessment. Al algorithms can
+analyze historical project data and industry benchmarks to
+lentify potential risks in new projects. By using predicti
+alytics, Al can assess the likelihood and impact
+these risks, enabling project managers to develop com-
+prehensive risk management plans early in the planning
+phase.
+Automated risk mitigation actions. Once risks are
+detected, Al can suggest-and even automate-certain
+litigation actions based on predefined rules on tas
+ssignment and historical data
+(continued)
+Appendix X3
+241
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

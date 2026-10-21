@@ -1,0 +1,47 @@
+Cost of Conformance
+Prevention Costs
+(Build a quality product)
+• Training
+• Document processes
+• Equipment
+• Time to do it right
+Appraisal Costs
+(Assess the quality)
+• Testing
+• Destructive testing loss
+• Inspections
+Money spent during the project
+to avoid failures
+Cost of Nonconformance
+Internal Failure Costs
+(Failures found by the project)
+• Rework
+• Scrap
+External Failure Costs
+(Failures found by the customer)
+• Liabilities
+• Warranty work
+• Lost business
+Money spent during and after
+the project because of failures
+Figure 5-3. Cost of Quality
+project consists of one or more of the following costs (see Figure 5-3, which lists examples for each
+cost group):
+• Prevention costs. Costs related to the prevention of poor quality in products, deliverables,
+or services of the specific project.
+• Appraisal costs. Costs related to evaluating, measuring, auditing, and testing products,
+deliverables, or services of a specific project.
+• Failure costs (internal/external). Costs related to nonconformance of products,
+deliverables, or services based on the needs or expectations of the stakeholders.
+Critical chain method. A schedule method that allows the project team to place buffers on any
+project schedule path to account for limited resources and project uncertainties. See also critica
+chain project management (CCPM).
+Critical chain project management (CCPM). A set of techniques used to promote fast execution
+and high due-date performance by aggregating task-level (or sprint-level) variability to a project
+buffer, and then allocating the project buffer only when and where needed in order to protect the
+project due date. While the concept of a project reserve or contingency is similar, the difference is
+that a critical chain buffer is in lieu of task-level or sprint-level buffers, and not in addition to them.
+CCPM uses nearly identical scheduling logic as the critical path method (CPM), as both are based on
+Section 5 - Tools and Techniques
+159
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

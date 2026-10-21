@@ -1,0 +1,43 @@
+Risk report. The risk report presents information on sources of overall project risk, together with
+summary information on identified individual project risks. The risk report is developed progressively
+throughout the risk processes. The risk report may include the results of the following processes as
+these processes are completed:
+• Perform Risk Analysis,
+• Plan Risk Responses,
+• Implement Risk Responses, and
+• Monitor Risks.
+When the Identify Risks process is completed, information in the risk report may include but is not
+limited to the following:
+• Sources of overall project risk, indicating which are the most important drivers of overall
+project risk exposure; and
+• Summary information on identified individual project risks, such as number of identified
+threats and opportunities, distribution of risks across risk categories, metrics and trends, etc.
+Additional information may be included in the risk report, depending on the reporting requirements
+specified in the risk management plan.
+Schedule baseline. The schedule baseline is the approved version of a schedule model that can be
+changed using formal change control procedures and is used as the basis for comparison to actual
+results. The schedule baseline is accepted and approved by the appropriate stakeholders as the
+oaseline for the schedule, with baseline start dates and baseline finish dates. During monitoring and
+controlling, the approved baseline dates are compared to the actual start and finish dates to determine
+if variances have occurred. The schedule baseline is a component of the project management plan.
+Schedule baseline updates. The schedule baseline updates refer to the modifications made to
+the project's original schedule baseline, which is the approved timeline for the project's tasks and
+milestones. These updates are necessary when significant changes occur that affect the project's
+timing and should be formally integrated into the plan.
+Schedule data. The schedule data for the project schedule model is the collection of information
+for describing and controlling the schedule. The schedule data includes, at a minimum, the schedule
+milestones, schedule activities, activity attributes, and documentation of all identified assumptions
+and constraints. The amount of additional data varies by application area. Information frequently
+supplied as supporting detail includes but is not limited to the following:
+• Resource requirements by time period, often in the form of a resource histogram;
+• Alternative schedules, such as best case or worst case, not-resource-leveled or resource-
+leveled, or with or without imposed dates; and
+• Applied schedule reserves.
+Schedule data may also include items such as resource histograms, cash flow projections, order and
+delivery schedules, or other relevant information.
+Schedule forecasts. Schedule forecasts are estimates or predictions of conditions and events in the
+project's future based on information and knowledge available at the time the schedule is calculated.
+138
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

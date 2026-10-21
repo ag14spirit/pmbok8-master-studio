@@ -1,0 +1,98 @@
+Figure 2-32
+Figure 2-33
+Figure 2-34
+Figure 2-35
+Figure 2-36
+Figure 2-37
+Figure 2-38
+Figure 2-39
+Figure 2-40
+Figure 2-41
+Figure 2-42
+Figure 2-43
+Figure 2-44
+Figure 2-45
+Figure 2-46
+Figure 2-47
+Figure 2-48
+Figure 2-49
+Figure 2-50
+Figure 2-51
+Figure 2-52
+Figure 2-53
+1111111010
+Figure 5-3
+Figure 5-4
+Stakeholders Performance Domain Processes Overview.
+Identify Stakeholders Inputs, Tools and Techniques, and Outputs..
+Plan Stakeholder Engagement Inputs, Tools and Techniques, and Outputs..
+Plan Communications Management Inputs, Tools and Techniques, and Outputs
+Manage Stakeholder Engagement Inputs, Tools and Techniques, and Outputs.
+Manage Communications Inputs, Tools and Techniques, and Outputs....
+Monitor Stakeholder Engagement Inputs, Tools and Techniques, and Outputs....
+Monitor Communications Inputs, Tools and Techniques, and Outputs .
+Resources Performance Domain Processes Overview
+Plan Resource Management Inputs, Tools and Techniques, and Outputs..
+Estimate Resources Inputs, Tools and Techniques, and Outputs
+Acquire Resources Inputs, Tools and Techniques, and Outputs ....
+Lead the Team Inputs, Tools and Techniques, and Outputs.
+Monitor and Control Resourcing Inputs, Tools and Techniques, and Outputs.
+Risk Classification..
+Risk Performance Domain Processes Overview ..
+Plan Risk Management Inputs, Tools and Techniques, and Outputs
+Identify Risks Inputs, Tools and Techniques, and Outputs..
+Perform Risk Analysis Inputs, Tools and Techniques, and Outputs
+Plan Risk Responses Inputs, Tools and Techniques, and Outputs.
+Implement Risk Responses Inputs, Tools and Techniques, and Outputs.
+Monitor Risks Inputs, Tools and Techniques, and Outputs..
+Details of the Steps in the Tailoring Process ...
+Assessing the Organizational and Project Factors When Tailoring
+The Tailoring Process ..
+Tailoring to Fit the Project Context
+Cost Baseline, Expenditures, and Funding Requirements
+Example of a Project Schedule Network Diagram .
+Example of a Requirements Traceability Matrix .
+Sample Resource Breakdown Structure..
+Excerpt From a Sample Risk Breakdown Structure
+Relationship Among Product Vision, Release Planning, and Iteration Planning..
+Communication Model for Cross-Cultural Communication
+Cost of Quality.....
+Example of Critical Path Method..
+70
+.. 71
+.. 72
+73
+74
+75
+76
+. 77
+80
+81
+82
+83
+. 85
+87
+93
+95
+96
+. 97
+98
+.. 99
+. 100
+.. 100
+.. 106
+. 107
+.. 110
+. 111
+126
+.. 127
+. 132
+.. 133
+. 135
+. 147
+- 154
+159
+. 161
+xx
+List of Figures and Tables
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

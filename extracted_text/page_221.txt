@@ -1,0 +1,39 @@
+Both the business case and the benefits management plan are developed prior to the project
+being initiated. Additionally, both documents are referenced after the project has been completed.
+Business case. A business case is a documented economic feasibility study used to establish validity
+of the benefits to be delivered by a portfolio component, program, or project. The business case
+helps to define a selected component that is lacking sufficient explanation and that is used as a basis
+for the authorization of further project management activities.
+The business case lists the objectives and reasons for project initiation. The business case helps to
+measure project success at the end of the project against the project objectives. The business case is
+a project business document that is used throughout the project life cycle. The business case may be
+used before project initiation and may result in a go/no-go decision for the project.
+Both the business case and the benefits management plan are developed prior to the project
+being initiated. Additionally, both documents are referenced after the project has been completed.
+herefore, they are considered business documents rather than project documents or component
+if the project management plan. As appropriate, these business documents may be inputs to som
+of the processes involved in managing the project, such as developing the project charter.
+In some organizations, the business case and benefits management plan are maintained at the
+program level. The project sponsor is generally accountable for the development and maintenance
+of the project's business case document. The project manager is responsible for providing
+recommendations and oversight to keep success measures for the project's business case, project
+management plan, project charter, and benefits management plan in alignment with one another
+and with the goals and objectives of the organization.
+Change log. A change log is a comprehensive list of changes submitted during the project, which
+includes the current status of the submitted changes. The disposition of all change requests is
+recorded in the change log as a project document update.
+change management plan. A change management plan is a component of the project management
+blan that establishes the change control board (CCB), also known as a steering committee;
+documents the extent of its authority; and describes how the change control system will be
+implemented.
+The change management plan provides the direction for managing the change control process and
+documents the roles and responsibilities of the CCB.
+Change requests. A change request is a formal proposal to modify a document, deliverable, or
+baseline. Change requests may be initiated internally or externally to the project.
+When issues are found while project work is being performed, change requests are submitted to
+modify project policies or procedures, project or product scope, project cost or budget, project
+schedule, or the quality of the project or product results. Change requests may include corrective
+116
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

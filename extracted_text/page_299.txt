@@ -1,0 +1,47 @@
+Available float is used for leveling resources. Consequently, the critical path through the
+project schedule may change.
+Resource smoothing. A resource optimization technique in which free and total float are
+used without affecting the critical path. Resource smoothing is a technique that adjusts
+the activities of a schedule model such that the requirements for resources on the project
+do not exceed certain predefined resource limits. In resource smoothing, as opposed to
+resource leveling, the project's critical path is not changed and the completion date may not
+be delayed. In other words, activities may only be delayed within their free and total float.
+Resource smoothing may not be able to optimize all resources.
+Resource-based view. Resource-based view is a managerial framework for identifying strategic
+resources that can provide an enterprise with a competitive advantage against its competitors.
+The resource-based view emphasizes evaluating the organizational internal assets, capabilities,
+nd competencies to achieve superior competitive performance or project deliverables. Enterpris
+trengths and weaknesses of resources and capabilities and their competitive advantage can be
+evaluated using a framework like VRIO. VRIO stands for value, rarity, imitability, and organization:
+• Value can include both tangible and intangible resources and capabilities.
+• Rarity means that resources and capabilities are not available to other enterprises.
+• Imitability is the extent to which resources and capabilities are difficult to imitate.
+• Organization means that the enterprise is effectively utilizing its resources and capabilities.
+Responsibility assignment matrix. A responsibility assignment matrix is a grid that shows the
+project resources assigned to each work package. The matrix is used to illustrate the connections
+between work packages, or activities, and project team members. On larger projects, a responsibility
+assignment matrix can be developed at various levels. For example, a high-level matrix can define
+the responsibilities of a project team, group, or unit within each component of the WBS. A lower-level
+matrix can be used within the group to designate roles, responsibilities, and levels of authority for
+specific activities. The matrix format shows all activities associated with one person and all people
+associated with one activity. This format also ensures that there is only one person accountable
+for any one task to avoid confusion about who is ultimately in charge or has authority for the work.
+One example of a responsibility assignment matrix is a RACI (responsible, accountable, consulted,
+informed) matrix, shown in Figure 5-19. The sample chart shows the work to be done in the left
+column as activities. The assigned resources can be shown as individuals or groups. The project
+manager can select other options, such as "lead" and "resource" designations, as appropriate for the
+project. A RACI matrix is a useful tool to ensure the clear assignment of roles and responsibilities
+when the team consists of internal and external resources.
+Retrospectives. A retrospective is a regularly occurring workshop in which participants explore their
+work and results in order to improve both the process and product. Retrospectives are a form of a
+lessons learned meeting and are conducted frequently throughout the project (at minimum, at the
+end of each iteration). Retrospectives usually cover process-based questions such as what worked
+well and what did not and what are the project team recommendations for future iterations. The
+term retrospective is usually used within adaptive development approaches but can refer to any
+lessons learned session in any approach.
+This frequent reflection helps ensure that the team can quickly address issues and implement
+improvements, rather than waiting until the end of the project. The entire project team participates in
+194
+A Guide
+to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

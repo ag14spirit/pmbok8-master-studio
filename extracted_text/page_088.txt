@@ -1,0 +1,30 @@
+• New product development. Adaptive approaches are also appropriate for projects
+where the final features of the product are refined based on market needs such as the
+development of a new mobile app or web service.
+are strong candidates for this approach.
+4.2.3 Hybrid Approaches
+A hybrid development approach is a combination of adaptive and predictive approaches. This
+development approach incorporates some elements from a predictive approach and some from an
+project teams.
+In practice, most projects can strongly benefit from a hybrid approach that combines adaptive and
+predictive methodologies. Focusing exclusively on either an adaptive or predictive approach does
+not fully address the varied challenges and complexities that modern projects present. A hybrid
+approach provides flexibility to adapt to changing conditions while retaining control over predictable
+aspects.
+Another example is a project with two main deliverables, where one deliverable is developed using
+an adaptive approach and the other using a predictive approach (e.g., software that will be developed
+with an adaptive approach but needs to be installed in a new data center that will be built with a
+predictive approach).
+With a hybrid approach, the various phases of the project can be approached differently. Projects
+can primarily be carried out using one approach while subsidiary streams can use a different way o
+vorking—in certain cases, adaptive, and in other cases, predictive
+Hybrid project management methods follow four common patterns, as illustrated in Figures 4-8
+through 4-11.
+• The early processes use an adaptive development life cycle, which is then followed by a
+predictive rollout phase.
+Adaptive Adaptive Adaptive
+Predictive Predictive Predictive
+Figure 4-8. Adaptive Development Followed by a Predictive Rollout
+Section 4 - Project Life Cycles
+65
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

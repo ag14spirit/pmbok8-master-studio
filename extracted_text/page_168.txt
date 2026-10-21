@@ -1,0 +1,71 @@
+Plan Financial Management
+Inputs
+• Project charter
+• Project management plan
+- Schedule management
+plan
+- Risk management plan
+• Project documents
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+Tools & Techniques
+•
+• Expert judgment
+• Data analysis
+- Alternative analysis
+• Meetings
+• Etc.
+Outputs
+• Financial management plan
+• Funding strategy
+• Etc.
+Figure 2-27. Plan Financial Management Inputs, Tools and Techniques,
+and Outputs
+Estimate Costs
+Inputs
+• Project management plan
+- Quality management plan
+- Scope baseline
+• Project documents
+- Lessons learned register
+- Project schedule
+- Resource requirements
+- Risk register
+• Make-or-buy decisions
+• Work package estimation
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Analogous estimating
+• Parametric estimating
+• Bottom-up estimating
+• Multipoint estimating
+• Data analysis
+- Alternative analysis
+- Reserve analysis
+- Cost of quality
+• Project management
+information system
+• Decision-making
+- Voting
+• Etc.
+Outputs
+• Cost estimates
+• Basis of estimates
+• Project document updates
+- Assumption log
+- Lessons learned register
+- Risk register
+• Etc.
+Figure 2-28. Estimate Costs Inputs, Tools and Techniques, and Outputs
+Section 2 - Project Management Performance Domains
+63
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

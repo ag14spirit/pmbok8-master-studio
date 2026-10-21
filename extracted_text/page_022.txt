@@ -1,0 +1,94 @@
+Figure 5-5
+Figure 5-6
+Figure 5-7
+Figure 5-8
+Figure 5-9
+Figure 5-10
+Figure 5-11
+Figure 5-12
+Figure 5-13
+Figure 5-14
+Figure 5-15
+Figure 5-16
+Figure 5-17
+11111011
+Figure X3-2
+Figure X4-1
+Figure X5-1
+Tables
+Table 2-1
+Table 2-2
+Table 2-3
+Table 2-4
+Table 2-5
+Table 2-6
+Table 2-7
+Example Decision Tree.
+Sample WBS Decomposed Down Through Work Packages
+Sample WBS Organized by Phase
+Sample WBS With Major Deliverables.
+Information Radiator
+Iteration Burndown Chart...
+Components of Emotional Intelligence..
+Examples of Lead and Lag..
+Precedence Diagramming Method Relationship Types.
+Example Probability and Impact Matrix With Scoring Scheme ..
+Project Canvas Example ..
+Project Dashboard Example 1
+Project Dashboard Example 2
+Resource Leveling...
+Sample RACI Matrix
+Schedule Compression Comparison
+Example Tornado Diagram .
+Example Probability Distribution of a Target Milestone
+Stakeholder Engagement Assessment Matrix..
+To-Complete Performance Index (TCPI) .
+Task Board or Kanban Board
+Burnup Chart...
+The Relationship Among the Technologies Needed to Make
+Generative Pretrained Transformers (GPTs) Work .
+Use Cases Demonstrating Complexity and the Need for Human Intervention
+Example Procurement Process Flow.
+PMBOK® Guide-Eighth Edition Content Migration.
+. 164
+165
+• 166
+167
+174
+175
+178
+. 180
+186
+.. 187
+189
+190
+. 191
+193
+195
+196
+. 198
+. 199
+. 200
+. 206
+. 213
+. 214
+. 238
+. 243
+. 248
+. 258
+Mapping Project Management Focus Areas to Performance Domains
+Sampling of Common Project Governance Scenarios
+Advantages of Insourcing Versus Outsourcing .
+Governance Interactions With Other Performance Domains....
+Check Outcomes-Governance Performance Domain..
+Check Outcomes-Scope Performance Domain..
+Check Outcomes-Schedule Performance Domain
+11
+. 21
+... 36
+....37
+. 46
+. 58
+List of Figures and Tables
+xxi
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

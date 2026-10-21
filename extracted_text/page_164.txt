@@ -1,0 +1,43 @@
+• Providing information to stakeholders;
+• Forecasting future trends, including cost overruns, resource shortages, or savings;
+• Evaluating return on investment, long-term value, and impacts; and
+• Enhancing risk management to help ensure the project's financial health and overall
+success.
+The value of financial measurements is not in the collection and dissemination of the data, but rather
+in the interactions about how to use the data to make value-adding, well-informed decisions and take
+appropriate actions. Therefore, while much of this performance domain addresses various types o
+neasurements that can be captured, use of the measurements occurs within the context of activitie
+in other performance domains such as project team and stakeholder discussions, coordinating
+project work, and so forth.
+2.4.1 Key Concepts
+The following key concepts support effective practices for the Finance performance domain:
+• Value definition. Organizations use various strategies to define value, either tangible or
+intangible, which is often based on financial returns (tangible), with metrics such as return
+on investment (ROl), internal rate of return (IRR), payback period, or return on assets (ROA)
+that can be used to measure project success and alignment with organizational goals.
+The return on average capital employed (ROACE) may also be used. The ROACE method
+can help calculate the organization's profitability compared to the money that has been
+invested. Sometimes, other indicators can be used such as compliance with regulations
+or social impact; therefore, value may be more than just profit (financial) and can also
+be value for people (social) or the planet (environmental). As an example, sometimes
+spending more on a given project is acceptable as the value is measured by the outcome
+of the project being available on a given date. In some cases, projects do not actually
+bring value by themselves, as they may be a component of a program, where value will
+be realized in the future. On the other hand, customer satisfaction and innovation are
+examples of intangible value.
+Value maximization. The Finance performance domain focuses not only on cost
+management but also on ensuring that the project delivers maximum value for the
+organization. This effort involves aligning with strategy, using clear indicators of project
+success such as ROl and IRR, and considering other dimensions like social impact, customer
+satisfaction, and innovation.
+Funding. Project management practitioners should have an understanding of how a project
+acquires its financial resources. Monies can be provided by several means, including but
+not limited to internal organizational budgets, customer contracts, grants, or customer-
+driven "crowdfunding." Project practitioners are often called upon to lead or support such
+funding activities, either before or during a project.
+Financial constraints. Budget is generally the primary financial constraint of a projec
+ut it is not the only one. Sometimes the project is restricted to the use of a given typ
+Section
+2 - Project Management Performance Domains
+59
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

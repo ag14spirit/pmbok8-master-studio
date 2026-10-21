@@ -1,0 +1,39 @@
+assurance and quality improvement. Using a structured problem-solving method can help eliminate
+the problem and develop a long-lasting solution. Problem-solving methods generally include the
+following actions:
+• Define the problem,
+• Identify the root cause,
+• Generate possible solutions,
+• Choose the best solution,
+• Implement the solution, and
+• Verify solution effectiveness.
+Proces anal pro Proces anari dentis alreadies or proces nore enter i
+Process automations. Process automation, which can also include robotic process automation
+(RPA), helps speed up business processes. Process automation can reduce manual project work
+and costs, enhance project team and customer experiences by configuring computer software, or
+be a software robot that performs tasks by mimicking a human. Process automation can be used
+for project team meeting scheduling, sending reminders, or other manual project tasks that take a
+sufficient number of hours and can be described as a set of rules or instructions.
+Process improvement. Process improvement refers to the systematic approach of enhancing the
+efficiency and effectiveness of a process within an organization. This approach involves analyzing
+current processes, identifying areas for improvement, and implementing changes to achieve better
+performance, quality, and customer satisfaction. The ultimate goal of process improvement is to
+optimize operations, reduce waste, and increase value for both the organization and its customers.
+Product analysis. Product analysis can be used to define products and services. This analysis
+includes asking questions about a product or service and forming answers to describe the use,
+characteristics, and other relevant aspects of what is going to be manufactured or delivered.
+Each application area has one or more generally accepted methods for translating high-level product
+or service descriptions into meaningful deliverables. Requirements are captured at a high level and
+decomposed to the level of detail needed to design the final product. Examples of product analysis
+techniques include but are not limited to the following:
+• Product breakdown,
+• Requirements analysis,
+• Systems analysis,
+• Systems engineering,
+• Value analysis, and
+• Value engineering.
+Project canvas. A project canvas is a visual tool used to outline and plan the key elements of
+project (see Figure 5-15). A project canvas provides a structured framework that helps project
+188
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

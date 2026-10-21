@@ -1,0 +1,30 @@
+X4.8.1 Fundamental Contract Models
+Some of the more common contract models and how they can be viewed from both the client and
+contractor perspectives are as follows (Please note that the types and names of contract types can
+vary in different industries and organizations.):
+• Fixed-price contract. Fixed-price contracts are agreements that establish a predetermined
+fee against a clearly defined scope of work, transferring cost risk to the seller while offering
+budget predictability for the buyer. Fixed-price contracts are common in constructior
+projects, product development, and service delivery where the work can be accurately
+• Client perspective: Provides budget certainty but may result in higher prices due to
+risk premiums.
+• Contractor perspective: Offers profit potential if managed efficiently but bears the
+risk of cost overruns.
+development projects, complex construction projects, and situations where flexibility is
+• Client perspective: Allows for flexibility but carries the risk of cost escalation.
+• Contractor perspective: Reduces financial risk but may limit profit potential.
+is not clearly defined at the outset. T&M contracts are common in technology services,
+consulting, and some construction projects.
+• Client perspective: Provides flexibility but requires close monitoring to control costs.
+• Contractor perspective: Ensures cost coverage but may lead to scrutiny of time and
+resource usage.
+• Tos sa-coss or overt. a betest to buyer set tater these with rats are sfer sharing
+encourage efficiency and cost control while maintaining flexibility. Target-cost contracts are
+often seen in large infrastructure projects or complex manufacturing projects.
+• Client perspective: Encourages cost control but requires clear definition of target costs
+and sharing mechanisms.
+• Contractor perspective: Offers incentives for efficiency but bears partial risk of cost
+overruns.
+Appendix X4
+251
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

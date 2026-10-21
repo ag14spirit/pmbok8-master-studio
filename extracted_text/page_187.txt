@@ -1,0 +1,72 @@
+Estimate Resources
+Inputs
+• Project management plan
+- Resource management
+plan
+- Schedule management
+plan
+- Scope baseline
+• Project documents
+- Activity attributes
+- Activity list
+- Assumption log
+- Cost estimates
+- Resource calendars
+- Risk register
+• Project schedule
+• Enterprise environmental
+factors
+• Organizational process
+assets
+• Etc.
+•
+Tools & Techniques
+• Expert judgment
+• Bottom-up estimating
+• Analogous estimating
+• Parametric estimating
+• Data analysis
+- Alternative analysis
+• Project management
+information system
+• Meetings
+• Data gathering
+- Interviews
+• Artificial intelligence
+• Predictive analytics
+• Virtual reality
+• Augmented reality
+• Branch and bound
+• Genetic algorithms
+• Constructive cost model
+• Etc.
+Outputs
+• Resource requirements
+• Basis of estimates
+• Resource breakdown
+structure
+• Project document updates
+- Activity attributes
+- Assumption log
+- Lessons learned register
+- Risk register
+• Etc.
+/////
+Figure 2-42. Estimate Resources Inputs, Tools and Techniques, and Outputs
+2.6.2.2 Estimate Resources
+The key benefit of this process is that it identifies the type, quantity, and characteristics of resources
+required to complete the project. This identification is essential for project managers to plan
+effectively and ensure that all necessary resources are available. Additionally, this process aids in
+anticipating potential resource shortages or surpluses, allowing for proactive adjustments. The
+process also enhances the ability to manage resource allocation and usage risks (see Figure 2-42).
+The Estimate Resources process is performed once or at predefined points in the project. The
+process involves detailed analysis and consideration of all aspects of the project to ensure that the
+appropriate resources are allocated efficiently. The Estimate Resources process is closely related to
+the Schedule performance domain (see Section 2.3).
+The specific inputs for the Estimate Resources process are the resource management plan and
+resource calendars.
+2.6.2.3 Acquire Resources
+The key benefit of this process is that it outlines and guides the selection of resources and assigns
+them to their respective activities (see Figure 2-43).
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMl Member benefit, not for distribution, sale, or reproduction.

@@ -1,0 +1,35 @@
+landscaping could be scheduled to start 2 weeks prior to the scheduled punch list completion. This
+activity would be shown as a finish-to-start (FS) with a 2-week lead as shown in Figure 5-12. A lead is
+often represented as a negative value for lag in scheduling software.
+A lag is the amount of time whereby a successor activity will be delayed with respect to a predecessor
+ctivity. For example, a technical writing team may begin editing the dratt of a large documer
+5 days after they begin writing it. This can be shown as a start-to-start (SS) relationship with a 15-da
+lag as shown in Figure 5-12.
+The project management team determines the dependencies that may require a lead or a lag to
+accurately define the logical relationship. The use of leads and lags should not replace schedule logic
+Also, duration estimates do not include any leads or lags. Activities and their related assumptions
+should be documented.
+Leads and lags can also be represented in project schedule network diagrams. For more details, see
+the entry for project schedule network diagrams in Section 4.
+Logical relationship. A logical relationship is a dependency between two activities or between an
+activity and a milestone. The four most common types of logical relationships are finish-to-start,
+finish-to-finish, start-to-start, and start-to-finish. See also precedence diagramming method.
+Make-or-buy analysis and decisions. Make-or-buy analysis is the decision-making process o
+gathering and organizing data about product requirements and analyzing them against available
+alternatives, including the purchase or internal manufacture of the product. A make-or-buy analysis
+results in a make-or-buy decision as to whether particular work can be best accomplished by the
+project team or if it should be purchased from outside sources.
+Market research. Market research is a data-gathering technique that includes examination of
+associated with the breadth of sellers who can provide the desired materials or services.
+Complete
+Punch List
+Writer
+FS - 2 Weeks (Lead)
+SS - 15 Days (Lag)
+Landscape
+Building Lot
+Edit
+Draft
+Figure 5-12. Examples of Lead and Lag
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

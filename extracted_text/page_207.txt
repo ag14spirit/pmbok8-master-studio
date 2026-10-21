@@ -1,0 +1,48 @@
+requires integrating scope management, schedule planning, financial considerations, stakeholder
+engagement, and communication to help ensure tailored and comprehensive risk response
+strategies.
+2.7.5 Check Results
+Activities in the Risk performance domain are considered successful when they contribute to specific
+outcomes. Table 2-11 shows a set of sample target outcomes, along with a potential check to confirm
+whether those outcomes are met.
+Table 2-11. Check Outcomes-Risk Performance Domain
+Outcome
+There is an awareness of the environment
+in which projects occur, including techni-
+cal, social, political, market, and eco-
+nomic contexts.
+The project team proactively explores and
+responds to uncertainty.
+The project team has the capacity to anti-
+cipate threats and opportunities and un-
+derstands the consequences of issues.
+Pete imper sane it minis are
+conditions.
+Opportunities to improve project perfor-
+mance and outcomes are realized.
+Project contingency reserves are used
+effectively to maintain alignment with
+project objectives.
+Resilience and the ability to recover
+quickly from setbacks are being devel-
+oped throughout the project.
+Check
+The team incorporates environmental considerations when
+evaluating uncertainty, risks, and responses.
+Risk responses are aligned with project constraints such as
+budget, schedule, and performance.
+A process is in place, and well understood by the project team,
+for identifying, assessing, documenting, and responding to
+risks.
+Reserves are in place et perilize sensele delier dates,
+threshold.
+Project teams use established mechanisms to identify,
+leverage, and track the realization of opportunities.
+Project teams take steps to proactively prevent threats,
+thereby limiting the use of project contingency reserves.
+The project team is aware of the larger organization's business
+During times of crisis, the project team can quickly adjust its
+structure and processes to adapt to new constraints.
+102
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

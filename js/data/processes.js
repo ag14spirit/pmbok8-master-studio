@@ -1,0 +1,1136 @@
+// Complete 40 Processes of PMBOK 8th Edition
+export const processes = [
+  {
+    "id": "proc-gov-1",
+    "number": 1,
+    "name": "Iniciar el Proyecto o Fase",
+    "nameEn": "Initiate Project or Phase",
+    "domain": "Gobernanza",
+    "domainEn": "Governance",
+    "focusArea": "Iniciación",
+    "focusAreaEn": "Initiating",
+    "purpose": "Autorizar oficialmente el inicio de un proyecto o fase y conferir al director de proyecto la autoridad para aplicar recursos de la organización a las actividades del proyecto.",
+    "inputs": [
+      "Documentos de negocio (Caso de Negocio, Plan de Gestión de Beneficios)",
+      "Acuerdos y contratos",
+      "Factores ambientales de la empresa (EEFs)",
+      "Activos de los procesos de la organización (OPAs)"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Recopilación de datos (Lluvia de ideas, Grupos focales, Entrevistas)",
+      "Habilidades interpersonales y de equipo (Gestión de conflictos, Facilitación)",
+      "Reuniones",
+      "Project Canvas",
+      "Matriz de asignación de responsabilidades"
+    ],
+    "outputs": [
+      "Acta de Constitución del Proyecto (Project Charter)",
+      "Registro de supuestos (Assumption Log)"
+    ],
+    "tailoring": "En entornos ágiles, el Project Charter suele ser una carta de visión ágil más breve centrada en el propósito y las restricciones de alto nivel.",
+    "examTip": "El Project Charter es firmado y autorizado por el Patrocinador (Sponsor), otorgando autoridad formal al PM."
+  },
+  {
+    "id": "proc-gov-2",
+    "number": 2,
+    "name": "Integrar y Alinear Planes del Proyecto",
+    "nameEn": "Integrate and Align Project Plans",
+    "domain": "Gobernanza",
+    "domainEn": "Governance",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Consolidar y coordinar todos los planes subsidiarios y líneas base en un Plan para la Dirección del Proyecto cohesivo e integrado.",
+    "inputs": [
+      "Acta de Constitución del Proyecto",
+      "Salidas de otros procesos de planificación",
+      "Factores ambientales de la empresa",
+      "Activos de procesos de la organización"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Recopilación y análisis de datos",
+      "Habilidades interpersonales (Facilitación, Negociación)",
+      "Reuniones de planificación"
+    ],
+    "outputs": [
+      "Plan para la Dirección del Proyecto (Project Management Plan) con líneas base integradas"
+    ],
+    "tailoring": "En proyectos adaptativos, el plan integrado es altamente dinámico y se actualiza en cada iteración mediante planificación adaptativa de olas (rolling wave).",
+    "examTip": "Una vez aprobado, el Plan para la Dirección del Proyecto se convierte en la línea base oficial y solo puede modificarse mediante control integrado de cambios."
+  },
+  {
+    "id": "proc-gov-3",
+    "number": 3,
+    "name": "Planificar la Estrategia de Abastecimiento",
+    "nameEn": "Plan Sourcing Strategy",
+    "domain": "Gobernanza",
+    "domainEn": "Governance",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Determinar qué bienes o servicios se adquirirán externamente (make-or-buy), estructurar la estrategia de abastecimiento y seleccionar métodos de contratación.",
+    "inputs": [
+      "Plan para la dirección del proyecto",
+      "Requisitos de recursos",
+      "Documentos de negocio",
+      "Condiciones de mercado (EEFs)"
+    ],
+    "tools": [
+      "Análisis de fabricar o comprar (Make-or-buy analysis)",
+      "Investigación de mercado",
+      "Juicio de expertos",
+      "Evaluación de capacidades internas"
+    ],
+    "outputs": [
+      "Estrategia de abastecimiento (Sourcing Strategy)",
+      "Decisiones de fabricar o comprar",
+      "Enunciado del trabajo de adquisición (SOW)"
+    ],
+    "tailoring": "En ágil, se prefieren contratos con alcance adaptable como Target Cost o esquemas de tiempo y materiales con tope máximo.",
+    "examTip": "El análisis Make-or-buy debe evaluar costos de mantenimiento y operación a largo plazo, no solo el costo inicial de adquisición."
+  },
+  {
+    "id": "proc-gov-4",
+    "number": 4,
+    "name": "Gestionar la Ejecución del Proyecto",
+    "nameEn": "Manage Project Execution",
+    "domain": "Gobernanza",
+    "domainEn": "Governance",
+    "focusArea": "Ejecución",
+    "focusAreaEn": "Executing",
+    "purpose": "Liderar y llevar a cabo el trabajo definido en los planes integrados para producir los entregables y alcanzar los objetivos del proyecto.",
+    "inputs": [
+      "Plan para la dirección del proyecto",
+      "Solicitudes de cambio aprobadas",
+      "Factores ambientales de la empresa"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Sistema de información para la dirección de proyectos (PMIS)",
+      "Reuniones de sincronización diaria / Daily standups"
+    ],
+    "outputs": [
+      "Entregables (Deliverables)",
+      "Datos de desempeño del trabajo (Work Performance Data)",
+      "Registro de incidentes (Issue Log)"
+    ],
+    "tailoring": "En Scrum/Agile, la ejecución se sincroniza mediante iteraciones cortas donde el equipo técnico autogestiona la ejecución de las historias del Sprint.",
+    "examTip": "Los 'Datos de desempeño del trabajo' (datos brutos de avance) nacen aquí en Ejecución y fluyen hacia Monitoreo y Control para convertirse en 'Información'."
+  },
+  {
+    "id": "proc-gov-5",
+    "number": 5,
+    "name": "Gestionar el Aseguramiento de la Calidad",
+    "nameEn": "Manage Quality Assurance",
+    "domain": "Gobernanza",
+    "domainEn": "Governance",
+    "focusArea": "Ejecución",
+    "focusAreaEn": "Executing",
+    "purpose": "Garantizar que los procesos utilizados en el proyecto cumplan con las normas acordadas y mejoren continuamente para prevenir defectos.",
+    "inputs": [
+      "Plan de gestión de calidad",
+      "Mediciones de control de calidad",
+      "Métricas de calidad"
+    ],
+    "tools": [
+      "Auditorías de calidad",
+      "Análisis de procesos (Kaizen / Lean)",
+      "Diagramas de causa y efecto (Ishikawa)",
+      "Análisis de causa raíz"
+    ],
+    "outputs": [
+      "Informes de calidad",
+      "Solicitudes de cambio para mejora de procesos",
+      "Actualizaciones de OPAs"
+    ],
+    "tailoring": "En marcos ágiles, el aseguramiento de la calidad está embebido en la Definición de Terminado (DoD), pruebas automatizadas y retrospectivas de sprint.",
+    "examTip": "Aseguramiento de Calidad = evaluar los PROCESOS. Control de Calidad = inspeccionar los ENTREGABLES."
+  },
+  {
+    "id": "proc-gov-6",
+    "number": 6,
+    "name": "Gestionar el Conocimiento del Proyecto",
+    "nameEn": "Manage Project Knowledge",
+    "domain": "Gobernanza",
+    "domainEn": "Governance",
+    "focusArea": "Ejecución",
+    "focusAreaEn": "Executing",
+    "purpose": "Utilizar el conocimiento existente de la organización y crear nuevo conocimiento para facilitar el logro de objetivos y contribuir al aprendizaje corporativo.",
+    "inputs": [
+      "Plan para la dirección del proyecto",
+      "Documentos del proyecto",
+      "Entregables",
+      "OPAs (lecciones aprendidas históricas)"
+    ],
+    "tools": [
+      "Gestión del conocimiento (Comunidades de práctica, foros de intercambio)",
+      "Gestión de la información (Bibliotecas digitales, wikis)",
+      "Habilidades interpersonales (Escucha activa, empatía)"
+    ],
+    "outputs": [
+      "Registro de Lecciones Aprendidas (Lessons Learned Register)",
+      "Actualizaciones a OPAs"
+    ],
+    "tailoring": "El conocimiento tácito (el que está en la mente de las personas) se transmite interactuando cara a cara, no solo guardando archivos.",
+    "examTip": "El Registro de Lecciones Aprendidas se actualiza CONTINUAMENTE durante todo el ciclo de vida, no solo al final del proyecto."
+  },
+  {
+    "id": "proc-gov-7",
+    "number": 7,
+    "name": "Monitorear y Controlar el Desempeño del Proyecto",
+    "nameEn": "Monitor and Control Project Performance",
+    "domain": "Gobernanza",
+    "domainEn": "Governance",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Rastrear, revisar e informar sobre el avance integral del proyecto para cumplir los objetivos de desempeño y anticipar desviaciones.",
+    "inputs": [
+      "Plan para la dirección del proyecto",
+      "Datos de desempeño del trabajo",
+      "Pronósticos de costo y cronograma"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Análisis de datos (Análisis de variación, Análisis de tendencias, EVM)",
+      "Toma de decisiones"
+    ],
+    "outputs": [
+      "Informes de desempeño del trabajo (Work Performance Reports)",
+      "Solicitudes de cambio"
+    ],
+    "tailoring": "En tableros ágiles, el monitoreo se realiza en tiempo real a través de radiadores de información visibles y métricas de velocidad.",
+    "examTip": "Este proceso produce los 'Informes de Desempeño del Trabajo' (ej. tableros de control ejecutivos) que se comunican a los interesados."
+  },
+  {
+    "id": "proc-gov-8",
+    "number": 8,
+    "name": "Evaluar e Implementar Cambios",
+    "nameEn": "Assess and Implement Changes",
+    "domain": "Gobernanza",
+    "domainEn": "Governance",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Revisar todas las solicitudes de cambio, evaluar su impacto integral en la propuesta de valor, aprobar o rechazar cambios e implementar los aprobados.",
+    "inputs": [
+      "Plan para la dirección del proyecto",
+      "Solicitudes de cambio",
+      "Informes de desempeño del trabajo"
+    ],
+    "tools": [
+      "Herramientas de control de cambios",
+      "Juicio de expertos",
+      "Comité de control de cambios (CCB)",
+      "Reuniones de toma de decisiones"
+    ],
+    "outputs": [
+      "Solicitudes de cambio aprobadas/rechazadas",
+      "Actualizaciones al plan de dirección del proyecto",
+      "Registro de cambios (Change Log)"
+    ],
+    "tailoring": "En entornos adaptativos, los cambios son bienvenidos y se incorporan al Product Backlog, donde el Product Owner los prioriza.",
+    "examTip": "Si un interesado pide un cambio, NUNCA digas sí ni no de inmediato: primero analiza el impacto holístico en costo, tiempo, riesgo y valor."
+  },
+  {
+    "id": "proc-gov-9",
+    "number": 9,
+    "name": "Cerrar el Proyecto o Fase",
+    "nameEn": "Close Project or Phase",
+    "domain": "Gobernanza",
+    "domainEn": "Governance",
+    "focusArea": "Cierre",
+    "focusAreaEn": "Closing",
+    "purpose": "Finalizar formalmente todas las actividades del proyecto o fase, archivar conocimientos, transferir el entregable a operaciones y liberar recursos.",
+    "inputs": [
+      "Acta de Constitución del Proyecto",
+      "Plan para la dirección del proyecto",
+      "Entregables aceptados",
+      "Documentos de negocio"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Análisis de datos (Análisis de documentos)",
+      "Reuniones de cierre y retrospectivas finales"
+    ],
+    "outputs": [
+      "Transferencia del producto final",
+      "Informe final del proyecto",
+      "Actualizaciones a activos de los procesos de la organización"
+    ],
+    "tailoring": "Incluso si un proyecto se cancela prematuramente, este proceso DEBE ejecutarse para documentar lecciones aprendidas y liberar recursos ordenadamente.",
+    "examTip": "Para cerrar un proyecto se requiere que los entregables hayan sido formalmente 'Aceptados' en el proceso Validar el Alcance."
+  },
+  {
+    "id": "proc-scope-1",
+    "number": 10,
+    "name": "Planificar la Gestión del Alcance",
+    "nameEn": "Plan Scope Management",
+    "domain": "Alcance",
+    "domainEn": "Scope",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Crear el plan de gestión del alcance que documenta cómo se definirá, validará y controlará el alcance del proyecto.",
+    "inputs": [
+      "Acta de constitución",
+      "Plan para la dirección del proyecto",
+      "EEFs",
+      "OPAs"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Análisis de datos",
+      "Reuniones"
+    ],
+    "outputs": [
+      "Plan de gestión del alcance",
+      "Plan de gestión de requisitos"
+    ],
+    "tailoring": "En proyectos adaptativos, el plan define cómo se gestionará y refinará el backlog continuamente.",
+    "examTip": "El Plan de Gestión del Alcance no dice cuál es el alcance; dice CÓMO se gestionará y controlará."
+  },
+  {
+    "id": "proc-scope-2",
+    "number": 11,
+    "name": "Levantar y Analizar Requisitos",
+    "nameEn": "Elicit and Analyze Requirements",
+    "domain": "Alcance",
+    "domainEn": "Scope",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Determinar, documentar y gestionar las necesidades y expectativas de los interesados para cumplir con los objetivos del proyecto.",
+    "inputs": [
+      "Acta de constitución",
+      "Registro de interesados",
+      "Documentos de negocio"
+    ],
+    "tools": [
+      "Entrevistas",
+      "Grupos focales",
+      "Talleres facilitados",
+      "Historias de usuario",
+      "Prototipos",
+      "Mapas mentales"
+    ],
+    "outputs": [
+      "Documentación de requisitos",
+      "Matriz de trazabilidad de requisitos (RTM)"
+    ],
+    "tailoring": "Los requisitos en entornos ágiles se descomponen en Épicas e Historias de Usuario con Criterios de Aceptación claros.",
+    "examTip": "La Matriz de Trazabilidad de Requisitos (RTM) conecta cada requisito con el objetivo de negocio que justifica su existencia."
+  },
+  {
+    "id": "proc-scope-3",
+    "number": 12,
+    "name": "Definir el Alcance",
+    "nameEn": "Define Scope",
+    "domain": "Alcance",
+    "domainEn": "Scope",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Desarrollar una descripción detallada del proyecto y del producto, estableciendo claramente qué está incluido y qué está excluido.",
+    "inputs": [
+      "Acta de constitución",
+      "Documentación de requisitos",
+      "Supuestos y restricciones"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Análisis de producto",
+      "Toma de decisiones"
+    ],
+    "outputs": [
+      "Enunciado del Alcance del Proyecto (Project Scope Statement)"
+    ],
+    "tailoring": "El enunciado del alcance delimita las fronteras del proyecto y es vital para evitar ambigüedades con el cliente.",
+    "examTip": "Documentar las 'Exclusiones' explícitas del proyecto es tan crucial como documentar las inclusiones para evitar expectativas erróneas."
+  },
+  {
+    "id": "proc-scope-4",
+    "number": 13,
+    "name": "Desarrollar la Estructura del Alcance (EDT/WBS)",
+    "nameEn": "Develop Scope Structure",
+    "domain": "Alcance",
+    "domainEn": "Scope",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Descomponer jerárquicamente el alcance total del trabajo en componentes más pequeños y manejables llamados paquetes de trabajo.",
+    "inputs": [
+      "Plan de gestión del alcance",
+      "Enunciado del alcance del proyecto",
+      "Documentación de requisitos"
+    ],
+    "tools": [
+      "Descomposición",
+      "Juicio de expertos"
+    ],
+    "outputs": [
+      "Línea Base del Alcance (Scope Baseline): EDT/WBS + Diccionario de la EDT + Enunciado del Alcance"
+    ],
+    "tailoring": "En ágil, la estructura del alcance se representa comúnmente como un árbol de temas, épicas y características en el product backlog.",
+    "examTip": "Regla del 100%: La EDT abarca el 100% del trabajo acordado y nada más. El nivel más bajo es el Paquete de Trabajo (Work Package)."
+  },
+  {
+    "id": "proc-scope-5",
+    "number": 14,
+    "name": "Monitorear y Controlar el Alcance",
+    "nameEn": "Monitor and Control Scope",
+    "domain": "Alcance",
+    "domainEn": "Scope",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Monitorear el estado del alcance del proyecto y gestionar los cambios en la línea base del alcance para prevenir la corrupción del alcance.",
+    "inputs": [
+      "Plan para la dirección del proyecto",
+      "Datos de desempeño del trabajo",
+      "Documentación de requisitos"
+    ],
+    "tools": [
+      "Análisis de variación",
+      "Análisis de tendencias"
+    ],
+    "outputs": [
+      "Información de desempeño del trabajo",
+      "Solicitudes de cambio"
+    ],
+    "tailoring": "En marcos ágiles, la corrupción del alcance se previene fijando el tamaño del sprint; los nuevos requisitos se colocan en el backlog para priorizarse.",
+    "examTip": "Evitar la 'Sobreoptimización' (Gold Plating): dar extras que el cliente no pidió no es buena gestión; añade riesgos y costos no justificados."
+  },
+  {
+    "id": "proc-scope-6",
+    "number": 15,
+    "name": "Validar el Alcance",
+    "nameEn": "Validate Scope",
+    "domain": "Alcance",
+    "domainEn": "Scope",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Formalizar la aceptación de los entregables completados del proyecto por parte del cliente o patrocinador mediante inspección formal.",
+    "inputs": [
+      "Entregables verificados (que ya pasaron Control de Calidad)",
+      "Línea base del alcance",
+      "Requisitos"
+    ],
+    "tools": [
+      "Inspección",
+      "Toma de decisiones (Votación, Aprobación)"
+    ],
+    "outputs": [
+      "Entregables aceptados (Accepted Deliverables)",
+      "Solicitudes de cambio (si se rechazan)",
+      "Información de desempeño"
+    ],
+    "tailoring": "En Scrum, esto ocurre en la Sprint Review, donde los interesados prueban el incremento de software funcional.",
+    "examTip": "¡Clave de examen!: Control de Calidad ocurre ANTES (con el equipo) para verificar exactitud; Validar el Alcance ocurre DESPUÉS (con el cliente) para obtener la aceptación formal."
+  },
+  {
+    "id": "proc-sched-1",
+    "number": 16,
+    "name": "Planificar la Gestión del Cronograma",
+    "nameEn": "Plan Schedule Management",
+    "domain": "Cronograma",
+    "domainEn": "Schedule",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Establecer las políticas, procedimientos y documentación para planificar, desarrollar, gestionar, ejecutar y controlar el cronograma del proyecto.",
+    "inputs": [
+      "Acta de constitución",
+      "Plan para la dirección del proyecto",
+      "EEFs",
+      "OPAs"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Análisis de datos",
+      "Reuniones"
+    ],
+    "outputs": [
+      "Plan de Gestión del Cronograma (Schedule Management Plan)"
+    ],
+    "tailoring": "Define la duración de los ciclos o sprints (ej. 2 semanas fijas) si se utiliza un desarrollo adaptativo.",
+    "examTip": "El Plan de Gestión del Cronograma establece las unidades de medida (días, horas), el nivel de precisión y los umbrales de variación permitidos."
+  },
+  {
+    "id": "proc-sched-2",
+    "number": 17,
+    "name": "Desarrollar el Cronograma",
+    "nameEn": "Develop Schedule",
+    "domain": "Cronograma",
+    "domainEn": "Schedule",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Analizar secuencias de actividades, duraciones, requisitos de recursos y restricciones del cronograma para crear el modelo de programación del proyecto.",
+    "inputs": [
+      "Lista de actividades",
+      "Diagramas de red",
+      "Requisitos de recursos",
+      "Estimaciones de duración"
+    ],
+    "tools": [
+      "Método de la Ruta Crítica (CPM)",
+      "Nivelación de recursos",
+      "Técnicas de compresión (Crashing / Fast Tracking)",
+      "Software de programación"
+    ],
+    "outputs": [
+      "Línea Base del Cronograma (Schedule Baseline)",
+      "Cronograma del Proyecto (Gantt, Hitos)"
+    ],
+    "tailoring": "En desarrollo ágil, el cronograma se articula mediante el Release Plan e Iteration Burndown.",
+    "examTip": "La Ruta Crítica es la ruta más larga en la red y tiene la menor holgura (generalmente 0). Determina la fecha más temprana de finalización del proyecto."
+  },
+  {
+    "id": "proc-sched-3",
+    "number": 18,
+    "name": "Monitorear y Controlar el Cronograma",
+    "nameEn": "Monitor and Control Schedule",
+    "domain": "Cronograma",
+    "domainEn": "Schedule",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Monitorear el estado de las actividades del proyecto para actualizar el cronograma y gestionar cambios en la línea base del cronograma.",
+    "inputs": [
+      "Plan para la dirección del proyecto",
+      "Línea base del cronograma",
+      "Datos de desempeño del trabajo"
+    ],
+    "tools": [
+      "Análisis de variación de cronograma (SV, SPI)",
+      "Gráficas de avance (Burndown/Burnup)",
+      "Avance de hitos"
+    ],
+    "outputs": [
+      "Pronósticos de cronograma",
+      "Solicitudes de cambio",
+      "Información de desempeño"
+    ],
+    "tailoring": "El equipo ágil mide su velocidad (puntos de historia por sprint) para predecir si completará las entregas en fecha.",
+    "examTip": "SPI < 1.0 o SV negativo significa que el proyecto está atrasado respecto a lo planificado."
+  },
+  {
+    "id": "proc-fin-1",
+    "number": 19,
+    "name": "Planificar la Gestión Financiera",
+    "nameEn": "Plan Financial Management",
+    "domain": "Finanzas",
+    "domainEn": "Finance",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Definir cómo se estimarán, presupuestarán, gestionarán, supervisarán y controlarán los costos y aspectos financieros del proyecto.",
+    "inputs": [
+      "Acta de constitución",
+      "Documentos de negocio",
+      "Plan de dirección",
+      "EEFs",
+      "OPAs"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Análisis de datos",
+      "Reuniones"
+    ],
+    "outputs": [
+      "Plan de Gestión Financiera / Costos"
+    ],
+    "tailoring": "Define reglas para el cálculo del Valor Ganado (EVM), moneda de referencia y umbrales de variación financiera.",
+    "examTip": "Determina los porcentajes aceptables de variación antes de requerir un plan formal de acción correctiva (ej. variación > 5%)."
+  },
+  {
+    "id": "proc-fin-2",
+    "number": 20,
+    "name": "Estimar Costos",
+    "nameEn": "Estimate Costs",
+    "domain": "Finanzas",
+    "domainEn": "Finance",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Desarrollar una aproximación del valor monetario de los recursos necesarios para completar las actividades del proyecto.",
+    "inputs": [
+      "Plan de gestión de costos",
+      "Línea base del alcance",
+      "Cronograma",
+      "Factores ambientales"
+    ],
+    "tools": [
+      "Estimación análoga",
+      "Estimación paramétrica",
+      "Estimación ascendente (Bottom-up)",
+      "Estimación por tres puntos (PERT)",
+      "Análisis de reservas"
+    ],
+    "outputs": [
+      "Estimaciones de costos de las actividades",
+      "Bases de las estimaciones"
+    ],
+    "tailoring": "En ágil, se estiman costos por tasa de quema (burn rate) multiplicando el costo del equipo por sprint.",
+    "examTip": "La estimación ascendente (Bottom-up) es la más precisa pero también la más costosa y la que más tiempo toma."
+  },
+  {
+    "id": "proc-fin-3",
+    "number": 21,
+    "name": "Desarrollar el Presupuesto",
+    "nameEn": "Develop Budget",
+    "domain": "Finanzas",
+    "domainEn": "Finance",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Sumar los costos estimados de actividades individuales o paquetes de trabajo para establecer una línea base de costos autorizada.",
+    "inputs": [
+      "Estimaciones de costos",
+      "Bases de las estimaciones",
+      "Línea base del alcance",
+      "Cronograma",
+      "Contratos"
+    ],
+    "tools": [
+      "Agregación de costos",
+      "Conciliación del límite de financiamiento",
+      "Análisis de reservas"
+    ],
+    "outputs": [
+      "Línea Base de Costos (Cost Baseline - Curva S)",
+      "Requisitos de financiamiento del proyecto"
+    ],
+    "tailoring": "La Línea Base incluye las Reservas de Contingencia (riesgos conocidos). NO incluye la Reserva de Gestión (riesgos desconocidos).",
+    "examTip": "Presupuesto Total = Línea Base de Costos + Reserva de Gestión."
+  },
+  {
+    "id": "proc-fin-4",
+    "number": 22,
+    "name": "Monitorear y Controlar las Finanzas",
+    "nameEn": "Monitor and Control Finances",
+    "domain": "Finanzas",
+    "domainEn": "Finance",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Monitorear el estado financiero del proyecto para actualizar los costos y gestionar cambios en la línea base de costos.",
+    "inputs": [
+      "Plan para la dirección del proyecto",
+      "Línea base de costos",
+      "Datos de desempeño del trabajo",
+      "Requisitos de financiamiento"
+    ],
+    "tools": [
+      "Análisis de Valor Ganado (EVM: CV, CPI, EAC, TCPI)",
+      "Análisis de reservas",
+      "Índice de desempeño del trabajo por completar"
+    ],
+    "outputs": [
+      "Pronósticos de costos (EAC, ETC, VAC)",
+      "Solicitudes de cambio",
+      "Información de desempeño financiero"
+    ],
+    "tailoring": "El PM debe asegurarse de que los desembolsos no superen los límites de financiamiento periódico autorizados.",
+    "examTip": "CPI < 1.0 o CV negativo significa que el proyecto está gastando más de lo planificado para el trabajo realizado (sobrecosto)."
+  },
+  {
+    "id": "proc-stk-1",
+    "number": 23,
+    "name": "Identificar Interesados",
+    "nameEn": "Identify Stakeholders",
+    "domain": "Interesados",
+    "domainEn": "Stakeholders",
+    "focusArea": "Iniciación",
+    "focusAreaEn": "Initiating",
+    "purpose": "Identificar regularmente a las personas, grupos u organizaciones que podrían afectar o ser afectados por el proyecto y analizar sus niveles de interés, influencia e impacto.",
+    "inputs": [
+      "Acta de constitución",
+      "Documentos de negocio",
+      "Acuerdos",
+      "EEFs",
+      "OPAs"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Recopilación de datos (Cuestionarios, lluvia de ideas)",
+      "Matriz de Poder/Interés",
+      "Modelo de Prominencia (Salience model)"
+    ],
+    "outputs": [
+      "Registro de Interesados (Stakeholder Register)"
+    ],
+    "tailoring": "Este proceso se ejecuta desde el inicio y de forma continua; en proyectos ágiles se involucra a usuarios directamente en refinamientos y revisiones.",
+    "examTip": "El Registro de Interesados debe contener clasificación de impacto, expectativas y estrategias potenciales de involucramiento."
+  },
+  {
+    "id": "proc-stk-2",
+    "number": 24,
+    "name": "Planificar el Involucramiento de Interesados",
+    "nameEn": "Plan Stakeholder Engagement",
+    "domain": "Interesados",
+    "domainEn": "Stakeholders",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Desarrollar enfoques para involucrar a las partes interesadas según sus necesidades, expectativas, intereses y el impacto potencial en el proyecto.",
+    "inputs": [
+      "Acta de constitución",
+      "Registro de interesados",
+      "Plan de dirección",
+      "EEFs"
+    ],
+    "tools": [
+      "Matriz de evaluación del involucramiento de los interesados (Actual vs Deseado)",
+      "Juicio de expertos"
+    ],
+    "outputs": [
+      "Plan de Involucramiento de Interesados (Stakeholder Engagement Plan)"
+    ],
+    "tailoring": "Establece estrategias específicas para mover a interesados clave desde una posición 'Reticente' o 'Neutral' hacia una posición de 'Apoyo' o 'Líder'.",
+    "examTip": "La Matriz de Evaluación del Involucramiento clasifica a los interesados en: Desconocedor, Reticente, Neutral, De Apoyo, y Líder."
+  },
+  {
+    "id": "proc-stk-3",
+    "number": 25,
+    "name": "Planificar la Gestión de Comunicaciones",
+    "nameEn": "Plan Communications Management",
+    "domain": "Interesados",
+    "domainEn": "Stakeholders",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Desarrollar un enfoque y plan adecuados para las actividades de comunicación del proyecto en base a las necesidades de información de cada interesado.",
+    "inputs": [
+      "Acta de constitución",
+      "Registro de interesados",
+      "Plan de dirección",
+      "EEFs"
+    ],
+    "tools": [
+      "Análisis de requisitos de comunicación (Canales = N*(N-1)/2)",
+      "Modelos de comunicación",
+      "Métodos de comunicación (Push, Pull, Interactiva)"
+    ],
+    "outputs": [
+      "Plan de Gestión de Comunicaciones (Communications Management Plan)"
+    ],
+    "tailoring": "En equipos ágiles o remotos, se prioriza la comunicación interactiva y radiadores de información transparentes.",
+    "examTip": "Comunicación Push (correos, informes enviados) vs Pull (portales, wikis donde el usuario consulta a demanda) vs Interactiva (reuniones, videollamadas)."
+  },
+  {
+    "id": "proc-stk-4",
+    "number": 26,
+    "name": "Gestionar el Involucramiento de Interesados",
+    "nameEn": "Manage Stakeholder Engagement",
+    "domain": "Interesados",
+    "domainEn": "Stakeholders",
+    "focusArea": "Ejecución",
+    "focusAreaEn": "Executing",
+    "purpose": "Comunicarse y trabajar activamente con las partes interesadas para satisfacer sus necesidades y expectativas, abordar incidentes y fomentar un compromiso constructivo.",
+    "inputs": [
+      "Plan de involucramiento de interesados",
+      "Plan de comunicaciones",
+      "Registro de incidentes (Issue log)"
+    ],
+    "tools": [
+      "Habilidades interpersonales (Negociación, Influencia, Escucha activa)",
+      "Gestión de conflictos",
+      "Reuniones"
+    ],
+    "outputs": [
+      "Registro de incidentes actualizado",
+      "Solicitudes de cambio",
+      "Actualizaciones de planes"
+    ],
+    "tailoring": "Mantener transparencia honesta con los patrocinadores evita sorpresas amargas en fases avanzadas.",
+    "examTip": "El PM pasa gran parte de su tiempo gestionando expectativas de interesados y negociando acuerdos para mitigar resistencias."
+  },
+  {
+    "id": "proc-stk-5",
+    "number": 27,
+    "name": "Gestionar las Comunicaciones",
+    "nameEn": "Manage Communications",
+    "domain": "Interesados",
+    "domainEn": "Stakeholders",
+    "focusArea": "Ejecución",
+    "focusAreaEn": "Executing",
+    "purpose": "Asegurar la recopilación, creación, distribución, almacenamiento, recuperación, gestión, monitoreo y disposición final oportuna de la información del proyecto.",
+    "inputs": [
+      "Plan de gestión de comunicaciones",
+      "Informes de desempeño del trabajo",
+      "EEFs"
+    ],
+    "tools": [
+      "Sistemas de información (PMIS)",
+      "Presentaciones ejecutivas",
+      "Habilidades de retroalimentación"
+    ],
+    "outputs": [
+      "Comunicaciones del proyecto (Project Communications)",
+      "Actualizaciones de planes"
+    ],
+    "tailoring": "Adaptar el mensaje y canal según la cultura, jerarquía e idioma del receptor.",
+    "examTip": "La retroalimentación confirma si el mensaje fue entendido correctamente por el receptor y si se lograron las acciones deseadas."
+  },
+  {
+    "id": "proc-stk-6",
+    "number": 28,
+    "name": "Monitorear el Involucramiento de Interesados",
+    "nameEn": "Monitor Stakeholder Engagement",
+    "domain": "Interesados",
+    "domainEn": "Stakeholders",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Monitorear las relaciones de los interesados y adaptar las estrategias para mantener el involucramiento a medida que el proyecto evoluciona.",
+    "inputs": [
+      "Plan de involucramiento",
+      "Registro de incidentes",
+      "Registro de interesados",
+      "Datos de desempeño"
+    ],
+    "tools": [
+      "Análisis de partes interesadas",
+      "Toma de decisiones",
+      "Reuniones"
+    ],
+    "outputs": [
+      "Información de desempeño del trabajo",
+      "Solicitudes de cambio"
+    ],
+    "tailoring": "Permite detectar tempranamente si un interesado que antes apoyaba el proyecto se ha vuelto reticente debido a un cambio.",
+    "examTip": "Si un interesado clave cambia de actitud o entra un nuevo líder directivo, este proceso actualiza las estrategias de involucramiento."
+  },
+  {
+    "id": "proc-stk-7",
+    "number": 29,
+    "name": "Monitorear las Comunicaciones",
+    "nameEn": "Monitor Communications",
+    "domain": "Interesados",
+    "domainEn": "Stakeholders",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Asegurar que se satisfagan las necesidades óptimas de flujo de información del proyecto y de sus partes interesadas.",
+    "inputs": [
+      "Plan de comunicaciones",
+      "Comunicaciones del proyecto",
+      "Registro de incidentes",
+      "Datos de desempeño"
+    ],
+    "tools": [
+      "Evaluación de canales de comunicación",
+      "Encuestas de satisfacción de comunicación",
+      "Reuniones"
+    ],
+    "outputs": [
+      "Información de desempeño del trabajo",
+      "Solicitudes de cambio"
+    ],
+    "tailoring": "Elimina informes obsoletos que nadie lee y agiliza canales de retroalimentación directa.",
+    "examTip": "Si las partes interesadas se quejan de falta de información o sobrecarga de correos, este proceso ajusta el plan de comunicaciones."
+  },
+  {
+    "id": "proc-res-1",
+    "number": 30,
+    "name": "Planificar la Gestión de Recursos",
+    "nameEn": "Plan Resource Management",
+    "domain": "Recursos",
+    "domainEn": "Resources",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Definir cómo estimar, adquirir, gestionar y utilizar recursos físicos y del equipo a lo largo del ciclo de vida del proyecto.",
+    "inputs": [
+      "Acta de constitución",
+      "Plan de dirección",
+      "Línea base del alcance",
+      "EEFs",
+      "OPAs"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Estructura de desglose de la organización (OBS)",
+      "Matriz RACI",
+      "Teoría organizacional"
+    ],
+    "outputs": [
+      "Plan de Gestión de Recursos (Resource Management Plan)",
+      "Acta del Equipo (Team Charter)"
+    ],
+    "tailoring": "En equipos ágiles, el Acta del Equipo (Team Charter o Normas de Trabajo) la define el equipo de forma autónoma.",
+    "examTip": "El Team Charter establece los valores del equipo, acuerdos de comunicación, resolución interna de discrepancias y normas de convivencia."
+  },
+  {
+    "id": "proc-res-2",
+    "number": 31,
+    "name": "Estimar Recursos",
+    "nameEn": "Estimate Resources",
+    "domain": "Recursos",
+    "domainEn": "Resources",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Estimar el tipo y las cantidades de recursos humanos, materiales, equipos y suministros necesarios para realizar el trabajo de cada actividad.",
+    "inputs": [
+      "Plan de gestión de recursos",
+      "Lista de actividades",
+      "Atributos de actividad",
+      "Calendarios de recursos"
+    ],
+    "tools": [
+      "Estimación ascendente (Bottom-up)",
+      "Estimación análoga",
+      "Estimación paramétrica",
+      "Software de gestión de recursos"
+    ],
+    "outputs": [
+      "Requisitos de recursos",
+      "Bases de las estimaciones",
+      "Estructura de Desglose de Recursos (RBS)"
+    ],
+    "tailoring": "En Scrum, los recursos humanos suelen ser un equipo multidisciplinario estable de 5 a 9 personas dedicado a tiempo completo.",
+    "examTip": "La Estructura de Desglose de Recursos (RBS) es una jerarquía visual que clasifica los recursos por categoría y tipo (ej. personal, maquinaria, software)."
+  },
+  {
+    "id": "proc-res-3",
+    "number": 32,
+    "name": "Adquirir Recursos",
+    "nameEn": "Acquire Resources",
+    "domain": "Recursos",
+    "domainEn": "Resources",
+    "focusArea": "Ejecución",
+    "focusAreaEn": "Executing",
+    "purpose": "Obtener los miembros del equipo, instalaciones, equipos, materiales y suministros necesarios para completar el trabajo del proyecto.",
+    "inputs": [
+      "Plan de gestión de recursos",
+      "Calendarios de recursos",
+      "Requisitos de recursos",
+      "EEFs"
+    ],
+    "tools": [
+      "Toma de decisiones con criterios múltiples",
+      "Negociación (con gerentes funcionales)",
+      "Equipos virtuales",
+      "Asignación previa"
+    ],
+    "outputs": [
+      "Asignaciones de recursos físicos",
+      "Asignaciones del equipo del proyecto",
+      "Calendarios de recursos actualizados"
+    ],
+    "tailoring": "En organizaciones matriciales, el PM debe negociar activamente con los gerentes funcionales para conseguir talento calificado.",
+    "examTip": "Si un recurso clave no está disponible, el PM negocia con el gerente funcional o evalúa contratar talento externo o reasignar prioridades."
+  },
+  {
+    "id": "proc-res-4",
+    "number": 33,
+    "name": "Liderar al Equipo",
+    "nameEn": "Lead the Team",
+    "domain": "Recursos",
+    "domainEn": "Resources",
+    "focusArea": "Ejecución",
+    "focusAreaEn": "Executing",
+    "purpose": "Mejorar las competencias, la interacción de los miembros y el ambiente general del equipo para lograr un alto desempeño y motivar la excelencia.",
+    "inputs": [
+      "Asignaciones del equipo",
+      "Plan de recursos",
+      "Acta del equipo"
+    ],
+    "tools": [
+      "Capacitación",
+      "Actividades de desarrollo del equipo (Team building)",
+      "Reconocimiento y recompensas",
+      "Inteligencia emocional",
+      "Resolución constructiva de conflictos"
+    ],
+    "outputs": [
+      "Evaluaciones de desempeño del equipo",
+      "Solicitudes de cambio",
+      "Actualizaciones de planes"
+    ],
+    "tailoring": "El PM actúa como un líder servidor que protege al equipo de interferencias externas y facilita su autoorganización.",
+    "examTip": "Técnica de resolución de conflictos predilecta en PMI: 'Colaborar / Resolver el problema' (ganar-ganar con diálogo franco y soluciones duraderas)."
+  },
+  {
+    "id": "proc-res-5",
+    "number": 34,
+    "name": "Monitorear y Controlar los Recursos",
+    "nameEn": "Monitor and Control Resourcing",
+    "domain": "Recursos",
+    "domainEn": "Resources",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Asegurar que los recursos físicos asignados estén disponibles a tiempo y en el lugar adecuado, y liberarlos cuando ya no se requieran.",
+    "inputs": [
+      "Plan de dirección",
+      "Asignaciones de recursos físicos",
+      "Datos de desempeño del trabajo",
+      "Acuerdos"
+    ],
+    "tools": [
+      "Análisis de datos (Análisis de utilización de recursos)",
+      "Resolución de problemas",
+      "Negociación"
+    ],
+    "outputs": [
+      "Información de desempeño del trabajo",
+      "Solicitudes de cambio"
+    ],
+    "tailoring": "Evita sobrecostos por alquiler prolongado de maquinaria o penalizaciones por materiales ociosos.",
+    "examTip": "Este proceso se enfoca principalmente en recursos FÍSICOS (materiales, equipos). La gestión de las personas se cubre en 'Liderar al Equipo'."
+  },
+  {
+    "id": "proc-risk-1",
+    "number": 35,
+    "name": "Planificar la Gestión de Riesgos",
+    "nameEn": "Plan Risk Management",
+    "domain": "Riesgo",
+    "domainEn": "Risk",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Definir cómo conducir las actividades de gestión de riesgos para un proyecto, estableciendo categorías, umbrales y metodologías.",
+    "inputs": [
+      "Acta de constitución",
+      "Plan para la dirección del proyecto",
+      "Registro de interesados",
+      "Apetito de riesgo (EEFs)"
+    ],
+    "tools": [
+      "Juicio de expertos",
+      "Análisis de datos (Análisis de partes interesadas)",
+      "Reuniones de planificación de riesgos"
+    ],
+    "outputs": [
+      "Plan de Gestión de Riesgos (Risk Management Plan)",
+      "Estructura de Desglose del Riesgo (RBS)"
+    ],
+    "tailoring": "Gradúa el nivel de rigor: proyectos innovadores o con vidas humanas requieren procesos mucho más profundos.",
+    "examTip": "El Plan de Gestión de Riesgos define las escalas de probabilidad e impacto (ej. de 1 a 5) y los umbrales de tolerancia de la organización."
+  },
+  {
+    "id": "proc-risk-2",
+    "number": 36,
+    "name": "Identificar Riesgos",
+    "nameEn": "Identify Risks",
+    "domain": "Riesgo",
+    "domainEn": "Risk",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Identificar tanto los riesgos individuales del proyecto como las fuentes de riesgo general, documentando sus características detalladas.",
+    "inputs": [
+      "Plan de gestión de riesgos",
+      "Líneas base",
+      "Documentos del proyecto",
+      "Acuerdos",
+      "EEFs y OPAs"
+    ],
+    "tools": [
+      "Lluvia de ideas (Brainstorming)",
+      "Listas de verificación",
+      "Entrevistas",
+      "Análisis de supuestos y restricciones",
+      "Análisis FODA / SWOT"
+    ],
+    "outputs": [
+      "Registro de Riesgos (Risk Register)",
+      "Informe de Riesgos (Risk Report)"
+    ],
+    "tailoring": "La identificación de riesgos es un proceso iterativo que se repite en cada iteración, retrospectiva y reunión de estado.",
+    "examTip": "Un riesgo bien formulado incluye: Causa -> Evento incierto -> Consecuencia/Impacto."
+  },
+  {
+    "id": "proc-risk-3",
+    "number": 37,
+    "name": "Realizar el Análisis de Riesgos",
+    "nameEn": "Perform Risk Analysis",
+    "domain": "Riesgo",
+    "domainEn": "Risk",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Priorizar riesgos individuales evaluando probabilidad e impacto (cualitativo) y modelar numéricamente el efecto global en el proyecto (cuantitativo).",
+    "inputs": [
+      "Registro de riesgos",
+      "Plan de gestión de riesgos",
+      "Línea base del alcance y cronograma"
+    ],
+    "tools": [
+      "Matriz de Probabilidad e Impacto",
+      "Evaluación de calidad de datos de riesgo",
+      "Simulación Monte Carlo",
+      "Diagrama de Tornado (Sensibilidad)",
+      "Árboles de decisión (EMV)"
+    ],
+    "outputs": [
+      "Registro de riesgos actualizado con puntuación y priorización",
+      "Informe de riesgos con probabilidad de éxito global"
+    ],
+    "tailoring": "El análisis cualitativo es obligatorio para todo proyecto; el cuantitativo se reserva para proyectos complejos o de alta inversión.",
+    "examTip": "El Valor Monetario Esperado (EMV) = Probabilidad x Impacto financiero. Se usa frecuentemente con árboles de decisión en el examen."
+  },
+  {
+    "id": "proc-risk-4",
+    "number": 38,
+    "name": "Planificar las Respuestas a los Riesgos",
+    "nameEn": "Plan Risk Responses",
+    "domain": "Riesgo",
+    "domainEn": "Risk",
+    "focusArea": "Planificación",
+    "focusAreaEn": "Planning",
+    "purpose": "Desarrollar opciones, seleccionar estrategias y acordar acciones para abordar la exposición al riesgo individual y general.",
+    "inputs": [
+      "Registro de riesgos",
+      "Informe de riesgos",
+      "Plan de recursos",
+      "Calendarios"
+    ],
+    "tools": [
+      "Estrategias para amenazas (Escalar, Evitar, Transferir, Mitigar, Aceptar)",
+      "Estrategias para oportunidades (Escalar, Explotar, Compartir, Mejorar, Aceptar)",
+      "Planes de contingencia y reservas"
+    ],
+    "outputs": [
+      "Dueños del riesgo asignados (Risk Owners)",
+      "Solicitudes de cambio (para añadir actividades de respuesta al plan)",
+      "Planes de contingencia acordados"
+    ],
+    "tailoring": "Cada respuesta debe ser rentable en relación con la gravedad del riesgo; no gastes $10,000 en mitigar un riesgo de $2,000.",
+    "examTip": "Riesgo Residual: El riesgo que subsiste tras aplicar la respuesta. Riesgo Secundario: Un nuevo riesgo originado como efecto directo de aplicar una respuesta."
+  },
+  {
+    "id": "proc-risk-5",
+    "number": 39,
+    "name": "Implementar las Respuestas a los Riesgos",
+    "nameEn": "Implement Risk Responses",
+    "domain": "Riesgo",
+    "domainEn": "Risk",
+    "focusArea": "Ejecución",
+    "focusAreaEn": "Executing",
+    "purpose": "Asegurar que las respuestas a los riesgos acordadas se ejecuten efectivamente según lo planificado cuando se disparen las condiciones de alerta.",
+    "inputs": [
+      "Plan para la dirección del proyecto",
+      "Registro de riesgos",
+      "OPAs"
+    ],
+    "tools": [
+      "Habilidades de influencia y liderazgo",
+      "Sistemas de información (PMIS)"
+    ],
+    "outputs": [
+      "Solicitudes de cambio",
+      "Actualizaciones al registro de incidentes y registro de riesgos"
+    ],
+    "tailoring": "El dueño del riesgo es responsable de monitorear los disparadores (triggers) y liderar la ejecución de la acción de respuesta.",
+    "examTip": "Planificar respuestas no sirve de nada si el equipo no las ejecuta proactivamente antes de que el riesgo se convierta en un incidente."
+  },
+  {
+    "id": "proc-risk-6",
+    "number": 40,
+    "name": "Monitorear los Riesgos",
+    "nameEn": "Monitor Risks",
+    "domain": "Riesgo",
+    "domainEn": "Risk",
+    "focusArea": "Monitoreo y Control",
+    "focusAreaEn": "Monitoring and Controlling",
+    "purpose": "Monitorear la implementación de respuestas, hacer seguimiento a riesgos identificados, evaluar nuevos riesgos y auditar la efectividad del proceso de riesgo.",
+    "inputs": [
+      "Registro de riesgos",
+      "Datos de desempeño del trabajo",
+      "Informes de riesgos"
+    ],
+    "tools": [
+      "Auditorías de riesgos",
+      "Análisis de reserva (análisis de 'burn' de contingencias)",
+      "Reuniones de revisión periódica de riesgos"
+    ],
+    "outputs": [
+      "Información de desempeño del trabajo",
+      "Registro de riesgos actualizado (cerrando riesgos superados)",
+      "Solicitudes de cambio"
+    ],
+    "tailoring": "Si un riesgo identificado ya no tiene posibilidad de ocurrir, se cierra formalmente y se puede reasignar su reserva de contingencia.",
+    "examTip": "El análisis de reservas compara la reserva de contingencia restante contra el monto de riesgo residual aún presente en el proyecto."
+  }
+];

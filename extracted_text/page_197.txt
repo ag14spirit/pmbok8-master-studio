@@ -1,0 +1,51 @@
+Table 2-10. Check Outcomes-Resources Performance Domain
+Outcome
+There is shared ownership of the
+project.
+A high-performing team is in place.
+There is effective resource utilization
+on the project.
+There is an acceptable
+resource-downtime percentage.
+The team is productive.
+There is efficient management of
+physical and/or virtual resources.
+Resource procurement management
+is conducted.
+Check
+All project team members know the vision and objectives. The proj-
+ect team owns the deliverables and outcomes of the project.
+The project team trusts one another and collaborates. The project
+team adapts to changing situations and is resilient in the face of
+challenges. Team members feel empowered, and the project man.
+ager empowers and recognizes team members while successfully
+The actual resource usage versus planned resource usage is effec-
+tively managed.
+The total downtime versus total planned resource time is at an
+acceptable level.
+The units produced versus the hours worked, or the cost of work
+performed versus the scheduled time, is at an acceptable level and
+key performance indicators (KPls) are regularly reviewed to check
+team performance.
+The number of materials used, scrap discarded, and amount of
+rework indicate that resources are being used efficiently.
+The procurement processes, efficiency checks, order, manufacture,
+and delivery tracking are all successfully managed.
+2.6.5 Check Results
+Activities related to the Resources performance domain should be considered successful only if they
+contribute to specific outcomes. Table 2-10 shows a set of sample target outcomes, along with a
+potential check to confirm whether those outcomes are met.
+2.7 Risk Performance Domain
+The Risk performance domain represents a comprehensive approach to creating project resilience
+by managing risk through risk management practices. The Risk performance domain emphasizes
+the project team's ability to anticipate, prepare for, respond to, and adapt to various risks and
+disruptions, helping ensure continuity and success under varying uncertainties. The Risk performance
+domain advocates for a proactive stance in planning for identified project risks and disruptions,
+coupled with adaptive and flexible response mechanisms in case they occur.
+2.7.1 Key Concepts
+The following key concepts support the effective practices for the Risk performance domain:
+• Risk. A risk is an uncertain event or condition that, if it occurs, has a positive or negativ
+ffect on one or more portfolio, program, or project objectives. Identified risks may or may
+92
+A Guide to the Project Management Body of Knowledge
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

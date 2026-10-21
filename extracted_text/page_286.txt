@@ -1,0 +1,41 @@
+Meeting management. Meeting management is an interpersonal and team skill used to ensure
+neetings meet their intended objectives effectively and efficiently. The following steps should be
+used for meeting planning:
+• Prepare and distribute the agenda stating the objectives of the meeting;
+• Ensure that the meeting starts and finishes at the published time;
+• Ensure the appropriate participants are invited and attend;
+• Stay on topic;
+• Manage expectations, issues, and conflicts during the meeting; and
+• Record all actions along with the individual who has responsibility for completing the action.
+Meetings. Project meetings can include virtual or face-to-face meetings and can be supported with
+locument collaboration technologies such as email messages and project websites. Examples of
+meetings include but are not limited to the following:
+• Decision-making,
+• Facilitated workshops,
+• Issue resolution,
+• Lessons learned and retrospectives,
+• Project kickoffs,
+• Sprint planning, and
+• Status updates.
+Mind mapping. Mind mapping is a technique used to consolidate ideas created through individual
+brainstorming sessions into a single map to reflect commonality and differences in understanding and
+to generate new ideas. Mind mapping is a diagrammatic method used to visually organize information.
+Motivation. Motivation is providing a reason for someone to act. Teams can be motivated by
+empowering them to participate in decision-making and encouraging them to work independently.
+Motivation models. People perform better when they are motivated, and people are
+motivated by different things. Understanding what motivates project team members
+and other stakeholders helps to tailor rewards to the individual, thereby eliciting more
+effective engagement. There are a significant number of models that illustrate how people
+are motivated. Four models are described, though these are a small representation of
+available models.
+• Hygiene and motivational factors. Frederick Herzberg conducted a study of motivational
+factors in working life. He believed that job satisfaction and dissatisfaction stem from
+conditions called motivational factors. Motivational factors include matters that relate
+to the content of the work, such as achievement, growth, and advancement. Insufficient
+motivational factors lead to dissatisfaction. Sufficient motivational factors lead to
+atisfaction. Herzberg also identified hygiene factors related to the work, such as compan
+olicies, salary, and the physical environment. If hygiene factors are insufficient, they caus
+dissatisfaction. However, even if they are sufficient, they do not lead to satisfaction.
+Section 5 - Tools and Techniques
+181
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

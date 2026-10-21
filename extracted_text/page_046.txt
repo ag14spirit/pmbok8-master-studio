@@ -1,0 +1,45 @@
+The disciplines of portfolio, program, project, and product management are interdependent and
+operate within a value delivery framework to ensure alignment with organizational strategy. While
+portfolio, program, and product management are beyond the scope of this standard, understanding
+each discipline and the relationships among them provides a useful context for projects where the
+deliverables are products.
+Product management may initiate programs or projects at any point in the product life cycle to create
+for customers and the sponsoring organization. In some instances, a program may encompass the
+full life cycle of a product or service to manage benefits and create value for the organization more
+directly.
+The relationships among portfolio, program, project, and product management can exist in different
+forms, as shown in Figure 2-5, including but not limited to the following:
+• Program management within a product life cycle. This approach incorporates related
+projects, subsidiary programs, and program activities. For very large or long-term products,
+one or more product life cycle phases may be sufficiently complex to merit a set of
+programs and projects working together.
+Portfolio
+Program A
+Program B
+Product Usage, Sales, Impact
+Product
+Life Cycle
+Phases:
+Project 3
+(Additions)
+Project 2
+(More Features)
+Project 4
+(Revisions)
+Project 5
+(Revisions)
+Project 6
+(Revisions)
+Project 1
+(Initial Creation)
+Project 7
+(Retirement)
+• Time
+Introduction
+Growth
+Maturity
+; Decline/Retirement
+Figure 2-5. Sample Product Life Cycle
+Section 2 - A System for Value Delivery
+23
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.

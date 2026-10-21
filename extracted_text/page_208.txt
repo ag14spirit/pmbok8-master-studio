@@ -1,0 +1,22 @@
+Section 3
+Tailoring
+Tailoring is the deliberate adaptation of the project management approach, governance,
+and processes to align with the project's environment and objectives. Tailoring considers the
+development approach, processes, project life cycle, deliverables, and the approach to stakeholder
+and team involvement, ensuring alignment with project objectives and constraints.
+3.1 Overview
+The tailoring process is driven by the guiding project management principles in The Standard
+for Project Management [1]. For instance, organizations with a low risk appetite often implement
+structured processes and oversight mechanisms to minimize uncertainty. In contrast, organizations
+with higher risk tolerance may prioritize agility and decision-making autonomy, adjusting process
+rigor based on project needs rather than applying a fixed number of procedures. Tailoring entails
+the mindful selection and adjustment of multiple project factors to determine which elements are
+most useful given the project context, goals, operating environment, scale, and complexity in order to
+better align with and achieve the project outcomes.
+Projects operate in unique contexts that should consider and balance potentially competing
+demands, including but not limited to the following:
+• Delivering as quickly as possible,
+• Minimizing project costs,
+• Optimizing the value delivered,
+103
+Licensed To: George Shubitidze PMI Member ID: 1762020. This copy is a PMI Member benefit, not for distribution, sale, or reproduction.
