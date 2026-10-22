@@ -167,7 +167,7 @@ export class OnboardingTour {
 
       <div class="tour-companion-footer">
         <button class="action-chip-btn" id="tour-dock-skip" style="font-size: 0.76rem; padding: 5px 10px;">
-          Finalizar Guía
+          Finalizar guía
         </button>
 
         <div style="display: flex; gap: 6px;">
@@ -175,7 +175,7 @@ export class OnboardingTour {
             ${icons.arrowLeft} Anterior
           </button>
           <button class="btn-primary-pro" id="tour-dock-next" style="font-size: 0.78rem; padding: 5px 12px;">
-            ${isLast ? '¡Listo para Estudiar!' : 'Siguiente ' + icons.arrowRight}
+            ${isLast ? '¡Comenzar estudio!' : 'Siguiente ' + icons.arrowRight}
           </button>
         </div>
       </div>

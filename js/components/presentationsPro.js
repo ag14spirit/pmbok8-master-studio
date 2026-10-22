@@ -85,7 +85,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
                 Formato 16:9 • Notas del Expositor
               </span>
               <button class="btn-primary-pro start-deck-btn" data-deck-id="${deck.id}">
-                Ver Presentación ${icons.arrowRight}
+                Ver presentación ${icons.arrowRight}
               </button>
             </div>
           </div>
@@ -194,7 +194,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
             <!-- Navigation Buttons -->
             <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
               <button class="action-chip-btn" id="prev-slide-btn" ${currentSlideIdx === 0 ? 'disabled style="opacity: 0.4; pointer-events: none;"' : ''}>
-                ${icons.arrowLeft} Diapositiva Anterior
+                ${icons.arrowLeft} Diapositiva anterior
               </button>
 
               <span style="font-size: 0.76rem; color: var(--text-muted);">
@@ -202,7 +202,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
               </span>
 
               <button class="btn-primary-pro" id="next-slide-btn">
-                ${currentSlideIdx === activeDeck.slides.length - 1 ? 'Finalizar Presentación' : 'Siguiente Diapositiva ' + icons.arrowRight}
+                ${currentSlideIdx === activeDeck.slides.length - 1 ? 'Finalizar presentación' : 'Siguiente diapositiva ' + icons.arrowRight}
               </button>
             </div>
           </div>

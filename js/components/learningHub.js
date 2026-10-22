@@ -269,12 +269,12 @@ export class LearningHub {
         </div>
 
         <div class="modal-window-footer" style="justify-content: space-between;">
-          <button class="action-chip-btn" id="open-slides-from-modal-btn">
-            Ver 10 Diapositivas de este Tema ${icons.arrowRight}
+          <button class="btn-flat-soft-indigo" id="open-slides-from-modal-btn">
+            Ver 10 diapositivas de este tema ${icons.arrowRight}
           </button>
 
-          <button class="btn-primary-pro" id="finish-lesson-btn">
-            ${isDone ? 'Unidad Marcada como Dominada' : 'Marcar Unidad como Dominada'}
+          <button class="${isDone ? 'btn-teal-pro' : 'btn-primary-pro'}" id="finish-lesson-btn">
+            ${isDone ? 'Unidad dominada' : 'Marcar unidad como dominada'}
           </button>
         </div>
       </div>

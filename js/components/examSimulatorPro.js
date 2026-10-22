@@ -67,45 +67,51 @@ export function renderExamSimulatorPro(containerEl) {
         <div class="unit-card-pro">
           <div>
             <div class="unit-card-top">
-              <span class="unit-ref-badge">Modalidad Ágil</span>
-              <span class="unit-duration-pill">15 Minutos • 10 Preguntas</span>
+              <span class="unit-ref-badge">Modalidad ágil</span>
+              <span class="unit-duration-pill">15 minutos · 10 preguntas</span>
             </div>
-            <h3 class="unit-title">Simulacro Rápido</h3>
-            <p class="unit-summary">10 preguntas aleatorias de alta frecuencia de examen. Ideal para una sesión ágil de práctica diaria y calibración de conceptos.</p>
+            <h3 class="unit-title">Simulacro rápido</h3>
+            <p class="unit-summary">10 preguntas situacionales aleatorias de alta frecuencia. Ideal para una sesión ágil de práctica diaria y calibración de conceptos.</p>
           </div>
           <div class="unit-card-footer">
-            <span class="unit-status-indicator">Todos los Dominios</span>
-            <button class="btn-primary-pro" id="start-sim-10">Iniciar Examen ${icons.arrowRight}</button>
+            <span class="unit-status-indicator">Todos los dominios</span>
+            <button class="btn-primary-pro" id="start-sim-10">
+              Iniciar examen ${icons.arrowRight}
+            </button>
           </div>
         </div>
 
         <div class="unit-card-pro">
           <div>
             <div class="unit-card-top">
-              <span class="unit-ref-badge" style="color: var(--c-teal); background: var(--c-teal-subtle);">Modalidad Estándar</span>
-              <span class="unit-duration-pill">30 Minutos • 20 Preguntas</span>
+              <span class="unit-ref-badge" style="color: var(--c-teal); background: var(--c-teal-subtle);">Modalidad estándar</span>
+              <span class="unit-duration-pill">30 minutos · 20 preguntas</span>
             </div>
-            <h3 class="unit-title">Simulacro Estándar</h3>
+            <h3 class="unit-title">Simulacro estándar</h3>
             <p class="unit-summary">20 preguntas situacionales equilibradas entre ciclos predictivos, ágiles e híbridos según el Exam Content Outline (ECO).</p>
           </div>
           <div class="unit-card-footer">
-            <span class="unit-status-indicator">Cobertura Completa</span>
-            <button class="btn-primary-pro" id="start-sim-20" style="background: var(--c-teal);">Iniciar Examen ${icons.arrowRight}</button>
+            <span class="unit-status-indicator">Cobertura completa</span>
+            <button class="btn-teal-pro" id="start-sim-20">
+              Iniciar examen ${icons.arrowRight}
+            </button>
           </div>
         </div>
 
         <div class="unit-card-pro">
           <div>
             <div class="unit-card-top">
-              <span class="unit-ref-badge" style="color: var(--c-purple); background: var(--c-purple-subtle);">Modalidad Extensiva</span>
-              <span class="unit-duration-pill">45 Minutos • Banco Completo</span>
+              <span class="unit-ref-badge" style="color: var(--c-purple); background: var(--c-purple-subtle);">Modalidad extensiva</span>
+              <span class="unit-duration-pill">45 minutos · Banco completo</span>
             </div>
-            <h3 class="unit-title">Simulacro Extensivo PMP</h3>
-            <p class="unit-summary">Todas las preguntas del banco oficial sin interrupciones para medir tu resistencia mental y concentración bajo presión de tiempo.</p>
+            <h3 class="unit-title">Simulacro extensivo PMP</h3>
+            <p class="unit-summary">Todas las preguntas del banco oficial sin interrupciones para medir tu resistencia mental y concentración bajo presión de tiempo real.</p>
           </div>
           <div class="unit-card-footer">
-            <span class="unit-status-indicator">Resistencia Mental</span>
-            <button class="btn-primary-pro" id="start-sim-all" style="background: var(--c-purple);">Iniciar Examen ${icons.arrowRight}</button>
+            <span class="unit-status-indicator">Resistencia mental</span>
+            <button class="btn-purple-pro" id="start-sim-all">
+              Iniciar examen ${icons.arrowRight}
+            </button>
           </div>
         </div>
       </div>
@@ -125,7 +131,7 @@ export function renderExamSimulatorPro(containerEl) {
 
     containerEl.innerHTML = `
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 12px;">
-        <button class="action-chip-btn" id="exit-exam-btn">${icons.x} Salir del Examen</button>
+        <button class="action-chip-btn" id="exit-exam-btn">${icons.x} Salir del examen</button>
 
         <div style="display: flex; align-items: center; gap: 14px;">
           <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); padding: 6px 14px; border-radius: var(--radius-s); font-weight: 700; font-family: var(--font-mono); font-size: 0.95rem; display: flex; align-items: center; gap: 6px;">
@@ -133,7 +139,7 @@ export function renderExamSimulatorPro(containerEl) {
           </div>
 
           <button class="btn-primary-pro" id="submit-exam-btn">
-            Entregar Examen (${answeredCount}/${examPool.length})
+            Entregar examen (${answeredCount}/${examPool.length})
           </button>
         </div>
       </div>
@@ -198,7 +204,7 @@ export function renderExamSimulatorPro(containerEl) {
             ${icons.arrowLeft} Anterior
           </button>
           <button class="btn-primary-pro" id="next-btn">
-            ${currentIdx === examPool.length - 1 ? 'Revisar / Entregar' : 'Siguiente ' + icons.arrowRight}
+            ${currentIdx === examPool.length - 1 ? 'Revisar y entregar' : 'Siguiente ' + icons.arrowRight}
           </button>
         </div>
       </div>
@@ -278,7 +284,7 @@ export function renderExamSimulatorPro(containerEl) {
           <p style="color: var(--text-secondary); font-size: 0.94rem; max-width: 520px; margin: 0 auto 20px auto;">
             Has respondido correctamente <strong>${correctCount}</strong> de <strong>${examPool.length}</strong> preguntas. El umbral para aprobar el examen oficial es de 75%.
           </p>
-          <button class="btn-primary-pro" id="retake-exam-pro-btn">Tomar Otro Simulacro</button>
+          <button class="btn-primary-pro" id="retake-exam-pro-btn">Tomar otro simulacro ${icons.arrowRight}</button>
         </div>
 
         <h3 style="font-size: 1.2rem; font-weight: 800; margin-bottom: 16px;">Revisión Detallada de Respuestas:</h3>

@@ -96,13 +96,13 @@ export function renderFlashcardsPro(containerEl) {
 
         <!-- Rating Buttons for Spaced Repetition -->
         <div style="display: flex; gap: 10px; margin-top: 8px;">
-          <button class="action-chip-btn" id="fc-btn-hard" style="border-color: var(--c-rose-border); color: var(--c-rose);">
+          <button class="btn-flat-soft-rose" id="fc-btn-hard">
             Difícil
           </button>
-          <button class="action-chip-btn" id="fc-btn-med" style="border-color: var(--c-amber-border); color: #B45309;">
+          <button class="btn-flat-soft-amber" id="fc-btn-med">
             Regular
           </button>
-          <button class="action-chip-btn" id="fc-btn-easy" style="border-color: var(--c-teal-border); color: var(--c-teal);">
+          <button class="btn-flat-soft-teal" id="fc-btn-easy">
             Dominado
           </button>
         </div>

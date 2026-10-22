@@ -180,11 +180,33 @@
   --d-riesgo-bg: #450A0A;
 }
 
-/* Base Reset */
+/* Base Reset & Universal Button Reset */
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+button,
+input[type="button"],
+input[type="submit"],
+input[type="reset"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: var(--font-sans);
+  font-size: inherit;
+  line-height: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: inherit;
+  text-decoration: none;
+  user-select: none;
 }
 
 body {
@@ -200,191 +222,294 @@ body {
 }
 
 /* ==========================================================================
-   FLAT BUTTON SYSTEM (NATURAL CASING, BOLD SOLID COLORS)
+   SENIOR FLAT BUTTON SYSTEM (MODERN, HIGH-IMPACT, ZERO BROWSER BEVELS)
    ========================================================================== */
 
-.btn-flat {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  padding: 8px 16px;
-  border-radius: var(--radius-s);
-  border: 1px solid transparent;
-  font-size: 0.84rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.15s ease;
-  text-decoration: none;
-  white-space: nowrap;
+/* Base Flat Button (Apple / Stripe / Coolors Design Standards) */
+.btn-flat,
+.btn-primary-pro,
+.btn-teal-pro,
+.btn-purple-pro,
+.btn-indigo-pro,
+.btn-amber-pro,
+.btn-rose-pro,
+.unit-study-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 8px !important;
+  padding: 10px 18px !important;
+  border-radius: 9px !important;
+  border: 1px solid transparent !important;
+  font-family: var(--font-sans) !important;
+  font-size: 0.86rem !important;
+  font-weight: 600 !important;
+  line-height: 1.2 !important;
+  cursor: pointer !important;
+  transition: all 0.16s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  text-decoration: none !important;
+  white-space: nowrap !important;
+  letter-spacing: -0.01em !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06) !important;
+  -webkit-appearance: none !important;
+  outline: none !important;
 }
 
-.btn-flat:active {
-  transform: scale(0.98);
+.btn-flat:active,
+.btn-primary-pro:active,
+.btn-teal-pro:active,
+.btn-purple-pro:active,
+.unit-study-btn:active {
+  transform: translateY(0) scale(0.97) !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05) !important;
 }
 
+/* 1. Primary Solid Blue (Coolors & Modern Tech) */
 .btn-flat-primary,
 .btn-primary-pro {
-  background: var(--c-blue);
-  color: #FFFFFF;
-  border-color: var(--c-blue);
+  background: var(--c-blue) !important;
+  color: #FFFFFF !important;
+  border-color: var(--c-blue) !important;
 }
 .btn-flat-primary:hover,
 .btn-primary-pro:hover {
-  background: var(--c-blue-hover);
-  border-color: var(--c-blue-hover);
+  background: var(--c-blue-hover) !important;
+  border-color: var(--c-blue-hover) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.32) !important;
 }
 
-.btn-flat-teal {
-  background: var(--c-teal);
-  color: #FFFFFF;
-  border-color: var(--c-teal);
+/* 2. Flat Emerald Teal */
+.btn-flat-teal,
+.btn-teal-pro {
+  background: var(--c-teal) !important;
+  color: #FFFFFF !important;
+  border-color: var(--c-teal) !important;
 }
-.btn-flat-teal:hover {
-  background: var(--c-teal-hover);
-  border-color: var(--c-teal-hover);
-}
-
-.btn-flat-indigo {
-  background: var(--c-indigo);
-  color: #FFFFFF;
-  border-color: var(--c-indigo);
-}
-.btn-flat-indigo:hover {
-  background: var(--c-indigo-hover);
-  border-color: var(--c-indigo-hover);
+.btn-flat-teal:hover,
+.btn-teal-pro:hover {
+  background: var(--c-teal-hover) !important;
+  border-color: var(--c-teal-hover) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 14px rgba(5, 150, 105, 0.32) !important;
 }
 
-.btn-flat-purple {
-  background: var(--c-purple);
-  color: #FFFFFF;
-  border-color: var(--c-purple);
+/* 3. Flat Electric Purple */
+.btn-flat-purple,
+.btn-purple-pro {
+  background: var(--c-purple) !important;
+  color: #FFFFFF !important;
+  border-color: var(--c-purple) !important;
 }
-.btn-flat-purple:hover {
-  background: var(--c-purple-hover);
-  border-color: var(--c-purple-hover);
-}
-
-.btn-flat-amber {
-  background: var(--c-amber);
-  color: #FFFFFF;
-  border-color: var(--c-amber);
-}
-.btn-flat-amber:hover {
-  background: var(--c-amber-hover);
-  border-color: var(--c-amber-hover);
+.btn-flat-purple:hover,
+.btn-purple-pro:hover {
+  background: var(--c-purple-hover) !important;
+  border-color: var(--c-purple-hover) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 14px rgba(124, 58, 237, 0.32) !important;
 }
 
-.btn-flat-rose {
-  background: var(--c-rose);
-  color: #FFFFFF;
-  border-color: var(--c-rose);
+/* 4. Flat Indigo */
+.btn-flat-indigo,
+.btn-indigo-pro {
+  background: var(--c-indigo) !important;
+  color: #FFFFFF !important;
+  border-color: var(--c-indigo) !important;
 }
-.btn-flat-rose:hover {
-  background: var(--c-rose-hover);
-  border-color: var(--c-rose-hover);
+.btn-flat-indigo:hover,
+.btn-indigo-pro:hover {
+  background: var(--c-indigo-hover) !important;
+  border-color: var(--c-indigo-hover) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 14px rgba(79, 70, 229, 0.32) !important;
 }
 
-/* Flat Soft Pastel Chips & Buttons */
+/* 5. Flat Amber */
+.btn-flat-amber,
+.btn-amber-pro {
+  background: var(--c-amber) !important;
+  color: #FFFFFF !important;
+  border-color: var(--c-amber) !important;
+}
+.btn-flat-amber:hover,
+.btn-amber-pro:hover {
+  background: var(--c-amber-hover) !important;
+  border-color: var(--c-amber-hover) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 14px rgba(217, 119, 6, 0.32) !important;
+}
+
+/* 6. Flat Rose */
+.btn-flat-rose,
+.btn-rose-pro {
+  background: var(--c-rose) !important;
+  color: #FFFFFF !important;
+  border-color: var(--c-rose) !important;
+}
+.btn-flat-rose:hover,
+.btn-rose-pro:hover {
+  background: var(--c-rose-hover) !important;
+  border-color: var(--c-rose-hover) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 14px rgba(225, 29, 72, 0.32) !important;
+}
+
+/* 7. Soft Pastel Buttons (Slides & Secondary Actions) */
 .btn-flat-soft-indigo,
 .unit-slides-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 6px 12px;
-  background: var(--c-indigo-subtle);
-  color: var(--c-indigo);
-  border: 1px solid var(--c-indigo-border);
-  border-radius: var(--radius-s);
-  font-size: 0.8rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.15s ease;
-  white-space: nowrap;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 7px !important;
+  padding: 9px 15px !important;
+  background: var(--c-indigo-subtle) !important;
+  color: var(--c-indigo) !important;
+  border: 1px solid var(--c-indigo-border) !important;
+  border-radius: 9px !important;
+  font-family: var(--font-sans) !important;
+  font-size: 0.82rem !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  transition: all 0.16s ease !important;
+  white-space: nowrap !important;
+  text-decoration: none !important;
+  outline: none !important;
 }
 
 .btn-flat-soft-indigo:hover,
 .unit-slides-btn:hover {
-  background: #E0E7FF;
-  border-color: #A5B4FC;
+  background: #E0E7FF !important;
+  border-color: #818CF8 !important;
+  color: #3730A3 !important;
+  transform: translateY(-1px) !important;
 }
 
 .btn-flat-soft-teal {
-  background: var(--c-teal-subtle);
-  color: var(--c-teal);
-  border: 1px solid var(--c-teal-border);
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 7px !important;
+  padding: 9px 15px !important;
+  background: var(--c-teal-subtle) !important;
+  color: var(--c-teal) !important;
+  border: 1px solid var(--c-teal-border) !important;
+  border-radius: 9px !important;
+  font-family: var(--font-sans) !important;
+  font-size: 0.82rem !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  transition: all 0.16s ease !important;
+  outline: none !important;
 }
 .btn-flat-soft-teal:hover {
-  background: #D1FAE5;
-  border-color: #6EE7B7;
+  background: #D1FAE5 !important;
+  border-color: #34D399 !important;
+  color: #065F46 !important;
+  transform: translateY(-1px) !important;
 }
 
 .btn-flat-soft-amber {
-  background: var(--c-amber-subtle);
-  color: var(--c-amber);
-  border: 1px solid var(--c-amber-border);
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 7px !important;
+  padding: 9px 15px !important;
+  background: var(--c-amber-subtle) !important;
+  color: var(--c-amber) !important;
+  border: 1px solid var(--c-amber-border) !important;
+  border-radius: 9px !important;
+  font-family: var(--font-sans) !important;
+  font-size: 0.82rem !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  transition: all 0.16s ease !important;
+  outline: none !important;
 }
 .btn-flat-soft-amber:hover {
-  background: #FEF3C7;
-  border-color: #FCD34D;
+  background: #FEF3C7 !important;
+  border-color: #FBBF24 !important;
+  color: #92400E !important;
+  transform: translateY(-1px) !important;
 }
 
 .btn-flat-soft-rose {
-  background: var(--c-rose-subtle);
-  color: var(--c-rose);
-  border: 1px solid var(--c-rose-border);
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 7px !important;
+  padding: 9px 15px !important;
+  background: var(--c-rose-subtle) !important;
+  color: var(--c-rose) !important;
+  border: 1px solid var(--c-rose-border) !important;
+  border-radius: 9px !important;
+  font-family: var(--font-sans) !important;
+  font-size: 0.82rem !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  transition: all 0.16s ease !important;
+  outline: none !important;
 }
 .btn-flat-soft-rose:hover {
-  background: #FFE4E6;
-  border-color: #FDA4AF;
+  background: #FFE4E6 !important;
+  border-color: #FB7185 !important;
+  color: #9F1239 !important;
+  transform: translateY(-1px) !important;
 }
 
+/* Action Chips (Filter Pills, Secondary Toggles) */
 .action-chip-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 6px 14px;
-  background: var(--bg-surface);
-  border: 1px solid var(--border-medium);
-  border-radius: var(--radius-s);
-  color: var(--text-primary);
-  font-size: 0.82rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.15s ease;
-  white-space: nowrap;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 7px !important;
+  padding: 7px 15px !important;
+  background: var(--bg-surface) !important;
+  border: 1px solid var(--border-medium) !important;
+  border-radius: 20px !important;
+  color: var(--text-primary) !important;
+  font-family: var(--font-sans) !important;
+  font-size: 0.82rem !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  transition: all 0.16s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  white-space: nowrap !important;
+  outline: none !important;
 }
 
 .action-chip-btn:hover {
-  background: var(--bg-surface-subtle);
-  border-color: var(--border-strong);
+  background: var(--bg-surface-subtle) !important;
+  border-color: var(--border-strong) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04) !important;
 }
 
 .action-chip-btn.active {
-  background: var(--c-blue);
-  color: #FFFFFF;
-  border-color: var(--c-blue);
-  box-shadow: var(--shadow-xs);
+  background: var(--c-blue) !important;
+  color: #FFFFFF !important;
+  border-color: var(--c-blue) !important;
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25) !important;
 }
 
+/* Icon Buttons (Clean Square/Circle Actions) */
 .icon-square-btn {
-  width: 32px;
-  height: 32px;
-  background: var(--bg-surface);
-  border: 1px solid var(--border-medium);
-  border-radius: var(--radius-s);
-  color: var(--text-secondary);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  transition: all 0.15s ease;
+  width: 34px !important;
+  height: 34px !important;
+  background: var(--bg-surface) !important;
+  border: 1px solid var(--border-medium) !important;
+  border-radius: 8px !important;
+  color: var(--text-secondary) !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  cursor: pointer !important;
+  transition: all 0.16s ease !important;
+  outline: none !important;
 }
 
 .icon-square-btn:hover {
-  background: var(--bg-surface-subtle);
-  color: var(--text-primary);
-  border-color: var(--border-strong);
+  background: var(--bg-surface-subtle) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border-strong) !important;
+  transform: translateY(-1px) !important;
 }
 
 /* ==========================================================================
