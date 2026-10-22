@@ -136,7 +136,7 @@ export class OnboardingTour {
           <span style="font-family: var(--font-mono); font-size: 0.72rem; font-weight: 700; color: var(--c-blue); background: var(--c-blue-subtle); padding: 2px 7px; border-radius: var(--radius-xs);">
             Paso ${this.currentStep + 1} de ${this.steps.length}
           </span>
-          <span style="font-size: 0.76rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.04em;">
+          <span style="font-size: 0.76rem; font-weight: 700; color: var(--text-secondary); ">
             ${s.badge}
           </span>
         </div>
@@ -156,7 +156,7 @@ export class OnboardingTour {
         </p>
 
         <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 12px 14px;">
-          <span style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; color: var(--text-tertiary); letter-spacing: 0.05em; display: block; margin-bottom: 8px;">
+          <span style="font-size: 0.72rem; font-weight: 700; color: var(--text-tertiary); display: block; margin-bottom: 8px;">
             Qué estás viendo en esta pantalla:
           </span>
           <ul style="display: flex; flex-direction: column; gap: 7px; padding-left: 14px; font-size: 0.82rem; color: var(--text-primary); line-height: 1.45;">

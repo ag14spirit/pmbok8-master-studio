@@ -72,7 +72,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
                 <span class="unit-duration-pill">10 Diapositivas</span>
               </div>
 
-              <span style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; color: var(--text-tertiary); letter-spacing: 0.05em; display: block; margin-bottom: 4px;">
+              <span style="font-size: 0.72rem; font-weight: 700; color: var(--text-tertiary); display: block; margin-bottom: 4px;">
                 ${deck.category}
               </span>
 
@@ -172,7 +172,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
             <!-- Speaker Notes Callout -->
             ${showNotes && slide.speakerNotes ? `
               <div style="margin-top: 24px; padding: 12px 16px; border-radius: var(--radius-s); background: var(--bg-surface-subtle); border-left: 3px solid var(--c-purple); font-size: 0.84rem; color: var(--text-secondary); line-height: 1.5;">
-                <strong style="color: var(--text-primary); text-transform: uppercase; font-size: 0.72rem; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">
+                <strong style="color: var(--text-primary); font-size: 0.72rem; display: block; margin-bottom: 2px;">
                   Notas del Expositor / Fundamento Oficial:
                 </strong>
                 ${slide.speakerNotes}
@@ -280,7 +280,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "cover":
         return `
           <div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 30px 0;">
-            <span style="display: inline-block; padding: 4px 12px; border-radius: var(--radius-xs); background: var(--c-blue-subtle); color: var(--c-blue); font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 16px;">
+            <span style="display: inline-block; padding: 4px 12px; border-radius: var(--radius-xs); background: var(--c-blue-subtle); color: var(--c-blue); font-size: 0.8rem; font-weight: 700; margin-bottom: 16px;">
               ${slide.tag}
             </span>
             <h1 style="font-size: 2.3rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.15; margin-bottom: 16px; color: var(--text-primary);">
@@ -295,7 +295,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "split_concept":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 20px;">${slide.title}</h2>
@@ -321,7 +321,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "flow_diagram":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-teal); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-teal); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 20px;">${slide.title}</h2>
@@ -343,7 +343,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "grid_cards":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-purple); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-purple); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 20px;">${slide.title}</h2>
@@ -362,7 +362,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "matrix_comparison":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 16px;">${slide.title}</h2>
@@ -371,7 +371,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
               <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem;">
                 <thead>
                   <tr style="background: var(--bg-surface-subtle); border-bottom: 1px solid var(--border-medium);">
-                    ${slide.headers.map(h => `<th style="padding: 10px 14px; text-align: left; font-size: 0.76rem; font-weight: 700; text-transform: uppercase; color: var(--text-secondary);">${h}</th>`).join('')}
+                    ${slide.headers.map(h => `<th style="padding: 10px 14px; text-align: left; font-size: 0.76rem; font-weight: 700; color: var(--text-secondary);">${h}</th>`).join('')}
                   </tr>
                 </thead>
                 <tbody>
@@ -391,7 +391,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "itto_breakdown":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 18px;">${slide.title}</h2>
@@ -424,7 +424,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "metrics_dashboard":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-teal); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-teal); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 18px;">${slide.title}</h2>
@@ -433,7 +433,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
               ${slide.metrics.map(m => `
                 <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 18px;">
                   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                    <span style="font-size: 0.76rem; font-weight: 700; color: var(--text-tertiary); text-transform: uppercase;">${m.name}</span>
+                    <span style="font-size: 0.76rem; font-weight: 700; color: var(--text-tertiary); ">${m.name}</span>
                     <span style="padding: 2px 8px; border-radius: var(--radius-xs); background: var(--c-teal-subtle); color: var(--c-teal); font-size: 0.7rem; font-weight: 700;">${m.status}</span>
                   </div>
                   <div style="font-size: 1.8rem; font-weight: 900; font-family: var(--font-mono); color: var(--c-teal); margin-bottom: 4px;">${m.val}</div>
@@ -447,13 +447,13 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "exam_trap":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: #B45309; letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: #B45309; display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 16px;">${slide.title}</h2>
 
             <div style="background: var(--c-amber-subtle); border: 1px solid var(--c-amber-border); border-radius: var(--radius-s); padding: 18px; margin-bottom: 14px;">
-              <strong style="font-size: 0.84rem; text-transform: uppercase; color: #B45309; display: block; margin-bottom: 4px;">Escenario Situacional:</strong>
+              <strong style="font-size: 0.84rem; color: #B45309; display: block; margin-bottom: 4px;">Escenario Situacional:</strong>
               <p style="font-size: 0.94rem; line-height: 1.5; color: var(--text-primary);">${slide.trapScenario}</p>
             </div>
 
@@ -476,7 +476,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "checklist":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 18px;">${slide.title}</h2>

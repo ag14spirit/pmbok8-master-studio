@@ -170,7 +170,7 @@ export function renderExamSimulatorPro(containerEl) {
       <!-- Question Card -->
       <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 28px; box-shadow: var(--shadow-xs);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px;">
-          <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue);">
+          <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; color: var(--c-blue);">
             Pregunta ${currentIdx + 1} de ${examPool.length} • ${q.sectionRef}
           </span>
           <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 0.8rem; font-weight: 600;">
@@ -269,7 +269,7 @@ export function renderExamSimulatorPro(containerEl) {
     containerEl.innerHTML = `
       <div style="max-width: 800px; margin: 0 auto;">
         <div style="background: var(--bg-surface); border: 1px solid ${passed ? 'var(--c-teal)' : 'var(--c-rose)'}; border-radius: var(--radius-m); padding: 32px; text-align: center; margin-bottom: 24px; box-shadow: var(--shadow-xs);">
-          <span style="font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700; text-transform: uppercase; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">
+          <span style="font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">
             ${passed ? 'Nivel de Certificación: Competente' : 'Resultado Insuficiente'}
           </span>
           <div style="font-size: 3.5rem; font-weight: 900; font-family: var(--font-mono); letter-spacing: -0.04em; margin: 10px 0; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">

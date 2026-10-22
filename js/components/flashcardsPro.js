@@ -59,7 +59,7 @@ export function renderFlashcardsPro(containerEl) {
 
     area.innerHTML = `
       <div style="max-width: 620px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 20px;">
-        <span style="font-family: var(--font-mono); font-size: 0.78rem; font-weight: 700; color: var(--text-tertiary); text-transform: uppercase;">
+        <span style="font-family: var(--font-mono); font-size: 0.78rem; font-weight: 700; color: var(--text-tertiary); ">
           Tarjeta ${currentCardIdx + 1} de ${glossary.length}
         </span>
 
@@ -68,7 +68,7 @@ export function renderFlashcardsPro(containerEl) {
           <div id="fc-card-inner" style="position: relative; width: 100%; height: 100%; text-align: center; transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1); transform-style: preserve-3d; ${isFlipped ? 'transform: rotateY(180deg);' : ''}">
             <!-- Front Face -->
             <div style="position: absolute; width: 100%; height: 100%; -webkit-backface-visibility: hidden; backface-visibility: hidden; background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 28px; box-shadow: var(--shadow-s);">
-              <span style="padding: 3px 10px; border-radius: var(--radius-xs); background: var(--c-blue-subtle); color: var(--c-blue); font-size: 0.72rem; font-weight: 700; text-transform: uppercase; margin-bottom: 16px;">
+              <span style="padding: 3px 10px; border-radius: var(--radius-xs); background: var(--c-blue-subtle); color: var(--c-blue); font-size: 0.72rem; font-weight: 700; margin-bottom: 16px;">
                 ${card.category}
               </span>
               <h3 style="font-size: 1.6rem; font-weight: 800; letter-spacing: -0.02em; color: var(--text-primary); margin-bottom: 14px;">
@@ -81,7 +81,7 @@ export function renderFlashcardsPro(containerEl) {
 
             <!-- Back Face -->
             <div style="position: absolute; width: 100%; height: 100%; -webkit-backface-visibility: hidden; backface-visibility: hidden; background: var(--bg-surface); border: 2px solid var(--c-blue); border-radius: var(--radius-m); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px; box-shadow: var(--shadow-s); transform: rotateY(180deg);">
-              <span style="font-size: 0.74rem; font-weight: 700; color: var(--c-blue); text-transform: uppercase; margin-bottom: 10px;">
+              <span style="font-size: 0.74rem; font-weight: 700; color: var(--c-blue); margin-bottom: 10px;">
                 Definición Oficial PMBOK® 8
               </span>
               <p style="font-size: 1.05rem; line-height: 1.55; color: var(--text-primary);">

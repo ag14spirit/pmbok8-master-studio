@@ -34,7 +34,7 @@ export function renderAppendicesPro(containerEl) {
 
       <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 32px; box-shadow: var(--shadow-xs);">
         <div style="margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border-subtle);">
-          <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em;">
+          <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; color: var(--c-blue); ">
             Estudio Especializado Oficial
           </span>
           <h2 style="font-size: 1.65rem; font-weight: 800; letter-spacing: -0.02em; margin: 4px 0 10px 0;">

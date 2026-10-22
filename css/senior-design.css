@@ -1,12 +1,12 @@
 /* ==========================================================================
-   PMBOK 8 MASTER STUDIO • EXECUTIVE SENIOR DESIGN SYSTEM
+   PMBOK 8 MASTER STUDIO • SENIOR FLAT DESIGN SYSTEM
    Aesthetics: Apple Pro / Linear / Stripe Developer Documentation
-   Colors: Harmonic Coolors Spectrum (Calibrated for high contrast & elegance)
-   Zero Emojis • Vector SVGs • Strict Typographic Rhythm
+   Colors: Harmonic Coolors Spectrum (Flat solid colors, high contrast & energy)
+   Natural Human Typography (Sentence Case / Zero AI-Style Forced Uppercase)
    ========================================================================== */
 
 :root {
-  /* Surface & Base Tokens */
+  /* Surface & Base Canvas */
   --bg-canvas: #F8FAFC;
   --bg-surface: #FFFFFF;
   --bg-surface-subtle: #F1F5F9;
@@ -24,26 +24,75 @@
   --text-tertiary: #64748B;
   --text-muted: #94A3B8;
 
-  /* Coolors Harmonic Accent Palette */
+  /* Vibrant Flat Color Spectrum (Coolors Harmonic Engine) */
   --c-blue: #2563EB;
+  --c-blue-hover: #1D4ED8;
   --c-blue-subtle: #EFF6FF;
   --c-blue-border: #BFDBFE;
 
+  --c-indigo: #4F46E5;
+  --c-indigo-hover: #4338CA;
+  --c-indigo-subtle: #EEF2FF;
+  --c-indigo-border: #C7D2FE;
+
   --c-teal: #059669;
+  --c-teal-hover: #047857;
   --c-teal-subtle: #ECFDF5;
   --c-teal-border: #A7F3D0;
 
   --c-purple: #7C3AED;
+  --c-purple-hover: #6D28D9;
   --c-purple-subtle: #F5F3FF;
   --c-purple-border: #DDD6FE;
 
   --c-amber: #D97706;
+  --c-amber-hover: #B45309;
   --c-amber-subtle: #FFFBEB;
   --c-amber-border: #FDE68A;
 
-  --c-rose: #DC2626;
-  --c-rose-subtle: #FEF2F2;
-  --c-rose-border: #FECACA;
+  --c-orange: #EA580C;
+  --c-orange-hover: #C2410C;
+  --c-orange-subtle: #FFF7ED;
+  --c-orange-border: #FED7AA;
+
+  --c-rose: #E11D48;
+  --c-rose-hover: #BE123C;
+  --c-rose-subtle: #FFF1F2;
+  --c-rose-border: #FECDD3;
+
+  --c-cyan: #0284C7;
+  --c-cyan-hover: #0369A1;
+  --c-cyan-subtle: #F0F9FF;
+  --c-cyan-border: #BAE6FD;
+
+  /* 7 Performance Domains Flat Colors */
+  --d-gobernanza: #2563EB;
+  --d-gobernanza-bg: #EFF6FF;
+  --d-gobernanza-border: #BFDBFE;
+
+  --d-alcance: #059669;
+  --d-alcance-bg: #ECFDF5;
+  --d-alcance-border: #A7F3D0;
+
+  --d-cronograma: #D97706;
+  --d-cronograma-bg: #FFFBEB;
+  --d-cronograma-border: #FDE68A;
+
+  --d-finanzas: #7C3AED;
+  --d-finanzas-bg: #F5F3FF;
+  --d-finanzas-border: #DDD6FE;
+
+  --d-interesados: #E11D48;
+  --d-interesados-bg: #FFF1F2;
+  --d-interesados-border: #FECDD3;
+
+  --d-recursos: #0284C7;
+  --d-recursos-bg: #F0F9FF;
+  --d-recursos-border: #BAE6FD;
+
+  --d-riesgo: #DC2626;
+  --d-riesgo-bg: #FEF2F2;
+  --d-riesgo-border: #FECACA;
 
   /* Layout Constants */
   --header-tier1-height: 56px;
@@ -55,7 +104,7 @@
   --radius-l: 14px;
   --radius-full: 9999px;
 
-  /* Shadows */
+  /* Flat Shadows */
   --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.04);
   --shadow-s: 0 2px 6px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
   --shadow-m: 0 6px 16px rgba(0, 0, 0, 0.08), 0 2px 6px rgba(0, 0, 0, 0.04);
@@ -63,7 +112,7 @@
 
   /* Fonts */
   --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
 }
 
 [data-theme="dark"] {
@@ -83,29 +132,52 @@
   --text-muted: #64748B;
 
   --c-blue: #3B82F6;
+  --c-blue-hover: #2563EB;
   --c-blue-subtle: #172554;
   --c-blue-border: #1E40AF;
 
+  --c-indigo: #6366F1;
+  --c-indigo-hover: #4F46E5;
+  --c-indigo-subtle: #1E1B4B;
+  --c-indigo-border: #3730A3;
+
   --c-teal: #10B981;
+  --c-teal-hover: #059669;
   --c-teal-subtle: #064E3B;
   --c-teal-border: #065F46;
 
   --c-purple: #8B5CF6;
+  --c-purple-hover: #7C3AED;
   --c-purple-subtle: #2E1065;
   --c-purple-border: #5B21B6;
 
   --c-amber: #F59E0B;
+  --c-amber-hover: #D97706;
   --c-amber-subtle: #451A03;
   --c-amber-border: #78350F;
 
-  --c-rose: #EF4444;
-  --c-rose-subtle: #450A0A;
-  --c-rose-border: #7F1D1D;
+  --c-orange: #FB923C;
+  --c-orange-hover: #EA580C;
+  --c-orange-subtle: #431407;
+  --c-orange-border: #7C2D12;
 
-  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.3);
-  --shadow-s: 0 2px 6px rgba(0, 0, 0, 0.4);
-  --shadow-m: 0 6px 16px rgba(0, 0, 0, 0.5);
-  --shadow-l: 0 14px 34px rgba(0, 0, 0, 0.6);
+  --c-rose: #F43F5E;
+  --c-rose-hover: #E11D48;
+  --c-rose-subtle: #4C0519;
+  --c-rose-border: #881337;
+
+  --c-cyan: #38BDF8;
+  --c-cyan-hover: #0284C7;
+  --c-cyan-subtle: #082F49;
+  --c-cyan-border: #0369A1;
+
+  --d-gobernanza-bg: #172554;
+  --d-alcance-bg: #064E3B;
+  --d-cronograma-bg: #451A03;
+  --d-finanzas-bg: #2E1065;
+  --d-interesados-bg: #4C0519;
+  --d-recursos-bg: #082F49;
+  --d-riesgo-bg: #450A0A;
 }
 
 /* Base Reset */
@@ -128,9 +200,195 @@ body {
 }
 
 /* ==========================================================================
+   FLAT BUTTON SYSTEM (NATURAL CASING, BOLD SOLID COLORS)
+   ========================================================================== */
+
+.btn-flat {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: var(--radius-s);
+  border: 1px solid transparent;
+  font-size: 0.84rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.btn-flat:active {
+  transform: scale(0.98);
+}
+
+.btn-flat-primary,
+.btn-primary-pro {
+  background: var(--c-blue);
+  color: #FFFFFF;
+  border-color: var(--c-blue);
+}
+.btn-flat-primary:hover,
+.btn-primary-pro:hover {
+  background: var(--c-blue-hover);
+  border-color: var(--c-blue-hover);
+}
+
+.btn-flat-teal {
+  background: var(--c-teal);
+  color: #FFFFFF;
+  border-color: var(--c-teal);
+}
+.btn-flat-teal:hover {
+  background: var(--c-teal-hover);
+  border-color: var(--c-teal-hover);
+}
+
+.btn-flat-indigo {
+  background: var(--c-indigo);
+  color: #FFFFFF;
+  border-color: var(--c-indigo);
+}
+.btn-flat-indigo:hover {
+  background: var(--c-indigo-hover);
+  border-color: var(--c-indigo-hover);
+}
+
+.btn-flat-purple {
+  background: var(--c-purple);
+  color: #FFFFFF;
+  border-color: var(--c-purple);
+}
+.btn-flat-purple:hover {
+  background: var(--c-purple-hover);
+  border-color: var(--c-purple-hover);
+}
+
+.btn-flat-amber {
+  background: var(--c-amber);
+  color: #FFFFFF;
+  border-color: var(--c-amber);
+}
+.btn-flat-amber:hover {
+  background: var(--c-amber-hover);
+  border-color: var(--c-amber-hover);
+}
+
+.btn-flat-rose {
+  background: var(--c-rose);
+  color: #FFFFFF;
+  border-color: var(--c-rose);
+}
+.btn-flat-rose:hover {
+  background: var(--c-rose-hover);
+  border-color: var(--c-rose-hover);
+}
+
+/* Flat Soft Pastel Chips & Buttons */
+.btn-flat-soft-indigo,
+.unit-slides-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  background: var(--c-indigo-subtle);
+  color: var(--c-indigo);
+  border: 1px solid var(--c-indigo-border);
+  border-radius: var(--radius-s);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.btn-flat-soft-indigo:hover,
+.unit-slides-btn:hover {
+  background: #E0E7FF;
+  border-color: #A5B4FC;
+}
+
+.btn-flat-soft-teal {
+  background: var(--c-teal-subtle);
+  color: var(--c-teal);
+  border: 1px solid var(--c-teal-border);
+}
+.btn-flat-soft-teal:hover {
+  background: #D1FAE5;
+  border-color: #6EE7B7;
+}
+
+.btn-flat-soft-amber {
+  background: var(--c-amber-subtle);
+  color: var(--c-amber);
+  border: 1px solid var(--c-amber-border);
+}
+.btn-flat-soft-amber:hover {
+  background: #FEF3C7;
+  border-color: #FCD34D;
+}
+
+.btn-flat-soft-rose {
+  background: var(--c-rose-subtle);
+  color: var(--c-rose);
+  border: 1px solid var(--c-rose-border);
+}
+.btn-flat-soft-rose:hover {
+  background: #FFE4E6;
+  border-color: #FDA4AF;
+}
+
+.action-chip-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-s);
+  color: var(--text-primary);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.action-chip-btn:hover {
+  background: var(--bg-surface-subtle);
+  border-color: var(--border-strong);
+}
+
+.action-chip-btn.active {
+  background: var(--c-blue);
+  color: #FFFFFF;
+  border-color: var(--c-blue);
+  box-shadow: var(--shadow-xs);
+}
+
+.icon-square-btn {
+  width: 32px;
+  height: 32px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-s);
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.icon-square-btn:hover {
+  background: var(--bg-surface-subtle);
+  color: var(--text-primary);
+  border-color: var(--border-strong);
+}
+
+/* ==========================================================================
    2-TIER EXECUTIVE HEADER & NAVIGATION BAR
-   Tier 1: Brand & Global Tools (56px)
-   Tier 2: Primary Functional Navigation Tabs (48px)
    ========================================================================== */
 
 .app-header-container {
@@ -165,16 +423,15 @@ body {
 .brand-icon-box {
   width: 32px;
   height: 32px;
-  background: var(--text-primary);
-  color: var(--bg-surface);
+  background: var(--c-blue);
+  color: #FFFFFF;
   border-radius: var(--radius-s);
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: var(--font-mono);
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   font-weight: 800;
-  letter-spacing: -0.04em;
   box-shadow: var(--shadow-xs);
   flex-shrink: 0;
 }
@@ -188,21 +445,19 @@ body {
 .brand-title {
   font-size: 1.05rem;
   font-weight: 800;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
   color: var(--text-primary);
 }
 
 .brand-edition-tag {
   font-family: var(--font-mono);
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   font-weight: 600;
   color: var(--c-blue);
   background: var(--c-blue-subtle);
   border: 1px solid var(--c-blue-border);
-  padding: 2px 7px;
+  padding: 2px 8px;
   border-radius: var(--radius-xs);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
 }
 
 .header-tools {
@@ -228,7 +483,7 @@ body {
 
 .nav-tabs-group {
   display: flex;
-  gap: 4px;
+  gap: 6px;
   align-items: center;
   width: 100%;
 }
@@ -242,7 +497,7 @@ body {
   border: 1px solid transparent;
   border-radius: var(--radius-s);
   color: var(--text-secondary);
-  font-size: 0.84rem;
+  font-size: 0.85rem;
   font-weight: 600;
   cursor: pointer;
   white-space: nowrap;
@@ -266,102 +521,18 @@ body {
 }
 
 .nav-tab-btn.active {
-  background: var(--bg-surface-subtle);
-  color: var(--text-primary);
-  border-color: var(--border-medium);
+  background: var(--c-blue-subtle);
+  color: var(--c-blue);
+  border-color: var(--c-blue-border);
   font-weight: 700;
-  box-shadow: var(--shadow-xs);
 }
 
 .nav-tab-btn.active svg {
   color: var(--c-blue);
 }
 
-/* Action Chips & Square Icon Buttons */
-.action-chip-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 6px 12px;
-  background: var(--bg-surface);
-  border: 1px solid var(--border-medium);
-  border-radius: var(--radius-s);
-  color: var(--text-primary);
-  font-size: 0.8rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.15s ease;
-  white-space: nowrap;
-}
-
-.action-chip-btn:hover {
-  background: var(--bg-surface-subtle);
-  border-color: var(--border-strong);
-}
-
-.action-chip-btn.active {
-  background: var(--c-blue);
-  color: #FFFFFF;
-  border-color: var(--c-blue);
-}
-
-.icon-square-btn {
-  width: 32px;
-  height: 32px;
-  background: var(--bg-surface);
-  border: 1px solid var(--border-medium);
-  border-radius: var(--radius-s);
-  color: var(--text-secondary);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  transition: all 0.15s ease;
-}
-
-.icon-square-btn:hover {
-  background: var(--bg-surface-subtle);
-  color: var(--text-primary);
-  border-color: var(--border-strong);
-}
-
-/* Primary Button Pro */
-.btn-primary-pro {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 7px 14px;
-  background: var(--c-blue);
-  color: #FFFFFF;
-  border: 1px solid transparent;
-  border-radius: var(--radius-s);
-  font-size: 0.82rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.15s ease;
-  text-decoration: none;
-  box-shadow: var(--shadow-xs);
-}
-
-.btn-primary-pro:hover {
-  filter: brightness(1.08);
-}
-
-/* Brand Tag */
-.brand-tag {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  font-weight: 700;
-  color: var(--c-blue);
-  background: var(--c-blue-subtle);
-  border: 1px solid var(--c-blue-border);
-  padding: 3px 8px;
-  border-radius: var(--radius-xs);
-  text-transform: uppercase;
-}
-
 /* ==========================================================================
-   MAIN CONTAINER & SECTIONS
+   MAIN VIEWPORT & HERO
    ========================================================================== */
 
 .app-main {
@@ -386,15 +557,11 @@ body {
   to { opacity: 1; transform: translateY(0); }
 }
 
-/* ==========================================================================
-   HERO / BANNER COMPONENT
-   ========================================================================== */
-
 .pro-hero-header {
   background: var(--bg-surface);
   border: 1px solid var(--border-medium);
   border-radius: var(--radius-m);
-  padding: 26px 30px;
+  padding: 24px 28px;
   margin-bottom: 24px;
   box-shadow: var(--shadow-xs);
   display: flex;
@@ -405,9 +572,9 @@ body {
 }
 
 .hero-title-group h1 {
-  font-size: 1.55rem;
+  font-size: 1.5rem;
   font-weight: 800;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
   margin-bottom: 6px;
   color: var(--text-primary);
 }
@@ -421,7 +588,7 @@ body {
 
 .hero-stats-row {
   display: flex;
-  gap: 14px;
+  gap: 12px;
 }
 
 .stat-metric-pill {
@@ -436,23 +603,21 @@ body {
 
 .stat-num {
   font-family: var(--font-mono);
-  font-size: 1.45rem;
+  font-size: 1.4rem;
   font-weight: 800;
   color: var(--c-blue);
   line-height: 1.1;
 }
 
 .stat-label {
-  font-size: 0.72rem;
+  font-size: 0.76rem;
   font-weight: 600;
-  text-transform: uppercase;
   color: var(--text-tertiary);
-  letter-spacing: 0.04em;
-  margin-top: 2px;
+  margin-top: 3px;
 }
 
 /* ==========================================================================
-   CURRICULUM / LEARNING HUB DESIGN (FIXES ISSUE 1)
+   CURRICULUM / LEARNING HUB (NATURAL CASE & FLAT CARDS)
    ========================================================================== */
 
 .part-section-group {
@@ -468,11 +633,8 @@ body {
 }
 
 .part-badge {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.78rem;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
   padding: 3px 10px;
   border-radius: var(--radius-xs);
   align-self: flex-start;
@@ -549,23 +711,23 @@ body {
 
 .unit-ref-badge {
   font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.74rem;
   font-weight: 700;
   color: var(--c-blue);
   background: var(--c-blue-subtle);
-  padding: 2px 7px;
+  border: 1px solid var(--c-blue-border);
+  padding: 2px 8px;
   border-radius: var(--radius-xs);
-  text-transform: uppercase;
 }
 
 .unit-duration-pill {
-  font-size: 0.75rem;
+  font-size: 0.76rem;
   color: var(--text-tertiary);
   font-weight: 500;
 }
 
 .unit-title {
-  font-size: 1.1rem;
+  font-size: 1.08rem;
   font-weight: 700;
   letter-spacing: -0.02em;
   color: var(--text-primary);
@@ -608,7 +770,7 @@ body {
 }
 
 .lesson-bullet-more {
-  font-size: 0.72rem;
+  font-size: 0.74rem;
   color: var(--text-tertiary);
   font-weight: 600;
   padding-left: 13px;
@@ -627,7 +789,7 @@ body {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   font-weight: 600;
   color: var(--text-tertiary);
 }
@@ -643,38 +805,17 @@ body {
   background: var(--border-strong);
 }
 
-.unit-slides-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  padding: 6px 10px;
-  background: var(--bg-surface-subtle);
-  border: 1px solid var(--border-medium);
-  border-radius: var(--radius-s);
-  font-size: 0.78rem;
-  font-weight: 600;
-  color: var(--text-secondary);
-  cursor: pointer;
-  transition: all 0.15s ease;
-}
-
-.unit-slides-btn:hover {
-  background: var(--bg-surface-hover);
-  color: var(--text-primary);
-  border-color: var(--border-strong);
-}
-
 /* ==========================================================================
-   40 PROCESSES MATRIX STYLES (FIXES ISSUE 2)
+   40 PROCESSES MATRIX (COLORFUL DOMAINS & FLAT CHIPS)
    ========================================================================== */
 
 .matrix-explanation-banner {
   background: var(--bg-surface-subtle);
   border: 1px solid var(--border-subtle);
-  border-left: 3px solid var(--c-blue);
-  padding: 12px 18px;
+  border-left: 4px solid var(--c-blue);
+  padding: 14px 18px;
   border-radius: var(--radius-s);
-  font-size: 0.84rem;
+  font-size: 0.86rem;
   line-height: 1.5;
   color: var(--text-secondary);
   margin-bottom: 16px;
@@ -706,7 +847,7 @@ body {
   background: transparent;
   border: none;
   padding: 6px 14px;
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   font-weight: 600;
   border-radius: var(--radius-xs);
   cursor: pointer;
@@ -758,9 +899,9 @@ body {
 
 .domain-chips-row {
   display: flex;
-  gap: 6px;
+  gap: 8px;
   flex-wrap: wrap;
-  margin-bottom: 14px;
+  margin-bottom: 16px;
 }
 
 /* 2D Matrix Table Grid */
@@ -782,10 +923,8 @@ body {
   width: 210px;
   padding: 14px 16px;
   background: var(--bg-surface-subtle);
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
   color: var(--text-secondary);
   text-align: left;
   border-bottom: 1px solid var(--border-medium);
@@ -802,17 +941,15 @@ body {
 
 .fa-sec-badge {
   font-family: var(--font-mono);
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   font-weight: 700;
   color: var(--c-teal);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
   display: block;
   margin-bottom: 2px;
 }
 
 .fa-name-title {
-  font-size: 0.88rem;
+  font-size: 0.9rem;
   font-weight: 700;
   color: var(--text-primary);
   display: block;
@@ -827,7 +964,7 @@ body {
 }
 
 .domain-name-tag {
-  font-size: 0.94rem;
+  font-size: 0.96rem;
   font-weight: 800;
   color: var(--text-primary);
   display: block;
@@ -835,7 +972,7 @@ body {
 
 .domain-section-tag {
   font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.74rem;
   color: var(--text-tertiary);
   display: block;
   margin-top: 4px;
@@ -877,7 +1014,7 @@ body {
 
 .process-cell-num {
   font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.74rem;
   font-weight: 800;
   color: var(--c-blue);
 }
@@ -898,8 +1035,7 @@ body {
 }
 
 /* ==========================================================================
-   EVM LABORATORY EXECUTIVE CONSOLE (FIXES ISSUE 3)
-   Replaces the raw SVG canvas graph with an interactive financial simulator
+   EVM LABORATORY EXECUTIVE CONSOLE (FLAT & COLORFUL)
    ========================================================================== */
 
 .evm-presets-bar {
@@ -911,14 +1047,14 @@ body {
 }
 
 .evm-presets-label {
-  font-size: 0.82rem;
+  font-size: 0.84rem;
   font-weight: 700;
   color: var(--text-secondary);
 }
 
 .evm-presets-group {
   display: flex;
-  gap: 6px;
+  gap: 8px;
   flex-wrap: wrap;
 }
 
@@ -951,7 +1087,7 @@ body {
 }
 
 .evm-panel-subtitle {
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   color: var(--text-tertiary);
   display: block;
   margin-top: 2px;
@@ -986,10 +1122,10 @@ body {
 }
 
 .evm-card-param-desc {
-  font-size: 0.74rem;
+  font-size: 0.76rem;
   color: var(--text-secondary);
   display: block;
-  margin-top: 1px;
+  margin-top: 2px;
 }
 
 .evm-val-display {
@@ -1027,7 +1163,7 @@ body {
 .evm-slider-ticks {
   display: flex;
   justify-content: space-between;
-  font-size: 0.68rem;
+  font-size: 0.7rem;
   font-family: var(--font-mono);
   color: var(--text-muted);
   margin-top: 5px;
@@ -1071,17 +1207,16 @@ body {
 
 .metric-hero-code {
   font-family: var(--font-mono);
-  font-size: 0.74rem;
+  font-size: 0.76rem;
   font-weight: 700;
   color: var(--text-tertiary);
 }
 
 .metric-status-chip {
-  padding: 3px 8px;
+  padding: 4px 10px;
   border-radius: var(--radius-xs);
-  font-size: 0.72rem;
+  font-size: 0.74rem;
   font-weight: 700;
-  text-transform: uppercase;
 }
 
 .metric-hero-value {
@@ -1093,14 +1228,14 @@ body {
 }
 
 .metric-hero-name {
-  font-size: 0.9rem;
+  font-size: 0.92rem;
   font-weight: 700;
   color: var(--text-primary);
   display: block;
 }
 
 .metric-hero-desc {
-  font-size: 0.82rem;
+  font-size: 0.84rem;
   color: var(--text-secondary);
   line-height: 1.45;
   margin-top: 6px;
@@ -1115,11 +1250,9 @@ body {
 }
 
 .evm-matrix-title {
-  font-size: 0.78rem;
-  font-weight: 800;
-  text-transform: uppercase;
+  font-size: 0.82rem;
+  font-weight: 700;
   color: var(--text-tertiary);
-  letter-spacing: 0.05em;
   margin-bottom: 14px;
 }
 
@@ -1143,7 +1276,7 @@ body {
 }
 
 .formula-cell-label {
-  font-size: 0.72rem;
+  font-size: 0.76rem;
   font-weight: 700;
   color: var(--text-tertiary);
   display: block;
@@ -1158,7 +1291,7 @@ body {
 }
 
 .formula-cell-sub {
-  font-size: 0.72rem;
+  font-size: 0.74rem;
   color: var(--text-muted);
   margin-top: 4px;
   display: block;
@@ -1185,7 +1318,7 @@ body {
 }
 
 /* ==========================================================================
-   ITTO GRID COMMON
+   ITTO GRID (NATURAL CASE & COLOR ACCENTS)
    ========================================================================== */
 
 .itto-grid {
@@ -1209,10 +1342,8 @@ body {
 }
 
 .itto-col h5 {
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
   margin-bottom: 10px;
   padding-bottom: 6px;
   border-bottom: 1px solid var(--border-subtle);
@@ -1226,7 +1357,7 @@ body {
 }
 
 .itto-col li {
-  font-size: 0.82rem;
+  font-size: 0.84rem;
   line-height: 1.45;
   color: var(--text-secondary);
   padding-left: 14px;
@@ -1242,7 +1373,7 @@ body {
 }
 
 /* ==========================================================================
-   MODAL WINDOW & SLIDE-OVER BACKDROP
+   MODAL WINDOW & BACKDROP
    ========================================================================== */
 
 .modal-backdrop-pro {
@@ -1309,7 +1440,7 @@ body {
   color: var(--bg-surface);
   border-radius: var(--radius-full);
   padding: 8px 18px;
-  font-size: 0.82rem;
+  font-size: 0.84rem;
   font-weight: 600;
   box-shadow: var(--shadow-m);
   display: none;

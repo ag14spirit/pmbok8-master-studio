@@ -7848,9 +7848,9 @@ class LearningHub {
     const progressPercent = Math.round((completedCount / totalUnits) * 100);
 
     const partBadges = [
-      "Parte 1 • Estándar ANSI/PMI",
-      "Parte 2 • Guía del PMBOK®",
-      "Parte 3 • Apéndices Especiales"
+      "Parte 1 · El Estándar ANSI/PMI",
+      "Parte 2 · La Guía del PMBOK®",
+      "Parte 3 · Apéndices Especializados"
     ];
 
     this.container.innerHTML = `
@@ -8010,7 +8010,7 @@ class LearningHub {
         <div class="modal-window-body">
           <!-- Unit Overview -->
           <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 18px 20px; margin-bottom: 20px;">
-            <span style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-size: 0.72rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               Descripción Oficial del Tema • PMBOK® 8
             </span>
             <p style="font-size: 0.98rem; line-height: 1.6; color: var(--text-primary);">
@@ -8021,7 +8021,7 @@ class LearningHub {
           <!-- Lessons List -->
           ${targetUnit.lessons && targetUnit.lessons.length > 0 ? `
             <div style="margin-bottom: 24px;">
-              <h4 style="font-size: 0.82rem; font-weight: 700; text-transform: uppercase; color: var(--text-tertiary); letter-spacing: 0.05em; margin-bottom: 12px;">
+              <h4 style="font-size: 0.82rem; font-weight: 700; color: var(--text-tertiary); margin-bottom: 12px;">
                 Lecciones del Estándar (${targetUnit.lessons.length})
               </h4>
               <div style="display: flex; flex-direction: column; gap: 12px;">
@@ -8059,7 +8059,7 @@ class LearningHub {
           <!-- Practice Question Checkpoint -->
           <div style="border-top: 1px solid var(--border-subtle); padding-top: 20px;">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-              <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em;">
+              <span style="font-size: 0.75rem; font-weight: 700; color: var(--c-blue); ">
                 Punto de Control Situacional PMP
               </span>
               <span style="font-size: 0.75rem; color: var(--text-tertiary); font-weight: 600;">
@@ -8168,6 +8168,25 @@ class LearningHub {
 }
 
   
+const domainColorPalette = {
+  gobernanza: { color: "#2563EB", bg: "#EFF6FF", border: "#BFDBFE" },
+  alcance: { color: "#059669", bg: "#ECFDF5", border: "#A7F3D0" },
+  cronograma: { color: "#D97706", bg: "#FFFBEB", border: "#FDE68A" },
+  finanzas: { color: "#7C3AED", bg: "#F5F3FF", border: "#DDD6FE" },
+  interesados: { color: "#E11D48", bg: "#FFF1F2", border: "#FECDD3" },
+  recursos: { color: "#0284C7", bg: "#F0F9FF", border: "#BAE6FD" },
+  riesgo: { color: "#DC2626", bg: "#FEF2F2", border: "#FECACA" }
+};
+
+function getDomColor(name) {
+  const n = (name || "").toLowerCase();
+  for (const k of Object.keys(domainColorPalette)) {
+    if (n.includes(k)) return domainColorPalette[k];
+  }
+  return { color: "#2563EB", bg: "#EFF6FF", border: "#BFDBFE" };
+}
+
+
 
 
 
@@ -8245,8 +8264,10 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
         ${performanceDomains.map(d => {
           const shortName = d.name.replace("Dominio de ", "");
           const isAct = activeDomain.toLowerCase() === shortName.toLowerCase();
+          const dCol = getDomColor(shortName);
           return `
-            <button class="action-chip-btn ${isAct ? 'active' : ''}" data-domain="${shortName}">
+            <button class="action-chip-btn ${isAct ? 'active' : ''}" data-domain="${shortName}" style="${isAct ? `background: ${dCol.color}; color: #ffffff; border-color: ${dCol.color};` : `border-color: ${dCol.border};`}">
+              <span style="display:inline-block; width:8px; height:8px; border-radius:50%; background: ${isAct ? '#ffffff' : dCol.color}; flex-shrink:0;"></span>
               ${shortName} (${d.processesCount})
             </button>
           `;
@@ -8331,8 +8352,8 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
           <tbody>
             ${visibleDomains.map(d => `
               <tr>
-                <td class="domain-header-cell">
-                  <span class="domain-name-tag">${d.name.replace("Dominio de ", "")}</span>
+                <td class="domain-header-cell" style="border-left: 4px solid ${getDomColor(d.name).color};">
+                  <span class="domain-name-tag" style="color: ${getDomColor(d.name).color};">${d.name.replace("Dominio de ", "")}</span>
                   <span class="domain-section-tag">Sección ${d.section} • ${d.processesCount} procesos</span>
                 </td>
                 ${focusAreas.map(fa => {
@@ -8346,8 +8367,8 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
                       ${cellProcs.length > 0 ? `
                         <div class="matrix-cell-procs-stack">
                           ${cellProcs.map(p => `
-                            <div class="process-cell-card" data-pid="${p.id}" title="Ver ITTOs de #${p.number}: ${p.name}">
-                              <span class="process-cell-num">#${p.number.toString().padStart(2, '0')}</span>
+                            <div class="process-cell-card" data-pid="${p.id}" style="border-left: 3px solid ${getDomColor(p.domain).color};" title="Ver ITTOs de #${p.number}: ${p.name}">
+                              <span class="process-cell-num" style="color: ${getDomColor(p.domain).color};">#${p.number.toString().padStart(2, '0')}</span>
                               <span class="process-cell-title">${p.name}</span>
                             </div>
                           `).join('')}
@@ -8390,7 +8411,7 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
                   <div class="process-cell-card" data-pid="${p.id}" style="padding: 14px;">
                     <div style="display: flex; justify-content: space-between; margin-bottom: 6px;">
                       <span class="process-cell-num">#${p.number.toString().padStart(2, '0')}</span>
-                      <span style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase;">${p.focusArea}</span>
+                      <span style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); ">${p.focusArea}</span>
                     </div>
                     <span class="process-cell-title" style="font-size: 0.9rem;">${p.name}</span>
                   </div>
@@ -8426,7 +8447,7 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
                   <div class="process-cell-card" data-pid="${p.id}" style="padding: 14px;">
                     <div style="display: flex; justify-content: space-between; margin-bottom: 6px;">
                       <span class="process-cell-num">#${p.number.toString().padStart(2, '0')}</span>
-                      <span style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase;">${p.domain}</span>
+                      <span style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); ">${p.domain}</span>
                     </div>
                     <span class="process-cell-title" style="font-size: 0.9rem;">${p.name}</span>
                   </div>
@@ -8504,7 +8525,7 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
 
         <div class="modal-window-body">
           <div style="background: var(--bg-surface-subtle); padding: 18px 20px; border-radius: var(--radius-s); border-left: 3px solid var(--c-blue); margin-bottom: 16px;">
-            <span style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em;">Propósito Oficial PMBOK 8:</span>
+            <span style="font-size: 0.72rem; font-weight: 700; color: var(--c-blue); ">Propósito Oficial PMBOK 8:</span>
             <p style="font-size: 0.98rem; line-height: 1.55; margin-top: 4px; color: var(--text-primary);">
               ${p.purpose}
             </p>
@@ -8641,7 +8662,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
                 <span class="unit-duration-pill">10 Diapositivas</span>
               </div>
 
-              <span style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; color: var(--text-tertiary); letter-spacing: 0.05em; display: block; margin-bottom: 4px;">
+              <span style="font-size: 0.72rem; font-weight: 700; color: var(--text-tertiary); display: block; margin-bottom: 4px;">
                 ${deck.category}
               </span>
 
@@ -8741,7 +8762,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
             <!-- Speaker Notes Callout -->
             ${showNotes && slide.speakerNotes ? `
               <div style="margin-top: 24px; padding: 12px 16px; border-radius: var(--radius-s); background: var(--bg-surface-subtle); border-left: 3px solid var(--c-purple); font-size: 0.84rem; color: var(--text-secondary); line-height: 1.5;">
-                <strong style="color: var(--text-primary); text-transform: uppercase; font-size: 0.72rem; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">
+                <strong style="color: var(--text-primary); font-size: 0.72rem; display: block; margin-bottom: 2px;">
                   Notas del Expositor / Fundamento Oficial:
                 </strong>
                 ${slide.speakerNotes}
@@ -8849,7 +8870,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "cover":
         return `
           <div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 30px 0;">
-            <span style="display: inline-block; padding: 4px 12px; border-radius: var(--radius-xs); background: var(--c-blue-subtle); color: var(--c-blue); font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 16px;">
+            <span style="display: inline-block; padding: 4px 12px; border-radius: var(--radius-xs); background: var(--c-blue-subtle); color: var(--c-blue); font-size: 0.8rem; font-weight: 700; margin-bottom: 16px;">
               ${slide.tag}
             </span>
             <h1 style="font-size: 2.3rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.15; margin-bottom: 16px; color: var(--text-primary);">
@@ -8864,7 +8885,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "split_concept":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 20px;">${slide.title}</h2>
@@ -8890,7 +8911,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "flow_diagram":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-teal); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-teal); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 20px;">${slide.title}</h2>
@@ -8912,7 +8933,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "grid_cards":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-purple); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-purple); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 20px;">${slide.title}</h2>
@@ -8931,7 +8952,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "matrix_comparison":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 16px;">${slide.title}</h2>
@@ -8940,7 +8961,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
               <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem;">
                 <thead>
                   <tr style="background: var(--bg-surface-subtle); border-bottom: 1px solid var(--border-medium);">
-                    ${slide.headers.map(h => `<th style="padding: 10px 14px; text-align: left; font-size: 0.76rem; font-weight: 700; text-transform: uppercase; color: var(--text-secondary);">${h}</th>`).join('')}
+                    ${slide.headers.map(h => `<th style="padding: 10px 14px; text-align: left; font-size: 0.76rem; font-weight: 700; color: var(--text-secondary);">${h}</th>`).join('')}
                   </tr>
                 </thead>
                 <tbody>
@@ -8960,7 +8981,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "itto_breakdown":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 18px;">${slide.title}</h2>
@@ -8993,7 +9014,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "metrics_dashboard":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-teal); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-teal); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 18px;">${slide.title}</h2>
@@ -9002,7 +9023,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
               ${slide.metrics.map(m => `
                 <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 18px;">
                   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                    <span style="font-size: 0.76rem; font-weight: 700; color: var(--text-tertiary); text-transform: uppercase;">${m.name}</span>
+                    <span style="font-size: 0.76rem; font-weight: 700; color: var(--text-tertiary); ">${m.name}</span>
                     <span style="padding: 2px 8px; border-radius: var(--radius-xs); background: var(--c-teal-subtle); color: var(--c-teal); font-size: 0.7rem; font-weight: 700;">${m.status}</span>
                   </div>
                   <div style="font-size: 1.8rem; font-weight: 900; font-family: var(--font-mono); color: var(--c-teal); margin-bottom: 4px;">${m.val}</div>
@@ -9016,13 +9037,13 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "exam_trap":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: #B45309; letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: #B45309; display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 16px;">${slide.title}</h2>
 
             <div style="background: var(--c-amber-subtle); border: 1px solid var(--c-amber-border); border-radius: var(--radius-s); padding: 18px; margin-bottom: 14px;">
-              <strong style="font-size: 0.84rem; text-transform: uppercase; color: #B45309; display: block; margin-bottom: 4px;">Escenario Situacional:</strong>
+              <strong style="font-size: 0.84rem; color: #B45309; display: block; margin-bottom: 4px;">Escenario Situacional:</strong>
               <p style="font-size: 0.94rem; line-height: 1.5; color: var(--text-primary);">${slide.trapScenario}</p>
             </div>
 
@@ -9045,7 +9066,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
       case "checklist":
         return `
           <div>
-            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-family: var(--font-mono); font-size: 0.74rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               ${slide.tag}
             </span>
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 18px;">${slide.title}</h2>
@@ -9098,14 +9119,14 @@ function renderEVMLabPro(containerEl) {
     };
     if (CPI < 0.90) {
       costHealth = {
-        status: "Sobrecosto Crítico",
+        status: "Sobrecosto crítico",
         badgeColor: "var(--c-rose)",
         badgeBg: "var(--c-rose-subtle)",
         message: `Sobrecosto severo. Por cada $1.00 gastado, el proyecto solo entrega $${CPI.toFixed(2)} de valor. Estás perdiendo ${(100 - CPI * 100).toFixed(0)} centavos por dólar.`
       };
     } else if (CPI < 1.0) {
       costHealth = {
-        status: "Sobrecosto Moderado",
+        status: "Sobrecosto moderado",
         badgeColor: "var(--c-amber)",
         badgeBg: "var(--c-amber-subtle)",
         message: `Alerta presupuestaria. El costo real supera al valor ganado en $${Math.abs(CV).toLocaleString()}.`
@@ -9113,21 +9134,21 @@ function renderEVMLabPro(containerEl) {
     }
 
     let scheduleHealth = {
-      status: "A Tiempo / Adelantado",
+      status: "A tiempo / adelantado",
       badgeColor: "var(--c-teal)",
       badgeBg: "var(--c-teal-subtle)",
       message: `Ritmo óptimo. El equipo avanza al ${(SPI * 100).toFixed(0)}% de la velocidad prevista en la línea base.`
     };
     if (SPI < 0.90) {
       scheduleHealth = {
-        status: "Retraso Severo",
+        status: "Retraso severo",
         badgeColor: "var(--c-rose)",
         badgeBg: "var(--c-rose-subtle)",
         message: `Retraso crítico. El proyecto avanza al ${(SPI * 100).toFixed(0)}% del ritmo planificado (un ${(100 - SPI * 100).toFixed(0)}% de retraso en entregables).`
       };
     } else if (SPI < 1.0) {
       scheduleHealth = {
-        status: "Retraso Moderado",
+        status: "Retraso moderado",
         badgeColor: "var(--c-amber)",
         badgeBg: "var(--c-amber-subtle)",
         message: `Desvío temporal de $${Math.abs(SV).toLocaleString()} en entregables que debieron haberse completado a la fecha.`
@@ -9141,7 +9162,7 @@ function renderEVMLabPro(containerEl) {
     } else if (CPI >= 1 && SPI < 1) {
       pmpAdvice = "<strong>Proyecto con Ahorro pero con Retraso:</strong> Dispones de holgura financiera positiva (CPI > 1). En el examen PMP, este es el candidato ideal para <em>Crashing</em> (compresión de cronograma mediante horas extras o recursos adicionales), ya que cuentas con presupuesto de sobra para absorber el sobrecosto de acelerar tareas de la ruta crítica.";
     } else if (CPI < 1 && SPI >= 1) {
-      pmpAdvice = "<strong>Proyecto a Tiempo pero con Sobrecosto:</strong> El proyecto avanza al ritmo programado pero gastando más de la cuenta. En el examen PMP, <strong>NUNCA</strong> apliques <em>Crashing</em> en este escenario. Considera optimizar recursos, renegociar contratos de compras o aplicar <em>Fast Tracking</em> si no genera costos adicionales.";
+      pmpAdvice = "<strong>Proyecto a Tiempo pero con Sobrecosto:</strong> El proyecto avanza al ritmo programado pero gastando más de la cuenta. En el examen PMP, <strong>nunca</strong> apliques <em>Crashing</em> en este escenario. Considera optimizar recursos, renegociar contratos de compras o aplicar <em>Fast Tracking</em> si no genera costos adicionales.";
     } else {
       pmpAdvice = "<strong>Crisis Integral (Sobrecosto y Retraso):</strong> La situación más crítica en la gestión de proyectos. En el examen PMP, la acción inmediata del director de proyecto es convocar al Patrocinador y al Comité de Control de Cambios (CCB), realizar un análisis de causa raíz y evaluar una nueva línea base o reducción de alcance.";
     }
@@ -9199,7 +9220,7 @@ function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">BAC • Presupuesto a la Conclusión</strong>
+                  <strong class="evm-card-param-title">BAC · Presupuesto a la Conclusión</strong>
                   <span class="evm-card-param-desc">Presupuesto total autorizado por el Patrocinador</span>
                 </div>
                 <div class="evm-val-display" style="color: var(--c-blue);">$${BAC.toLocaleString()}</div>
@@ -9216,7 +9237,7 @@ function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">PV • Valor Planificado a la Fecha</strong>
+                  <strong class="evm-card-param-title">PV · Valor Planificado a la Fecha</strong>
                   <span class="evm-card-param-desc">Presupuesto del trabajo que según cronograma debería estar listo</span>
                 </div>
                 <div class="evm-val-display" style="color: var(--c-blue);">$${PV.toLocaleString()}</div>
@@ -9233,7 +9254,7 @@ function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">EV • Valor Ganado Real</strong>
+                  <strong class="evm-card-param-title">EV · Valor Ganado Real</strong>
                   <span class="evm-card-param-desc">Valor presupuestado del trabajo físicamente completado</span>
                 </div>
                 <div class="evm-val-display" style="color: var(--c-teal);">$${EV.toLocaleString()}</div>
@@ -9250,7 +9271,7 @@ function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">AC • Costo Real Incurrido</strong>
+                  <strong class="evm-card-param-title">AC · Costo Real Incurrido</strong>
                   <span class="evm-card-param-desc">Dinero efectivamente gastado y contabilizado a la fecha</span>
                 </div>
                 <div class="evm-val-display" style="color: var(--c-rose);">$${AC.toLocaleString()}</div>
@@ -9615,7 +9636,7 @@ function renderExamSimulatorPro(containerEl) {
       <!-- Question Card -->
       <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 28px; box-shadow: var(--shadow-xs);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px;">
-          <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue);">
+          <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; color: var(--c-blue);">
             Pregunta ${currentIdx + 1} de ${examPool.length} • ${q.sectionRef}
           </span>
           <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 0.8rem; font-weight: 600;">
@@ -9714,7 +9735,7 @@ function renderExamSimulatorPro(containerEl) {
     containerEl.innerHTML = `
       <div style="max-width: 800px; margin: 0 auto;">
         <div style="background: var(--bg-surface); border: 1px solid ${passed ? 'var(--c-teal)' : 'var(--c-rose)'}; border-radius: var(--radius-m); padding: 32px; text-align: center; margin-bottom: 24px; box-shadow: var(--shadow-xs);">
-          <span style="font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700; text-transform: uppercase; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">
+          <span style="font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">
             ${passed ? 'Nivel de Certificación: Competente' : 'Resultado Insuficiente'}
           </span>
           <div style="font-size: 3.5rem; font-weight: 900; font-family: var(--font-mono); letter-spacing: -0.04em; margin: 10px 0; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">
@@ -9827,7 +9848,7 @@ function renderFlashcardsPro(containerEl) {
 
     area.innerHTML = `
       <div style="max-width: 620px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 20px;">
-        <span style="font-family: var(--font-mono); font-size: 0.78rem; font-weight: 700; color: var(--text-tertiary); text-transform: uppercase;">
+        <span style="font-family: var(--font-mono); font-size: 0.78rem; font-weight: 700; color: var(--text-tertiary); ">
           Tarjeta ${currentCardIdx + 1} de ${glossary.length}
         </span>
 
@@ -9836,7 +9857,7 @@ function renderFlashcardsPro(containerEl) {
           <div id="fc-card-inner" style="position: relative; width: 100%; height: 100%; text-align: center; transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1); transform-style: preserve-3d; ${isFlipped ? 'transform: rotateY(180deg);' : ''}">
             <!-- Front Face -->
             <div style="position: absolute; width: 100%; height: 100%; -webkit-backface-visibility: hidden; backface-visibility: hidden; background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 28px; box-shadow: var(--shadow-s);">
-              <span style="padding: 3px 10px; border-radius: var(--radius-xs); background: var(--c-blue-subtle); color: var(--c-blue); font-size: 0.72rem; font-weight: 700; text-transform: uppercase; margin-bottom: 16px;">
+              <span style="padding: 3px 10px; border-radius: var(--radius-xs); background: var(--c-blue-subtle); color: var(--c-blue); font-size: 0.72rem; font-weight: 700; margin-bottom: 16px;">
                 ${card.category}
               </span>
               <h3 style="font-size: 1.6rem; font-weight: 800; letter-spacing: -0.02em; color: var(--text-primary); margin-bottom: 14px;">
@@ -9849,7 +9870,7 @@ function renderFlashcardsPro(containerEl) {
 
             <!-- Back Face -->
             <div style="position: absolute; width: 100%; height: 100%; -webkit-backface-visibility: hidden; backface-visibility: hidden; background: var(--bg-surface); border: 2px solid var(--c-blue); border-radius: var(--radius-m); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px; box-shadow: var(--shadow-s); transform: rotateY(180deg);">
-              <span style="font-size: 0.74rem; font-weight: 700; color: var(--c-blue); text-transform: uppercase; margin-bottom: 10px;">
+              <span style="font-size: 0.74rem; font-weight: 700; color: var(--c-blue); margin-bottom: 10px;">
                 Definición Oficial PMBOK® 8
               </span>
               <p style="font-size: 1.05rem; line-height: 1.55; color: var(--text-primary);">
@@ -9995,7 +10016,7 @@ function renderAppendicesPro(containerEl) {
 
       <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 32px; box-shadow: var(--shadow-xs);">
         <div style="margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border-subtle);">
-          <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em;">
+          <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; color: var(--c-blue); ">
             Estudio Especializado Oficial
           </span>
           <h2 style="font-size: 1.65rem; font-weight: 800; letter-spacing: -0.02em; margin: 4px 0 10px 0;">
@@ -10167,7 +10188,7 @@ class OnboardingTour {
           <span style="font-family: var(--font-mono); font-size: 0.72rem; font-weight: 700; color: var(--c-blue); background: var(--c-blue-subtle); padding: 2px 7px; border-radius: var(--radius-xs);">
             Paso ${this.currentStep + 1} de ${this.steps.length}
           </span>
-          <span style="font-size: 0.76rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.04em;">
+          <span style="font-size: 0.76rem; font-weight: 700; color: var(--text-secondary); ">
             ${s.badge}
           </span>
         </div>
@@ -10187,7 +10208,7 @@ class OnboardingTour {
         </p>
 
         <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 12px 14px;">
-          <span style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; color: var(--text-tertiary); letter-spacing: 0.05em; display: block; margin-bottom: 8px;">
+          <span style="font-size: 0.72rem; font-weight: 700; color: var(--text-tertiary); display: block; margin-bottom: 8px;">
             Qué estás viendo en esta pantalla:
           </span>
           <ul style="display: flex; flex-direction: column; gap: 7px; padding-left: 14px; font-size: 0.82rem; color: var(--text-primary); line-height: 1.45;">

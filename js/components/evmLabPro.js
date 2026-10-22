@@ -27,14 +27,14 @@ export function renderEVMLabPro(containerEl) {
     };
     if (CPI < 0.90) {
       costHealth = {
-        status: "Sobrecosto Crítico",
+        status: "Sobrecosto crítico",
         badgeColor: "var(--c-rose)",
         badgeBg: "var(--c-rose-subtle)",
         message: `Sobrecosto severo. Por cada $1.00 gastado, el proyecto solo entrega $${CPI.toFixed(2)} de valor. Estás perdiendo ${(100 - CPI * 100).toFixed(0)} centavos por dólar.`
       };
     } else if (CPI < 1.0) {
       costHealth = {
-        status: "Sobrecosto Moderado",
+        status: "Sobrecosto moderado",
         badgeColor: "var(--c-amber)",
         badgeBg: "var(--c-amber-subtle)",
         message: `Alerta presupuestaria. El costo real supera al valor ganado en $${Math.abs(CV).toLocaleString()}.`
@@ -42,21 +42,21 @@ export function renderEVMLabPro(containerEl) {
     }
 
     let scheduleHealth = {
-      status: "A Tiempo / Adelantado",
+      status: "A tiempo / adelantado",
       badgeColor: "var(--c-teal)",
       badgeBg: "var(--c-teal-subtle)",
       message: `Ritmo óptimo. El equipo avanza al ${(SPI * 100).toFixed(0)}% de la velocidad prevista en la línea base.`
     };
     if (SPI < 0.90) {
       scheduleHealth = {
-        status: "Retraso Severo",
+        status: "Retraso severo",
         badgeColor: "var(--c-rose)",
         badgeBg: "var(--c-rose-subtle)",
         message: `Retraso crítico. El proyecto avanza al ${(SPI * 100).toFixed(0)}% del ritmo planificado (un ${(100 - SPI * 100).toFixed(0)}% de retraso en entregables).`
       };
     } else if (SPI < 1.0) {
       scheduleHealth = {
-        status: "Retraso Moderado",
+        status: "Retraso moderado",
         badgeColor: "var(--c-amber)",
         badgeBg: "var(--c-amber-subtle)",
         message: `Desvío temporal de $${Math.abs(SV).toLocaleString()} en entregables que debieron haberse completado a la fecha.`
@@ -70,7 +70,7 @@ export function renderEVMLabPro(containerEl) {
     } else if (CPI >= 1 && SPI < 1) {
       pmpAdvice = "<strong>Proyecto con Ahorro pero con Retraso:</strong> Dispones de holgura financiera positiva (CPI > 1). En el examen PMP, este es el candidato ideal para <em>Crashing</em> (compresión de cronograma mediante horas extras o recursos adicionales), ya que cuentas con presupuesto de sobra para absorber el sobrecosto de acelerar tareas de la ruta crítica.";
     } else if (CPI < 1 && SPI >= 1) {
-      pmpAdvice = "<strong>Proyecto a Tiempo pero con Sobrecosto:</strong> El proyecto avanza al ritmo programado pero gastando más de la cuenta. En el examen PMP, <strong>NUNCA</strong> apliques <em>Crashing</em> en este escenario. Considera optimizar recursos, renegociar contratos de compras o aplicar <em>Fast Tracking</em> si no genera costos adicionales.";
+      pmpAdvice = "<strong>Proyecto a Tiempo pero con Sobrecosto:</strong> El proyecto avanza al ritmo programado pero gastando más de la cuenta. En el examen PMP, <strong>nunca</strong> apliques <em>Crashing</em> en este escenario. Considera optimizar recursos, renegociar contratos de compras o aplicar <em>Fast Tracking</em> si no genera costos adicionales.";
     } else {
       pmpAdvice = "<strong>Crisis Integral (Sobrecosto y Retraso):</strong> La situación más crítica en la gestión de proyectos. En el examen PMP, la acción inmediata del director de proyecto es convocar al Patrocinador y al Comité de Control de Cambios (CCB), realizar un análisis de causa raíz y evaluar una nueva línea base o reducción de alcance.";
     }
@@ -128,7 +128,7 @@ export function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">BAC • Presupuesto a la Conclusión</strong>
+                  <strong class="evm-card-param-title">BAC · Presupuesto a la Conclusión</strong>
                   <span class="evm-card-param-desc">Presupuesto total autorizado por el Patrocinador</span>
                 </div>
                 <div class="evm-val-display" style="color: var(--c-blue);">$${BAC.toLocaleString()}</div>
@@ -145,7 +145,7 @@ export function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">PV • Valor Planificado a la Fecha</strong>
+                  <strong class="evm-card-param-title">PV · Valor Planificado a la Fecha</strong>
                   <span class="evm-card-param-desc">Presupuesto del trabajo que según cronograma debería estar listo</span>
                 </div>
                 <div class="evm-val-display" style="color: var(--c-blue);">$${PV.toLocaleString()}</div>
@@ -162,7 +162,7 @@ export function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">EV • Valor Ganado Real</strong>
+                  <strong class="evm-card-param-title">EV · Valor Ganado Real</strong>
                   <span class="evm-card-param-desc">Valor presupuestado del trabajo físicamente completado</span>
                 </div>
                 <div class="evm-val-display" style="color: var(--c-teal);">$${EV.toLocaleString()}</div>
@@ -179,7 +179,7 @@ export function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">AC • Costo Real Incurrido</strong>
+                  <strong class="evm-card-param-title">AC · Costo Real Incurrido</strong>
                   <span class="evm-card-param-desc">Dinero efectivamente gastado y contabilizado a la fecha</span>
                 </div>
                 <div class="evm-val-display" style="color: var(--c-rose);">$${AC.toLocaleString()}</div>

@@ -29,9 +29,9 @@ export class LearningHub {
     const progressPercent = Math.round((completedCount / totalUnits) * 100);
 
     const partBadges = [
-      "Parte 1 • Estándar ANSI/PMI",
-      "Parte 2 • Guía del PMBOK®",
-      "Parte 3 • Apéndices Especiales"
+      "Parte 1 · El Estándar ANSI/PMI",
+      "Parte 2 · La Guía del PMBOK®",
+      "Parte 3 · Apéndices Especializados"
     ];
 
     this.container.innerHTML = `
@@ -191,7 +191,7 @@ export class LearningHub {
         <div class="modal-window-body">
           <!-- Unit Overview -->
           <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 18px 20px; margin-bottom: 20px;">
-            <span style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em; display: block; margin-bottom: 6px;">
+            <span style="font-size: 0.72rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
               Descripción Oficial del Tema • PMBOK® 8
             </span>
             <p style="font-size: 0.98rem; line-height: 1.6; color: var(--text-primary);">
@@ -202,7 +202,7 @@ export class LearningHub {
           <!-- Lessons List -->
           ${targetUnit.lessons && targetUnit.lessons.length > 0 ? `
             <div style="margin-bottom: 24px;">
-              <h4 style="font-size: 0.82rem; font-weight: 700; text-transform: uppercase; color: var(--text-tertiary); letter-spacing: 0.05em; margin-bottom: 12px;">
+              <h4 style="font-size: 0.82rem; font-weight: 700; color: var(--text-tertiary); margin-bottom: 12px;">
                 Lecciones del Estándar (${targetUnit.lessons.length})
               </h4>
               <div style="display: flex; flex-direction: column; gap: 12px;">
@@ -240,7 +240,7 @@ export class LearningHub {
           <!-- Practice Question Checkpoint -->
           <div style="border-top: 1px solid var(--border-subtle); padding-top: 20px;">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-              <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em;">
+              <span style="font-size: 0.75rem; font-weight: 700; color: var(--c-blue); ">
                 Punto de Control Situacional PMP
               </span>
               <span style="font-size: 0.75rem; color: var(--text-tertiary); font-weight: 600;">

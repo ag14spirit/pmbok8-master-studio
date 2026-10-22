@@ -1,3 +1,22 @@
+
+const domainColorPalette = {
+  gobernanza: { color: "#2563EB", bg: "#EFF6FF", border: "#BFDBFE" },
+  alcance: { color: "#059669", bg: "#ECFDF5", border: "#A7F3D0" },
+  cronograma: { color: "#D97706", bg: "#FFFBEB", border: "#FDE68A" },
+  finanzas: { color: "#7C3AED", bg: "#F5F3FF", border: "#DDD6FE" },
+  interesados: { color: "#E11D48", bg: "#FFF1F2", border: "#FECDD3" },
+  recursos: { color: "#0284C7", bg: "#F0F9FF", border: "#BAE6FD" },
+  riesgo: { color: "#DC2626", bg: "#FEF2F2", border: "#FECACA" }
+};
+
+function getDomColor(name) {
+  const n = (name || "").toLowerCase();
+  for (const k of Object.keys(domainColorPalette)) {
+    if (n.includes(k)) return domainColorPalette[k];
+  }
+  return { color: "#2563EB", bg: "#EFF6FF", border: "#BFDBFE" };
+}
+
 import { processes } from "../data/processes.js";
 import { performanceDomains } from "../data/domains.js";
 import { focusAreas } from "../data/focusAreas.js";
@@ -76,8 +95,10 @@ export function renderProcessMatrixPro(containerEl, modalBackdropEl) {
         ${performanceDomains.map(d => {
           const shortName = d.name.replace("Dominio de ", "");
           const isAct = activeDomain.toLowerCase() === shortName.toLowerCase();
+          const dCol = getDomColor(shortName);
           return `
-            <button class="action-chip-btn ${isAct ? 'active' : ''}" data-domain="${shortName}">
+            <button class="action-chip-btn ${isAct ? 'active' : ''}" data-domain="${shortName}" style="${isAct ? `background: ${dCol.color}; color: #ffffff; border-color: ${dCol.color};` : `border-color: ${dCol.border};`}">
+              <span style="display:inline-block; width:8px; height:8px; border-radius:50%; background: ${isAct ? '#ffffff' : dCol.color}; flex-shrink:0;"></span>
               ${shortName} (${d.processesCount})
             </button>
           `;
@@ -162,8 +183,8 @@ export function renderProcessMatrixPro(containerEl, modalBackdropEl) {
           <tbody>
             ${visibleDomains.map(d => `
               <tr>
-                <td class="domain-header-cell">
-                  <span class="domain-name-tag">${d.name.replace("Dominio de ", "")}</span>
+                <td class="domain-header-cell" style="border-left: 4px solid ${getDomColor(d.name).color};">
+                  <span class="domain-name-tag" style="color: ${getDomColor(d.name).color};">${d.name.replace("Dominio de ", "")}</span>
                   <span class="domain-section-tag">Sección ${d.section} • ${d.processesCount} procesos</span>
                 </td>
                 ${focusAreas.map(fa => {
@@ -177,8 +198,8 @@ export function renderProcessMatrixPro(containerEl, modalBackdropEl) {
                       ${cellProcs.length > 0 ? `
                         <div class="matrix-cell-procs-stack">
                           ${cellProcs.map(p => `
-                            <div class="process-cell-card" data-pid="${p.id}" title="Ver ITTOs de #${p.number}: ${p.name}">
-                              <span class="process-cell-num">#${p.number.toString().padStart(2, '0')}</span>
+                            <div class="process-cell-card" data-pid="${p.id}" style="border-left: 3px solid ${getDomColor(p.domain).color};" title="Ver ITTOs de #${p.number}: ${p.name}">
+                              <span class="process-cell-num" style="color: ${getDomColor(p.domain).color};">#${p.number.toString().padStart(2, '0')}</span>
                               <span class="process-cell-title">${p.name}</span>
                             </div>
                           `).join('')}
@@ -221,7 +242,7 @@ export function renderProcessMatrixPro(containerEl, modalBackdropEl) {
                   <div class="process-cell-card" data-pid="${p.id}" style="padding: 14px;">
                     <div style="display: flex; justify-content: space-between; margin-bottom: 6px;">
                       <span class="process-cell-num">#${p.number.toString().padStart(2, '0')}</span>
-                      <span style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase;">${p.focusArea}</span>
+                      <span style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); ">${p.focusArea}</span>
                     </div>
                     <span class="process-cell-title" style="font-size: 0.9rem;">${p.name}</span>
                   </div>
@@ -257,7 +278,7 @@ export function renderProcessMatrixPro(containerEl, modalBackdropEl) {
                   <div class="process-cell-card" data-pid="${p.id}" style="padding: 14px;">
                     <div style="display: flex; justify-content: space-between; margin-bottom: 6px;">
                       <span class="process-cell-num">#${p.number.toString().padStart(2, '0')}</span>
-                      <span style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase;">${p.domain}</span>
+                      <span style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); ">${p.domain}</span>
                     </div>
                     <span class="process-cell-title" style="font-size: 0.9rem;">${p.name}</span>
                   </div>
@@ -335,7 +356,7 @@ export function renderProcessMatrixPro(containerEl, modalBackdropEl) {
 
         <div class="modal-window-body">
           <div style="background: var(--bg-surface-subtle); padding: 18px 20px; border-radius: var(--radius-s); border-left: 3px solid var(--c-blue); margin-bottom: 16px;">
-            <span style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; color: var(--c-blue); letter-spacing: 0.05em;">Propósito Oficial PMBOK 8:</span>
+            <span style="font-size: 0.72rem; font-weight: 700; color: var(--c-blue); ">Propósito Oficial PMBOK 8:</span>
             <p style="font-size: 0.98rem; line-height: 1.55; margin-top: 4px; color: var(--text-primary);">
               ${p.purpose}
             </p>
