@@ -308,7 +308,7 @@ function t(key, vars = {}) {
 }
 
 function fmtNumber(n) {
-  return n.toLocaleString(LOCALE === "en" ? "en-US" : "es-ES");
+  return n.toLocaleString(LOCALE === "en" ? "en-US" : undefined);
 }
 
 

@@ -8,5 +8,5 @@ export function t(key, vars = {}) {
 }
 
 export function fmtNumber(n) {
-  return n.toLocaleString(LOCALE === "en" ? "en-US" : "es-ES");
+  return n.toLocaleString(LOCALE === "en" ? "en-US" : undefined);
 }
