@@ -8,6 +8,7 @@ import { renderAppendicesPro } from "./components/appendicesPro.js";
 import { OnboardingTour } from "./components/onboardingTour.js";
 import { audio } from "./audio.js";
 import { icons } from "./icons.js";
+import { t } from "./i18n/index.js";
 
 export function showSeniorToast(msg) {
   let toast = document.querySelector(".toast-pill-pro");
@@ -38,6 +39,13 @@ document.addEventListener("DOMContentLoaded", () => {
   const soundBtn = document.getElementById("sound-toggle-senior-btn");
   const guideBtn = document.getElementById("platform-guide-btn");
   const headerProgBadge = document.getElementById("header-progress-text");
+
+  // Localize static shell text (data-i18n attributes in index.html)
+  document.title = t("shell.docTitle");
+  document.documentElement.lang = LOCALE;
+  document.querySelectorAll("[data-i18n]").forEach(el => { el.textContent = t(el.dataset.i18n); });
+  document.querySelectorAll("[data-i18n-title]").forEach(el => { el.title = t(el.dataset.i18nTitle); });
+  document.querySelectorAll("[data-i18n-aria]").forEach(el => { el.setAttribute("aria-label", t(el.dataset.i18nAria)); });
 
   let currentTab = "curriculum";
 
@@ -75,7 +83,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const updateProgressHeader = (done, total) => {
     if (headerProgBadge) {
       const pct = Math.round((done / total) * 100);
-      headerProgBadge.textContent = `${pct}% Dominado`;
+      headerProgBadge.textContent = t("app.progressMastered", { pct });
     }
   };
 
@@ -121,7 +129,7 @@ document.addEventListener("DOMContentLoaded", () => {
       document.documentElement.setAttribute("data-theme", savedTheme);
       localStorage.setItem("pmbok8_pro_theme", savedTheme);
       themeBtn.innerHTML = savedTheme === "dark" ? icons.sun : icons.moon;
-      showSeniorToast(`Modo ${savedTheme === 'dark' ? 'Oscuro' : 'Claro'} activado`);
+      showSeniorToast(savedTheme === 'dark' ? t("app.darkModeOn") : t("app.lightModeOn"));
     });
   }
 
@@ -131,7 +139,7 @@ document.addEventListener("DOMContentLoaded", () => {
     soundBtn.addEventListener("click", () => {
       const en = audio.toggle();
       soundBtn.innerHTML = en ? icons.volume : icons.volumeX;
-      showSeniorToast(`Audio ${en ? 'activado' : 'silenciado'}`);
+      showSeniorToast(en ? t("app.audioOn") : t("app.audioOff"));
     });
   }
 

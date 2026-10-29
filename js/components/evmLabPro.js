@@ -1,5 +1,6 @@
 import { audio } from "../audio.js";
 import { icons } from "../icons.js";
+import { t, fmtNumber } from "../i18n/index.js";
 
 export function renderEVMLabPro(containerEl) {
   // Base State Variables
@@ -20,59 +21,59 @@ export function renderEVMLabPro(containerEl) {
 
     // Health interpretation
     let costHealth = {
-      status: "Saludable",
+      status: t("evm.costHealthy"),
       badgeColor: "var(--c-teal)",
       badgeBg: "var(--c-teal-subtle)",
-      message: `Bajo control. Por cada $1.00 gastado, el proyecto entrega $${CPI.toFixed(2)} de valor tangible.`
+      message: t("evm.costHealthyMsg", { cpi: CPI.toFixed(2) })
     };
     if (CPI < 0.90) {
       costHealth = {
-        status: "Sobrecosto crítico",
+        status: t("evm.costCritical"),
         badgeColor: "var(--c-rose)",
         badgeBg: "var(--c-rose-subtle)",
-        message: `Sobrecosto severo. Por cada $1.00 gastado, el proyecto solo entrega $${CPI.toFixed(2)} de valor. Estás perdiendo ${(100 - CPI * 100).toFixed(0)} centavos por dólar.`
+        message: t("evm.costSevereMsg", { cpi: CPI.toFixed(2), cents: (100 - CPI * 100).toFixed(0) })
       };
     } else if (CPI < 1.0) {
       costHealth = {
-        status: "Sobrecosto moderado",
+        status: t("evm.costModerate"),
         badgeColor: "var(--c-amber)",
         badgeBg: "var(--c-amber-subtle)",
-        message: `Alerta presupuestaria. El costo real supera al valor ganado en $${Math.abs(CV).toLocaleString()}.`
+        message: t("evm.costModerateMsg", { amount: fmtNumber(Math.abs(CV)) })
       };
     }
 
     let scheduleHealth = {
-      status: "A tiempo / adelantado",
+      status: t("evm.scheduleOnTime"),
       badgeColor: "var(--c-teal)",
       badgeBg: "var(--c-teal-subtle)",
-      message: `Ritmo óptimo. El equipo avanza al ${(SPI * 100).toFixed(0)}% de la velocidad prevista en la línea base.`
+      message: t("evm.scheduleOnTimeMsg", { pct: (SPI * 100).toFixed(0) })
     };
     if (SPI < 0.90) {
       scheduleHealth = {
-        status: "Retraso severo",
+        status: t("evm.scheduleSevere"),
         badgeColor: "var(--c-rose)",
         badgeBg: "var(--c-rose-subtle)",
-        message: `Retraso crítico. El proyecto avanza al ${(SPI * 100).toFixed(0)}% del ritmo planificado (un ${(100 - SPI * 100).toFixed(0)}% de retraso en entregables).`
+        message: t("evm.scheduleSevereMsg", { pct: (SPI * 100).toFixed(0), delay: (100 - SPI * 100).toFixed(0) })
       };
     } else if (SPI < 1.0) {
       scheduleHealth = {
-        status: "Retraso moderado",
+        status: t("evm.scheduleModerate"),
         badgeColor: "var(--c-amber)",
         badgeBg: "var(--c-amber-subtle)",
-        message: `Desvío temporal de $${Math.abs(SV).toLocaleString()} en entregables que debieron haberse completado a la fecha.`
+        message: t("evm.scheduleModerateMsg", { amount: fmtNumber(Math.abs(SV)) })
       };
     }
 
     // PMP Strategic Decision recommendation
     let pmpAdvice = "";
     if (CPI >= 1 && SPI >= 1) {
-      pmpAdvice = "<strong>Proyecto en Excelente Estado:</strong> Tanto el presupuesto como el cronograma están bajo control. En el examen PMP, la respuesta correcta es mantener el plan de gestión, continuar el monitoreo periódico y registrar las buenas prácticas en los activos de procesos (OPAs).";
+      pmpAdvice = t("evm.pmpExcellent");
     } else if (CPI >= 1 && SPI < 1) {
-      pmpAdvice = "<strong>Proyecto con Ahorro pero con Retraso:</strong> Dispones de holgura financiera positiva (CPI > 1). En el examen PMP, este es el candidato ideal para <em>Crashing</em> (compresión de cronograma mediante horas extras o recursos adicionales), ya que cuentas con presupuesto de sobra para absorber el sobrecosto de acelerar tareas de la ruta crítica.";
+      pmpAdvice = t("evm.pmpSavingsDelay");
     } else if (CPI < 1 && SPI >= 1) {
-      pmpAdvice = "<strong>Proyecto a Tiempo pero con Sobrecosto:</strong> El proyecto avanza al ritmo programado pero gastando más de la cuenta. En el examen PMP, <strong>nunca</strong> apliques <em>Crashing</em> en este escenario. Considera optimizar recursos, renegociar contratos de compras o aplicar <em>Fast Tracking</em> si no genera costos adicionales.";
+      pmpAdvice = t("evm.pmpOverrunOnTime");
     } else {
-      pmpAdvice = "<strong>Crisis Integral (Sobrecosto y Retraso):</strong> La situación más crítica en la gestión de proyectos. En el examen PMP, la acción inmediata del director de proyecto es convocar al Patrocinador y al Comité de Control de Cambios (CCB), realizar un análisis de causa raíz y evaluar una nueva línea base o reducción de alcance.";
+      pmpAdvice = t("evm.pmpCrisis");
     }
 
     return { CV, SV, CPI, SPI, EAC, ETC, VAC, TCPI, costHealth, scheduleHealth, pmpAdvice };
@@ -84,33 +85,33 @@ export function renderEVMLabPro(containerEl) {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Laboratorio Interactivo de Valor Ganado (EVM) • PMBOK® 8</h1>
+          <h1>${t("evm.heroTitle")}</h1>
           <p>
-            Simulador analítico basado estrictamente en la <strong>Tabla 5-1 de Fórmulas Oficiales</strong> de la 8va edición. Modifica las 4 variables base o selecciona un escenario preconfigurado para evaluar las decisiones gerenciales en tiempo real.
+            ${t("evm.heroDesc")}
           </p>
         </div>
 
         <div class="hero-stats-row">
           <div class="stat-metric-pill">
             <span class="stat-num" style="color: ${r.costHealth.badgeColor};">${r.CPI.toFixed(2)}</span>
-            <span class="stat-label">Eficiencia Costo (CPI)</span>
+            <span class="stat-label">${t("evm.cpiShortLabel")}</span>
           </div>
           <div class="stat-metric-pill">
             <span class="stat-num" style="color: ${r.scheduleHealth.badgeColor};">${r.SPI.toFixed(2)}</span>
-            <span class="stat-label">Eficiencia Tiempo (SPI)</span>
+            <span class="stat-label">${t("evm.spiShortLabel")}</span>
           </div>
         </div>
       </div>
 
       <!-- Presets Toolbar -->
       <div class="evm-presets-bar">
-        <span class="evm-presets-label">Escenarios de Simulación Rápida:</span>
+        <span class="evm-presets-label">${t("evm.presetsLabel")}</span>
         <div class="evm-presets-group">
-          <button class="action-chip-btn" id="evm-btn-healthy">Proyecto Saludable</button>
-          <button class="action-chip-btn" id="evm-btn-overbudget">Alerta de Sobrecosto</button>
-          <button class="action-chip-btn" id="evm-btn-behind">Alerta de Retraso</button>
-          <button class="action-chip-btn" id="evm-btn-crisis">Crisis Integral</button>
-          <button class="action-chip-btn" id="evm-btn-perfect">Máxima Eficiencia</button>
+          <button class="action-chip-btn" id="evm-btn-healthy">${t("evm.presetHealthy")}</button>
+          <button class="action-chip-btn" id="evm-btn-overbudget">${t("evm.presetOverbudget")}</button>
+          <button class="action-chip-btn" id="evm-btn-behind">${t("evm.presetBehind")}</button>
+          <button class="action-chip-btn" id="evm-btn-crisis">${t("evm.presetCrisis")}</button>
+          <button class="action-chip-btn" id="evm-btn-perfect">${t("evm.presetPerfect")}</button>
         </div>
       </div>
 
@@ -119,8 +120,8 @@ export function renderEVMLabPro(containerEl) {
         <!-- Left: 4 Fundamental Parameter Sliders -->
         <div class="evm-inputs-panel">
           <div class="evm-panel-header">
-            <h3>Variables Fundamentales del Proyecto</h3>
-            <span class="evm-panel-subtitle">Ajusta los valores con los controles deslizantes</span>
+            <h3>${t("evm.inputsTitle")}</h3>
+            <span class="evm-panel-subtitle">${t("evm.inputsSubtitle")}</span>
           </div>
 
           <div class="evm-sliders-stack">
@@ -128,10 +129,10 @@ export function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">BAC · Presupuesto a la Conclusión</strong>
-                  <span class="evm-card-param-desc">Presupuesto total autorizado por el Patrocinador</span>
+                  <strong class="evm-card-param-title">${t("evm.bacTitle")}</strong>
+                  <span class="evm-card-param-desc">${t("evm.bacDesc")}</span>
                 </div>
-                <div class="evm-val-display" style="color: var(--c-blue);">$${BAC.toLocaleString()}</div>
+                <div class="evm-val-display" style="color: var(--c-blue);">$${fmtNumber(BAC)}</div>
               </div>
               <input type="range" class="evm-slider-control" id="sl-bac" min="20000" max="300000" step="5000" value="${BAC}">
               <div class="evm-slider-ticks">
@@ -145,10 +146,10 @@ export function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">PV · Valor Planificado a la Fecha</strong>
-                  <span class="evm-card-param-desc">Presupuesto del trabajo que según cronograma debería estar listo</span>
+                  <strong class="evm-card-param-title">${t("evm.pvTitle")}</strong>
+                  <span class="evm-card-param-desc">${t("evm.pvDesc")}</span>
                 </div>
-                <div class="evm-val-display" style="color: var(--c-blue);">$${PV.toLocaleString()}</div>
+                <div class="evm-val-display" style="color: var(--c-blue);">$${fmtNumber(PV)}</div>
               </div>
               <input type="range" class="evm-slider-control" id="sl-pv" min="5000" max="${BAC}" step="2000" value="${PV}">
               <div class="evm-slider-ticks">
@@ -162,10 +163,10 @@ export function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">EV · Valor Ganado Real</strong>
-                  <span class="evm-card-param-desc">Valor presupuestado del trabajo físicamente completado</span>
+                  <strong class="evm-card-param-title">${t("evm.evTitle")}</strong>
+                  <span class="evm-card-param-desc">${t("evm.evDesc")}</span>
                 </div>
-                <div class="evm-val-display" style="color: var(--c-teal);">$${EV.toLocaleString()}</div>
+                <div class="evm-val-display" style="color: var(--c-teal);">$${fmtNumber(EV)}</div>
               </div>
               <input type="range" class="evm-slider-control" id="sl-ev" min="2000" max="${BAC}" step="2000" value="${EV}">
               <div class="evm-slider-ticks">
@@ -179,10 +180,10 @@ export function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">AC · Costo Real Incurrido</strong>
-                  <span class="evm-card-param-desc">Dinero efectivamente gastado y contabilizado a la fecha</span>
+                  <strong class="evm-card-param-title">${t("evm.acTitle")}</strong>
+                  <span class="evm-card-param-desc">${t("evm.acDesc")}</span>
                 </div>
-                <div class="evm-val-display" style="color: var(--c-rose);">$${AC.toLocaleString()}</div>
+                <div class="evm-val-display" style="color: var(--c-rose);">$${fmtNumber(AC)}</div>
               </div>
               <input type="range" class="evm-slider-control" id="sl-ac" min="2000" max="${Math.round(BAC * 1.4)}" step="2000" value="${AC}">
               <div class="evm-slider-ticks">
@@ -209,7 +210,7 @@ export function renderEVMLabPro(containerEl) {
               <div class="metric-hero-value" style="color: ${r.costHealth.badgeColor};">
                 ${r.CPI.toFixed(2)}
               </div>
-              <span class="metric-hero-name">Índice de Rendimiento del Costo</span>
+              <span class="metric-hero-name">${t("evm.cpiName")}</span>
               <p class="metric-hero-desc">${r.costHealth.message}</p>
             </div>
 
@@ -224,68 +225,68 @@ export function renderEVMLabPro(containerEl) {
               <div class="metric-hero-value" style="color: ${r.scheduleHealth.badgeColor};">
                 ${r.SPI.toFixed(2)}
               </div>
-              <span class="metric-hero-name">Índice de Rendimiento del Cronograma</span>
+              <span class="metric-hero-name">${t("evm.spiName")}</span>
               <p class="metric-hero-desc">${r.scheduleHealth.message}</p>
             </div>
           </div>
 
           <!-- Variances & Forecast Grid (Table 5-1 PMBOK 8) -->
           <div class="evm-formulas-matrix-card">
-            <h4 class="evm-matrix-title">Compendio de Fórmulas Oficiales • PMBOK 8 Tabla 5-1</h4>
+            <h4 class="evm-matrix-title">${t("evm.formulasTitle")}</h4>
 
             <div class="evm-matrix-grid">
               <!-- CV -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Variación de Costo (CV = EV - AC)</span>
+                <span class="formula-cell-label">${t("evm.cvLabel")}</span>
                 <div class="formula-cell-val" style="color: ${r.CV >= 0 ? 'var(--c-teal)' : 'var(--c-rose)'};">
-                  ${r.CV >= 0 ? '+' : ''}$${Math.round(r.CV).toLocaleString()}
+                  ${r.CV >= 0 ? '+' : ''}$${fmtNumber(Math.round(r.CV))}
                 </div>
-                <span class="formula-cell-sub">${r.CV >= 0 ? 'Bajo Presupuesto' : 'Sobrecosto Acumulado'}</span>
+                <span class="formula-cell-sub">${r.CV >= 0 ? t("evm.cvUnder") : t("evm.cvOver")}</span>
               </div>
 
               <!-- SV -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Variación de Cronograma (SV = EV - PV)</span>
+                <span class="formula-cell-label">${t("evm.svLabel")}</span>
                 <div class="formula-cell-val" style="color: ${r.SV >= 0 ? 'var(--c-teal)' : 'var(--c-rose)'};">
-                  ${r.SV >= 0 ? '+' : ''}$${Math.round(r.SV).toLocaleString()}
+                  ${r.SV >= 0 ? '+' : ''}$${fmtNumber(Math.round(r.SV))}
                 </div>
-                <span class="formula-cell-sub">${r.SV >= 0 ? 'Adelantado' : 'Retraso Físico'}</span>
+                <span class="formula-cell-sub">${r.SV >= 0 ? t("evm.svAhead") : t("evm.svBehind")}</span>
               </div>
 
               <!-- EAC -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Costo Final Estimado (EAC = BAC / CPI)</span>
+                <span class="formula-cell-label">${t("evm.eacLabel")}</span>
                 <div class="formula-cell-val" style="color: var(--text-primary);">
-                  $${Math.round(r.EAC).toLocaleString()}
+                  $${fmtNumber(Math.round(r.EAC))}
                 </div>
-                <span class="formula-cell-sub">Pronóstico Final si se mantiene este ritmo</span>
+                <span class="formula-cell-sub">${t("evm.eacSub")}</span>
               </div>
 
               <!-- ETC -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Estimación para Terminar (ETC = EAC - AC)</span>
+                <span class="formula-cell-label">${t("evm.etcLabel")}</span>
                 <div class="formula-cell-val" style="color: var(--text-primary);">
-                  $${Math.round(r.ETC).toLocaleString()}
+                  $${fmtNumber(Math.round(r.ETC))}
                 </div>
-                <span class="formula-cell-sub">Capital restante necesario para finalizar</span>
+                <span class="formula-cell-sub">${t("evm.etcSub")}</span>
               </div>
 
               <!-- VAC -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Variación a la Conclusión (VAC = BAC - EAC)</span>
+                <span class="formula-cell-label">${t("evm.vacLabel")}</span>
                 <div class="formula-cell-val" style="color: ${r.VAC >= 0 ? 'var(--c-teal)' : 'var(--c-rose)'};">
-                  ${r.VAC >= 0 ? '+' : ''}$${Math.round(r.VAC).toLocaleString()}
+                  ${r.VAC >= 0 ? '+' : ''}$${fmtNumber(Math.round(r.VAC))}
                 </div>
-                <span class="formula-cell-sub">${r.VAC >= 0 ? 'Superávit Final' : 'Déficit presupuestario final'}</span>
+                <span class="formula-cell-sub">${r.VAC >= 0 ? t("evm.vacSurplus") : t("evm.vacDeficit")}</span>
               </div>
 
               <!-- TCPI -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Esfuerzo Requerido (TCPI a BAC)</span>
+                <span class="formula-cell-label">${t("evm.tcpiLabel")}</span>
                 <div class="formula-cell-val" style="color: ${r.TCPI <= 1.05 ? 'var(--c-teal)' : r.TCPI <= 1.2 ? 'var(--c-amber)' : 'var(--c-rose)'};">
                   ${r.TCPI.toFixed(2)}
                 </div>
-                <span class="formula-cell-sub">${r.TCPI <= 1 ? 'Factible sin estrés' : 'Requiere aceleración de eficiencia'}</span>
+                <span class="formula-cell-sub">${r.TCPI <= 1 ? t("evm.tcpiFeasible") : t("evm.tcpiAccelerate")}</span>
               </div>
             </div>
           </div>
@@ -293,8 +294,8 @@ export function renderEVMLabPro(containerEl) {
           <!-- Strategic Advice & PMP Exam Trap -->
           <div class="evm-strategic-decision-card">
             <div class="strategic-card-header">
-              <span class="brand-tag">Criterio Situacional PMP</span>
-              <strong style="font-size: 0.95rem; color: var(--text-primary);">Diagnóstico y Toma de Decisiones</strong>
+              <span class="brand-tag">${t("evm.pmpBadge")}</span>
+              <strong style="font-size: 0.95rem; color: var(--text-primary);">${t("evm.pmpTitle")}</strong>
             </div>
             <p class="strategic-card-text">
               ${r.pmpAdvice}

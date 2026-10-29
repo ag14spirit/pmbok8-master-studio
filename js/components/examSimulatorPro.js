@@ -1,6 +1,7 @@
 import { questions } from "../data/questions.js";
 import { audio } from "../audio.js";
 import { icons } from "../icons.js";
+import { t, fmtNumber } from "../i18n/index.js";
 
 export function renderExamSimulatorPro(containerEl) {
   let examActive = false;
@@ -49,16 +50,16 @@ export function renderExamSimulatorPro(containerEl) {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Simulador Oficial de Examen PMP / CAPM</h1>
+          <h1>${t("exam.heroTitle")}</h1>
           <p>
-            Banco exhaustivo de preguntas de juicio profesional situacional alineadas estrictamente a los 7 dominios y 6 principios del PMBOK® 8va Edición.
+            ${t("exam.heroText")}
           </p>
         </div>
 
         <div class="hero-stats-row">
           <div class="stat-metric-pill">
             <span class="stat-num" style="color: var(--c-purple);">75%</span>
-            <span class="stat-label">Umbral de Aprobación</span>
+            <span class="stat-label">${t("exam.passThreshold")}</span>
           </div>
         </div>
       </div>
@@ -67,16 +68,16 @@ export function renderExamSimulatorPro(containerEl) {
         <div class="unit-card-pro">
           <div>
             <div class="unit-card-top">
-              <span class="unit-ref-badge">Modalidad ágil</span>
-              <span class="unit-duration-pill">15 minutos · 10 preguntas</span>
+              <span class="unit-ref-badge">${t("exam.quickBadge")}</span>
+              <span class="unit-duration-pill">${t("exam.durationCount", { minutes: fmtNumber(15), count: fmtNumber(10) })}</span>
             </div>
-            <h3 class="unit-title">Simulacro rápido</h3>
-            <p class="unit-summary">10 preguntas situacionales aleatorias de alta frecuencia. Ideal para una sesión ágil de práctica diaria y calibración de conceptos.</p>
+            <h3 class="unit-title">${t("exam.quickTitle")}</h3>
+            <p class="unit-summary">${t("exam.quickSummary")}</p>
           </div>
           <div class="unit-card-footer">
-            <span class="unit-status-indicator">Todos los dominios</span>
+            <span class="unit-status-indicator">${t("exam.quickStatus")}</span>
             <button class="btn-primary-pro" id="start-sim-10">
-              Iniciar examen ${icons.arrowRight}
+              ${t("exam.startExam")} ${icons.arrowRight}
             </button>
           </div>
         </div>
@@ -84,16 +85,16 @@ export function renderExamSimulatorPro(containerEl) {
         <div class="unit-card-pro">
           <div>
             <div class="unit-card-top">
-              <span class="unit-ref-badge" style="color: var(--c-teal); background: var(--c-teal-subtle);">Modalidad estándar</span>
-              <span class="unit-duration-pill">30 minutos · 20 preguntas</span>
+              <span class="unit-ref-badge" style="color: var(--c-teal); background: var(--c-teal-subtle);">${t("exam.standardBadge")}</span>
+              <span class="unit-duration-pill">${t("exam.durationCount", { minutes: fmtNumber(30), count: fmtNumber(20) })}</span>
             </div>
-            <h3 class="unit-title">Simulacro estándar</h3>
-            <p class="unit-summary">20 preguntas situacionales equilibradas entre ciclos predictivos, ágiles e híbridos según el Exam Content Outline (ECO).</p>
+            <h3 class="unit-title">${t("exam.standardTitle")}</h3>
+            <p class="unit-summary">${t("exam.standardSummary")}</p>
           </div>
           <div class="unit-card-footer">
-            <span class="unit-status-indicator">Cobertura completa</span>
+            <span class="unit-status-indicator">${t("exam.standardStatus")}</span>
             <button class="btn-teal-pro" id="start-sim-20">
-              Iniciar examen ${icons.arrowRight}
+              ${t("exam.startExam")} ${icons.arrowRight}
             </button>
           </div>
         </div>
@@ -101,16 +102,16 @@ export function renderExamSimulatorPro(containerEl) {
         <div class="unit-card-pro">
           <div>
             <div class="unit-card-top">
-              <span class="unit-ref-badge" style="color: var(--c-purple); background: var(--c-purple-subtle);">Modalidad extensiva</span>
-              <span class="unit-duration-pill">45 minutos · Banco completo</span>
+              <span class="unit-ref-badge" style="color: var(--c-purple); background: var(--c-purple-subtle);">${t("exam.extensiveBadge")}</span>
+              <span class="unit-duration-pill">${t("exam.durationAll", { minutes: fmtNumber(45) })}</span>
             </div>
-            <h3 class="unit-title">Simulacro extensivo PMP</h3>
-            <p class="unit-summary">Todas las preguntas del banco oficial sin interrupciones para medir tu resistencia mental y concentración bajo presión de tiempo real.</p>
+            <h3 class="unit-title">${t("exam.extensiveTitle")}</h3>
+            <p class="unit-summary">${t("exam.extensiveSummary")}</p>
           </div>
           <div class="unit-card-footer">
-            <span class="unit-status-indicator">Resistencia mental</span>
+            <span class="unit-status-indicator">${t("exam.extensiveStatus")}</span>
             <button class="btn-purple-pro" id="start-sim-all">
-              Iniciar examen ${icons.arrowRight}
+              ${t("exam.startExam")} ${icons.arrowRight}
             </button>
           </div>
         </div>
@@ -131,7 +132,7 @@ export function renderExamSimulatorPro(containerEl) {
 
     containerEl.innerHTML = `
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 12px;">
-        <button class="action-chip-btn" id="exit-exam-btn">${icons.x} Salir del examen</button>
+        <button class="action-chip-btn" id="exit-exam-btn">${icons.x} ${t("exam.exitExam")}</button>
 
         <div style="display: flex; align-items: center; gap: 14px;">
           <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); padding: 6px 14px; border-radius: var(--radius-s); font-weight: 700; font-family: var(--font-mono); font-size: 0.95rem; display: flex; align-items: center; gap: 6px;">
@@ -139,7 +140,7 @@ export function renderExamSimulatorPro(containerEl) {
           </div>
 
           <button class="btn-primary-pro" id="submit-exam-btn">
-            Entregar examen (${answeredCount}/${examPool.length})
+            ${t("exam.submit", { answered: fmtNumber(answeredCount), total: fmtNumber(examPool.length) })}
           </button>
         </div>
       </div>
@@ -177,11 +178,11 @@ export function renderExamSimulatorPro(containerEl) {
       <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 28px; box-shadow: var(--shadow-xs);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px;">
           <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; color: var(--c-blue);">
-            Pregunta ${currentIdx + 1} de ${examPool.length} • ${q.sectionRef}
+            ${t("exam.questionOf", { current: fmtNumber(currentIdx + 1), total: fmtNumber(examPool.length) })} • ${q.sectionRef}
           </span>
           <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 0.8rem; font-weight: 600;">
             <input type="checkbox" id="flag-toggle-check" ${isFlagged ? 'checked' : ''}>
-            ${icons.flag} Marcar para revisión
+            ${icons.flag} ${t("exam.markReview")}
           </label>
         </div>
 
@@ -201,17 +202,17 @@ export function renderExamSimulatorPro(containerEl) {
 
         <div style="display: flex; justify-content: space-between; margin-top: 24px; padding-top: 18px; border-top: 1px solid var(--border-subtle);">
           <button class="action-chip-btn" id="prev-btn" ${currentIdx === 0 ? 'disabled style="opacity:0.4; pointer-events:none;"' : ''}>
-            ${icons.arrowLeft} Anterior
+            ${icons.arrowLeft} ${t("exam.prev")}
           </button>
           <button class="btn-primary-pro" id="next-btn">
-            ${currentIdx === examPool.length - 1 ? 'Revisar y entregar' : 'Siguiente ' + icons.arrowRight}
+            ${currentIdx === examPool.length - 1 ? t("exam.reviewAndSubmit") : t("exam.next") + ' ' + icons.arrowRight}
           </button>
         </div>
       </div>
     `;
 
     containerEl.querySelector("#exit-exam-btn").onclick = () => {
-      if (confirm("¿Deseas salir del examen? Se descartarán tus respuestas.")) renderHome();
+      if (confirm(t("exam.confirmExit"))) renderHome();
     };
 
     containerEl.querySelector("#submit-exam-btn").onclick = () => finishExam();
@@ -276,18 +277,18 @@ export function renderExamSimulatorPro(containerEl) {
       <div style="max-width: 800px; margin: 0 auto;">
         <div style="background: var(--bg-surface); border: 1px solid ${passed ? 'var(--c-teal)' : 'var(--c-rose)'}; border-radius: var(--radius-m); padding: 32px; text-align: center; margin-bottom: 24px; box-shadow: var(--shadow-xs);">
           <span style="font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">
-            ${passed ? 'Nivel de Certificación: Competente' : 'Resultado Insuficiente'}
+            ${passed ? t("exam.verdictPass") : t("exam.verdictFail")}
           </span>
           <div style="font-size: 3.5rem; font-weight: 900; font-family: var(--font-mono); letter-spacing: -0.04em; margin: 10px 0; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">
-            ${percent}%
+            ${fmtNumber(percent)}%
           </div>
           <p style="color: var(--text-secondary); font-size: 0.94rem; max-width: 520px; margin: 0 auto 20px auto;">
-            Has respondido correctamente <strong>${correctCount}</strong> de <strong>${examPool.length}</strong> preguntas. El umbral para aprobar el examen oficial es de 75%.
+            ${t("exam.scoreSummary", { correct: `<strong>${fmtNumber(correctCount)}</strong>`, total: `<strong>${fmtNumber(examPool.length)}</strong>` })}
           </p>
-          <button class="btn-primary-pro" id="retake-exam-pro-btn">Tomar otro simulacro ${icons.arrowRight}</button>
+          <button class="btn-primary-pro" id="retake-exam-pro-btn">${t("exam.retake")} ${icons.arrowRight}</button>
         </div>
 
-        <h3 style="font-size: 1.2rem; font-weight: 800; margin-bottom: 16px;">Revisión Detallada de Respuestas:</h3>
+        <h3 style="font-size: 1.2rem; font-weight: 800; margin-bottom: 16px;">${t("exam.reviewTitle")}</h3>
 
         <div style="display: flex; flex-direction: column; gap: 14px;">
           ${examPool.map((q, i) => {
@@ -297,22 +298,22 @@ export function renderExamSimulatorPro(containerEl) {
             return `
               <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-left: 4px solid ${isQCorrect ? 'var(--c-teal)' : 'var(--c-rose)'}; border-radius: var(--radius-s); padding: 18px;">
                 <div style="display: flex; justify-content: space-between; font-size: 0.78rem; font-weight: 700; margin-bottom: 6px;">
-                  <span style="font-family: var(--font-mono); color: var(--c-blue);">Pregunta #${i + 1} • ${q.sectionRef}</span>
+                  <span style="font-family: var(--font-mono); color: var(--c-blue);">${t("exam.questionHash", { n: fmtNumber(i + 1) })} • ${q.sectionRef}</span>
                   <span style="color: ${isQCorrect ? 'var(--c-teal)' : 'var(--c-rose)'};">
-                    ${isQCorrect ? 'Correcta' : 'Incorrecta'}
+                    ${isQCorrect ? t("exam.correct") : t("exam.incorrect")}
                   </span>
                 </div>
                 <h4 style="font-size: 0.98rem; font-weight: 700; margin-bottom: 8px;">${q.title}</h4>
                 <div style="font-size: 0.85rem; margin-bottom: 4px;">
-                  <strong>Tu respuesta:</strong> ${userChoice !== undefined ? q.options[userChoice] : '<em>Sin responder</em>'}
+                  <strong>${t("exam.yourAnswer")}</strong> ${userChoice !== undefined ? q.options[userChoice] : `<em>${t("exam.unanswered")}</em>`}
                 </div>
                 ${!isQCorrect ? `
                   <div style="font-size: 0.85rem; color: var(--c-teal); margin-bottom: 6px;">
-                    <strong>Respuesta correcta:</strong> ${q.options[q.answerIndex]}
+                    <strong>${t("exam.correctAnswer")}</strong> ${q.options[q.answerIndex]}
                   </div>
                 ` : ''}
                 <div style="background: var(--bg-surface-subtle); padding: 10px 14px; border-radius: var(--radius-xs); font-size: 0.82rem; line-height: 1.45; color: var(--text-secondary); margin-top: 8px;">
-                  <strong>Fundamento PMBOK 8:</strong> ${q.explanation}
+                  <strong>${t("exam.basis")}</strong> ${q.explanation}
                 </div>
               </div>
             `;

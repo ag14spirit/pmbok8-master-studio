@@ -3,6 +3,7 @@ import { questions } from "../data/questions.js";
 import { presentationDecks } from "../data/presentations.js";
 import { audio } from "../audio.js";
 import { icons } from "../icons.js";
+import { t } from "../i18n/index.js";
 
 export class LearningHub {
   constructor(containerEl, modalBackdropEl, onProgressUpdate) {
@@ -29,29 +30,29 @@ export class LearningHub {
     const progressPercent = Math.round((completedCount / totalUnits) * 100);
 
     const partBadges = [
-      "Parte 1 · El Estándar ANSI/PMI",
-      "Parte 2 · La Guía del PMBOK®",
-      "Parte 3 · Apéndices Especializados"
+      t("hub.partBadge1"),
+      t("hub.partBadge2"),
+      t("hub.partBadge3")
     ];
 
     this.container.innerHTML = `
       <!-- Hero Header -->
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Ruta Maestra de Estudio • PMBOK® 8va Edición</h1>
+          <h1>${t("hub.heroTitle")}</h1>
           <p>
-            Programa oficial completo alineado al estándar ANSI/PMI 99-001-2025. Incluye los 6 principios rectores, los 7 dominios de desempeño, los 40 procesos y los nuevos apéndices de IA y PMO.
+            ${t("hub.heroText")}
           </p>
         </div>
 
         <div class="hero-stats-row">
           <div class="stat-metric-pill">
             <span class="stat-num">${completedCount}/${totalUnits}</span>
-            <span class="stat-label">Unidades Dominadas</span>
+            <span class="stat-label">${t("hub.unitsMastered")}</span>
           </div>
           <div class="stat-metric-pill">
             <span class="stat-num" style="color: var(--c-teal);">${progressPercent}%</span>
-            <span class="stat-label">Progreso Global</span>
+            <span class="stat-label">${t("hub.globalProgress")}</span>
           </div>
         </div>
       </div>
@@ -65,7 +66,7 @@ export class LearningHub {
                 ${partBadges[pIdx]}
               </span>
               <h2 class="part-title">${part.title}</h2>
-              <p class="part-description">${part.description || 'Eje fundamental del conocimiento oficial para la dirección de proyectos y preparación PMP.'}</p>
+              <p class="part-description">${part.description || t("hub.partDescFallback")}</p>
             </div>
 
             <div class="units-grid">
@@ -73,14 +74,14 @@ export class LearningHub {
                 const isDone = this.completedUnits.has(unit.id);
                 const lessonsCount = unit.lessons ? unit.lessons.length : 0;
                 const estTime = unit.lessons ? unit.lessons.reduce((acc, l) => acc + (l.timeMin || 5), 0) : 15;
-                const descText = unit.description || 'Fundamento oficial del PMBOK 8va edición para la gestión efectiva de proyectos.';
+                const descText = unit.description || t("hub.unitDescFallback");
 
                 return `
                   <div class="unit-card-pro ${isDone ? 'is-done' : ''}" data-unit-id="${unit.id}">
                     <div>
                       <div class="unit-card-top">
                         <span class="unit-ref-badge">${unit.sectionRef}</span>
-                        <span class="unit-duration-pill">${estTime} min • ${lessonsCount} lecciones</span>
+                        <span class="unit-duration-pill">${t("hub.durationLessons", { time: estTime, count: lessonsCount })}</span>
                       </div>
 
                       <h3 class="unit-title">${unit.title}</h3>
@@ -96,7 +97,7 @@ export class LearningHub {
                             </div>
                           `).join('')}
                           ${unit.lessons.length > 3 ? `
-                            <div class="lesson-bullet-more">+${unit.lessons.length - 3} lecciones más</div>
+                            <div class="lesson-bullet-more">${t("hub.moreLessons", { count: unit.lessons.length - 3 })}</div>
                           ` : ''}
                         </div>
                       ` : ''}
@@ -104,15 +105,15 @@ export class LearningHub {
 
                     <div class="unit-card-footer">
                       <span class="unit-status-indicator ${isDone ? 'done' : ''}">
-                        ${isDone ? '<span class="status-icon-done">' + icons.check + '</span> Dominada' : '<span class="status-icon-pending"></span> Pendiente'}
+                        ${isDone ? '<span class="status-icon-done">' + icons.check + '</span> ' + t("hub.mastered") : '<span class="status-icon-pending"></span> ' + t("hub.pending")}
                       </span>
 
                       <div style="display: flex; gap: 8px;">
-                        <button class="unit-slides-btn" data-unit-id="${unit.id}" title="Ver las 10 diapositivas visuales de este tema">
-                          Diapositivas
+                        <button class="unit-slides-btn" data-unit-id="${unit.id}" title="${t("hub.slidesHint")}">
+                          ${t("hub.slides")}
                         </button>
                         <button class="btn-primary-pro unit-study-btn" data-unit-id="${unit.id}">
-                          ${isDone ? 'Repasar' : 'Estudiar'} ${icons.arrowRight}
+                          ${isDone ? t("hub.review") : t("hub.study")} ${icons.arrowRight}
                         </button>
                       </div>
                     </div>
@@ -183,7 +184,7 @@ export class LearningHub {
             <span class="brand-tag">${targetUnit.sectionRef}</span>
             <h3 style="font-size: 1.15rem; font-weight: 800; color: var(--text-primary);">${targetUnit.title}</h3>
           </div>
-          <button class="icon-square-btn" id="close-lesson-x" title="Cerrar ventana">
+          <button class="icon-square-btn" id="close-lesson-x" title="${t("common.close")}">
             ${icons.x}
           </button>
         </div>
@@ -192,7 +193,7 @@ export class LearningHub {
           <!-- Unit Overview -->
           <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 18px 20px; margin-bottom: 20px;">
             <span style="font-size: 0.72rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
-              Descripción Oficial del Tema • PMBOK® 8
+              ${t("hub.officialDesc")}
             </span>
             <p style="font-size: 0.98rem; line-height: 1.6; color: var(--text-primary);">
               ${targetUnit.description}
@@ -203,17 +204,17 @@ export class LearningHub {
           ${targetUnit.lessons && targetUnit.lessons.length > 0 ? `
             <div style="margin-bottom: 24px;">
               <h4 style="font-size: 0.82rem; font-weight: 700; color: var(--text-tertiary); margin-bottom: 12px;">
-                Lecciones del Estándar (${targetUnit.lessons.length})
+                ${t("hub.standardLessons", { count: targetUnit.lessons.length })}
               </h4>
               <div style="display: flex; flex-direction: column; gap: 12px;">
                 ${targetUnit.lessons.map((les, lIdx) => `
                   <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-s); padding: 16px;">
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
                       <span style="font-size: 0.75rem; font-family: var(--font-mono); font-weight: 700; color: var(--c-blue); background: var(--c-blue-subtle); padding: 2px 7px; border-radius: var(--radius-xs);">
-                        Sección ${les.section}
+                        ${t("hub.sectionLabel", { section: les.section })}
                       </span>
                       <strong style="font-size: 0.96rem; color: var(--text-primary); flex: 1; margin-left: 10px;">${les.title}</strong>
-                      <span style="font-size: 0.75rem; color: var(--text-tertiary); font-weight: 600;">${les.timeMin || 5} min</span>
+                      <span style="font-size: 0.75rem; color: var(--text-tertiary); font-weight: 600;">${t("hub.minutes", { n: les.timeMin || 5 })}</span>
                     </div>
 
                     <p style="font-size: 0.88rem; line-height: 1.5; color: var(--text-secondary); margin-bottom: 10px;">
@@ -228,7 +229,7 @@ export class LearningHub {
 
                     ${les.examTip ? `
                       <div style="background: var(--c-amber-subtle); border-left: 3px solid var(--c-amber); padding: 8px 12px; border-radius: var(--radius-xs); font-size: 0.8rem; color: #78350F; line-height: 1.4;">
-                        <strong>Tip de Examen:</strong> ${les.examTip}
+                        <strong>${t("hub.examTip")}</strong> ${les.examTip}
                       </div>
                     ` : ''}
                   </div>
@@ -241,10 +242,10 @@ export class LearningHub {
           <div style="border-top: 1px solid var(--border-subtle); padding-top: 20px;">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
               <span style="font-size: 0.75rem; font-weight: 700; color: var(--c-blue); ">
-                Punto de Control Situacional PMP
+                ${t("hub.checkpoint")}
               </span>
               <span style="font-size: 0.75rem; color: var(--text-tertiary); font-weight: 600;">
-                Pregunta Oficial de Validación
+                ${t("hub.validationQ")}
               </span>
             </div>
 
@@ -270,11 +271,11 @@ export class LearningHub {
 
         <div class="modal-window-footer" style="justify-content: space-between;">
           <button class="btn-flat-soft-indigo" id="open-slides-from-modal-btn">
-            Ver 10 diapositivas de este tema ${icons.arrowRight}
+            ${t("hub.viewSlides")} ${icons.arrowRight}
           </button>
 
           <button class="${isDone ? 'btn-teal-pro' : 'btn-primary-pro'}" id="finish-lesson-btn">
-            ${isDone ? 'Unidad dominada' : 'Marcar unidad como dominada'}
+            ${isDone ? t("hub.unitMastered") : t("hub.markMastered")}
           </button>
         </div>
       </div>
@@ -319,7 +320,7 @@ export class LearningHub {
           row.style.background = "var(--c-teal-subtle)";
           fbBox.innerHTML = `
             <div style="background: var(--c-teal-subtle); border-left: 3px solid var(--c-teal); padding: 12px 16px; border-radius: var(--radius-s); font-size: 0.85rem; color: var(--text-primary); line-height: 1.45;">
-              <strong style="color: var(--c-teal); display: block; margin-bottom: 2px;">Respuesta Correcta:</strong>
+              <strong style="color: var(--c-teal); display: block; margin-bottom: 2px;">${t("hub.correctAnswer")}</strong>
               ${q.explanation}
             </div>
           `;
@@ -329,7 +330,7 @@ export class LearningHub {
           row.style.background = "var(--c-rose-subtle)";
           fbBox.innerHTML = `
             <div style="background: var(--c-rose-subtle); border-left: 3px solid var(--c-rose); padding: 12px 16px; border-radius: var(--radius-s); font-size: 0.85rem; color: var(--text-primary); line-height: 1.45;">
-              <strong style="color: var(--c-rose); display: block; margin-bottom: 2px;">Respuesta Incorrecta:</strong>
+              <strong style="color: var(--c-rose); display: block; margin-bottom: 2px;">${t("hub.wrongAnswer")}</strong>
               ${q.explanation}
             </div>
           `;

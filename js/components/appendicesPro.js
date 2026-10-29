@@ -1,5 +1,6 @@
 import { appendices } from "../data/appendices.js";
 import { audio } from "../audio.js";
+import { t, fmtNumber } from "../i18n/index.js";
 
 export function renderAppendicesPro(containerEl) {
   let activeKey = "x3_ai";
@@ -10,24 +11,24 @@ export function renderAppendicesPro(containerEl) {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Nuevas Fronteras y Apéndices • PMBOK® 8</h1>
+          <h1>${t("appendices.heroTitle")}</h1>
           <p>
-            Análisis exhaustivo de los 4 apéndices especializados: Inteligencia Artificial en Proyectos (X3), La PMO Moderna (X2), Gestión de Adquisiciones (X4) y Evolución Histórica de la Guía (X5).
+            ${t("appendices.heroDesc")}
           </p>
         </div>
 
         <div style="display: flex; gap: 8px; flex-wrap: wrap;">
           <button class="action-chip-btn ${activeKey === 'x3_ai' ? 'active' : ''}" data-key="x3_ai" style="${activeKey === 'x3_ai' ? 'background: var(--c-blue); color: white;' : ''}">
-            Apéndice X3: IA en Proyectos
+            ${t("appendices.tabX3")}
           </button>
           <button class="action-chip-btn ${activeKey === 'x2_pmo' ? 'active' : ''}" data-key="x2_pmo" style="${activeKey === 'x2_pmo' ? 'background: var(--c-blue); color: white;' : ''}">
-            Apéndice X2: PMO Moderna
+            ${t("appendices.tabX2")}
           </button>
           <button class="action-chip-btn ${activeKey === 'x4_procurement' ? 'active' : ''}" data-key="x4_procurement" style="${activeKey === 'x4_procurement' ? 'background: var(--c-blue); color: white;' : ''}">
-            Apéndice X4: Adquisiciones
+            ${t("appendices.tabX4")}
           </button>
           <button class="action-chip-btn ${activeKey === 'x5_evolution' ? 'active' : ''}" data-key="x5_evolution" style="${activeKey === 'x5_evolution' ? 'background: var(--c-blue); color: white;' : ''}">
-            Apéndice X5: Evolución Histórica
+            ${t("appendices.tabX5")}
           </button>
         </div>
       </div>
@@ -35,7 +36,7 @@ export function renderAppendicesPro(containerEl) {
       <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 32px; box-shadow: var(--shadow-xs);">
         <div style="margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border-subtle);">
           <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; color: var(--c-blue); ">
-            Estudio Especializado Oficial
+            ${t("appendices.officialStudy")}
           </span>
           <h2 style="font-size: 1.65rem; font-weight: 800; letter-spacing: -0.02em; margin: 4px 0 10px 0;">
             ${cur.title}

@@ -1,6 +1,7 @@
 import { glossary } from "../data/glossary.js";
 import { audio } from "../audio.js";
 import { icons } from "../icons.js";
+import { t, fmtNumber } from "../i18n/index.js";
 
 export function renderFlashcardsPro(containerEl) {
   let activeTab = "flashcards";
@@ -9,24 +10,26 @@ export function renderFlashcardsPro(containerEl) {
   let searchQuery = "";
   let activeCat = "all";
 
+  // "all" is a stable internal key (never equal to a glossary category value),
+  // so filtering stays language-independent; only the visible label is translated.
   const categories = ["all", ...new Set(glossary.map(g => g.category))];
 
   const render = () => {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Glosario y Tarjetas de Memoria Activa</h1>
+          <h1>${t("flash.heroTitle")}</h1>
           <p>
-            Entrena tu retención conceptual con tarjetas interactivas de repetición espaciada o explora el diccionario oficial de terminología del PMBOK® 8va Edición.
+            ${t("flash.heroText")}
           </p>
         </div>
 
         <div style="display: flex; gap: 8px;">
           <button class="action-chip-btn ${activeTab === 'flashcards' ? 'active' : ''}" id="mode-flashcards" style="${activeTab === 'flashcards' ? 'background: var(--c-blue); color: white;' : ''}">
-            Modo Flashcards (${glossary.length})
+            ${t("flash.modeFlashcards", { count: fmtNumber(glossary.length) })}
           </button>
           <button class="action-chip-btn ${activeTab === 'glossary' ? 'active' : ''}" id="mode-glossary" style="${activeTab === 'glossary' ? 'background: var(--c-blue); color: white;' : ''}">
-            Diccionario de Términos
+            ${t("flash.modeGlossary")}
           </button>
         </div>
       </div>
@@ -60,7 +63,7 @@ export function renderFlashcardsPro(containerEl) {
     area.innerHTML = `
       <div style="max-width: 620px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 20px;">
         <span style="font-family: var(--font-mono); font-size: 0.78rem; font-weight: 700; color: var(--text-tertiary); ">
-          Tarjeta ${currentCardIdx + 1} de ${glossary.length}
+          ${t("flash.cardOf", { current: fmtNumber(currentCardIdx + 1), total: fmtNumber(glossary.length) })}
         </span>
 
         <!-- 3D Card Scene -->
@@ -75,20 +78,20 @@ export function renderFlashcardsPro(containerEl) {
                 ${card.term}
               </h3>
               <span style="font-size: 0.8rem; color: var(--text-muted);">
-                Haz clic en la tarjeta para voltear
+                ${t("flash.clickToFlip")}
               </span>
             </div>
 
             <!-- Back Face -->
             <div style="position: absolute; width: 100%; height: 100%; -webkit-backface-visibility: hidden; backface-visibility: hidden; background: var(--bg-surface); border: 2px solid var(--c-blue); border-radius: var(--radius-m); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px; box-shadow: var(--shadow-s); transform: rotateY(180deg);">
               <span style="font-size: 0.74rem; font-weight: 700; color: var(--c-blue); margin-bottom: 10px;">
-                Definición Oficial PMBOK® 8
+                ${t("flash.officialDef")}
               </span>
               <p style="font-size: 1.05rem; line-height: 1.55; color: var(--text-primary);">
                 ${card.def}
               </p>
               <span style="font-size: 0.76rem; color: var(--text-muted); margin-top: 16px;">
-                Clic para volver al término
+                ${t("flash.clickToBack")}
               </span>
             </div>
           </div>
@@ -97,13 +100,13 @@ export function renderFlashcardsPro(containerEl) {
         <!-- Rating Buttons for Spaced Repetition -->
         <div style="display: flex; gap: 10px; margin-top: 8px;">
           <button class="btn-flat-soft-rose" id="fc-btn-hard">
-            Difícil
+            ${t("flash.hard")}
           </button>
           <button class="btn-flat-soft-amber" id="fc-btn-med">
-            Regular
+            ${t("flash.medium")}
           </button>
           <button class="btn-flat-soft-teal" id="fc-btn-easy">
-            Dominado
+            ${t("flash.mastered")}
           </button>
         </div>
       </div>
@@ -141,14 +144,14 @@ export function renderFlashcardsPro(containerEl) {
       <div style="display: flex; flex-direction: column; gap: 16px;">
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
           <div style="position: relative; width: 340px;">
-            <input type="text" id="gloss-search-input" placeholder="Buscar por término o definición..." value="${searchQuery}" style="width: 100%; padding: 8px 12px 8px 34px; border-radius: var(--radius-s); border: 1px solid var(--border-medium); background: var(--bg-surface); color: var(--text-primary); font-size: 0.82rem; outline: none;">
+            <input type="text" id="gloss-search-input" placeholder="${t("flash.searchPlaceholder")}" value="${searchQuery}" style="width: 100%; padding: 8px 12px 8px 34px; border-radius: var(--radius-s); border: 1px solid var(--border-medium); background: var(--bg-surface); color: var(--text-primary); font-size: 0.82rem; outline: none;">
             <span style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--text-muted); display: flex;">${icons.search}</span>
           </div>
 
           <div style="display: flex; gap: 6px; flex-wrap: wrap;">
             ${categories.map(c => `
               <button class="action-chip-btn ${activeCat === c ? 'active' : ''}" data-cat="${c}" style="${activeCat === c ? 'background: var(--c-blue); color: white;' : ''}">
-                ${c === 'all' ? 'Todos' : c}
+                ${c === 'all' ? t("flash.allCategories") : c}
               </button>
             `).join('')}
           </div>

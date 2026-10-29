@@ -4,8 +4,9 @@
   "description": "Plataforma de Aprendizaje Interactivo y Preparación PMP basada en la Guía del PMBOK® 8va Edición (ANSI/PMI 99-001-2025)",
   "scripts": {
     "start": "python3 -m http.server 8080",
-    "bundle": "node bundle-pro.mjs",
-    "deploy": "npx vercel --prod"
+    "bundle": "node bundle-pro.mjs --locale es && node bundle-pro.mjs --locale en",
+    "deploy": "npx vercel --prod",
+    "check:i18n": "node --no-warnings scripts/check-i18n.mjs"
   },
   "author": "Carlos Espinosa",
   "license": "MIT"

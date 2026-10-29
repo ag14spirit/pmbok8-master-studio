@@ -1,6 +1,16 @@
 import { presentationDecks } from "../data/presentations.js";
 import { audio } from "../audio.js";
 import { icons } from "../icons.js";
+import { t, fmtNumber } from "../i18n/index.js";
+
+// Stable part key derived from the deck's unitId (unit-1..unit-18), so the
+// filter does not depend on the translated `category` label.
+const partIdOf = (deck) => {
+  const n = parseInt(deck.unitId.split("-")[1], 10);
+  if (n <= 4) return "part1";
+  if (n <= 14) return "part2";
+  return "part3";
+};
 
 export function renderPresentationsPro(containerEl, modalBackdropEl) {
   let activeCategory = "all";
@@ -10,15 +20,15 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
   let showNotes = true;
 
   const categories = [
-    { id: "all", label: "Todas las Presentaciones (18)" },
-    { id: "Parte 1", label: "Parte 1: Estándar (4)" },
-    { id: "Parte 2", label: "Parte 2: Guía PMBOK (10)" },
-    { id: "Parte 3", label: "Parte 3: Apéndices (4)" }
+    { id: "all", label: t("presentations.catAll", { count: fmtNumber(18) }) },
+    { id: "part1", label: t("presentations.catPart1", { count: fmtNumber(4) }) },
+    { id: "part2", label: t("presentations.catPart2", { count: fmtNumber(10) }) },
+    { id: "part3", label: t("presentations.catPart3", { count: fmtNumber(4) }) }
   ];
 
   const render = () => {
     const filteredDecks = presentationDecks.filter(d =>
-      (activeCategory === "all" || d.category.includes(activeCategory)) &&
+      (activeCategory === "all" || partIdOf(d) === activeCategory) &&
       (searchQuery === "" ||
        d.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
        d.summary.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -28,20 +38,20 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Presentaciones Oficiales por Tema • PMBOK® 8</h1>
+          <h1>${t("presentations.heroTitle")}</h1>
           <p>
-            Diapositivas ejecutivas interactivas para cada una de las 18 unidades del índice oficial. Cada presentación incluye 10 láminas visuales con fundamentos teóricos, diagramas de flujo, ITTOs, comparativas ágiles y trampas de examen PMP.
+            ${t("presentations.heroText", { units: fmtNumber(18), slides: fmtNumber(10) })}
           </p>
         </div>
 
         <div class="hero-stats-row">
           <div class="stat-metric-pill">
-            <span class="stat-num">${presentationDecks.length}</span>
-            <span class="stat-label">Decks Oficiales</span>
+            <span class="stat-num">${fmtNumber(presentationDecks.length)}</span>
+            <span class="stat-label">${t("presentations.officialDecks")}</span>
           </div>
           <div class="stat-metric-pill">
-            <span class="stat-num" style="color: var(--c-purple);">180</span>
-            <span class="stat-label">Slides Visuales</span>
+            <span class="stat-num" style="color: var(--c-purple);">${fmtNumber(180)}</span>
+            <span class="stat-label">${t("presentations.visualSlides")}</span>
           </div>
         </div>
       </div>
@@ -57,7 +67,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
         </div>
 
         <div style="position: relative; width: 320px;">
-          <input type="text" id="deck-search-input" placeholder="Buscar presentación o tema..." value="${searchQuery}" style="width: 100%; padding: 8px 12px 8px 34px; border-radius: var(--radius-s); border: 1px solid var(--border-medium); background: var(--bg-surface); color: var(--text-primary); font-size: 0.82rem; outline: none;">
+          <input type="text" id="deck-search-input" placeholder="${t("presentations.searchPlaceholder")}" value="${searchQuery}" style="width: 100%; padding: 8px 12px 8px 34px; border-radius: var(--radius-s); border: 1px solid var(--border-medium); background: var(--bg-surface); color: var(--text-primary); font-size: 0.82rem; outline: none;">
           <span style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--text-muted); display: flex;">${icons.search}</span>
         </div>
       </div>
@@ -69,7 +79,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
             <div>
               <div class="unit-card-top">
                 <span class="unit-ref-badge">${deck.sectionRef}</span>
-                <span class="unit-duration-pill">10 Diapositivas</span>
+                <span class="unit-duration-pill">${t("presentations.slidesPill", { count: fmtNumber(10) })}</span>
               </div>
 
               <span style="font-size: 0.72rem; font-weight: 700; color: var(--text-tertiary); display: block; margin-bottom: 4px;">
@@ -82,10 +92,10 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
 
             <div class="unit-card-footer">
               <span class="unit-status-indicator">
-                Formato 16:9 • Notas del Expositor
+                ${t("presentations.deckFormat")}
               </span>
               <button class="btn-primary-pro start-deck-btn" data-deck-id="${deck.id}">
-                Ver presentación ${icons.arrowRight}
+                ${t("presentations.viewDeck")} ${icons.arrowRight}
               </button>
             </div>
           </div>
@@ -154,12 +164,12 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
 
             <div style="display: flex; align-items: center; gap: 8px;">
               <span style="font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700; color: var(--c-blue); background: var(--bg-surface-subtle); padding: 4px 10px; border-radius: var(--radius-xs);">
-                Lámina ${currentSlideIdx + 1} de ${activeDeck.slides.length}
+                ${t("presentations.slideCounter", { current: fmtNumber(currentSlideIdx + 1), total: fmtNumber(activeDeck.slides.length) })}
               </span>
-              <button class="icon-square-btn" id="toggle-notes-btn" title="Mostrar / Ocultar notas del expositor">
+              <button class="icon-square-btn" id="toggle-notes-btn" title="${t("presentations.toggleNotes")}">
                 ${icons.book}
               </button>
-              <button class="icon-square-btn" id="close-deck-btn" title="Cerrar presentación">
+              <button class="icon-square-btn" id="close-deck-btn" title="${t("presentations.closeDeck")}">
                 ${icons.x}
               </button>
             </div>
@@ -173,7 +183,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
             ${showNotes && slide.speakerNotes ? `
               <div style="margin-top: 24px; padding: 12px 16px; border-radius: var(--radius-s); background: var(--bg-surface-subtle); border-left: 3px solid var(--c-purple); font-size: 0.84rem; color: var(--text-secondary); line-height: 1.5;">
                 <strong style="color: var(--text-primary); font-size: 0.72rem; display: block; margin-bottom: 2px;">
-                  Notas del Expositor / Fundamento Oficial:
+                  ${t("presentations.speakerNotes")}
                 </strong>
                 ${slide.speakerNotes}
               </div>
@@ -194,15 +204,15 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
             <!-- Navigation Buttons -->
             <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
               <button class="action-chip-btn" id="prev-slide-btn" ${currentSlideIdx === 0 ? 'disabled style="opacity: 0.4; pointer-events: none;"' : ''}>
-                ${icons.arrowLeft} Diapositiva anterior
+                ${icons.arrowLeft} ${t("presentations.prevSlide")}
               </button>
 
               <span style="font-size: 0.76rem; color: var(--text-muted);">
-                Usa las teclas de flecha ← y → del teclado
+                ${t("presentations.keyboardHint")}
               </span>
 
               <button class="btn-primary-pro" id="next-slide-btn">
-                ${currentSlideIdx === activeDeck.slides.length - 1 ? 'Finalizar presentación' : 'Siguiente diapositiva ' + icons.arrowRight}
+                ${currentSlideIdx === activeDeck.slides.length - 1 ? t("presentations.finishDeck") : t("presentations.nextSlide") + ' ' + icons.arrowRight}
               </button>
             </div>
           </div>
@@ -407,7 +417,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
               <div class="itto-col">
                 <h5 style="color: var(--c-purple);">${slide.toolsTitle}</h5>
                 <ul>
-                  ${slide.tools.map(t => `<li>${t}</li>`).join('')}
+                  ${slide.tools.map(tool => `<li>${tool}</li>`).join('')}
                 </ul>
               </div>
 
@@ -453,7 +463,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 16px;">${slide.title}</h2>
 
             <div style="background: var(--c-amber-subtle); border: 1px solid var(--c-amber-border); border-radius: var(--radius-s); padding: 18px; margin-bottom: 14px;">
-              <strong style="font-size: 0.84rem; color: #B45309; display: block; margin-bottom: 4px;">Escenario Situacional:</strong>
+              <strong style="font-size: 0.84rem; color: #B45309; display: block; margin-bottom: 4px;">${t("presentations.scenario")}</strong>
               <p style="font-size: 0.94rem; line-height: 1.5; color: var(--text-primary);">${slide.trapScenario}</p>
             </div>
 
@@ -468,7 +478,7 @@ export function renderPresentationsPro(containerEl, modalBackdropEl) {
             </div>
 
             <div style="font-size: 0.8rem; font-style: italic; color: var(--text-tertiary);">
-              Referencia: ${slide.citation}
+              ${t("presentations.reference")} ${slide.citation}
             </div>
           </div>
         `;

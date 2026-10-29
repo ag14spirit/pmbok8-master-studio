@@ -1,6 +1,317 @@
 
 (function() {
   'use strict';
+  const LOCALE = 'es';
+  const strings = {
+  common: {
+    close: "Cerrar ventana",
+  },
+  hub: {
+    partBadge1: "Parte 1 · El Estándar ANSI/PMI",
+    partBadge2: "Parte 2 · La Guía del PMBOK®",
+    partBadge3: "Parte 3 · Apéndices Especializados",
+    partDescFallback: "Eje fundamental del conocimiento oficial para la dirección de proyectos y preparación PMP.",
+    unitDescFallback: "Fundamento oficial del PMBOK 8va edición para la gestión efectiva de proyectos.",
+    heroTitle: "Ruta Maestra de Estudio • PMBOK® 8va Edición",
+    heroText: "Programa oficial completo alineado al estándar ANSI/PMI 99-001-2025. Incluye los 6 principios rectores, los 7 dominios de desempeño, los 40 procesos y los nuevos apéndices de IA y PMO.",
+    unitsMastered: "Unidades Dominadas",
+    globalProgress: "Progreso Global",
+    durationLessons: "{time} min • {count} lecciones",
+    moreLessons: "+{count} lecciones más",
+    mastered: "Dominada",
+    pending: "Pendiente",
+    slidesHint: "Ver las 10 diapositivas visuales de este tema",
+    slides: "Diapositivas",
+    review: "Repasar",
+    study: "Estudiar",
+    officialDesc: "Descripción Oficial del Tema • PMBOK® 8",
+    sectionLabel: "Sección {section}",
+    minutes: "{n} min",
+    standardLessons: "Lecciones del Estándar ({count})",
+    examTip: "Tip de Examen:",
+    checkpoint: "Punto de Control Situacional PMP",
+    validationQ: "Pregunta Oficial de Validación",
+    viewSlides: "Ver 10 diapositivas de este tema",
+    unitMastered: "Unidad dominada",
+    markMastered: "Marcar unidad como dominada",
+    correctAnswer: "Respuesta Correcta:",
+    wrongAnswer: "Respuesta Incorrecta:",
+  },
+  tour: {
+    stepCounter: "Paso {current} de {total}",
+    closeBtnTitle: "Cerrar guía",
+    detailsHeading: "Qué estás viendo en esta pantalla:",
+    finishGuideBtn: "Finalizar guía",
+    prevBtn: "Anterior",
+    nextBtn: "Siguiente",
+    startStudyBtn: "¡Comenzar estudio!",
+    step1Title: "Paso 1: Ruta Maestra de Estudio",
+    step1Badge: "Currículo en 18 Unidades",
+    step1Lead: "Estás viendo la pantalla principal de estudio dividida en las 3 grandes partes oficiales del libro.",
+    step1Detail1: "Parte 1: El Estándar para la Dirección de Proyectos (Fundamentos, Sistema de Entrega y los 6 Principios).",
+    step1Detail2: "Parte 2: La Guía del PMBOK (Los 7 Dominios de Desempeño, Adaptación y Catálogo de Modelos).",
+    step1Detail3: "Parte 3: Apéndices Oficiales (IA en Proyectos, PMO Moderna, Adquisiciones y Evolución Histórica).",
+    step1Detail4: "Haz clic en cualquier tarjeta de unidad para desplegar su teoría, trampas de examen PMP y puntos de control.",
+    step2Title: "Paso 2: Matriz de los 40 Procesos",
+    step2Badge: "Modelo Matricial 2D",
+    step2Lead: "Observa la tabla en pantalla: cruza los 7 Dominios de Desempeño (filas) con las 5 Áreas de Enfoque (columnas).",
+    step2Detail1: "Cada celda contiene los procesos activos de esa intersección (ej. #01 Iniciar Proyecto).",
+    step2Detail2: "Haz clic sobre cualquier proceso para ver su ficha técnica completa de Entradas, Herramientas y Salidas (ITTOs).",
+    step2Detail3: "Usa los botones superiores para cambiar entre Vista Matriz 2D, Vista por Dominio o el Explorador universal de ITTOs.",
+    step3Title: "Paso 3: Presentaciones Oficiales",
+    step3Badge: "18 Decks • 180 Diapositivas",
+    step3Lead: "Aquí dispones de una presentación ejecutiva visual de 10 láminas para cada punto del índice oficial.",
+    step3Detail1: "18 Decks interactivos en formato 16:9 organizados por Parte 1, Parte 2 y Parte 3.",
+    step3Detail2: "Cada diapositiva incluye diagramas de flujo, comparativas de enfoque ágil vs predictivo y alertas PMP.",
+    step3Detail3: "Haz clic en 'Ver Presentación' en cualquier tarjeta para abrir el visor con soporte de teclado (flechas ← y →) y notas del orador.",
+    step4Title: "Paso 4: Laboratorio de Valor Ganado (EVM)",
+    step4Badge: "Tabla 5-1 de Fórmulas Oficiales",
+    step4Lead: "Este es el simulador financiero para dominar las fórmulas matemáticas del examen PMP.",
+    step4Detail1: "Gráfica interactiva de la Curva S que proyecta en tiempo real PV, EV, AC y el presupuesto BAC.",
+    step4Detail2: "Mueve los controles deslizantes a la izquierda para simular situaciones de sobrecosto o retraso.",
+    step4Detail3: "Revisa al instante los indicadores CPI, SPI, CV, SV, EAC y el índice de esfuerzo por completar TCPI.",
+    step5Title: "Paso 5: Simulador de Examen PMP / CAPM",
+    step5Badge: "Banco de Juicio Situacional",
+    step5Lead: "Entrena con preguntas situacionales reales calibradas al nivel de dificultad del examen oficial.",
+    step5Detail1: "3 modalidades de práctica: Rápido (10 preguntas), Estándar (20 preguntas) y Extensivo (banco completo).",
+    step5Detail2: "Incluye cronómetro regresivo, marcado de preguntas con bandera y revisión detallada.",
+    step5Detail3: "Al finalizar, recibirás tu porcentaje de acierto frente al umbral de 75% con citas textuales del PMBOK 8.",
+    step6Title: "Paso 6: Flashcards & Glosario",
+    step6Badge: "Memoria Activa & Diccionario",
+    step6Lead: "Refuerza tu retención conceptual con tarjetas interactivas 3D y búsqueda instantánea.",
+    step6Detail1: "Modo Flashcards: Haz clic en la tarjeta para voltearla y evaluar tu nivel de dominio (Difícil, Regular, Dominado).",
+    step6Detail2: "Modo Diccionario: Búsqueda rápida de cualquier término oficial del glosario filtrado por categoría temática.",
+    step7Title: "Paso 7: Apéndices Especializados",
+    step7Badge: "Nuevas Fronteras del PMBOK 8",
+    step7Lead: "Análisis exhaustivo de los 4 apéndices modernos que incorporó la 8va edición de la Guía.",
+    step7Detail1: "Apéndice X3: Inteligencia Artificial en Proyectos (Automatización, Aumento, Autonomía y Gobernanza Ética).",
+    step7Detail2: "Apéndice X2: La Oficina de Gestión de Proyectos (PMO) y su transformación en habilitadora de valor (VMO).",
+    step7Detail3: "Apéndice X4: Adquisiciones y contratos comerciales (Precio Fijo, Costos Reembolsables y T&M).",
+    step7Detail4: "Apéndice X5: Evolución Histórica de la Guía desde su primera edición.",
+  },
+  evm: {
+    heroTitle: "Laboratorio Interactivo de Valor Ganado (EVM) • PMBOK® 8",
+    heroDesc: "Simulador analítico basado estrictamente en la <strong>Tabla 5-1 de Fórmulas Oficiales</strong> de la 8va edición. Modifica las 4 variables base o selecciona un escenario preconfigurado para evaluar las decisiones gerenciales en tiempo real.",
+    cpiShortLabel: "Eficiencia Costo (CPI)",
+    spiShortLabel: "Eficiencia Tiempo (SPI)",
+    presetsLabel: "Escenarios de Simulación Rápida:",
+    presetHealthy: "Proyecto Saludable",
+    presetOverbudget: "Alerta de Sobrecosto",
+    presetBehind: "Alerta de Retraso",
+    presetCrisis: "Crisis Integral",
+    presetPerfect: "Máxima Eficiencia",
+    inputsTitle: "Variables Fundamentales del Proyecto",
+    inputsSubtitle: "Ajusta los valores con los controles deslizantes",
+    bacTitle: "BAC · Presupuesto a la Conclusión",
+    bacDesc: "Presupuesto total autorizado por el Patrocinador",
+    pvTitle: "PV · Valor Planificado a la Fecha",
+    pvDesc: "Presupuesto del trabajo que según cronograma debería estar listo",
+    evTitle: "EV · Valor Ganado Real",
+    evDesc: "Valor presupuestado del trabajo físicamente completado",
+    acTitle: "AC · Costo Real Incurrido",
+    acDesc: "Dinero efectivamente gastado y contabilizado a la fecha",
+    costHealthy: "Saludable",
+    costCritical: "Sobrecosto crítico",
+    costModerate: "Sobrecosto moderado",
+    costHealthyMsg: "Bajo control. Por cada $1.00 gastado, el proyecto entrega ${cpi} de valor tangible.",
+    costSevereMsg: "Sobrecosto severo. Por cada $1.00 gastado, el proyecto solo entrega ${cpi} de valor. Estás perdiendo {cents} centavos por dólar.",
+    costModerateMsg: "Alerta presupuestaria. El costo real supera al valor ganado en ${amount}.",
+    scheduleOnTime: "A tiempo / adelantado",
+    scheduleSevere: "Retraso severo",
+    scheduleModerate: "Retraso moderado",
+    scheduleOnTimeMsg: "Ritmo óptimo. El equipo avanza al {pct}% de la velocidad prevista en la línea base.",
+    scheduleSevereMsg: "Retraso crítico. El proyecto avanza al {pct}% del ritmo planificado (un {delay}% de retraso en entregables).",
+    scheduleModerateMsg: "Desvío temporal de ${amount} en entregables que debieron haberse completado a la fecha.",
+    pmpExcellent: "<strong>Proyecto en Excelente Estado:</strong> Tanto el presupuesto como el cronograma están bajo control. En el examen PMP, la respuesta correcta es mantener el plan de gestión, continuar el monitoreo periódico y registrar las buenas prácticas en los activos de procesos (OPAs).",
+    pmpSavingsDelay: "<strong>Proyecto con Ahorro pero con Retraso:</strong> Dispones de holgura financiera positiva (CPI > 1). En el examen PMP, este es el candidato ideal para <em>Crashing</em> (compresión de cronograma mediante horas extras o recursos adicionales), ya que cuentas con presupuesto de sobra para absorber el sobrecosto de acelerar tareas de la ruta crítica.",
+    pmpOverrunOnTime: "<strong>Proyecto a Tiempo pero con Sobrecosto:</strong> El proyecto avanza al ritmo programado pero gastando más de la cuenta. En el examen PMP, <strong>nunca</strong> apliques <em>Crashing</em> en este escenario. Considera optimizar recursos, renegociar contratos de compras o aplicar <em>Fast Tracking</em> si no genera costos adicionales.",
+    pmpCrisis: "<strong>Crisis Integral (Sobrecosto y Retraso):</strong> La situación más crítica en la gestión de proyectos. En el examen PMP, la acción inmediata del director de proyecto es convocar al Patrocinador y al Comité de Control de Cambios (CCB), realizar un análisis de causa raíz y evaluar una nueva línea base o reducción de alcance.",
+    cpiName: "Índice de Rendimiento del Costo",
+    spiName: "Índice de Rendimiento del Cronograma",
+    formulasTitle: "Compendio de Fórmulas Oficiales • PMBOK 8 Tabla 5-1",
+    cvLabel: "Variación de Costo (CV = EV - AC)",
+    svLabel: "Variación de Cronograma (SV = EV - PV)",
+    eacLabel: "Costo Final Estimado (EAC = BAC / CPI)",
+    etcLabel: "Estimación para Terminar (ETC = EAC - AC)",
+    vacLabel: "Variación a la Conclusión (VAC = BAC - EAC)",
+    tcpiLabel: "Esfuerzo Requerido (TCPI a BAC)",
+    cvUnder: "Bajo Presupuesto",
+    cvOver: "Sobrecosto Acumulado",
+    svAhead: "Adelantado",
+    svBehind: "Retraso Físico",
+    eacSub: "Pronóstico Final si se mantiene este ritmo",
+    etcSub: "Capital restante necesario para finalizar",
+    vacSurplus: "Superávit Final",
+    vacDeficit: "Déficit presupuestario final",
+    tcpiFeasible: "Factible sin estrés",
+    tcpiAccelerate: "Requiere aceleración de eficiencia",
+    pmpBadge: "Criterio Situacional PMP",
+    pmpTitle: "Diagnóstico y Toma de Decisiones",
+  },
+  appendices: {
+    heroTitle: "Nuevas Fronteras y Apéndices • PMBOK® 8",
+    heroDesc: "Análisis exhaustivo de los 4 apéndices especializados: Inteligencia Artificial en Proyectos (X3), La PMO Moderna (X2), Gestión de Adquisiciones (X4) y Evolución Histórica de la Guía (X5).",
+    tabX3: "Apéndice X3: IA en Proyectos",
+    tabX2: "Apéndice X2: PMO Moderna",
+    tabX4: "Apéndice X4: Adquisiciones",
+    tabX5: "Apéndice X5: Evolución Histórica",
+    officialStudy: "Estudio Especializado Oficial",
+  },
+  presentations: {
+    catAll: "Todas las Presentaciones ({count})",
+    catPart1: "Parte 1: Estándar ({count})",
+    catPart2: "Parte 2: Guía PMBOK ({count})",
+    catPart3: "Parte 3: Apéndices ({count})",
+    heroTitle: "Presentaciones Oficiales por Tema • PMBOK® 8",
+    heroText: "Diapositivas ejecutivas interactivas para cada una de las {units} unidades del índice oficial. Cada presentación incluye {slides} láminas visuales con fundamentos teóricos, diagramas de flujo, ITTOs, comparativas ágiles y trampas de examen PMP.",
+    officialDecks: "Decks Oficiales",
+    visualSlides: "Slides Visuales",
+    searchPlaceholder: "Buscar presentación o tema...",
+    slidesPill: "{count} Diapositivas",
+    deckFormat: "Formato 16:9 • Notas del Expositor",
+    viewDeck: "Ver presentación",
+    toggleNotes: "Mostrar / Ocultar notas del expositor",
+    closeDeck: "Cerrar presentación",
+    slideCounter: "Lámina {current} de {total}",
+    prevSlide: "Diapositiva anterior",
+    keyboardHint: "Usa las teclas de flecha ← y → del teclado",
+    finishDeck: "Finalizar presentación",
+    nextSlide: "Siguiente diapositiva",
+    speakerNotes: "Notas del Expositor / Fundamento Oficial:",
+    scenario: "Escenario Situacional:",
+    reference: "Referencia:",
+  },
+  app: {
+    progressMastered: "{pct}% Dominado",
+    darkModeOn: "Modo Oscuro activado",
+    lightModeOn: "Modo Claro activado",
+    audioOn: "Audio activado",
+    audioOff: "Audio silenciado",
+  },
+  exam: {
+    heroTitle: "Simulador Oficial de Examen PMP / CAPM",
+    heroText: "Banco exhaustivo de preguntas de juicio profesional situacional alineadas estrictamente a los 7 dominios y 6 principios del PMBOK® 8va Edición.",
+    passThreshold: "Umbral de Aprobación",
+    quickBadge: "Modalidad ágil",
+    durationCount: "{minutes} minutos · {count} preguntas",
+    durationAll: "{minutes} minutos · Banco completo",
+    quickTitle: "Simulacro rápido",
+    quickSummary: "10 preguntas situacionales aleatorias de alta frecuencia. Ideal para una sesión ágil de práctica diaria y calibración de conceptos.",
+    quickStatus: "Todos los dominios",
+    startExam: "Iniciar examen",
+    standardBadge: "Modalidad estándar",
+    standardTitle: "Simulacro estándar",
+    standardSummary: "20 preguntas situacionales equilibradas entre ciclos predictivos, ágiles e híbridos según el Exam Content Outline (ECO).",
+    standardStatus: "Cobertura completa",
+    extensiveBadge: "Modalidad extensiva",
+    extensiveTitle: "Simulacro extensivo PMP",
+    extensiveSummary: "Todas las preguntas del banco oficial sin interrupciones para medir tu resistencia mental y concentración bajo presión de tiempo real.",
+    extensiveStatus: "Resistencia mental",
+    exitExam: "Salir del examen",
+    submit: "Entregar examen ({answered}/{total})",
+    questionOf: "Pregunta {current} de {total}",
+    markReview: "Marcar para revisión",
+    prev: "Anterior",
+    next: "Siguiente",
+    reviewAndSubmit: "Revisar y entregar",
+    confirmExit: "¿Deseas salir del examen? Se descartarán tus respuestas.",
+    verdictPass: "Nivel de Certificación: Competente",
+    verdictFail: "Resultado Insuficiente",
+    scoreSummary: "Has respondido correctamente {correct} de {total} preguntas. El umbral para aprobar el examen oficial es de 75%.",
+    retake: "Tomar otro simulacro",
+    reviewTitle: "Revisión Detallada de Respuestas:",
+    questionHash: "Pregunta #{n}",
+    correct: "Correcta",
+    incorrect: "Incorrecta",
+    yourAnswer: "Tu respuesta:",
+    unanswered: "Sin responder",
+    correctAnswer: "Respuesta correcta:",
+    basis: "Fundamento PMBOK 8:",
+  },
+  flash: {
+    heroTitle: "Glosario y Tarjetas de Memoria Activa",
+    heroText: "Entrena tu retención conceptual con tarjetas interactivas de repetición espaciada o explora el diccionario oficial de terminología del PMBOK® 8va Edición.",
+    modeFlashcards: "Modo Flashcards ({count})",
+    modeGlossary: "Diccionario de Términos",
+    cardOf: "Tarjeta {current} de {total}",
+    clickToFlip: "Haz clic en la tarjeta para voltear",
+    officialDef: "Definición Oficial PMBOK® 8",
+    clickToBack: "Clic para volver al término",
+    hard: "Difícil",
+    medium: "Regular",
+    mastered: "Dominado",
+    searchPlaceholder: "Buscar por término o definición...",
+    allCategories: "Todos",
+  },
+  matrix: {
+    heroTitle: "Matriz y Arquitectura de los 40 Procesos • PMBOK® 8",
+    heroIntro: "En la 8va edición, los procesos no son etapas de cascada, sino un modelo matricial de capacidades. Las filas representan los 7 Dominios de Desempeño y las columnas representan las 5 Áreas de Enfoque.",
+    filteredLabel: "Procesos Filtrados",
+    explanationTitle: "Estructura Matricial Bidimensional:",
+    explanationText: "Haz clic en cualquier proceso para abrir su ficha técnica oficial con {ittos}, pautas de adaptación y trampas de examen PMP.",
+    ittosLabel: "Entradas, Herramientas, Salidas (ITTOs)",
+    viewMatrix: "Vista Matriz 2D",
+    viewByDomain: "Vista por Dominio (7)",
+    viewByFocus: "Vista por Área de Enfoque (5)",
+    viewItto: "Explorador de ITTOs",
+    searchPlaceholder: "Buscar proceso, entrada, técnica o salida...",
+    allDomains: "Todos los Dominios (40)",
+    domainHeader: "Dominio de Desempeño",
+    sectionBadge: "Sección {section}",
+    domainSection: "Sección {section} • {count} procesos",
+    cellTitle: "Ver ITTOs de #{number}: {name}",
+    chapter: "Capítulo 2.{number}",
+    processesBadge: "{count} Procesos",
+    keyDeliverable: "Entregable clave: {deliverable}",
+    explorerTitle: "Explorador Exhaustivo de Entradas, Herramientas y Salidas (ITTOs)",
+    explorerDesc: "Auditoría de extremo a extremo del flujo de información en los 40 procesos del PMBOK® 8.",
+    inputs: "Entradas (Inputs)",
+    tools: "Herramientas & Técnicas",
+    outputs: "Salidas (Outputs)",
+    processBadge: "Proceso #{number}",
+    closeWindow: "Cerrar ventana",
+    officialPurpose: "Propósito Oficial PMBOK 8:",
+    domainLabel: "Dominio:",
+    focusAreaLabel: "Área de Enfoque:",
+    tailoringTitle: "Pautas de Adaptación (Tailoring):",
+    examTrapTitle: "Trampa Común de Examen PMP:",
+    closeCard: "Cerrar Ficha",
+  },
+  shell: {
+    brandTitle: "PMBOK 8va Edición Master Studio",
+    docTitle: "PMBOK® 8 Master Studio • Estándar Oficial & Preparación PMP",
+    navLabel: "Navegación por módulos",
+    guide: "Guía de la Plataforma",
+    guideTitle: "Iniciar tutorial interactivo de la plataforma",
+    progressTitle: "Tu progreso en las 18 unidades",
+    progressZero: "0% Dominado",
+    soundTitle: "Activar / Silenciar audio",
+    themeTitle: "Alternar Modo Oscuro / Claro",
+    langTitle: "Switch language / Cambiar idioma",
+    tabCurriculum: "Ruta de Estudio",
+    tabMatrix: "40 Procesos (ITTO)",
+    tabPresentations: "Presentaciones (18 temas)",
+    tabEvm: "Laboratorio EVM",
+    tabSimulator: "Simulador PMP",
+    tabFlashcards: "Flashcards & Glosario",
+    tabAppendices: "Apéndices (IA & PMO)",
+  },
+};
+
+  // Runtime translation helpers. `strings` and `LOCALE` are provided by the
+// locale bundle (see bundle-pro.mjs), so this file has no imports.
+
+function t(key, vars = {}) {
+  const value = key.split(".").reduce((node, part) => (node ? node[part] : undefined), strings);
+  if (typeof value !== "string") return key;
+  return value.replace(/\{(\w+)\}/g, (_, name) => (name in vars ? vars[name] : `{${name}}`));
+}
+
+function fmtNumber(n) {
+  return n.toLocaleString(LOCALE === "en" ? "en-US" : "es-ES");
+}
+
+
   // PMBOK 8th Edition Complete Curriculum Structure
 const curriculum = {
   "title": "PMBOK® Guide - 8va Edición (ANSI/PMI 99-001-2025)",
@@ -7823,6 +8134,7 @@ const audio = new AudioManager();
 
 
 
+
 class LearningHub {
   constructor(containerEl, modalBackdropEl, onProgressUpdate) {
     this.container = containerEl;
@@ -7848,29 +8160,29 @@ class LearningHub {
     const progressPercent = Math.round((completedCount / totalUnits) * 100);
 
     const partBadges = [
-      "Parte 1 · El Estándar ANSI/PMI",
-      "Parte 2 · La Guía del PMBOK®",
-      "Parte 3 · Apéndices Especializados"
+      t("hub.partBadge1"),
+      t("hub.partBadge2"),
+      t("hub.partBadge3")
     ];
 
     this.container.innerHTML = `
       <!-- Hero Header -->
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Ruta Maestra de Estudio • PMBOK® 8va Edición</h1>
+          <h1>${t("hub.heroTitle")}</h1>
           <p>
-            Programa oficial completo alineado al estándar ANSI/PMI 99-001-2025. Incluye los 6 principios rectores, los 7 dominios de desempeño, los 40 procesos y los nuevos apéndices de IA y PMO.
+            ${t("hub.heroText")}
           </p>
         </div>
 
         <div class="hero-stats-row">
           <div class="stat-metric-pill">
             <span class="stat-num">${completedCount}/${totalUnits}</span>
-            <span class="stat-label">Unidades Dominadas</span>
+            <span class="stat-label">${t("hub.unitsMastered")}</span>
           </div>
           <div class="stat-metric-pill">
             <span class="stat-num" style="color: var(--c-teal);">${progressPercent}%</span>
-            <span class="stat-label">Progreso Global</span>
+            <span class="stat-label">${t("hub.globalProgress")}</span>
           </div>
         </div>
       </div>
@@ -7884,7 +8196,7 @@ class LearningHub {
                 ${partBadges[pIdx]}
               </span>
               <h2 class="part-title">${part.title}</h2>
-              <p class="part-description">${part.description || 'Eje fundamental del conocimiento oficial para la dirección de proyectos y preparación PMP.'}</p>
+              <p class="part-description">${part.description || t("hub.partDescFallback")}</p>
             </div>
 
             <div class="units-grid">
@@ -7892,14 +8204,14 @@ class LearningHub {
                 const isDone = this.completedUnits.has(unit.id);
                 const lessonsCount = unit.lessons ? unit.lessons.length : 0;
                 const estTime = unit.lessons ? unit.lessons.reduce((acc, l) => acc + (l.timeMin || 5), 0) : 15;
-                const descText = unit.description || 'Fundamento oficial del PMBOK 8va edición para la gestión efectiva de proyectos.';
+                const descText = unit.description || t("hub.unitDescFallback");
 
                 return `
                   <div class="unit-card-pro ${isDone ? 'is-done' : ''}" data-unit-id="${unit.id}">
                     <div>
                       <div class="unit-card-top">
                         <span class="unit-ref-badge">${unit.sectionRef}</span>
-                        <span class="unit-duration-pill">${estTime} min • ${lessonsCount} lecciones</span>
+                        <span class="unit-duration-pill">${t("hub.durationLessons", { time: estTime, count: lessonsCount })}</span>
                       </div>
 
                       <h3 class="unit-title">${unit.title}</h3>
@@ -7915,7 +8227,7 @@ class LearningHub {
                             </div>
                           `).join('')}
                           ${unit.lessons.length > 3 ? `
-                            <div class="lesson-bullet-more">+${unit.lessons.length - 3} lecciones más</div>
+                            <div class="lesson-bullet-more">${t("hub.moreLessons", { count: unit.lessons.length - 3 })}</div>
                           ` : ''}
                         </div>
                       ` : ''}
@@ -7923,15 +8235,15 @@ class LearningHub {
 
                     <div class="unit-card-footer">
                       <span class="unit-status-indicator ${isDone ? 'done' : ''}">
-                        ${isDone ? '<span class="status-icon-done">' + icons.check + '</span> Dominada' : '<span class="status-icon-pending"></span> Pendiente'}
+                        ${isDone ? '<span class="status-icon-done">' + icons.check + '</span> ' + t("hub.mastered") : '<span class="status-icon-pending"></span> ' + t("hub.pending")}
                       </span>
 
                       <div style="display: flex; gap: 8px;">
-                        <button class="unit-slides-btn" data-unit-id="${unit.id}" title="Ver las 10 diapositivas visuales de este tema">
-                          Diapositivas
+                        <button class="unit-slides-btn" data-unit-id="${unit.id}" title="${t("hub.slidesHint")}">
+                          ${t("hub.slides")}
                         </button>
                         <button class="btn-primary-pro unit-study-btn" data-unit-id="${unit.id}">
-                          ${isDone ? 'Repasar' : 'Estudiar'} ${icons.arrowRight}
+                          ${isDone ? t("hub.review") : t("hub.study")} ${icons.arrowRight}
                         </button>
                       </div>
                     </div>
@@ -8002,7 +8314,7 @@ class LearningHub {
             <span class="brand-tag">${targetUnit.sectionRef}</span>
             <h3 style="font-size: 1.15rem; font-weight: 800; color: var(--text-primary);">${targetUnit.title}</h3>
           </div>
-          <button class="icon-square-btn" id="close-lesson-x" title="Cerrar ventana">
+          <button class="icon-square-btn" id="close-lesson-x" title="${t("common.close")}">
             ${icons.x}
           </button>
         </div>
@@ -8011,7 +8323,7 @@ class LearningHub {
           <!-- Unit Overview -->
           <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 18px 20px; margin-bottom: 20px;">
             <span style="font-size: 0.72rem; font-weight: 700; color: var(--c-blue); display: block; margin-bottom: 6px;">
-              Descripción Oficial del Tema • PMBOK® 8
+              ${t("hub.officialDesc")}
             </span>
             <p style="font-size: 0.98rem; line-height: 1.6; color: var(--text-primary);">
               ${targetUnit.description}
@@ -8022,17 +8334,17 @@ class LearningHub {
           ${targetUnit.lessons && targetUnit.lessons.length > 0 ? `
             <div style="margin-bottom: 24px;">
               <h4 style="font-size: 0.82rem; font-weight: 700; color: var(--text-tertiary); margin-bottom: 12px;">
-                Lecciones del Estándar (${targetUnit.lessons.length})
+                ${t("hub.standardLessons", { count: targetUnit.lessons.length })}
               </h4>
               <div style="display: flex; flex-direction: column; gap: 12px;">
                 ${targetUnit.lessons.map((les, lIdx) => `
                   <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-s); padding: 16px;">
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
                       <span style="font-size: 0.75rem; font-family: var(--font-mono); font-weight: 700; color: var(--c-blue); background: var(--c-blue-subtle); padding: 2px 7px; border-radius: var(--radius-xs);">
-                        Sección ${les.section}
+                        ${t("hub.sectionLabel", { section: les.section })}
                       </span>
                       <strong style="font-size: 0.96rem; color: var(--text-primary); flex: 1; margin-left: 10px;">${les.title}</strong>
-                      <span style="font-size: 0.75rem; color: var(--text-tertiary); font-weight: 600;">${les.timeMin || 5} min</span>
+                      <span style="font-size: 0.75rem; color: var(--text-tertiary); font-weight: 600;">${t("hub.minutes", { n: les.timeMin || 5 })}</span>
                     </div>
 
                     <p style="font-size: 0.88rem; line-height: 1.5; color: var(--text-secondary); margin-bottom: 10px;">
@@ -8047,7 +8359,7 @@ class LearningHub {
 
                     ${les.examTip ? `
                       <div style="background: var(--c-amber-subtle); border-left: 3px solid var(--c-amber); padding: 8px 12px; border-radius: var(--radius-xs); font-size: 0.8rem; color: #78350F; line-height: 1.4;">
-                        <strong>Tip de Examen:</strong> ${les.examTip}
+                        <strong>${t("hub.examTip")}</strong> ${les.examTip}
                       </div>
                     ` : ''}
                   </div>
@@ -8060,10 +8372,10 @@ class LearningHub {
           <div style="border-top: 1px solid var(--border-subtle); padding-top: 20px;">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
               <span style="font-size: 0.75rem; font-weight: 700; color: var(--c-blue); ">
-                Punto de Control Situacional PMP
+                ${t("hub.checkpoint")}
               </span>
               <span style="font-size: 0.75rem; color: var(--text-tertiary); font-weight: 600;">
-                Pregunta Oficial de Validación
+                ${t("hub.validationQ")}
               </span>
             </div>
 
@@ -8089,11 +8401,11 @@ class LearningHub {
 
         <div class="modal-window-footer" style="justify-content: space-between;">
           <button class="btn-flat-soft-indigo" id="open-slides-from-modal-btn">
-            Ver 10 diapositivas de este tema ${icons.arrowRight}
+            ${t("hub.viewSlides")} ${icons.arrowRight}
           </button>
 
           <button class="${isDone ? 'btn-teal-pro' : 'btn-primary-pro'}" id="finish-lesson-btn">
-            ${isDone ? 'Unidad dominada' : 'Marcar unidad como dominada'}
+            ${isDone ? t("hub.unitMastered") : t("hub.markMastered")}
           </button>
         </div>
       </div>
@@ -8138,7 +8450,7 @@ class LearningHub {
           row.style.background = "var(--c-teal-subtle)";
           fbBox.innerHTML = `
             <div style="background: var(--c-teal-subtle); border-left: 3px solid var(--c-teal); padding: 12px 16px; border-radius: var(--radius-s); font-size: 0.85rem; color: var(--text-primary); line-height: 1.45;">
-              <strong style="color: var(--c-teal); display: block; margin-bottom: 2px;">Respuesta Correcta:</strong>
+              <strong style="color: var(--c-teal); display: block; margin-bottom: 2px;">${t("hub.correctAnswer")}</strong>
               ${q.explanation}
             </div>
           `;
@@ -8148,7 +8460,7 @@ class LearningHub {
           row.style.background = "var(--c-rose-subtle)";
           fbBox.innerHTML = `
             <div style="background: var(--c-rose-subtle); border-left: 3px solid var(--c-rose); padding: 12px 16px; border-radius: var(--radius-s); font-size: 0.85rem; color: var(--text-primary); line-height: 1.45;">
-              <strong style="color: var(--c-rose); display: block; margin-bottom: 2px;">Respuesta Incorrecta:</strong>
+              <strong style="color: var(--c-rose); display: block; margin-bottom: 2px;">${t("hub.wrongAnswer")}</strong>
               ${q.explanation}
             </div>
           `;
@@ -8168,18 +8480,19 @@ class LearningHub {
 }
 
   
+// Keyed by the English domain name (domainEn / nameEn), so colors do not depend on the display language.
 const domainColorPalette = {
-  gobernanza: { color: "#2563EB", bg: "#EFF6FF", border: "#BFDBFE" },
-  alcance: { color: "#059669", bg: "#ECFDF5", border: "#A7F3D0" },
-  cronograma: { color: "#D97706", bg: "#FFFBEB", border: "#FDE68A" },
-  finanzas: { color: "#7C3AED", bg: "#F5F3FF", border: "#DDD6FE" },
-  interesados: { color: "#E11D48", bg: "#FFF1F2", border: "#FECDD3" },
-  recursos: { color: "#0284C7", bg: "#F0F9FF", border: "#BAE6FD" },
-  riesgo: { color: "#DC2626", bg: "#FEF2F2", border: "#FECACA" }
+  governance: { color: "#2563EB", bg: "#EFF6FF", border: "#BFDBFE" },
+  scope: { color: "#059669", bg: "#ECFDF5", border: "#A7F3D0" },
+  schedule: { color: "#D97706", bg: "#FFFBEB", border: "#FDE68A" },
+  finance: { color: "#7C3AED", bg: "#F5F3FF", border: "#DDD6FE" },
+  stakeholders: { color: "#E11D48", bg: "#FFF1F2", border: "#FECDD3" },
+  resources: { color: "#0284C7", bg: "#F0F9FF", border: "#BAE6FD" },
+  risk: { color: "#DC2626", bg: "#FEF2F2", border: "#FECACA" }
 };
 
-function getDomColor(name) {
-  const n = (name || "").toLowerCase();
+function getDomColor(nameEn) {
+  const n = (nameEn || "").toLowerCase();
   for (const k of Object.keys(domainColorPalette)) {
     if (n.includes(k)) return domainColorPalette[k];
   }
@@ -8192,66 +8505,77 @@ function getDomColor(name) {
 
 
 
+
 function renderProcessMatrixPro(containerEl, modalBackdropEl) {
   let viewMode = "matrix"; // "matrix" | "by-domain" | "by-focus" | "ittos"
   let searchQuery = "";
+  // Language-independent domain key: "all" or the domain's index in performanceDomains (as a string).
   let activeDomain = "all";
 
-  const matchDomain = (pDomain, dName) => dName.toLowerCase().includes(pDomain.toLowerCase());
-  const matchFocusArea = (pFocus, faName) => faName.toLowerCase().includes(pFocus.toLowerCase());
+  // All matching uses English keys (p.domainEn / p.focusAreaEn vs d.nameEn / fa.nameEn), never localized labels.
+  const matchDomain = (pDomainEn, dNameEn) => dNameEn.toLowerCase().includes(pDomainEn.toLowerCase());
+  const matchFocusArea = (pFocusEn, faNameEn) => faNameEn.toLowerCase().includes(pFocusEn.toLowerCase());
+
+  // Display-only helper (Spanish label for the UI). Not used for matching.
+  const shortDomainName = (d) => d.name.replace("Dominio de ", "");
+  // Key of the domain a process belongs to (index in performanceDomains). Never uses a display label.
+  const domainKeyOfProcess = (p) =>
+    String(performanceDomains.findIndex(d => matchDomain(p.domainEn, d.nameEn)));
+  const isDomainSelected = (d) =>
+    activeDomain === "all" || activeDomain === String(performanceDomains.indexOf(d));
 
   const render = () => {
     const filteredProcesses = processes.filter(p =>
-      (activeDomain === "all" || p.domain.toLowerCase() === activeDomain.toLowerCase()) &&
+      (activeDomain === "all" || domainKeyOfProcess(p) === activeDomain) &&
       (searchQuery === "" ||
        p.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
        p.purpose.toLowerCase().includes(searchQuery.toLowerCase()) ||
        (p.inputs || []).some(i => i.toLowerCase().includes(searchQuery.toLowerCase())) ||
-       (p.tools || []).some(t => t.toLowerCase().includes(searchQuery.toLowerCase())) ||
+       (p.tools || []).some(tool => tool.toLowerCase().includes(searchQuery.toLowerCase())) ||
        (p.outputs || []).some(o => o.toLowerCase().includes(searchQuery.toLowerCase())))
     );
 
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Matriz y Arquitectura de los 40 Procesos • PMBOK® 8</h1>
+          <h1>${t("matrix.heroTitle")}</h1>
           <p>
-            En la 8va edición, los procesos no son etapas de cascada, sino un modelo matricial de capacidades. Las filas representan los 7 Dominios de Desempeño y las columnas representan las 5 Áreas de Enfoque.
+            ${t("matrix.heroIntro")}
           </p>
         </div>
 
         <div class="hero-stats-row">
           <div class="stat-metric-pill">
-            <span class="stat-num">${filteredProcesses.length}/40</span>
-            <span class="stat-label">Procesos Filtrados</span>
+            <span class="stat-num">${fmtNumber(filteredProcesses.length)}/40</span>
+            <span class="stat-label">${t("matrix.filteredLabel")}</span>
           </div>
         </div>
       </div>
 
       <!-- Explanation Banner -->
       <div class="matrix-explanation-banner">
-        <strong>Estructura Matricial Bidimensional:</strong> Haz clic en cualquier proceso para abrir su ficha técnica oficial con <strong>Entradas, Herramientas, Salidas (ITTOs)</strong>, pautas de adaptación y trampas de examen PMP.
+        <strong>${t("matrix.explanationTitle")}</strong> ${t("matrix.explanationText", { ittos: `<strong>${t("matrix.ittosLabel")}</strong>` })}
       </div>
 
       <!-- View Switcher & Toolbar -->
       <div class="matrix-toolbar-row">
         <div class="matrix-view-switcher">
           <button class="matrix-view-btn ${viewMode === 'matrix' ? 'active' : ''}" data-view="matrix">
-            Vista Matriz 2D
+            ${t("matrix.viewMatrix")}
           </button>
           <button class="matrix-view-btn ${viewMode === 'by-domain' ? 'active' : ''}" data-view="by-domain">
-            Vista por Dominio (7)
+            ${t("matrix.viewByDomain")}
           </button>
           <button class="matrix-view-btn ${viewMode === 'by-focus' ? 'active' : ''}" data-view="by-focus">
-            Vista por Área de Enfoque (5)
+            ${t("matrix.viewByFocus")}
           </button>
           <button class="matrix-view-btn ${viewMode === 'ittos' ? 'active' : ''}" data-view="ittos">
-            Explorador de ITTOs
+            ${t("matrix.viewItto")}
           </button>
         </div>
 
         <div class="matrix-search-box">
-          <input type="text" id="matrix-search-input" placeholder="Buscar proceso, entrada, técnica o salida..." value="${searchQuery}">
+          <input type="text" id="matrix-search-input" placeholder="${t("matrix.searchPlaceholder")}" value="${searchQuery}">
           <span class="matrix-search-icon">${icons.search}</span>
         </div>
       </div>
@@ -8259,14 +8583,14 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
       <!-- Domain filter chips -->
       <div class="domain-chips-row">
         <button class="action-chip-btn ${activeDomain === 'all' ? 'active' : ''}" data-domain="all">
-          Todos los Dominios (40)
+          ${t("matrix.allDomains")}
         </button>
-        ${performanceDomains.map(d => {
-          const shortName = d.name.replace("Dominio de ", "");
-          const isAct = activeDomain.toLowerCase() === shortName.toLowerCase();
-          const dCol = getDomColor(shortName);
+        ${performanceDomains.map((d, i) => {
+          const shortName = shortDomainName(d);
+          const isAct = activeDomain === String(i);
+          const dCol = getDomColor(d.nameEn);
           return `
-            <button class="action-chip-btn ${isAct ? 'active' : ''}" data-domain="${shortName}" style="${isAct ? `background: ${dCol.color}; color: #ffffff; border-color: ${dCol.color};` : `border-color: ${dCol.border};`}">
+            <button class="action-chip-btn ${isAct ? 'active' : ''}" data-domain="${i}" style="${isAct ? `background: ${dCol.color}; color: #ffffff; border-color: ${dCol.color};` : `border-color: ${dCol.border};`}">
               <span style="display:inline-block; width:8px; height:8px; border-radius:50%; background: ${isAct ? '#ffffff' : dCol.color}; flex-shrink:0;"></span>
               ${shortName} (${d.processesCount})
             </button>
@@ -8331,19 +8655,17 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
 
   // Subview 1: 2D Matrix Grid
   const render2DMatrix = (area, pList) => {
-    const visibleDomains = performanceDomains.filter(d =>
-      activeDomain === "all" || d.name.toLowerCase().includes(activeDomain.toLowerCase())
-    );
+    const visibleDomains = performanceDomains.filter(isDomainSelected);
 
     area.innerHTML = `
       <div class="matrix-table-card">
         <table class="matrix-grid-table">
           <thead>
             <tr>
-              <th class="matrix-corner-th">Dominio de Desempeño</th>
+              <th class="matrix-corner-th">${t("matrix.domainHeader")}</th>
               ${focusAreas.map(fa => `
                 <th class="matrix-col-th">
-                  <span class="fa-sec-badge">Sección ${fa.section}</span>
+                  <span class="fa-sec-badge">${t("matrix.sectionBadge", { section: fa.section })}</span>
                   <span class="fa-name-title">${fa.name.replace("Área de Enfoque de ", "")}</span>
                 </th>
               `).join('')}
@@ -8352,14 +8674,14 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
           <tbody>
             ${visibleDomains.map(d => `
               <tr>
-                <td class="domain-header-cell" style="border-left: 4px solid ${getDomColor(d.name).color};">
-                  <span class="domain-name-tag" style="color: ${getDomColor(d.name).color};">${d.name.replace("Dominio de ", "")}</span>
-                  <span class="domain-section-tag">Sección ${d.section} • ${d.processesCount} procesos</span>
+                <td class="domain-header-cell" style="border-left: 4px solid ${getDomColor(d.nameEn).color};">
+                  <span class="domain-name-tag" style="color: ${getDomColor(d.nameEn).color};">${shortDomainName(d)}</span>
+                  <span class="domain-section-tag">${t("matrix.domainSection", { section: d.section, count: d.processesCount })}</span>
                 </td>
                 ${focusAreas.map(fa => {
                   const cellProcs = pList.filter(p =>
-                    matchDomain(p.domain, d.name) &&
-                    matchFocusArea(p.focusArea, fa.name)
+                    matchDomain(p.domainEn, d.nameEn) &&
+                    matchFocusArea(p.focusAreaEn, fa.nameEn)
                   );
 
                   return `
@@ -8367,8 +8689,8 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
                       ${cellProcs.length > 0 ? `
                         <div class="matrix-cell-procs-stack">
                           ${cellProcs.map(p => `
-                            <div class="process-cell-card" data-pid="${p.id}" style="border-left: 3px solid ${getDomColor(p.domain).color};" title="Ver ITTOs de #${p.number}: ${p.name}">
-                              <span class="process-cell-num" style="color: ${getDomColor(p.domain).color};">#${p.number.toString().padStart(2, '0')}</span>
+                            <div class="process-cell-card" data-pid="${p.id}" style="border-left: 3px solid ${getDomColor(p.domainEn).color};" title="${t("matrix.cellTitle", { number: p.number, name: p.name })}">
+                              <span class="process-cell-num" style="color: ${getDomColor(p.domainEn).color};">#${p.number.toString().padStart(2, '0')}</span>
                               <span class="process-cell-title">${p.name}</span>
                             </div>
                           `).join('')}
@@ -8387,23 +8709,21 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
 
   // Subview 2: Grouped by Performance Domain
   const renderByDomain = (area, pList) => {
-    const visibleDomains = performanceDomains.filter(d =>
-      activeDomain === "all" || d.name.toLowerCase().includes(activeDomain.toLowerCase())
-    );
+    const visibleDomains = performanceDomains.filter(isDomainSelected);
 
     area.innerHTML = `
       <div style="display: flex; flex-direction: column; gap: 20px;">
         ${visibleDomains.map(d => {
-          const dProcs = pList.filter(p => matchDomain(p.domain, d.name));
+          const dProcs = pList.filter(p => matchDomain(p.domainEn, d.nameEn));
           return `
             <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 22px;">
               <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; border-bottom: 1px solid var(--border-subtle); padding-bottom: 12px;">
                 <div>
-                  <span style="font-family: var(--font-mono); font-size: 0.72rem; color: var(--c-blue); font-weight: 700;">Capítulo 2.${d.number}</span>
+                  <span style="font-family: var(--font-mono); font-size: 0.72rem; color: var(--c-blue); font-weight: 700;">${t("matrix.chapter", { number: d.number })}</span>
                   <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--text-primary); margin-top: 2px;">${d.name}</h3>
                   <p style="font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px; max-width: 800px;">${d.summary}</p>
                 </div>
-                <span class="action-chip-btn">${dProcs.length} Procesos</span>
+                <span class="action-chip-btn">${t("matrix.processesBadge", { count: dProcs.length })}</span>
               </div>
 
               <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; margin-top: 14px;">
@@ -8429,17 +8749,17 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
     area.innerHTML = `
       <div style="display: flex; flex-direction: column; gap: 20px;">
         ${focusAreas.map(fa => {
-          const faProcs = pList.filter(p => matchFocusArea(p.focusArea, fa.name));
+          const faProcs = pList.filter(p => matchFocusArea(p.focusAreaEn, fa.nameEn));
           return `
             <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 22px;">
               <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; border-bottom: 1px solid var(--border-subtle); padding-bottom: 12px;">
                 <div>
-                  <span style="font-family: var(--font-mono); font-size: 0.72rem; color: var(--c-teal); font-weight: 700;">Sección ${fa.section}</span>
+                  <span style="font-family: var(--font-mono); font-size: 0.72rem; color: var(--c-teal); font-weight: 700;">${t("matrix.sectionBadge", { section: fa.section })}</span>
                   <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--text-primary); margin-top: 2px;">${fa.name}</h3>
                   <p style="font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px; max-width: 800px;">${fa.summary}</p>
-                  <div style="font-size: 0.82rem; color: var(--c-teal); font-weight: 600; margin-top: 6px;">Entregable clave: ${fa.keyDeliverable}</div>
+                  <div style="font-size: 0.82rem; color: var(--c-teal); font-weight: 600; margin-top: 6px;">${t("matrix.keyDeliverable", { deliverable: fa.keyDeliverable })}</div>
                 </div>
-                <span class="action-chip-btn">${faProcs.length} Procesos</span>
+                <span class="action-chip-btn">${t("matrix.processesBadge", { count: faProcs.length })}</span>
               </div>
 
               <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; margin-top: 14px;">
@@ -8464,9 +8784,9 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
   const renderITTOExplorer = (area, pList) => {
     area.innerHTML = `
       <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 24px;">
-        <h3 style="font-size: 1.15rem; font-weight: 800; margin-bottom: 6px;">Explorador Exhaustivo de Entradas, Herramientas y Salidas (ITTOs)</h3>
+        <h3 style="font-size: 1.15rem; font-weight: 800; margin-bottom: 6px;">${t("matrix.explorerTitle")}</h3>
         <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 20px;">
-          Auditoría de extremo a extremo del flujo de información en los 40 procesos del PMBOK® 8.
+          ${t("matrix.explorerDesc")}
         </p>
 
         <div style="display: flex; flex-direction: column; gap: 16px;">
@@ -8482,21 +8802,21 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
 
               <div class="itto-grid">
                 <div class="itto-col">
-                  <h5 style="color: var(--c-blue);">Entradas (Inputs)</h5>
+                  <h5 style="color: var(--c-blue);">${t("matrix.inputs")}</h5>
                   <ul>
                     ${(p.inputs || []).map(i => `<li>${i}</li>`).join('')}
                   </ul>
                 </div>
 
                 <div class="itto-col">
-                  <h5 style="color: var(--c-purple);">Herramientas & Técnicas</h5>
+                  <h5 style="color: var(--c-purple);">${t("matrix.tools")}</h5>
                   <ul>
-                    ${(p.tools || []).map(t => `<li>${t}</li>`).join('')}
+                    ${(p.tools || []).map(tool => `<li>${tool}</li>`).join('')}
                   </ul>
                 </div>
 
                 <div class="itto-col">
-                  <h5 style="color: var(--c-teal);">Salidas (Outputs)</h5>
+                  <h5 style="color: var(--c-teal);">${t("matrix.outputs")}</h5>
                   <ul>
                     ${(p.outputs || []).map(o => `<li>${o}</li>`).join('')}
                   </ul>
@@ -8515,46 +8835,46 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
       <div class="modal-window-card">
         <div class="modal-window-header">
           <div style="display: flex; align-items: center; gap: 10px;">
-            <span class="brand-tag">Proceso #${p.number.toString().padStart(2, '0')}</span>
+            <span class="brand-tag">${t("matrix.processBadge", { number: p.number.toString().padStart(2, '0') })}</span>
             <h3 style="font-size: 1.15rem; font-weight: 800;">${p.name}</h3>
           </div>
-          <button class="icon-square-btn" id="close-proc-modal-btn" title="Cerrar ventana">
+          <button class="icon-square-btn" id="close-proc-modal-btn" title="${t("matrix.closeWindow")}">
             ${icons.x}
           </button>
         </div>
 
         <div class="modal-window-body">
           <div style="background: var(--bg-surface-subtle); padding: 18px 20px; border-radius: var(--radius-s); border-left: 3px solid var(--c-blue); margin-bottom: 16px;">
-            <span style="font-size: 0.72rem; font-weight: 700; color: var(--c-blue); ">Propósito Oficial PMBOK 8:</span>
+            <span style="font-size: 0.72rem; font-weight: 700; color: var(--c-blue); ">${t("matrix.officialPurpose")}</span>
             <p style="font-size: 0.98rem; line-height: 1.55; margin-top: 4px; color: var(--text-primary);">
               ${p.purpose}
             </p>
           </div>
 
           <div style="display: flex; gap: 12px; font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 16px;">
-            <span>Dominio: <strong style="color: var(--text-primary);">${p.domain}</strong></span>
+            <span>${t("matrix.domainLabel")} <strong style="color: var(--text-primary);">${p.domain}</strong></span>
             <span>•</span>
-            <span>Área de Enfoque: <strong style="color: var(--text-primary);">${p.focusArea}</strong></span>
+            <span>${t("matrix.focusAreaLabel")} <strong style="color: var(--text-primary);">${p.focusArea}</strong></span>
           </div>
 
           <!-- ITTOs Grid -->
           <div class="itto-grid">
             <div class="itto-col">
-              <h5 style="color: var(--c-blue);">Entradas (Inputs)</h5>
+              <h5 style="color: var(--c-blue);">${t("matrix.inputs")}</h5>
               <ul>
                 ${(p.inputs || []).map(i => `<li>${i}</li>`).join('')}
               </ul>
             </div>
 
             <div class="itto-col">
-              <h5 style="color: var(--c-purple);">Herramientas & Técnicas</h5>
+              <h5 style="color: var(--c-purple);">${t("matrix.tools")}</h5>
               <ul>
-                ${(p.tools || []).map(t => `<li>${t}</li>`).join('')}
+                ${(p.tools || []).map(tool => `<li>${tool}</li>`).join('')}
               </ul>
             </div>
 
             <div class="itto-col">
-              <h5 style="color: var(--c-teal);">Salidas (Outputs)</h5>
+              <h5 style="color: var(--c-teal);">${t("matrix.outputs")}</h5>
               <ul>
                 ${(p.outputs || []).map(o => `<li>${o}</li>`).join('')}
               </ul>
@@ -8562,18 +8882,18 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
           </div>
 
           <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 16px; margin-top: 16px;">
-            <strong style="font-size: 0.84rem; color: var(--text-primary); display: block; margin-bottom: 4px;">Pautas de Adaptación (Tailoring):</strong>
+            <strong style="font-size: 0.84rem; color: var(--text-primary); display: block; margin-bottom: 4px;">${t("matrix.tailoringTitle")}</strong>
             <p style="font-size: 0.86rem; line-height: 1.5; color: var(--text-secondary);">${p.tailoring}</p>
           </div>
 
           <div style="background: var(--c-amber-subtle); border: 1px solid var(--c-amber-border); border-radius: var(--radius-s); padding: 16px; margin-top: 14px;">
-            <strong style="font-size: 0.84rem; color: #B45309; display: block; margin-bottom: 4px;">Trampa Común de Examen PMP:</strong>
+            <strong style="font-size: 0.84rem; color: #B45309; display: block; margin-bottom: 4px;">${t("matrix.examTrapTitle")}</strong>
             <p style="font-size: 0.86rem; line-height: 1.5; color: var(--text-primary);">${p.examTip}</p>
           </div>
         </div>
 
         <div class="modal-window-footer">
-          <button class="action-chip-btn" id="modal-close-bottom-btn">Cerrar Ficha</button>
+          <button class="action-chip-btn" id="modal-close-bottom-btn">${t("matrix.closeCard")}</button>
         </div>
       </div>
     `;
@@ -8592,6 +8912,16 @@ function renderProcessMatrixPro(containerEl, modalBackdropEl) {
 
 
 
+
+// Stable part key derived from the deck's unitId (unit-1..unit-18), so the
+// filter does not depend on the translated `category` label.
+const partIdOf = (deck) => {
+  const n = parseInt(deck.unitId.split("-")[1], 10);
+  if (n <= 4) return "part1";
+  if (n <= 14) return "part2";
+  return "part3";
+};
+
 function renderPresentationsPro(containerEl, modalBackdropEl) {
   let activeCategory = "all";
   let searchQuery = "";
@@ -8600,15 +8930,15 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
   let showNotes = true;
 
   const categories = [
-    { id: "all", label: "Todas las Presentaciones (18)" },
-    { id: "Parte 1", label: "Parte 1: Estándar (4)" },
-    { id: "Parte 2", label: "Parte 2: Guía PMBOK (10)" },
-    { id: "Parte 3", label: "Parte 3: Apéndices (4)" }
+    { id: "all", label: t("presentations.catAll", { count: fmtNumber(18) }) },
+    { id: "part1", label: t("presentations.catPart1", { count: fmtNumber(4) }) },
+    { id: "part2", label: t("presentations.catPart2", { count: fmtNumber(10) }) },
+    { id: "part3", label: t("presentations.catPart3", { count: fmtNumber(4) }) }
   ];
 
   const render = () => {
     const filteredDecks = presentationDecks.filter(d =>
-      (activeCategory === "all" || d.category.includes(activeCategory)) &&
+      (activeCategory === "all" || partIdOf(d) === activeCategory) &&
       (searchQuery === "" ||
        d.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
        d.summary.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -8618,20 +8948,20 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Presentaciones Oficiales por Tema • PMBOK® 8</h1>
+          <h1>${t("presentations.heroTitle")}</h1>
           <p>
-            Diapositivas ejecutivas interactivas para cada una de las 18 unidades del índice oficial. Cada presentación incluye 10 láminas visuales con fundamentos teóricos, diagramas de flujo, ITTOs, comparativas ágiles y trampas de examen PMP.
+            ${t("presentations.heroText", { units: fmtNumber(18), slides: fmtNumber(10) })}
           </p>
         </div>
 
         <div class="hero-stats-row">
           <div class="stat-metric-pill">
-            <span class="stat-num">${presentationDecks.length}</span>
-            <span class="stat-label">Decks Oficiales</span>
+            <span class="stat-num">${fmtNumber(presentationDecks.length)}</span>
+            <span class="stat-label">${t("presentations.officialDecks")}</span>
           </div>
           <div class="stat-metric-pill">
-            <span class="stat-num" style="color: var(--c-purple);">180</span>
-            <span class="stat-label">Slides Visuales</span>
+            <span class="stat-num" style="color: var(--c-purple);">${fmtNumber(180)}</span>
+            <span class="stat-label">${t("presentations.visualSlides")}</span>
           </div>
         </div>
       </div>
@@ -8647,7 +8977,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
         </div>
 
         <div style="position: relative; width: 320px;">
-          <input type="text" id="deck-search-input" placeholder="Buscar presentación o tema..." value="${searchQuery}" style="width: 100%; padding: 8px 12px 8px 34px; border-radius: var(--radius-s); border: 1px solid var(--border-medium); background: var(--bg-surface); color: var(--text-primary); font-size: 0.82rem; outline: none;">
+          <input type="text" id="deck-search-input" placeholder="${t("presentations.searchPlaceholder")}" value="${searchQuery}" style="width: 100%; padding: 8px 12px 8px 34px; border-radius: var(--radius-s); border: 1px solid var(--border-medium); background: var(--bg-surface); color: var(--text-primary); font-size: 0.82rem; outline: none;">
           <span style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--text-muted); display: flex;">${icons.search}</span>
         </div>
       </div>
@@ -8659,7 +8989,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
             <div>
               <div class="unit-card-top">
                 <span class="unit-ref-badge">${deck.sectionRef}</span>
-                <span class="unit-duration-pill">10 Diapositivas</span>
+                <span class="unit-duration-pill">${t("presentations.slidesPill", { count: fmtNumber(10) })}</span>
               </div>
 
               <span style="font-size: 0.72rem; font-weight: 700; color: var(--text-tertiary); display: block; margin-bottom: 4px;">
@@ -8672,10 +9002,10 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
 
             <div class="unit-card-footer">
               <span class="unit-status-indicator">
-                Formato 16:9 • Notas del Expositor
+                ${t("presentations.deckFormat")}
               </span>
               <button class="btn-primary-pro start-deck-btn" data-deck-id="${deck.id}">
-                Ver presentación ${icons.arrowRight}
+                ${t("presentations.viewDeck")} ${icons.arrowRight}
               </button>
             </div>
           </div>
@@ -8744,12 +9074,12 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
 
             <div style="display: flex; align-items: center; gap: 8px;">
               <span style="font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700; color: var(--c-blue); background: var(--bg-surface-subtle); padding: 4px 10px; border-radius: var(--radius-xs);">
-                Lámina ${currentSlideIdx + 1} de ${activeDeck.slides.length}
+                ${t("presentations.slideCounter", { current: fmtNumber(currentSlideIdx + 1), total: fmtNumber(activeDeck.slides.length) })}
               </span>
-              <button class="icon-square-btn" id="toggle-notes-btn" title="Mostrar / Ocultar notas del expositor">
+              <button class="icon-square-btn" id="toggle-notes-btn" title="${t("presentations.toggleNotes")}">
                 ${icons.book}
               </button>
-              <button class="icon-square-btn" id="close-deck-btn" title="Cerrar presentación">
+              <button class="icon-square-btn" id="close-deck-btn" title="${t("presentations.closeDeck")}">
                 ${icons.x}
               </button>
             </div>
@@ -8763,7 +9093,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
             ${showNotes && slide.speakerNotes ? `
               <div style="margin-top: 24px; padding: 12px 16px; border-radius: var(--radius-s); background: var(--bg-surface-subtle); border-left: 3px solid var(--c-purple); font-size: 0.84rem; color: var(--text-secondary); line-height: 1.5;">
                 <strong style="color: var(--text-primary); font-size: 0.72rem; display: block; margin-bottom: 2px;">
-                  Notas del Expositor / Fundamento Oficial:
+                  ${t("presentations.speakerNotes")}
                 </strong>
                 ${slide.speakerNotes}
               </div>
@@ -8784,15 +9114,15 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
             <!-- Navigation Buttons -->
             <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
               <button class="action-chip-btn" id="prev-slide-btn" ${currentSlideIdx === 0 ? 'disabled style="opacity: 0.4; pointer-events: none;"' : ''}>
-                ${icons.arrowLeft} Diapositiva anterior
+                ${icons.arrowLeft} ${t("presentations.prevSlide")}
               </button>
 
               <span style="font-size: 0.76rem; color: var(--text-muted);">
-                Usa las teclas de flecha ← y → del teclado
+                ${t("presentations.keyboardHint")}
               </span>
 
               <button class="btn-primary-pro" id="next-slide-btn">
-                ${currentSlideIdx === activeDeck.slides.length - 1 ? 'Finalizar presentación' : 'Siguiente diapositiva ' + icons.arrowRight}
+                ${currentSlideIdx === activeDeck.slides.length - 1 ? t("presentations.finishDeck") : t("presentations.nextSlide") + ' ' + icons.arrowRight}
               </button>
             </div>
           </div>
@@ -8997,7 +9327,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
               <div class="itto-col">
                 <h5 style="color: var(--c-purple);">${slide.toolsTitle}</h5>
                 <ul>
-                  ${slide.tools.map(t => `<li>${t}</li>`).join('')}
+                  ${slide.tools.map(tool => `<li>${tool}</li>`).join('')}
                 </ul>
               </div>
 
@@ -9043,7 +9373,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
             <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 16px;">${slide.title}</h2>
 
             <div style="background: var(--c-amber-subtle); border: 1px solid var(--c-amber-border); border-radius: var(--radius-s); padding: 18px; margin-bottom: 14px;">
-              <strong style="font-size: 0.84rem; color: #B45309; display: block; margin-bottom: 4px;">Escenario Situacional:</strong>
+              <strong style="font-size: 0.84rem; color: #B45309; display: block; margin-bottom: 4px;">${t("presentations.scenario")}</strong>
               <p style="font-size: 0.94rem; line-height: 1.5; color: var(--text-primary);">${slide.trapScenario}</p>
             </div>
 
@@ -9058,7 +9388,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
             </div>
 
             <div style="font-size: 0.8rem; font-style: italic; color: var(--text-tertiary);">
-              Referencia: ${slide.citation}
+              ${t("presentations.reference")} ${slide.citation}
             </div>
           </div>
         `;
@@ -9093,6 +9423,7 @@ function renderPresentationsPro(containerEl, modalBackdropEl) {
   
 
 
+
 function renderEVMLabPro(containerEl) {
   // Base State Variables
   let BAC = 100000; // Presupuesto Total Autorizado
@@ -9112,59 +9443,59 @@ function renderEVMLabPro(containerEl) {
 
     // Health interpretation
     let costHealth = {
-      status: "Saludable",
+      status: t("evm.costHealthy"),
       badgeColor: "var(--c-teal)",
       badgeBg: "var(--c-teal-subtle)",
-      message: `Bajo control. Por cada $1.00 gastado, el proyecto entrega $${CPI.toFixed(2)} de valor tangible.`
+      message: t("evm.costHealthyMsg", { cpi: CPI.toFixed(2) })
     };
     if (CPI < 0.90) {
       costHealth = {
-        status: "Sobrecosto crítico",
+        status: t("evm.costCritical"),
         badgeColor: "var(--c-rose)",
         badgeBg: "var(--c-rose-subtle)",
-        message: `Sobrecosto severo. Por cada $1.00 gastado, el proyecto solo entrega $${CPI.toFixed(2)} de valor. Estás perdiendo ${(100 - CPI * 100).toFixed(0)} centavos por dólar.`
+        message: t("evm.costSevereMsg", { cpi: CPI.toFixed(2), cents: (100 - CPI * 100).toFixed(0) })
       };
     } else if (CPI < 1.0) {
       costHealth = {
-        status: "Sobrecosto moderado",
+        status: t("evm.costModerate"),
         badgeColor: "var(--c-amber)",
         badgeBg: "var(--c-amber-subtle)",
-        message: `Alerta presupuestaria. El costo real supera al valor ganado en $${Math.abs(CV).toLocaleString()}.`
+        message: t("evm.costModerateMsg", { amount: fmtNumber(Math.abs(CV)) })
       };
     }
 
     let scheduleHealth = {
-      status: "A tiempo / adelantado",
+      status: t("evm.scheduleOnTime"),
       badgeColor: "var(--c-teal)",
       badgeBg: "var(--c-teal-subtle)",
-      message: `Ritmo óptimo. El equipo avanza al ${(SPI * 100).toFixed(0)}% de la velocidad prevista en la línea base.`
+      message: t("evm.scheduleOnTimeMsg", { pct: (SPI * 100).toFixed(0) })
     };
     if (SPI < 0.90) {
       scheduleHealth = {
-        status: "Retraso severo",
+        status: t("evm.scheduleSevere"),
         badgeColor: "var(--c-rose)",
         badgeBg: "var(--c-rose-subtle)",
-        message: `Retraso crítico. El proyecto avanza al ${(SPI * 100).toFixed(0)}% del ritmo planificado (un ${(100 - SPI * 100).toFixed(0)}% de retraso en entregables).`
+        message: t("evm.scheduleSevereMsg", { pct: (SPI * 100).toFixed(0), delay: (100 - SPI * 100).toFixed(0) })
       };
     } else if (SPI < 1.0) {
       scheduleHealth = {
-        status: "Retraso moderado",
+        status: t("evm.scheduleModerate"),
         badgeColor: "var(--c-amber)",
         badgeBg: "var(--c-amber-subtle)",
-        message: `Desvío temporal de $${Math.abs(SV).toLocaleString()} en entregables que debieron haberse completado a la fecha.`
+        message: t("evm.scheduleModerateMsg", { amount: fmtNumber(Math.abs(SV)) })
       };
     }
 
     // PMP Strategic Decision recommendation
     let pmpAdvice = "";
     if (CPI >= 1 && SPI >= 1) {
-      pmpAdvice = "<strong>Proyecto en Excelente Estado:</strong> Tanto el presupuesto como el cronograma están bajo control. En el examen PMP, la respuesta correcta es mantener el plan de gestión, continuar el monitoreo periódico y registrar las buenas prácticas en los activos de procesos (OPAs).";
+      pmpAdvice = t("evm.pmpExcellent");
     } else if (CPI >= 1 && SPI < 1) {
-      pmpAdvice = "<strong>Proyecto con Ahorro pero con Retraso:</strong> Dispones de holgura financiera positiva (CPI > 1). En el examen PMP, este es el candidato ideal para <em>Crashing</em> (compresión de cronograma mediante horas extras o recursos adicionales), ya que cuentas con presupuesto de sobra para absorber el sobrecosto de acelerar tareas de la ruta crítica.";
+      pmpAdvice = t("evm.pmpSavingsDelay");
     } else if (CPI < 1 && SPI >= 1) {
-      pmpAdvice = "<strong>Proyecto a Tiempo pero con Sobrecosto:</strong> El proyecto avanza al ritmo programado pero gastando más de la cuenta. En el examen PMP, <strong>nunca</strong> apliques <em>Crashing</em> en este escenario. Considera optimizar recursos, renegociar contratos de compras o aplicar <em>Fast Tracking</em> si no genera costos adicionales.";
+      pmpAdvice = t("evm.pmpOverrunOnTime");
     } else {
-      pmpAdvice = "<strong>Crisis Integral (Sobrecosto y Retraso):</strong> La situación más crítica en la gestión de proyectos. En el examen PMP, la acción inmediata del director de proyecto es convocar al Patrocinador y al Comité de Control de Cambios (CCB), realizar un análisis de causa raíz y evaluar una nueva línea base o reducción de alcance.";
+      pmpAdvice = t("evm.pmpCrisis");
     }
 
     return { CV, SV, CPI, SPI, EAC, ETC, VAC, TCPI, costHealth, scheduleHealth, pmpAdvice };
@@ -9176,33 +9507,33 @@ function renderEVMLabPro(containerEl) {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Laboratorio Interactivo de Valor Ganado (EVM) • PMBOK® 8</h1>
+          <h1>${t("evm.heroTitle")}</h1>
           <p>
-            Simulador analítico basado estrictamente en la <strong>Tabla 5-1 de Fórmulas Oficiales</strong> de la 8va edición. Modifica las 4 variables base o selecciona un escenario preconfigurado para evaluar las decisiones gerenciales en tiempo real.
+            ${t("evm.heroDesc")}
           </p>
         </div>
 
         <div class="hero-stats-row">
           <div class="stat-metric-pill">
             <span class="stat-num" style="color: ${r.costHealth.badgeColor};">${r.CPI.toFixed(2)}</span>
-            <span class="stat-label">Eficiencia Costo (CPI)</span>
+            <span class="stat-label">${t("evm.cpiShortLabel")}</span>
           </div>
           <div class="stat-metric-pill">
             <span class="stat-num" style="color: ${r.scheduleHealth.badgeColor};">${r.SPI.toFixed(2)}</span>
-            <span class="stat-label">Eficiencia Tiempo (SPI)</span>
+            <span class="stat-label">${t("evm.spiShortLabel")}</span>
           </div>
         </div>
       </div>
 
       <!-- Presets Toolbar -->
       <div class="evm-presets-bar">
-        <span class="evm-presets-label">Escenarios de Simulación Rápida:</span>
+        <span class="evm-presets-label">${t("evm.presetsLabel")}</span>
         <div class="evm-presets-group">
-          <button class="action-chip-btn" id="evm-btn-healthy">Proyecto Saludable</button>
-          <button class="action-chip-btn" id="evm-btn-overbudget">Alerta de Sobrecosto</button>
-          <button class="action-chip-btn" id="evm-btn-behind">Alerta de Retraso</button>
-          <button class="action-chip-btn" id="evm-btn-crisis">Crisis Integral</button>
-          <button class="action-chip-btn" id="evm-btn-perfect">Máxima Eficiencia</button>
+          <button class="action-chip-btn" id="evm-btn-healthy">${t("evm.presetHealthy")}</button>
+          <button class="action-chip-btn" id="evm-btn-overbudget">${t("evm.presetOverbudget")}</button>
+          <button class="action-chip-btn" id="evm-btn-behind">${t("evm.presetBehind")}</button>
+          <button class="action-chip-btn" id="evm-btn-crisis">${t("evm.presetCrisis")}</button>
+          <button class="action-chip-btn" id="evm-btn-perfect">${t("evm.presetPerfect")}</button>
         </div>
       </div>
 
@@ -9211,8 +9542,8 @@ function renderEVMLabPro(containerEl) {
         <!-- Left: 4 Fundamental Parameter Sliders -->
         <div class="evm-inputs-panel">
           <div class="evm-panel-header">
-            <h3>Variables Fundamentales del Proyecto</h3>
-            <span class="evm-panel-subtitle">Ajusta los valores con los controles deslizantes</span>
+            <h3>${t("evm.inputsTitle")}</h3>
+            <span class="evm-panel-subtitle">${t("evm.inputsSubtitle")}</span>
           </div>
 
           <div class="evm-sliders-stack">
@@ -9220,10 +9551,10 @@ function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">BAC · Presupuesto a la Conclusión</strong>
-                  <span class="evm-card-param-desc">Presupuesto total autorizado por el Patrocinador</span>
+                  <strong class="evm-card-param-title">${t("evm.bacTitle")}</strong>
+                  <span class="evm-card-param-desc">${t("evm.bacDesc")}</span>
                 </div>
-                <div class="evm-val-display" style="color: var(--c-blue);">$${BAC.toLocaleString()}</div>
+                <div class="evm-val-display" style="color: var(--c-blue);">$${fmtNumber(BAC)}</div>
               </div>
               <input type="range" class="evm-slider-control" id="sl-bac" min="20000" max="300000" step="5000" value="${BAC}">
               <div class="evm-slider-ticks">
@@ -9237,10 +9568,10 @@ function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">PV · Valor Planificado a la Fecha</strong>
-                  <span class="evm-card-param-desc">Presupuesto del trabajo que según cronograma debería estar listo</span>
+                  <strong class="evm-card-param-title">${t("evm.pvTitle")}</strong>
+                  <span class="evm-card-param-desc">${t("evm.pvDesc")}</span>
                 </div>
-                <div class="evm-val-display" style="color: var(--c-blue);">$${PV.toLocaleString()}</div>
+                <div class="evm-val-display" style="color: var(--c-blue);">$${fmtNumber(PV)}</div>
               </div>
               <input type="range" class="evm-slider-control" id="sl-pv" min="5000" max="${BAC}" step="2000" value="${PV}">
               <div class="evm-slider-ticks">
@@ -9254,10 +9585,10 @@ function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">EV · Valor Ganado Real</strong>
-                  <span class="evm-card-param-desc">Valor presupuestado del trabajo físicamente completado</span>
+                  <strong class="evm-card-param-title">${t("evm.evTitle")}</strong>
+                  <span class="evm-card-param-desc">${t("evm.evDesc")}</span>
                 </div>
-                <div class="evm-val-display" style="color: var(--c-teal);">$${EV.toLocaleString()}</div>
+                <div class="evm-val-display" style="color: var(--c-teal);">$${fmtNumber(EV)}</div>
               </div>
               <input type="range" class="evm-slider-control" id="sl-ev" min="2000" max="${BAC}" step="2000" value="${EV}">
               <div class="evm-slider-ticks">
@@ -9271,10 +9602,10 @@ function renderEVMLabPro(containerEl) {
             <div class="evm-input-card">
               <div class="evm-card-top-row">
                 <div>
-                  <strong class="evm-card-param-title">AC · Costo Real Incurrido</strong>
-                  <span class="evm-card-param-desc">Dinero efectivamente gastado y contabilizado a la fecha</span>
+                  <strong class="evm-card-param-title">${t("evm.acTitle")}</strong>
+                  <span class="evm-card-param-desc">${t("evm.acDesc")}</span>
                 </div>
-                <div class="evm-val-display" style="color: var(--c-rose);">$${AC.toLocaleString()}</div>
+                <div class="evm-val-display" style="color: var(--c-rose);">$${fmtNumber(AC)}</div>
               </div>
               <input type="range" class="evm-slider-control" id="sl-ac" min="2000" max="${Math.round(BAC * 1.4)}" step="2000" value="${AC}">
               <div class="evm-slider-ticks">
@@ -9301,7 +9632,7 @@ function renderEVMLabPro(containerEl) {
               <div class="metric-hero-value" style="color: ${r.costHealth.badgeColor};">
                 ${r.CPI.toFixed(2)}
               </div>
-              <span class="metric-hero-name">Índice de Rendimiento del Costo</span>
+              <span class="metric-hero-name">${t("evm.cpiName")}</span>
               <p class="metric-hero-desc">${r.costHealth.message}</p>
             </div>
 
@@ -9316,68 +9647,68 @@ function renderEVMLabPro(containerEl) {
               <div class="metric-hero-value" style="color: ${r.scheduleHealth.badgeColor};">
                 ${r.SPI.toFixed(2)}
               </div>
-              <span class="metric-hero-name">Índice de Rendimiento del Cronograma</span>
+              <span class="metric-hero-name">${t("evm.spiName")}</span>
               <p class="metric-hero-desc">${r.scheduleHealth.message}</p>
             </div>
           </div>
 
           <!-- Variances & Forecast Grid (Table 5-1 PMBOK 8) -->
           <div class="evm-formulas-matrix-card">
-            <h4 class="evm-matrix-title">Compendio de Fórmulas Oficiales • PMBOK 8 Tabla 5-1</h4>
+            <h4 class="evm-matrix-title">${t("evm.formulasTitle")}</h4>
 
             <div class="evm-matrix-grid">
               <!-- CV -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Variación de Costo (CV = EV - AC)</span>
+                <span class="formula-cell-label">${t("evm.cvLabel")}</span>
                 <div class="formula-cell-val" style="color: ${r.CV >= 0 ? 'var(--c-teal)' : 'var(--c-rose)'};">
-                  ${r.CV >= 0 ? '+' : ''}$${Math.round(r.CV).toLocaleString()}
+                  ${r.CV >= 0 ? '+' : ''}$${fmtNumber(Math.round(r.CV))}
                 </div>
-                <span class="formula-cell-sub">${r.CV >= 0 ? 'Bajo Presupuesto' : 'Sobrecosto Acumulado'}</span>
+                <span class="formula-cell-sub">${r.CV >= 0 ? t("evm.cvUnder") : t("evm.cvOver")}</span>
               </div>
 
               <!-- SV -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Variación de Cronograma (SV = EV - PV)</span>
+                <span class="formula-cell-label">${t("evm.svLabel")}</span>
                 <div class="formula-cell-val" style="color: ${r.SV >= 0 ? 'var(--c-teal)' : 'var(--c-rose)'};">
-                  ${r.SV >= 0 ? '+' : ''}$${Math.round(r.SV).toLocaleString()}
+                  ${r.SV >= 0 ? '+' : ''}$${fmtNumber(Math.round(r.SV))}
                 </div>
-                <span class="formula-cell-sub">${r.SV >= 0 ? 'Adelantado' : 'Retraso Físico'}</span>
+                <span class="formula-cell-sub">${r.SV >= 0 ? t("evm.svAhead") : t("evm.svBehind")}</span>
               </div>
 
               <!-- EAC -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Costo Final Estimado (EAC = BAC / CPI)</span>
+                <span class="formula-cell-label">${t("evm.eacLabel")}</span>
                 <div class="formula-cell-val" style="color: var(--text-primary);">
-                  $${Math.round(r.EAC).toLocaleString()}
+                  $${fmtNumber(Math.round(r.EAC))}
                 </div>
-                <span class="formula-cell-sub">Pronóstico Final si se mantiene este ritmo</span>
+                <span class="formula-cell-sub">${t("evm.eacSub")}</span>
               </div>
 
               <!-- ETC -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Estimación para Terminar (ETC = EAC - AC)</span>
+                <span class="formula-cell-label">${t("evm.etcLabel")}</span>
                 <div class="formula-cell-val" style="color: var(--text-primary);">
-                  $${Math.round(r.ETC).toLocaleString()}
+                  $${fmtNumber(Math.round(r.ETC))}
                 </div>
-                <span class="formula-cell-sub">Capital restante necesario para finalizar</span>
+                <span class="formula-cell-sub">${t("evm.etcSub")}</span>
               </div>
 
               <!-- VAC -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Variación a la Conclusión (VAC = BAC - EAC)</span>
+                <span class="formula-cell-label">${t("evm.vacLabel")}</span>
                 <div class="formula-cell-val" style="color: ${r.VAC >= 0 ? 'var(--c-teal)' : 'var(--c-rose)'};">
-                  ${r.VAC >= 0 ? '+' : ''}$${Math.round(r.VAC).toLocaleString()}
+                  ${r.VAC >= 0 ? '+' : ''}$${fmtNumber(Math.round(r.VAC))}
                 </div>
-                <span class="formula-cell-sub">${r.VAC >= 0 ? 'Superávit Final' : 'Déficit presupuestario final'}</span>
+                <span class="formula-cell-sub">${r.VAC >= 0 ? t("evm.vacSurplus") : t("evm.vacDeficit")}</span>
               </div>
 
               <!-- TCPI -->
               <div class="evm-formula-cell">
-                <span class="formula-cell-label">Esfuerzo Requerido (TCPI a BAC)</span>
+                <span class="formula-cell-label">${t("evm.tcpiLabel")}</span>
                 <div class="formula-cell-val" style="color: ${r.TCPI <= 1.05 ? 'var(--c-teal)' : r.TCPI <= 1.2 ? 'var(--c-amber)' : 'var(--c-rose)'};">
                   ${r.TCPI.toFixed(2)}
                 </div>
-                <span class="formula-cell-sub">${r.TCPI <= 1 ? 'Factible sin estrés' : 'Requiere aceleración de eficiencia'}</span>
+                <span class="formula-cell-sub">${r.TCPI <= 1 ? t("evm.tcpiFeasible") : t("evm.tcpiAccelerate")}</span>
               </div>
             </div>
           </div>
@@ -9385,8 +9716,8 @@ function renderEVMLabPro(containerEl) {
           <!-- Strategic Advice & PMP Exam Trap -->
           <div class="evm-strategic-decision-card">
             <div class="strategic-card-header">
-              <span class="brand-tag">Criterio Situacional PMP</span>
-              <strong style="font-size: 0.95rem; color: var(--text-primary);">Diagnóstico y Toma de Decisiones</strong>
+              <span class="brand-tag">${t("evm.pmpBadge")}</span>
+              <strong style="font-size: 0.95rem; color: var(--text-primary);">${t("evm.pmpTitle")}</strong>
             </div>
             <p class="strategic-card-text">
               ${r.pmpAdvice}
@@ -9468,6 +9799,7 @@ function renderEVMLabPro(containerEl) {
 
 
 
+
 function renderExamSimulatorPro(containerEl) {
   let examActive = false;
   let examPool = [];
@@ -9515,16 +9847,16 @@ function renderExamSimulatorPro(containerEl) {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Simulador Oficial de Examen PMP / CAPM</h1>
+          <h1>${t("exam.heroTitle")}</h1>
           <p>
-            Banco exhaustivo de preguntas de juicio profesional situacional alineadas estrictamente a los 7 dominios y 6 principios del PMBOK® 8va Edición.
+            ${t("exam.heroText")}
           </p>
         </div>
 
         <div class="hero-stats-row">
           <div class="stat-metric-pill">
             <span class="stat-num" style="color: var(--c-purple);">75%</span>
-            <span class="stat-label">Umbral de Aprobación</span>
+            <span class="stat-label">${t("exam.passThreshold")}</span>
           </div>
         </div>
       </div>
@@ -9533,16 +9865,16 @@ function renderExamSimulatorPro(containerEl) {
         <div class="unit-card-pro">
           <div>
             <div class="unit-card-top">
-              <span class="unit-ref-badge">Modalidad ágil</span>
-              <span class="unit-duration-pill">15 minutos · 10 preguntas</span>
+              <span class="unit-ref-badge">${t("exam.quickBadge")}</span>
+              <span class="unit-duration-pill">${t("exam.durationCount", { minutes: fmtNumber(15), count: fmtNumber(10) })}</span>
             </div>
-            <h3 class="unit-title">Simulacro rápido</h3>
-            <p class="unit-summary">10 preguntas situacionales aleatorias de alta frecuencia. Ideal para una sesión ágil de práctica diaria y calibración de conceptos.</p>
+            <h3 class="unit-title">${t("exam.quickTitle")}</h3>
+            <p class="unit-summary">${t("exam.quickSummary")}</p>
           </div>
           <div class="unit-card-footer">
-            <span class="unit-status-indicator">Todos los dominios</span>
+            <span class="unit-status-indicator">${t("exam.quickStatus")}</span>
             <button class="btn-primary-pro" id="start-sim-10">
-              Iniciar examen ${icons.arrowRight}
+              ${t("exam.startExam")} ${icons.arrowRight}
             </button>
           </div>
         </div>
@@ -9550,16 +9882,16 @@ function renderExamSimulatorPro(containerEl) {
         <div class="unit-card-pro">
           <div>
             <div class="unit-card-top">
-              <span class="unit-ref-badge" style="color: var(--c-teal); background: var(--c-teal-subtle);">Modalidad estándar</span>
-              <span class="unit-duration-pill">30 minutos · 20 preguntas</span>
+              <span class="unit-ref-badge" style="color: var(--c-teal); background: var(--c-teal-subtle);">${t("exam.standardBadge")}</span>
+              <span class="unit-duration-pill">${t("exam.durationCount", { minutes: fmtNumber(30), count: fmtNumber(20) })}</span>
             </div>
-            <h3 class="unit-title">Simulacro estándar</h3>
-            <p class="unit-summary">20 preguntas situacionales equilibradas entre ciclos predictivos, ágiles e híbridos según el Exam Content Outline (ECO).</p>
+            <h3 class="unit-title">${t("exam.standardTitle")}</h3>
+            <p class="unit-summary">${t("exam.standardSummary")}</p>
           </div>
           <div class="unit-card-footer">
-            <span class="unit-status-indicator">Cobertura completa</span>
+            <span class="unit-status-indicator">${t("exam.standardStatus")}</span>
             <button class="btn-teal-pro" id="start-sim-20">
-              Iniciar examen ${icons.arrowRight}
+              ${t("exam.startExam")} ${icons.arrowRight}
             </button>
           </div>
         </div>
@@ -9567,16 +9899,16 @@ function renderExamSimulatorPro(containerEl) {
         <div class="unit-card-pro">
           <div>
             <div class="unit-card-top">
-              <span class="unit-ref-badge" style="color: var(--c-purple); background: var(--c-purple-subtle);">Modalidad extensiva</span>
-              <span class="unit-duration-pill">45 minutos · Banco completo</span>
+              <span class="unit-ref-badge" style="color: var(--c-purple); background: var(--c-purple-subtle);">${t("exam.extensiveBadge")}</span>
+              <span class="unit-duration-pill">${t("exam.durationAll", { minutes: fmtNumber(45) })}</span>
             </div>
-            <h3 class="unit-title">Simulacro extensivo PMP</h3>
-            <p class="unit-summary">Todas las preguntas del banco oficial sin interrupciones para medir tu resistencia mental y concentración bajo presión de tiempo real.</p>
+            <h3 class="unit-title">${t("exam.extensiveTitle")}</h3>
+            <p class="unit-summary">${t("exam.extensiveSummary")}</p>
           </div>
           <div class="unit-card-footer">
-            <span class="unit-status-indicator">Resistencia mental</span>
+            <span class="unit-status-indicator">${t("exam.extensiveStatus")}</span>
             <button class="btn-purple-pro" id="start-sim-all">
-              Iniciar examen ${icons.arrowRight}
+              ${t("exam.startExam")} ${icons.arrowRight}
             </button>
           </div>
         </div>
@@ -9597,7 +9929,7 @@ function renderExamSimulatorPro(containerEl) {
 
     containerEl.innerHTML = `
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 12px;">
-        <button class="action-chip-btn" id="exit-exam-btn">${icons.x} Salir del examen</button>
+        <button class="action-chip-btn" id="exit-exam-btn">${icons.x} ${t("exam.exitExam")}</button>
 
         <div style="display: flex; align-items: center; gap: 14px;">
           <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); padding: 6px 14px; border-radius: var(--radius-s); font-weight: 700; font-family: var(--font-mono); font-size: 0.95rem; display: flex; align-items: center; gap: 6px;">
@@ -9605,7 +9937,7 @@ function renderExamSimulatorPro(containerEl) {
           </div>
 
           <button class="btn-primary-pro" id="submit-exam-btn">
-            Entregar examen (${answeredCount}/${examPool.length})
+            ${t("exam.submit", { answered: fmtNumber(answeredCount), total: fmtNumber(examPool.length) })}
           </button>
         </div>
       </div>
@@ -9643,11 +9975,11 @@ function renderExamSimulatorPro(containerEl) {
       <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 28px; box-shadow: var(--shadow-xs);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px;">
           <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; color: var(--c-blue);">
-            Pregunta ${currentIdx + 1} de ${examPool.length} • ${q.sectionRef}
+            ${t("exam.questionOf", { current: fmtNumber(currentIdx + 1), total: fmtNumber(examPool.length) })} • ${q.sectionRef}
           </span>
           <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 0.8rem; font-weight: 600;">
             <input type="checkbox" id="flag-toggle-check" ${isFlagged ? 'checked' : ''}>
-            ${icons.flag} Marcar para revisión
+            ${icons.flag} ${t("exam.markReview")}
           </label>
         </div>
 
@@ -9667,17 +9999,17 @@ function renderExamSimulatorPro(containerEl) {
 
         <div style="display: flex; justify-content: space-between; margin-top: 24px; padding-top: 18px; border-top: 1px solid var(--border-subtle);">
           <button class="action-chip-btn" id="prev-btn" ${currentIdx === 0 ? 'disabled style="opacity:0.4; pointer-events:none;"' : ''}>
-            ${icons.arrowLeft} Anterior
+            ${icons.arrowLeft} ${t("exam.prev")}
           </button>
           <button class="btn-primary-pro" id="next-btn">
-            ${currentIdx === examPool.length - 1 ? 'Revisar y entregar' : 'Siguiente ' + icons.arrowRight}
+            ${currentIdx === examPool.length - 1 ? t("exam.reviewAndSubmit") : t("exam.next") + ' ' + icons.arrowRight}
           </button>
         </div>
       </div>
     `;
 
     containerEl.querySelector("#exit-exam-btn").onclick = () => {
-      if (confirm("¿Deseas salir del examen? Se descartarán tus respuestas.")) renderHome();
+      if (confirm(t("exam.confirmExit"))) renderHome();
     };
 
     containerEl.querySelector("#submit-exam-btn").onclick = () => finishExam();
@@ -9742,18 +10074,18 @@ function renderExamSimulatorPro(containerEl) {
       <div style="max-width: 800px; margin: 0 auto;">
         <div style="background: var(--bg-surface); border: 1px solid ${passed ? 'var(--c-teal)' : 'var(--c-rose)'}; border-radius: var(--radius-m); padding: 32px; text-align: center; margin-bottom: 24px; box-shadow: var(--shadow-xs);">
           <span style="font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">
-            ${passed ? 'Nivel de Certificación: Competente' : 'Resultado Insuficiente'}
+            ${passed ? t("exam.verdictPass") : t("exam.verdictFail")}
           </span>
           <div style="font-size: 3.5rem; font-weight: 900; font-family: var(--font-mono); letter-spacing: -0.04em; margin: 10px 0; color: ${passed ? 'var(--c-teal)' : 'var(--c-rose)'};">
-            ${percent}%
+            ${fmtNumber(percent)}%
           </div>
           <p style="color: var(--text-secondary); font-size: 0.94rem; max-width: 520px; margin: 0 auto 20px auto;">
-            Has respondido correctamente <strong>${correctCount}</strong> de <strong>${examPool.length}</strong> preguntas. El umbral para aprobar el examen oficial es de 75%.
+            ${t("exam.scoreSummary", { correct: `<strong>${fmtNumber(correctCount)}</strong>`, total: `<strong>${fmtNumber(examPool.length)}</strong>` })}
           </p>
-          <button class="btn-primary-pro" id="retake-exam-pro-btn">Tomar otro simulacro ${icons.arrowRight}</button>
+          <button class="btn-primary-pro" id="retake-exam-pro-btn">${t("exam.retake")} ${icons.arrowRight}</button>
         </div>
 
-        <h3 style="font-size: 1.2rem; font-weight: 800; margin-bottom: 16px;">Revisión Detallada de Respuestas:</h3>
+        <h3 style="font-size: 1.2rem; font-weight: 800; margin-bottom: 16px;">${t("exam.reviewTitle")}</h3>
 
         <div style="display: flex; flex-direction: column; gap: 14px;">
           ${examPool.map((q, i) => {
@@ -9763,22 +10095,22 @@ function renderExamSimulatorPro(containerEl) {
             return `
               <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-left: 4px solid ${isQCorrect ? 'var(--c-teal)' : 'var(--c-rose)'}; border-radius: var(--radius-s); padding: 18px;">
                 <div style="display: flex; justify-content: space-between; font-size: 0.78rem; font-weight: 700; margin-bottom: 6px;">
-                  <span style="font-family: var(--font-mono); color: var(--c-blue);">Pregunta #${i + 1} • ${q.sectionRef}</span>
+                  <span style="font-family: var(--font-mono); color: var(--c-blue);">${t("exam.questionHash", { n: fmtNumber(i + 1) })} • ${q.sectionRef}</span>
                   <span style="color: ${isQCorrect ? 'var(--c-teal)' : 'var(--c-rose)'};">
-                    ${isQCorrect ? 'Correcta' : 'Incorrecta'}
+                    ${isQCorrect ? t("exam.correct") : t("exam.incorrect")}
                   </span>
                 </div>
                 <h4 style="font-size: 0.98rem; font-weight: 700; margin-bottom: 8px;">${q.title}</h4>
                 <div style="font-size: 0.85rem; margin-bottom: 4px;">
-                  <strong>Tu respuesta:</strong> ${userChoice !== undefined ? q.options[userChoice] : '<em>Sin responder</em>'}
+                  <strong>${t("exam.yourAnswer")}</strong> ${userChoice !== undefined ? q.options[userChoice] : `<em>${t("exam.unanswered")}</em>`}
                 </div>
                 ${!isQCorrect ? `
                   <div style="font-size: 0.85rem; color: var(--c-teal); margin-bottom: 6px;">
-                    <strong>Respuesta correcta:</strong> ${q.options[q.answerIndex]}
+                    <strong>${t("exam.correctAnswer")}</strong> ${q.options[q.answerIndex]}
                   </div>
                 ` : ''}
                 <div style="background: var(--bg-surface-subtle); padding: 10px 14px; border-radius: var(--radius-xs); font-size: 0.82rem; line-height: 1.45; color: var(--text-secondary); margin-top: 8px;">
-                  <strong>Fundamento PMBOK 8:</strong> ${q.explanation}
+                  <strong>${t("exam.basis")}</strong> ${q.explanation}
                 </div>
               </div>
             `;
@@ -9797,6 +10129,7 @@ function renderExamSimulatorPro(containerEl) {
 
 
 
+
 function renderFlashcardsPro(containerEl) {
   let activeTab = "flashcards";
   let currentCardIdx = 0;
@@ -9804,24 +10137,26 @@ function renderFlashcardsPro(containerEl) {
   let searchQuery = "";
   let activeCat = "all";
 
+  // "all" is a stable internal key (never equal to a glossary category value),
+  // so filtering stays language-independent; only the visible label is translated.
   const categories = ["all", ...new Set(glossary.map(g => g.category))];
 
   const render = () => {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Glosario y Tarjetas de Memoria Activa</h1>
+          <h1>${t("flash.heroTitle")}</h1>
           <p>
-            Entrena tu retención conceptual con tarjetas interactivas de repetición espaciada o explora el diccionario oficial de terminología del PMBOK® 8va Edición.
+            ${t("flash.heroText")}
           </p>
         </div>
 
         <div style="display: flex; gap: 8px;">
           <button class="action-chip-btn ${activeTab === 'flashcards' ? 'active' : ''}" id="mode-flashcards" style="${activeTab === 'flashcards' ? 'background: var(--c-blue); color: white;' : ''}">
-            Modo Flashcards (${glossary.length})
+            ${t("flash.modeFlashcards", { count: fmtNumber(glossary.length) })}
           </button>
           <button class="action-chip-btn ${activeTab === 'glossary' ? 'active' : ''}" id="mode-glossary" style="${activeTab === 'glossary' ? 'background: var(--c-blue); color: white;' : ''}">
-            Diccionario de Términos
+            ${t("flash.modeGlossary")}
           </button>
         </div>
       </div>
@@ -9855,7 +10190,7 @@ function renderFlashcardsPro(containerEl) {
     area.innerHTML = `
       <div style="max-width: 620px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 20px;">
         <span style="font-family: var(--font-mono); font-size: 0.78rem; font-weight: 700; color: var(--text-tertiary); ">
-          Tarjeta ${currentCardIdx + 1} de ${glossary.length}
+          ${t("flash.cardOf", { current: fmtNumber(currentCardIdx + 1), total: fmtNumber(glossary.length) })}
         </span>
 
         <!-- 3D Card Scene -->
@@ -9870,20 +10205,20 @@ function renderFlashcardsPro(containerEl) {
                 ${card.term}
               </h3>
               <span style="font-size: 0.8rem; color: var(--text-muted);">
-                Haz clic en la tarjeta para voltear
+                ${t("flash.clickToFlip")}
               </span>
             </div>
 
             <!-- Back Face -->
             <div style="position: absolute; width: 100%; height: 100%; -webkit-backface-visibility: hidden; backface-visibility: hidden; background: var(--bg-surface); border: 2px solid var(--c-blue); border-radius: var(--radius-m); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px; box-shadow: var(--shadow-s); transform: rotateY(180deg);">
               <span style="font-size: 0.74rem; font-weight: 700; color: var(--c-blue); margin-bottom: 10px;">
-                Definición Oficial PMBOK® 8
+                ${t("flash.officialDef")}
               </span>
               <p style="font-size: 1.05rem; line-height: 1.55; color: var(--text-primary);">
                 ${card.def}
               </p>
               <span style="font-size: 0.76rem; color: var(--text-muted); margin-top: 16px;">
-                Clic para volver al término
+                ${t("flash.clickToBack")}
               </span>
             </div>
           </div>
@@ -9892,13 +10227,13 @@ function renderFlashcardsPro(containerEl) {
         <!-- Rating Buttons for Spaced Repetition -->
         <div style="display: flex; gap: 10px; margin-top: 8px;">
           <button class="btn-flat-soft-rose" id="fc-btn-hard">
-            Difícil
+            ${t("flash.hard")}
           </button>
           <button class="btn-flat-soft-amber" id="fc-btn-med">
-            Regular
+            ${t("flash.medium")}
           </button>
           <button class="btn-flat-soft-teal" id="fc-btn-easy">
-            Dominado
+            ${t("flash.mastered")}
           </button>
         </div>
       </div>
@@ -9936,14 +10271,14 @@ function renderFlashcardsPro(containerEl) {
       <div style="display: flex; flex-direction: column; gap: 16px;">
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
           <div style="position: relative; width: 340px;">
-            <input type="text" id="gloss-search-input" placeholder="Buscar por término o definición..." value="${searchQuery}" style="width: 100%; padding: 8px 12px 8px 34px; border-radius: var(--radius-s); border: 1px solid var(--border-medium); background: var(--bg-surface); color: var(--text-primary); font-size: 0.82rem; outline: none;">
+            <input type="text" id="gloss-search-input" placeholder="${t("flash.searchPlaceholder")}" value="${searchQuery}" style="width: 100%; padding: 8px 12px 8px 34px; border-radius: var(--radius-s); border: 1px solid var(--border-medium); background: var(--bg-surface); color: var(--text-primary); font-size: 0.82rem; outline: none;">
             <span style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--text-muted); display: flex;">${icons.search}</span>
           </div>
 
           <div style="display: flex; gap: 6px; flex-wrap: wrap;">
             ${categories.map(c => `
               <button class="action-chip-btn ${activeCat === c ? 'active' : ''}" data-cat="${c}" style="${activeCat === c ? 'background: var(--c-blue); color: white;' : ''}">
-                ${c === 'all' ? 'Todos' : c}
+                ${c === 'all' ? t("flash.allCategories") : c}
               </button>
             `).join('')}
           </div>
@@ -9989,6 +10324,7 @@ function renderFlashcardsPro(containerEl) {
   
 
 
+
 function renderAppendicesPro(containerEl) {
   let activeKey = "x3_ai";
 
@@ -9998,24 +10334,24 @@ function renderAppendicesPro(containerEl) {
     containerEl.innerHTML = `
       <div class="pro-hero-header">
         <div class="hero-title-group">
-          <h1>Nuevas Fronteras y Apéndices • PMBOK® 8</h1>
+          <h1>${t("appendices.heroTitle")}</h1>
           <p>
-            Análisis exhaustivo de los 4 apéndices especializados: Inteligencia Artificial en Proyectos (X3), La PMO Moderna (X2), Gestión de Adquisiciones (X4) y Evolución Histórica de la Guía (X5).
+            ${t("appendices.heroDesc")}
           </p>
         </div>
 
         <div style="display: flex; gap: 8px; flex-wrap: wrap;">
           <button class="action-chip-btn ${activeKey === 'x3_ai' ? 'active' : ''}" data-key="x3_ai" style="${activeKey === 'x3_ai' ? 'background: var(--c-blue); color: white;' : ''}">
-            Apéndice X3: IA en Proyectos
+            ${t("appendices.tabX3")}
           </button>
           <button class="action-chip-btn ${activeKey === 'x2_pmo' ? 'active' : ''}" data-key="x2_pmo" style="${activeKey === 'x2_pmo' ? 'background: var(--c-blue); color: white;' : ''}">
-            Apéndice X2: PMO Moderna
+            ${t("appendices.tabX2")}
           </button>
           <button class="action-chip-btn ${activeKey === 'x4_procurement' ? 'active' : ''}" data-key="x4_procurement" style="${activeKey === 'x4_procurement' ? 'background: var(--c-blue); color: white;' : ''}">
-            Apéndice X4: Adquisiciones
+            ${t("appendices.tabX4")}
           </button>
           <button class="action-chip-btn ${activeKey === 'x5_evolution' ? 'active' : ''}" data-key="x5_evolution" style="${activeKey === 'x5_evolution' ? 'background: var(--c-blue); color: white;' : ''}">
-            Apéndice X5: Evolución Histórica
+            ${t("appendices.tabX5")}
           </button>
         </div>
       </div>
@@ -10023,7 +10359,7 @@ function renderAppendicesPro(containerEl) {
       <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-m); padding: 32px; box-shadow: var(--shadow-xs);">
         <div style="margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border-subtle);">
           <span style="font-family: var(--font-mono); font-size: 0.76rem; font-weight: 700; color: var(--c-blue); ">
-            Estudio Especializado Oficial
+            ${t("appendices.officialStudy")}
           </span>
           <h2 style="font-size: 1.65rem; font-weight: 800; letter-spacing: -0.02em; margin: 4px 0 10px 0;">
             ${cur.title}
@@ -10059,6 +10395,7 @@ function renderAppendicesPro(containerEl) {
   
 
 
+
 class OnboardingTour {
   constructor(modalBackdropEl, onNavigateTab) {
     this.modalBackdrop = modalBackdropEl;
@@ -10068,81 +10405,81 @@ class OnboardingTour {
 
     this.steps = [
       {
-        title: "Paso 1: Ruta Maestra de Estudio",
-        badge: "Currículo en 18 Unidades",
+        title: t("tour.step1Title"),
+        badge: t("tour.step1Badge"),
         tabId: "curriculum",
-        lead: "Estás viendo la pantalla principal de estudio dividida en las 3 grandes partes oficiales del libro.",
+        lead: t("tour.step1Lead"),
         details: [
-          "Parte 1: El Estándar para la Dirección de Proyectos (Fundamentos, Sistema de Entrega y los 6 Principios).",
-          "Parte 2: La Guía del PMBOK (Los 7 Dominios de Desempeño, Adaptación y Catálogo de Modelos).",
-          "Parte 3: Apéndices Oficiales (IA en Proyectos, PMO Moderna, Adquisiciones y Evolución Histórica).",
-          "Haz clic en cualquier tarjeta de unidad para desplegar su teoría, trampas de examen PMP y puntos de control."
+          t("tour.step1Detail1"),
+          t("tour.step1Detail2"),
+          t("tour.step1Detail3"),
+          t("tour.step1Detail4")
         ]
       },
       {
-        title: "Paso 2: Matriz de los 40 Procesos",
-        badge: "Modelo Matricial 2D",
+        title: t("tour.step2Title"),
+        badge: t("tour.step2Badge"),
         tabId: "matrix",
-        lead: "Observa la tabla en pantalla: cruza los 7 Dominios de Desempeño (filas) con las 5 Áreas de Enfoque (columnas).",
+        lead: t("tour.step2Lead"),
         details: [
-          "Cada celda contiene los procesos activos de esa intersección (ej. #01 Iniciar Proyecto).",
-          "Haz clic sobre cualquier proceso para ver su ficha técnica completa de Entradas, Herramientas y Salidas (ITTOs).",
-          "Usa los botones superiores para cambiar entre Vista Matriz 2D, Vista por Dominio o el Explorador universal de ITTOs."
+          t("tour.step2Detail1"),
+          t("tour.step2Detail2"),
+          t("tour.step2Detail3")
         ]
       },
       {
-        title: "Paso 3: Presentaciones Oficiales",
-        badge: "18 Decks • 180 Diapositivas",
+        title: t("tour.step3Title"),
+        badge: t("tour.step3Badge"),
         tabId: "presentations",
-        lead: "Aquí dispones de una presentación ejecutiva visual de 10 láminas para cada punto del índice oficial.",
+        lead: t("tour.step3Lead"),
         details: [
-          "18 Decks interactivos en formato 16:9 organizados por Parte 1, Parte 2 y Parte 3.",
-          "Cada diapositiva incluye diagramas de flujo, comparativas de enfoque ágil vs predictivo y alertas PMP.",
-          "Haz clic en 'Ver Presentación' en cualquier tarjeta para abrir el visor con soporte de teclado (flechas ← y →) y notas del orador."
+          t("tour.step3Detail1"),
+          t("tour.step3Detail2"),
+          t("tour.step3Detail3")
         ]
       },
       {
-        title: "Paso 4: Laboratorio de Valor Ganado (EVM)",
-        badge: "Tabla 5-1 de Fórmulas Oficiales",
+        title: t("tour.step4Title"),
+        badge: t("tour.step4Badge"),
         tabId: "evm",
-        lead: "Este es el simulador financiero para dominar las fórmulas matemáticas del examen PMP.",
+        lead: t("tour.step4Lead"),
         details: [
-          "Gráfica interactiva de la Curva S que proyecta en tiempo real PV, EV, AC y el presupuesto BAC.",
-          "Mueve los controles deslizantes a la izquierda para simular situaciones de sobrecosto o retraso.",
-          "Revisa al instante los indicadores CPI, SPI, CV, SV, EAC y el índice de esfuerzo por completar TCPI."
+          t("tour.step4Detail1"),
+          t("tour.step4Detail2"),
+          t("tour.step4Detail3")
         ]
       },
       {
-        title: "Paso 5: Simulador de Examen PMP / CAPM",
-        badge: "Banco de Juicio Situacional",
+        title: t("tour.step5Title"),
+        badge: t("tour.step5Badge"),
         tabId: "simulator",
-        lead: "Entrena con preguntas situacionales reales calibradas al nivel de dificultad del examen oficial.",
+        lead: t("tour.step5Lead"),
         details: [
-          "3 modalidades de práctica: Rápido (10 preguntas), Estándar (20 preguntas) y Extensivo (banco completo).",
-          "Incluye cronómetro regresivo, marcado de preguntas con bandera y revisión detallada.",
-          "Al finalizar, recibirás tu porcentaje de acierto frente al umbral de 75% con citas textuales del PMBOK 8."
+          t("tour.step5Detail1"),
+          t("tour.step5Detail2"),
+          t("tour.step5Detail3")
         ]
       },
       {
-        title: "Paso 6: Flashcards & Glosario",
-        badge: "Memoria Activa & Diccionario",
+        title: t("tour.step6Title"),
+        badge: t("tour.step6Badge"),
         tabId: "flashcards",
-        lead: "Refuerza tu retención conceptual con tarjetas interactivas 3D y búsqueda instantánea.",
+        lead: t("tour.step6Lead"),
         details: [
-          "Modo Flashcards: Haz clic en la tarjeta para voltearla y evaluar tu nivel de dominio (Difícil, Regular, Dominado).",
-          "Modo Diccionario: Búsqueda rápida de cualquier término oficial del glosario filtrado por categoría temática."
+          t("tour.step6Detail1"),
+          t("tour.step6Detail2")
         ]
       },
       {
-        title: "Paso 7: Apéndices Especializados",
-        badge: "Nuevas Fronteras del PMBOK 8",
+        title: t("tour.step7Title"),
+        badge: t("tour.step7Badge"),
         tabId: "appendices",
-        lead: "Análisis exhaustivo de los 4 apéndices modernos que incorporó la 8va edición de la Guía.",
+        lead: t("tour.step7Lead"),
         details: [
-          "Apéndice X3: Inteligencia Artificial en Proyectos (Automatización, Aumento, Autonomía y Gobernanza Ética).",
-          "Apéndice X2: La Oficina de Gestión de Proyectos (PMO) y su transformación en habilitadora de valor (VMO).",
-          "Apéndice X4: Adquisiciones y contratos comerciales (Precio Fijo, Costos Reembolsables y T&M).",
-          "Apéndice X5: Evolución Histórica de la Guía desde su primera edición."
+          t("tour.step7Detail1"),
+          t("tour.step7Detail2"),
+          t("tour.step7Detail3"),
+          t("tour.step7Detail4")
         ]
       }
     ];
@@ -10192,14 +10529,14 @@ class OnboardingTour {
       <div class="tour-companion-header">
         <div style="display: flex; align-items: center; gap: 8px;">
           <span style="font-family: var(--font-mono); font-size: 0.72rem; font-weight: 700; color: var(--c-blue); background: var(--c-blue-subtle); padding: 2px 7px; border-radius: var(--radius-xs);">
-            Paso ${this.currentStep + 1} de ${this.steps.length}
+            ${t("tour.stepCounter", { current: this.currentStep + 1, total: this.steps.length })}
           </span>
           <span style="font-size: 0.76rem; font-weight: 700; color: var(--text-secondary); ">
             ${s.badge}
           </span>
         </div>
 
-        <button class="icon-square-btn" id="tour-dock-close" title="Cerrar guía" style="width: 26px; height: 26px;">
+        <button class="icon-square-btn" id="tour-dock-close" title="${t("tour.closeBtnTitle")}" style="width: 26px; height: 26px;">
           ${icons.x}
         </button>
       </div>
@@ -10215,7 +10552,7 @@ class OnboardingTour {
 
         <div style="background: var(--bg-surface-subtle); border: 1px solid var(--border-subtle); border-radius: var(--radius-s); padding: 12px 14px;">
           <span style="font-size: 0.72rem; font-weight: 700; color: var(--text-tertiary); display: block; margin-bottom: 8px;">
-            Qué estás viendo en esta pantalla:
+            ${t("tour.detailsHeading")}
           </span>
           <ul style="display: flex; flex-direction: column; gap: 7px; padding-left: 14px; font-size: 0.82rem; color: var(--text-primary); line-height: 1.45;">
             ${s.details.map(d => `<li>${d}</li>`).join('')}
@@ -10225,15 +10562,15 @@ class OnboardingTour {
 
       <div class="tour-companion-footer">
         <button class="action-chip-btn" id="tour-dock-skip" style="font-size: 0.76rem; padding: 5px 10px;">
-          Finalizar guía
+          ${t("tour.finishGuideBtn")}
         </button>
 
         <div style="display: flex; gap: 6px;">
           <button class="action-chip-btn" id="tour-dock-prev" ${isFirst ? 'disabled style="opacity: 0.4; pointer-events: none;"' : ''} style="font-size: 0.78rem; padding: 5px 10px;">
-            ${icons.arrowLeft} Anterior
+            ${icons.arrowLeft} ${t("tour.prevBtn")}
           </button>
           <button class="btn-primary-pro" id="tour-dock-next" style="font-size: 0.78rem; padding: 5px 12px;">
-            ${isLast ? '¡Comenzar estudio!' : 'Siguiente ' + icons.arrowRight}
+            ${isLast ? t("tour.startStudyBtn") : t("tour.nextBtn") + ' ' + icons.arrowRight}
           </button>
         </div>
       </div>
@@ -10295,6 +10632,7 @@ class OnboardingTour {
 
 
 
+
 function showSeniorToast(msg) {
   let toast = document.querySelector(".toast-pill-pro");
   if (!toast) {
@@ -10324,6 +10662,13 @@ document.addEventListener("DOMContentLoaded", () => {
   const soundBtn = document.getElementById("sound-toggle-senior-btn");
   const guideBtn = document.getElementById("platform-guide-btn");
   const headerProgBadge = document.getElementById("header-progress-text");
+
+  // Localize static shell text (data-i18n attributes in index.html)
+  document.title = t("shell.docTitle");
+  document.documentElement.lang = LOCALE;
+  document.querySelectorAll("[data-i18n]").forEach(el => { el.textContent = t(el.dataset.i18n); });
+  document.querySelectorAll("[data-i18n-title]").forEach(el => { el.title = t(el.dataset.i18nTitle); });
+  document.querySelectorAll("[data-i18n-aria]").forEach(el => { el.setAttribute("aria-label", t(el.dataset.i18nAria)); });
 
   let currentTab = "curriculum";
 
@@ -10361,7 +10706,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const updateProgressHeader = (done, total) => {
     if (headerProgBadge) {
       const pct = Math.round((done / total) * 100);
-      headerProgBadge.textContent = `${pct}% Dominado`;
+      headerProgBadge.textContent = t("app.progressMastered", { pct });
     }
   };
 
@@ -10407,7 +10752,7 @@ document.addEventListener("DOMContentLoaded", () => {
       document.documentElement.setAttribute("data-theme", savedTheme);
       localStorage.setItem("pmbok8_pro_theme", savedTheme);
       themeBtn.innerHTML = savedTheme === "dark" ? icons.sun : icons.moon;
-      showSeniorToast(`Modo ${savedTheme === 'dark' ? 'Oscuro' : 'Claro'} activado`);
+      showSeniorToast(savedTheme === 'dark' ? t("app.darkModeOn") : t("app.lightModeOn"));
     });
   }
 
@@ -10417,7 +10762,7 @@ document.addEventListener("DOMContentLoaded", () => {
     soundBtn.addEventListener("click", () => {
       const en = audio.toggle();
       soundBtn.innerHTML = en ? icons.volume : icons.volumeX;
-      showSeniorToast(`Audio ${en ? 'activado' : 'silenciado'}`);
+      showSeniorToast(en ? t("app.audioOn") : t("app.audioOff"));
     });
   }
 
